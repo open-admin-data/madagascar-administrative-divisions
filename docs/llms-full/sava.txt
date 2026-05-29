@@ -1,0 +1,345 @@
+# Sava — Madagascar Administrative Divisions
+
+> 4 districts, 79 communes
+> Code: MG72
+> Coordinates: -14.368, 49.775
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Andapa
+
+Code: MG72712, Coordinates: -14.613, 49.497
+Communes: 18
+
+#### Ambalamanasy II
+
+Code: MG72712210, Coordinates: -14.526, 49.559
+
+#### Ambodiangezoka
+
+Code: MG72712230, Coordinates: -14.6, 49.43
+
+#### Ambodimanga I
+
+Code: MG72712090, Coordinates: -14.793, 49.524
+
+#### Andapa
+
+Code: MG72712010, Coordinates: -14.666, 49.653
+
+#### Andrakata
+
+Code: MG72712130, Coordinates: -14.675, 49.732
+
+#### Andranomena
+
+Code: MG72712190, Coordinates: -14.593, 49.542
+
+#### Anjialavabe
+
+Code: MG72712330, Coordinates: -14.208, 49.463
+
+#### Ankiakabe Nord
+
+Code: MG72712050, Coordinates: -14.671, 49.594
+
+#### Anoviara
+
+Code: MG72712290, Coordinates: -14.77, 49.804
+
+#### Antsahamena
+
+Code: MG72712350, Coordinates: -14.938, 49.707
+
+#### Bealampona
+
+Code: MG72712150, Coordinates: -14.694, 49.52
+
+#### Belaoka Lokoho
+
+Code: MG72712270, Coordinates: -14.56, 49.733
+
+#### Belaoka Marovato
+
+Code: MG72712070, Coordinates: -14.613, 49.606
+
+#### Betsakotsako Andranotsara
+
+Code: MG72712250, Coordinates: -14.569, 49.548
+
+#### Doany
+
+Code: MG72712310, Coordinates: -14.349, 49.413
+
+#### Marovato
+
+Code: MG72712110, Coordinates: -14.549, 49.653
+
+#### Matsohely
+
+Code: MG72712170, Coordinates: -14.61, 49.564
+
+#### Tanandava
+
+Code: MG72712030, Coordinates: -14.766, 49.67
+
+### Antalaha
+
+Code: MG72710, Coordinates: -15.259, 50.137
+Communes: 16
+
+#### Ambalabe
+
+Code: MG72710170, Coordinates: -15.19, 50.351
+
+#### Ambinanifaho
+
+Code: MG72710190, Coordinates: -14.639, 50.111
+
+#### Ambohitralanana
+
+Code: MG72710210, Coordinates: -15.362, 50.372
+
+#### Ampahana
+
+Code: MG72710030, Coordinates: -14.717, 50.164
+
+#### Ampanavoana
+
+Code: MG72710272, Coordinates: -15.578, 50.212
+
+#### Ampohibe
+
+Code: MG72710050, Coordinates: -15.059, 50.305
+
+#### Andampy
+
+Code: MG72710152, Coordinates: -14.94, 49.912
+
+#### Antalaha Ambonivohitra
+
+Code: MG72710010, Coordinates: -14.906, 50.25
+
+#### Antananambo
+
+Code: MG72710110, Coordinates: -14.916, 50.074
+
+#### Antombana
+
+Code: MG72710070, Coordinates: -15.007, 50.143
+
+#### Antsahanoro
+
+Code: MG72710090, Coordinates: -14.815, 50.138
+
+#### Antsambalahy
+
+Code: MG72710250, Coordinates: -14.734, 49.948
+
+#### Lanjarivo
+
+Code: MG72710230, Coordinates: -14.608, 50.015
+
+#### Marofinaritra
+
+Code: MG72710130, Coordinates: -15.22, 50.064
+
+#### Sarahandrano
+
+Code: MG72710151, Coordinates: -14.797, 50.032
+
+#### Vinanivao
+
+Code: MG72710271, Coordinates: -15.814, 50.16
+
+### Sambava
+
+Code: MG72711, Coordinates: -14.245, 49.675
+Communes: 26
+
+#### Ambatoafo
+
+Code: MG72711450, Coordinates: -14.176, 49.649
+
+#### Amboangibe
+
+Code: MG72711371, Coordinates: -14.204, 49.744
+
+#### Ambodiampana
+
+Code: MG72711410, Coordinates: -14.536, 49.886
+
+#### Ambodivoara
+
+Code: MG72711130, Coordinates: -14.373, 49.965
+
+#### Ambohimalaza
+
+Code: MG72711059, Coordinates: -14.295, 50.034
+
+#### Ambohimitsinjo
+
+Code: MG72711210, Coordinates: -14.313, 49.909
+
+#### Analamaho
+
+Code: MG72711190, Coordinates: -14.238, 49.926
+
+#### Andrahanjo
+
+Code: MG72711330, Coordinates: -14.347, 49.779
+
+#### Andratamarina
+
+Code: MG72711250, Coordinates: -14.365, 49.892
+
+#### Andrembona
+
+Code: MG72711372, Coordinates: -14.221, 49.786
+
+#### Anjangoveratra
+
+Code: MG72711230, Coordinates: -14.094, 50.032
+
+#### Anjialava
+
+Code: MG72711470, Coordinates: -14.07, 49.7
+
+#### Anjinjaomby
+
+Code: MG72711150, Coordinates: -14.278, 49.973
+
+#### Antindra
+
+Code: MG72711390, Coordinates: -14.075, 49.836
+
+#### Antsahavaribe
+
+Code: MG72711510, Coordinates: -13.994, 49.653
+
+#### Antsambaharo
+
+Code: MG72711310, Coordinates: -14.538, 49.942
+
+#### Bemanevika
+
+Code: MG72711350, Coordinates: -14.117, 50.118
+
+#### Bevonotra
+
+Code: MG72711530, Coordinates: -14.078, 49.403
+
+#### Farahalana
+
+Code: MG72711079, Coordinates: -14.416, 50.134
+
+#### Maroambihy
+
+Code: MG72711430, Coordinates: -14.475, 49.761
+
+#### Marogaona
+
+Code: MG72711270, Coordinates: -14.219, 49.894
+
+#### Marojala
+
+Code: MG72711290, Coordinates: -14.475, 50.043
+
+#### Morafeno
+
+Code: MG72711170, Coordinates: -14.371, 50.046
+
+#### Nosiarina
+
+Code: MG72711090, Coordinates: -14.226, 50.031
+
+#### Sambava Cu
+
+Code: MG72711010, Coordinates: -14.254, 50.132
+
+#### Tanambao Daoud
+
+Code: MG72711490, Coordinates: -13.931, 50.066
+
+### Vohemar
+
+Code: MG72716, Coordinates: -13.453, 49.733
+Communes: 19
+
+#### Ambalasatrana
+
+Code: MG72716130, Coordinates: -13.704, 49.694
+
+#### Ambinanin&#39;andravory
+
+Code: MG72716250, Coordinates: -13.851, 49.739
+
+#### Ambodisambalahy
+
+Code: MG72716232, Coordinates: -13.861, 49.839
+
+#### Amboriala
+
+Code: MG72716270, Coordinates: -13.855, 49.444
+
+#### Ampanefena
+
+Code: MG72716231, Coordinates: -13.864, 49.939
+
+#### Ampisikinana
+
+Code: MG72716330, Coordinates: -12.921, 49.732
+
+#### Ampondra
+
+Code: MG72716030, Coordinates: -13.369, 49.838
+
+#### Andrafainkona
+
+Code: MG72716210, Coordinates: -13.669, 49.522
+
+#### Andravory
+
+Code: MG72716190, Coordinates: -13.848, 49.611
+
+#### Antsirabe Nord
+
+Code: MG72716310, Coordinates: -14.03, 49.961
+
+#### Belambo
+
+Code: MG72716350, Coordinates: -13.978, 49.84
+
+#### Bobakindro
+
+Code: MG72716090, Coordinates: -13.512, 49.543
+
+#### Daraina
+
+Code: MG72716110, Coordinates: -13.266, 49.558
+
+#### Fanambana
+
+Code: MG72716050, Coordinates: -13.594, 49.958
+
+#### Maromokotra Loky
+
+Code: MG72716290, Coordinates: -13.063, 49.551
+
+#### Milanoa
+
+Code: MG72716070, Coordinates: -13.581, 49.713
+
+#### Nosibe
+
+Code: MG72716170, Coordinates: -13.168, 49.803
+
+#### Tsarabaria
+
+Code: MG72716150, Coordinates: -13.752, 49.955
+
+#### Vohemar
+
+Code: MG72716010, Coordinates: -13.374, 50
+

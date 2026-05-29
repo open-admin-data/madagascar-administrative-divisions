@@ -1,0 +1,30 @@
+{
+  "id": "MG43",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Betsiboka",
+    "en": "Betsiboka",
+    "slug": "betsiboka"
+  },
+  "code": {
+    "id": "MG43",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "commune": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.095",
+    "lon": "46.846"
+  },
+  "metadata": {},
+  "source": {}
+}

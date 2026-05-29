@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG51505050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomafana",
+      "en": "Andranomafana",
+      "slug": "andranomafana"
+    },
+    "code": {
+      "id": "MG51505050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "44.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazoabo Sud",
+      "en": "Ankazoabo Sud",
+      "slug": "ankazoabo-sud"
+    },
+    "code": {
+      "id": "MG51505011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.314",
+      "lon": "44.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berenty",
+      "en": "Berenty",
+      "slug": "berenty"
+    },
+    "code": {
+      "id": "MG51505071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "45.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fotivolo",
+      "en": "Fotivolo",
+      "slug": "fotivolo"
+    },
+    "code": {
+      "id": "MG51505012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.442",
+      "lon": "44.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilemby",
+      "en": "Ilemby",
+      "slug": "ilemby"
+    },
+    "code": {
+      "id": "MG51505072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.443",
+      "lon": "44.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tandrano",
+      "en": "Tandrano",
+      "slug": "tandrano"
+    },
+    "code": {
+      "id": "MG51505030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51505",
+      "level": 2,
+      "name": {
+        "local": "Ankazoabo",
+        "en": "Ankazoabo",
+        "slug": "ankazoabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51505",
+        "level": 2,
+        "name": {
+          "local": "Ankazoabo",
+          "en": "Ankazoabo",
+          "slug": "ankazoabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.99",
+      "lon": "44.659"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

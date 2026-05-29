@@ -1,0 +1,30 @@
+{
+  "id": "MG24",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ihorombe",
+    "en": "Ihorombe",
+    "slug": "ihorombe"
+  },
+  "code": {
+    "id": "MG24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.634",
+    "lon": "46.085"
+  },
+  "metadata": {},
+  "source": {}
+}

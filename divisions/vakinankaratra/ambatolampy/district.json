@@ -1,0 +1,47 @@
+{
+  "id": "MG12110",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambatolampy",
+    "en": "Ambatolampy",
+    "slug": "ambatolampy"
+  },
+  "code": {
+    "id": "MG12110",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG12",
+    "level": 1,
+    "name": {
+      "local": "Vakinankaratra",
+      "en": "Vakinankaratra",
+      "slug": "vakinankaratra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG12",
+      "level": 1,
+      "name": {
+        "local": "Vakinankaratra",
+        "en": "Vakinankaratra",
+        "slug": "vakinankaratra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.422",
+    "lon": "47.54"
+  },
+  "metadata": {},
+  "source": {}
+}

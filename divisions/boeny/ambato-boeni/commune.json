@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MG41405019",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambato Ambarimay",
+      "en": "Ambato Ambarimay",
+      "slug": "ambato-ambarimay"
+    },
+    "code": {
+      "id": "MG41405019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.542",
+      "lon": "46.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambondromamy",
+      "en": "Ambondromamy",
+      "slug": "ambondromamy"
+    },
+    "code": {
+      "id": "MG41405112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.374",
+      "lon": "47.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranofasika",
+      "en": "Andranofasika",
+      "slug": "andranofasika"
+    },
+    "code": {
+      "id": "MG41405052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.383",
+      "lon": "46.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomamy",
+      "en": "Andranomamy",
+      "slug": "andranomamy"
+    },
+    "code": {
+      "id": "MG41405150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.577",
+      "lon": "47.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjiajia",
+      "en": "Anjiajia",
+      "slug": "anjiajia"
+    },
+    "code": {
+      "id": "MG41405090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.489",
+      "lon": "46.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankijabe",
+      "en": "Ankijabe",
+      "slug": "ankijabe"
+    },
+    "code": {
+      "id": "MG41405051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.411",
+      "lon": "46.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankirihitra",
+      "en": "Ankirihitra",
+      "slug": "ankirihitra"
+    },
+    "code": {
+      "id": "MG41405130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.928",
+      "lon": "46.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madirovalo",
+      "en": "Madirovalo",
+      "slug": "madirovalo"
+    },
+    "code": {
+      "id": "MG41405070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.513",
+      "lon": "46.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manerinerina",
+      "en": "Manerinerina",
+      "slug": "manerinerina"
+    },
+    "code": {
+      "id": "MG41405170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.289",
+      "lon": "47.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sitampiky",
+      "en": "Sitampiky",
+      "slug": "sitampiky"
+    },
+    "code": {
+      "id": "MG41405190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.848",
+      "lon": "46.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41405111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaramandroso",
+      "en": "Tsaramandroso",
+      "slug": "tsaramandroso"
+    },
+    "code": {
+      "id": "MG41405111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41405",
+      "level": 2,
+      "name": {
+        "local": "Ambato Boeni",
+        "en": "Ambato Boeni",
+        "slug": "ambato-boeni"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41405",
+        "level": 2,
+        "name": {
+          "local": "Ambato Boeni",
+          "en": "Ambato Boeni",
+          "slug": "ambato-boeni"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.368",
+      "lon": "47.057"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

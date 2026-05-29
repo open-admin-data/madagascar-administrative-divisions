@@ -1,0 +1,47 @@
+{
+  "id": "MG11117",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antananarivo Atsimondrano",
+    "en": "Antananarivo Atsimondrano",
+    "slug": "antananarivo-atsimondrano"
+  },
+  "code": {
+    "id": "MG11117",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.01",
+    "lon": "47.52"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "MG13105",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arivonimamo",
+      "en": "Arivonimamo",
+      "slug": "arivonimamo"
+    },
+    "code": {
+      "id": "MG13105",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13",
+      "level": 1,
+      "name": {
+        "local": "Itasy",
+        "en": "Itasy",
+        "slug": "itasy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.045",
+      "lon": "47.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miarinarivo",
+      "en": "Miarinarivo",
+      "slug": "miarinarivo"
+    },
+    "code": {
+      "id": "MG13112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13",
+      "level": 1,
+      "name": {
+        "local": "Itasy",
+        "en": "Itasy",
+        "slug": "itasy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.928",
+      "lon": "46.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soavinandriana",
+      "en": "Soavinandriana",
+      "slug": "soavinandriana"
+    },
+    "code": {
+      "id": "MG13113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13",
+      "level": 1,
+      "name": {
+        "local": "Itasy",
+        "en": "Itasy",
+        "slug": "itasy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.219",
+      "lon": "46.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

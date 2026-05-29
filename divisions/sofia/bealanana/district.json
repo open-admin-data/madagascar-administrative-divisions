@@ -1,0 +1,47 @@
+{
+  "id": "MG42414",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bealanana",
+    "en": "Bealanana",
+    "slug": "bealanana"
+  },
+  "code": {
+    "id": "MG42414",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.561",
+    "lon": "48.883"
+  },
+  "metadata": {},
+  "source": {}
+}

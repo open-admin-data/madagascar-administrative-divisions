@@ -1,0 +1,291 @@
+# Analanjirofo — Madagascar Administrative Divisions
+
+> 6 districts, 63 communes
+> Code: MG32
+> Coordinates: -16.316, 49.368
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Fenerive Est
+
+Code: MG32305, Coordinates: -17.25, 49.153
+Communes: 12
+
+#### Ambatoharanana
+
+Code: MG32305090, Coordinates: -19.619, 48.161
+
+#### Ambodimanga II
+
+Code: MG32305030, Coordinates: -17.362, 49.374
+
+#### Ampasimbe Manantsatrana
+
+Code: MG32305150, Coordinates: -17.097, 49.43
+
+#### Ampasina Maningory
+
+Code: MG32305070, Coordinates: -17.217, 49.402
+
+#### Antsiatsiaka
+
+Code: MG32305210, Coordinates: -16.042, 49.103
+
+#### Fenerive Est
+
+Code: MG32305010, Coordinates: -17.391, 49.418
+
+#### Mahambo
+
+Code: MG32305050, Coordinates: -17.531, 49.386
+
+#### Mahanoro
+
+Code: MG32305238, Coordinates: -17.362, 49.303
+
+#### Miorimivalana
+
+Code: MG32305170, Coordinates: -17.124, 49.124
+
+#### Saranambana
+
+Code: MG32305130, Coordinates: -17.101, 49.018
+
+#### Vohilengo
+
+Code: MG32305110, Coordinates: -17.294, 49.233
+
+#### Vohipeno
+
+Code: MG32305190, Coordinates: -17.136, 49.251
+
+### Mananara-Avaratra
+
+Code: MG32304, Coordinates: -16.235, 49.499
+Communes: 14
+
+#### Ambatoharanana
+
+Code: MG32304093, Coordinates: -19.619, 48.161
+
+#### Ambodiampana
+
+Code: MG32304070, Coordinates: -14.536, 49.886
+
+#### Ambodivoanio
+
+Code: MG32304012, Coordinates: -16.187, 49.584
+
+#### Andasibe I
+
+Code: MG32304152, Coordinates: -16.08, 49.38
+
+#### Antanambaobe
+
+Code: MG32304031, Coordinates: -16.258, 49.605
+
+#### Antanambe
+
+Code: MG32304110, Coordinates: -16.457, 49.722
+
+#### Antanananivo
+
+Code: MG32304032, Coordinates: -16.301, 49.714
+
+#### Imorona
+
+Code: MG32304013, Coordinates: -16.238, 49.804
+
+#### Manambolosy
+
+Code: MG32304050, Coordinates: -16, 49.616
+
+#### Mananara Avaratra
+
+Code: MG32304011, Coordinates: -16.191, 49.737
+
+#### Sandrakatsy
+
+Code: MG32304091, Coordinates: -16.304, 49.548
+
+#### Saromaona
+
+Code: MG32304130, Coordinates: -16.124, 49.313
+
+#### Tanibe
+
+Code: MG32304092, Coordinates: -16.397, 49.373
+
+#### Vanono
+
+Code: MG32304151, Coordinates: -15.96, 49.348
+
+### Maroantsetra
+
+Code: MG32303, Coordinates: -15.369, 49.534
+Communes: 18
+
+#### Ambanizana
+
+Code: MG32303112, Coordinates: -15.592, 49.984
+
+#### Ambinanitelo
+
+Code: MG32303090, Coordinates: -15.117, 49.518
+
+#### Ambodimanga Rantabe
+
+Code: MG32303154, Coordinates: -15.576, 49.399
+
+#### Anandrivola
+
+Code: MG32303155, Coordinates: -15.816, 49.608
+
+#### Andranofotsy
+
+Code: MG32303051, Coordinates: -15.391, 49.796
+
+#### Androndrono
+
+Code: MG32303153, Coordinates: -15.699, 49.24
+
+#### Anjahana
+
+Code: MG32303111, Coordinates: -15.349, 49.877
+
+#### Anjanazana
+
+Code: MG32303031, Coordinates: -15.411, 49.723
+
+#### Ankofa
+
+Code: MG32303070, Coordinates: -15.404, 49.633
+
+#### Ankofabe
+
+Code: MG32303132, Coordinates: -15.485, 49.614
+
+#### Antakotako
+
+Code: MG32303052, Coordinates: -15.22, 49.794
+
+#### Antsirabe Sahatany
+
+Code: MG32303133, Coordinates: -15.366, 49.317
+
+#### Mahalevona
+
+Code: MG32303113, Coordinates: -15.408, 49.961
+
+#### Manambolo
+
+Code: MG32303032, Coordinates: -15.128, 49.659
+
+#### Maroantsetra
+
+Code: MG32303010, Coordinates: -15.431, 49.712
+
+#### Morafeno
+
+Code: MG32303152, Coordinates: -14.371, 50.046
+
+#### Rantabe
+
+Code: MG32303151, Coordinates: -15.694, 49.618
+
+#### Voloina
+
+Code: MG32303131, Coordinates: -15.568, 49.516
+
+### Sainte Marie
+
+Code: MG32302, Coordinates: -16.911, 49.911
+Communes: 1
+
+#### Sainte Marie
+
+Code: MG32302019, Coordinates: -16.911, 49.911
+
+### Soanierana Ivongo
+
+Code: MG32318, Coordinates: -16.67, 49.328
+Communes: 8
+
+#### Ambahoabe
+
+Code: MG32318090, Coordinates: -16.709, 49.435
+
+#### Ambodiampana
+
+Code: MG32318050, Coordinates: -14.536, 49.886
+
+#### Andapafito
+
+Code: MG32318070, Coordinates: -16.829, 49.136
+
+#### Antanifotsy
+
+Code: MG32318030, Coordinates: -16.832, 49.694
+
+#### Antenina
+
+Code: MG32318130, Coordinates: -16.491, 49.201
+
+#### Fotsialanana
+
+Code: MG32318012, Coordinates: -16.895, 49.481
+
+#### Manompana
+
+Code: MG32318110, Coordinates: -16.711, 49.674
+
+#### Soanierana Ivongo
+
+Code: MG32318011, Coordinates: -16.97, 49.517
+
+### Vavatenina
+
+Code: MG32315, Coordinates: -17.472, 49.006
+Communes: 10
+
+#### Ambatoharanana
+
+Code: MG32315092, Coordinates: -19.619, 48.161
+
+#### Ambodimangavalo
+
+Code: MG32315170, Coordinates: -17.585, 48.843
+
+#### Ambohibe
+
+Code: MG32315050, Coordinates: -17.525, 49.046
+
+#### Ampasimazava
+
+Code: MG32315070, Coordinates: -17.401, 49.295
+
+#### Andasibe
+
+Code: MG32315110, Coordinates: -17.695, 46.318
+
+#### Anjahambe
+
+Code: MG32315091, Coordinates: -17.363, 49.126
+
+#### Maromitety
+
+Code: MG32315030, Coordinates: -17.479, 49.274
+
+#### Miarinarivo
+
+Code: MG32315130, Coordinates: -16.665, 48.129
+
+#### Sahatavy
+
+Code: MG32315150, Coordinates: -17.441, 48.925
+
+#### Vavatenina
+
+Code: MG32315010, Coordinates: -17.492, 49.174
+

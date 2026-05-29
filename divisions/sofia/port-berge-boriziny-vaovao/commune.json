@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MG42409031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambanjabe",
+      "en": "Ambanjabe",
+      "slug": "ambanjabe"
+    },
+    "code": {
+      "id": "MG42409031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.615",
+      "lon": "47.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimahabibo",
+      "en": "Ambodimahabibo",
+      "slug": "ambodimahabibo"
+    },
+    "code": {
+      "id": "MG42409171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.75",
+      "lon": "48.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodisakoana",
+      "en": "Ambodisakoana",
+      "slug": "ambodisakoana"
+    },
+    "code": {
+      "id": "MG42409112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.438",
+      "lon": "47.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodivongo",
+      "en": "Ambodivongo",
+      "slug": "ambodivongo"
+    },
+    "code": {
+      "id": "MG42409172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.644",
+      "lon": "48.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparihy",
+      "en": "Amparihy",
+      "slug": "amparihy"
+    },
+    "code": {
+      "id": "MG42409092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.787",
+      "lon": "47.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomeva",
+      "en": "Andranomeva",
+      "slug": "andranomeva"
+    },
+    "code": {
+      "id": "MG42409091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.857",
+      "lon": "47.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leanja",
+      "en": "Leanja",
+      "slug": "leanja"
+    },
+    "code": {
+      "id": "MG42409111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.548",
+      "lon": "47.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maevaranohely",
+      "en": "Maevaranohely",
+      "slug": "maevaranohely"
+    },
+    "code": {
+      "id": "MG42409132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.865",
+      "lon": "47.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato",
+      "en": "Marovato",
+      "slug": "marovato"
+    },
+    "code": {
+      "id": "MG42409150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.549",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Port Berge",
+      "en": "Port Berge",
+      "slug": "port-berge"
+    },
+    "code": {
+      "id": "MG42409010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.577",
+      "lon": "47.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Port Berge II",
+      "en": "Port Berge II",
+      "slug": "port-berge-ii"
+    },
+    "code": {
+      "id": "MG42409190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.566",
+      "lon": "47.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarahasina",
+      "en": "Tsarahasina",
+      "slug": "tsarahasina"
+    },
+    "code": {
+      "id": "MG42409050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.787",
+      "lon": "47.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaratanana I",
+      "en": "Tsaratanana I",
+      "slug": "tsaratanana-i"
+    },
+    "code": {
+      "id": "MG42409032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.655",
+      "lon": "47.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiningia",
+      "en": "Tsiningia",
+      "slug": "tsiningia"
+    },
+    "code": {
+      "id": "MG42409070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.607",
+      "lon": "47.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinjomitondraka",
+      "en": "Tsinjomitondraka",
+      "slug": "tsinjomitondraka"
+    },
+    "code": {
+      "id": "MG42409131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42409",
+      "level": 2,
+      "name": {
+        "local": "Port-Berge (Boriziny-Vaovao)",
+        "en": "Port-Berge (Boriziny-Vaovao)",
+        "slug": "port-berge-boriziny-vaovao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42409",
+        "level": 2,
+        "name": {
+          "local": "Port-Berge (Boriziny-Vaovao)",
+          "en": "Port-Berge (Boriziny-Vaovao)",
+          "slug": "port-berge-boriziny-vaovao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.641",
+      "lon": "47.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MG23206130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanga Du Sud",
+      "en": "Ambohimanga Du Sud",
+      "slug": "ambohimanga-du-sud"
+    },
+    "code": {
+      "id": "MG23206130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.868",
+      "lon": "47.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimiera",
+      "en": "Ambohimiera",
+      "slug": "ambohimiera"
+    },
+    "code": {
+      "id": "MG23206090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.029",
+      "lon": "47.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analampasina",
+      "en": "Analampasina",
+      "slug": "analampasina"
+    },
+    "code": {
+      "id": "MG23206150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.83",
+      "lon": "47.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androrangavola",
+      "en": "Androrangavola",
+      "slug": "androrangavola"
+    },
+    "code": {
+      "id": "MG23206071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.111",
+      "lon": "47.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaretra",
+      "en": "Antaretra",
+      "slug": "antaretra"
+    },
+    "code": {
+      "id": "MG23206012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.06",
+      "lon": "47.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsindra",
+      "en": "Antsindra",
+      "slug": "antsindra"
+    },
+    "code": {
+      "id": "MG23206110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.965",
+      "lon": "47.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fasintsara",
+      "en": "Fasintsara",
+      "slug": "fasintsara"
+    },
+    "code": {
+      "id": "MG23206170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.677",
+      "lon": "47.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifanadiana",
+      "en": "Ifanadiana",
+      "slug": "ifanadiana"
+    },
+    "code": {
+      "id": "MG23206011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.368",
+      "lon": "47.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kelilalina",
+      "en": "Kelilalina",
+      "slug": "kelilalina"
+    },
+    "code": {
+      "id": "MG23206052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.297",
+      "lon": "47.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroharatra",
+      "en": "Maroharatra",
+      "slug": "maroharatra"
+    },
+    "code": {
+      "id": "MG23206190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.707",
+      "lon": "47.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotoko",
+      "en": "Marotoko",
+      "slug": "marotoko"
+    },
+    "code": {
+      "id": "MG23206072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.586",
+      "lon": "47.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranomafana",
+      "en": "Ranomafana",
+      "slug": "ranomafana"
+    },
+    "code": {
+      "id": "MG23206051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.5",
+      "lon": "46.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23206030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaratanana",
+      "en": "Tsaratanana",
+      "slug": "tsaratanana"
+    },
+    "code": {
+      "id": "MG23206030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23206",
+      "level": 2,
+      "name": {
+        "local": "Ifanadiana",
+        "en": "Ifanadiana",
+        "slug": "ifanadiana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23206",
+        "level": 2,
+        "name": {
+          "local": "Ifanadiana",
+          "en": "Ifanadiana",
+          "slug": "ifanadiana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.842",
+      "lon": "47.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

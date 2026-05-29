@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MG24221050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Begogo",
+      "en": "Begogo",
+      "slug": "begogo"
+    },
+    "code": {
+      "id": "MG24221050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24221",
+      "level": 2,
+      "name": {
+        "local": "Iakora",
+        "en": "Iakora",
+        "slug": "iakora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24221",
+        "level": 2,
+        "name": {
+          "local": "Iakora",
+          "en": "Iakora",
+          "slug": "iakora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.426",
+      "lon": "46.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24221010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iakora",
+      "en": "Iakora",
+      "slug": "iakora"
+    },
+    "code": {
+      "id": "MG24221010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24221",
+      "level": 2,
+      "name": {
+        "local": "Iakora",
+        "en": "Iakora",
+        "slug": "iakora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24221",
+        "level": 2,
+        "name": {
+          "local": "Iakora",
+          "en": "Iakora",
+          "slug": "iakora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.073",
+      "lon": "46.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24221030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranotsara Nord",
+      "en": "Ranotsara Nord",
+      "slug": "ranotsara-nord"
+    },
+    "code": {
+      "id": "MG24221030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24221",
+      "level": 2,
+      "name": {
+        "local": "Iakora",
+        "en": "Iakora",
+        "slug": "iakora"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24221",
+        "level": 2,
+        "name": {
+          "local": "Iakora",
+          "en": "Iakora",
+          "slug": "iakora"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.796",
+      "lon": "46.69"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

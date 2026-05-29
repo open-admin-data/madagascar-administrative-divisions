@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MG54509092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambia",
+      "en": "Ambia",
+      "slug": "ambia"
+    },
+    "code": {
+      "id": "MG54509092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.736",
+      "lon": "45.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanihy",
+      "en": "Ampanihy",
+      "slug": "ampanihy"
+    },
+    "code": {
+      "id": "MG54509070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.469",
+      "lon": "45.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analamitsivalana",
+      "en": "Analamitsivalana",
+      "slug": "analamitsivalana"
+    },
+    "code": {
+      "id": "MG54509051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.31",
+      "lon": "44.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankilivalo",
+      "en": "Ankilivalo",
+      "slug": "ankilivalo"
+    },
+    "code": {
+      "id": "MG54509030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.274",
+      "lon": "44.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankilizato",
+      "en": "Ankilizato",
+      "slug": "ankilizato"
+    },
+    "code": {
+      "id": "MG54509091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.424",
+      "lon": "45.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befotaka",
+      "en": "Befotaka",
+      "slug": "befotaka"
+    },
+    "code": {
+      "id": "MG54509052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.241",
+      "lon": "44.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beronono",
+      "en": "Beronono",
+      "slug": "beronono"
+    },
+    "code": {
+      "id": "MG54509150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.982",
+      "lon": "45.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabo",
+      "en": "Mahabo",
+      "slug": "mahabo"
+    },
+    "code": {
+      "id": "MG54509010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.368",
+      "lon": "44.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malaimbandy",
+      "en": "Malaimbandy",
+      "slug": "malaimbandy"
+    },
+    "code": {
+      "id": "MG54509130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.427",
+      "lon": "45.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandabe",
+      "en": "Mandabe",
+      "slug": "mandabe"
+    },
+    "code": {
+      "id": "MG54509110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.015",
+      "lon": "44.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mazavasoa",
+      "en": "Mazavasoa",
+      "slug": "mazavasoa"
+    },
+    "code": {
+      "id": "MG54509170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54509",
+      "level": 2,
+      "name": {
+        "local": "Mahabo",
+        "en": "Mahabo",
+        "slug": "mahabo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54509",
+        "level": 2,
+        "name": {
+          "local": "Mahabo",
+          "en": "Mahabo",
+          "slug": "mahabo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.833",
+      "lon": "45.58"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

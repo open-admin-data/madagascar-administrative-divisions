@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MG51521032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavato",
+      "en": "Ambalavato",
+      "slug": "ambalavato"
+    },
+    "code": {
+      "id": "MG51521032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51521",
+      "level": 2,
+      "name": {
+        "local": "Benenitra",
+        "en": "Benenitra",
+        "slug": "benenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51521",
+        "level": 2,
+        "name": {
+          "local": "Benenitra",
+          "en": "Benenitra",
+          "slug": "benenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.575",
+      "lon": "45.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51521010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benenitra",
+      "en": "Benenitra",
+      "slug": "benenitra"
+    },
+    "code": {
+      "id": "MG51521010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51521",
+      "level": 2,
+      "name": {
+        "local": "Benenitra",
+        "en": "Benenitra",
+        "slug": "benenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51521",
+        "level": 2,
+        "name": {
+          "local": "Benenitra",
+          "en": "Benenitra",
+          "slug": "benenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.267",
+      "lon": "45.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51521050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ehara",
+      "en": "Ehara",
+      "slug": "ehara"
+    },
+    "code": {
+      "id": "MG51521050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51521",
+      "level": 2,
+      "name": {
+        "local": "Benenitra",
+        "en": "Benenitra",
+        "slug": "benenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51521",
+        "level": 2,
+        "name": {
+          "local": "Benenitra",
+          "en": "Benenitra",
+          "slug": "benenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.272",
+      "lon": "44.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51521031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ianapera",
+      "en": "Ianapera",
+      "slug": "ianapera"
+    },
+    "code": {
+      "id": "MG51521031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51521",
+      "level": 2,
+      "name": {
+        "local": "Benenitra",
+        "en": "Benenitra",
+        "slug": "benenitra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51521",
+        "level": 2,
+        "name": {
+          "local": "Benenitra",
+          "en": "Benenitra",
+          "slug": "benenitra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.676",
+      "lon": "45.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

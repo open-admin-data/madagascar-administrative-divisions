@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MG12116130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohiborona",
+      "en": "Ambohiborona",
+      "slug": "ambohiborona"
+    },
+    "code": {
+      "id": "MG12116130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.401",
+      "lon": "47.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomiady",
+      "en": "Andranomiady",
+      "slug": "andranomiady"
+    },
+    "code": {
+      "id": "MG12116090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.237",
+      "lon": "46.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsampanimahazo",
+      "en": "Antsampanimahazo",
+      "slug": "antsampanimahazo"
+    },
+    "code": {
+      "id": "MG12116030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.432",
+      "lon": "47.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faratsiho",
+      "en": "Faratsiho",
+      "slug": "faratsiho"
+    },
+    "code": {
+      "id": "MG12116010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.358",
+      "lon": "46.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Faravohitra",
+      "en": "Faravohitra",
+      "slug": "faravohitra"
+    },
+    "code": {
+      "id": "MG12116050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.481",
+      "lon": "47.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miandrarivo",
+      "en": "Miandrarivo",
+      "slug": "miandrarivo"
+    },
+    "code": {
+      "id": "MG12116150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.927",
+      "lon": "45.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ramainandro",
+      "en": "Ramainandro",
+      "slug": "ramainandro"
+    },
+    "code": {
+      "id": "MG12116070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.309",
+      "lon": "46.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Valabetokana",
+      "en": "Valabetokana",
+      "slug": "valabetokana"
+    },
+    "code": {
+      "id": "MG12116170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.347",
+      "lon": "46.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12116110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinaninony Atsimo",
+      "en": "Vinaninony Atsimo",
+      "slug": "vinaninony-atsimo"
+    },
+    "code": {
+      "id": "MG12116110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12116",
+      "level": 2,
+      "name": {
+        "local": "Faratsiho",
+        "en": "Faratsiho",
+        "slug": "faratsiho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12116",
+        "level": 2,
+        "name": {
+          "local": "Faratsiho",
+          "en": "Faratsiho",
+          "slug": "faratsiho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.56",
+      "lon": "46.955"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

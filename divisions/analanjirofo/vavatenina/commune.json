@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MG32315092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoharanana",
+      "en": "Ambatoharanana",
+      "slug": "ambatoharanana"
+    },
+    "code": {
+      "id": "MG32315092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.619",
+      "lon": "48.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimangavalo",
+      "en": "Ambodimangavalo",
+      "slug": "ambodimangavalo"
+    },
+    "code": {
+      "id": "MG32315170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.585",
+      "lon": "48.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohibe",
+      "en": "Ambohibe",
+      "slug": "ambohibe"
+    },
+    "code": {
+      "id": "MG32315050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.525",
+      "lon": "49.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimazava",
+      "en": "Ampasimazava",
+      "slug": "ampasimazava"
+    },
+    "code": {
+      "id": "MG32315070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.401",
+      "lon": "49.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andasibe",
+      "en": "Andasibe",
+      "slug": "andasibe"
+    },
+    "code": {
+      "id": "MG32315110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.695",
+      "lon": "46.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjahambe",
+      "en": "Anjahambe",
+      "slug": "anjahambe"
+    },
+    "code": {
+      "id": "MG32315091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.363",
+      "lon": "49.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromitety",
+      "en": "Maromitety",
+      "slug": "maromitety"
+    },
+    "code": {
+      "id": "MG32315030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.479",
+      "lon": "49.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinarivo",
+      "en": "Miarinarivo",
+      "slug": "miarinarivo"
+    },
+    "code": {
+      "id": "MG32315130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.665",
+      "lon": "48.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahatavy",
+      "en": "Sahatavy",
+      "slug": "sahatavy"
+    },
+    "code": {
+      "id": "MG32315150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.441",
+      "lon": "48.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vavatenina",
+      "en": "Vavatenina",
+      "slug": "vavatenina"
+    },
+    "code": {
+      "id": "MG32315010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32315",
+      "level": 2,
+      "name": {
+        "local": "Vavatenina",
+        "en": "Vavatenina",
+        "slug": "vavatenina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32315",
+        "level": 2,
+        "name": {
+          "local": "Vavatenina",
+          "en": "Vavatenina",
+          "slug": "vavatenina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.492",
+      "lon": "49.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

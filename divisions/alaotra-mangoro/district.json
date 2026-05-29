@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MG33313",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambatondrazaka",
+      "en": "Ambatondrazaka",
+      "slug": "ambatondrazaka"
+    },
+    "code": {
+      "id": "MG33313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.866",
+      "lon": "48.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33312",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amparafaravola",
+      "en": "Amparafaravola",
+      "slug": "amparafaravola"
+    },
+    "code": {
+      "id": "MG33312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.461",
+      "lon": "48.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andilamena",
+      "en": "Andilamena",
+      "slug": "andilamena"
+    },
+    "code": {
+      "id": "MG33316",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.737",
+      "lon": "48.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33317",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anosibe-An'ala",
+      "en": "Anosibe-An'ala",
+      "slug": "anosibe-anala"
+    },
+    "code": {
+      "id": "MG33317",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.502",
+      "lon": "48.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moramanga",
+      "en": "Moramanga",
+      "slug": "moramanga"
+    },
+    "code": {
+      "id": "MG33314",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.729",
+      "lon": "48.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

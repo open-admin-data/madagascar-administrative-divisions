@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MG44422030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andramy",
+      "en": "Andramy",
+      "slug": "andramy"
+    },
+    "code": {
+      "id": "MG44422030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44422",
+      "level": 2,
+      "name": {
+        "local": "Morafenobe",
+        "en": "Morafenobe",
+        "slug": "morafenobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44422",
+        "level": 2,
+        "name": {
+          "local": "Morafenobe",
+          "en": "Morafenobe",
+          "slug": "morafenobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.012",
+      "lon": "44.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44422050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beravina",
+      "en": "Beravina",
+      "slug": "beravina"
+    },
+    "code": {
+      "id": "MG44422050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44422",
+      "level": 2,
+      "name": {
+        "local": "Morafenobe",
+        "en": "Morafenobe",
+        "slug": "morafenobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44422",
+        "level": 2,
+        "name": {
+          "local": "Morafenobe",
+          "en": "Morafenobe",
+          "slug": "morafenobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.107",
+      "lon": "45.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44422010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafenobe",
+      "en": "Morafenobe",
+      "slug": "morafenobe"
+    },
+    "code": {
+      "id": "MG44422010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44422",
+      "level": 2,
+      "name": {
+        "local": "Morafenobe",
+        "en": "Morafenobe",
+        "slug": "morafenobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44422",
+        "level": 2,
+        "name": {
+          "local": "Morafenobe",
+          "en": "Morafenobe",
+          "slug": "morafenobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.764",
+      "lon": "44.933"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

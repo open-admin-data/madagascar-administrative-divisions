@@ -1,0 +1,47 @@
+{
+  "id": "MG11107",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Anjozorobe",
+    "en": "Anjozorobe",
+    "slug": "anjozorobe"
+  },
+  "code": {
+    "id": "MG11107",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.198",
+    "lon": "47.724"
+  },
+  "metadata": {},
+  "source": {}
+}

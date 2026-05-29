@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG43408170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambakireny",
+      "en": "Ambakireny",
+      "slug": "ambakireny"
+    },
+    "code": {
+      "id": "MG43408170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.613",
+      "lon": "47.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampandrana",
+      "en": "Ampandrana",
+      "slug": "ampandrana"
+    },
+    "code": {
+      "id": "MG43408130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.344",
+      "lon": "47.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andriamena",
+      "en": "Andriamena",
+      "slug": "andriamena"
+    },
+    "code": {
+      "id": "MG43408150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.28",
+      "lon": "47.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekapaika",
+      "en": "Bekapaika",
+      "slug": "bekapaika"
+    },
+    "code": {
+      "id": "MG43408030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.811",
+      "lon": "47.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betrandraka",
+      "en": "Betrandraka",
+      "slug": "betrandraka"
+    },
+    "code": {
+      "id": "MG43408070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.021",
+      "lon": "47.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Brieville",
+      "en": "Brieville",
+      "slug": "brieville"
+    },
+    "code": {
+      "id": "MG43408190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.591",
+      "lon": "47.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Keliloha",
+      "en": "Keliloha",
+      "slug": "keliloha"
+    },
+    "code": {
+      "id": "MG43408090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.251",
+      "lon": "47.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakana",
+      "en": "Manakana",
+      "slug": "manakana"
+    },
+    "code": {
+      "id": "MG43408230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.768",
+      "lon": "47.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakoamadinika",
+      "en": "Sakoamadinika",
+      "slug": "sakoamadinika"
+    },
+    "code": {
+      "id": "MG43408210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.203",
+      "lon": "47.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarobaratra",
+      "en": "Sarobaratra",
+      "slug": "sarobaratra"
+    },
+    "code": {
+      "id": "MG43408110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.567",
+      "lon": "47.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsararova",
+      "en": "Tsararova",
+      "slug": "tsararova"
+    },
+    "code": {
+      "id": "MG43408050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.625",
+      "lon": "47.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43408010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaratanana",
+      "en": "Tsaratanana",
+      "slug": "tsaratanana"
+    },
+    "code": {
+      "id": "MG43408010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43408",
+      "level": 2,
+      "name": {
+        "local": "Tsaratanana",
+        "en": "Tsaratanana",
+        "slug": "tsaratanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43408",
+        "level": 2,
+        "name": {
+          "local": "Tsaratanana",
+          "en": "Tsaratanana",
+          "slug": "tsaratanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.842",
+      "lon": "47.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

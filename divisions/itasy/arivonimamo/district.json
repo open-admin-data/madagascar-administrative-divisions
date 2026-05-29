@@ -1,0 +1,47 @@
+{
+  "id": "MG13105",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arivonimamo",
+    "en": "Arivonimamo",
+    "slug": "arivonimamo"
+  },
+  "code": {
+    "id": "MG13105",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG13",
+    "level": 1,
+    "name": {
+      "local": "Itasy",
+      "en": "Itasy",
+      "slug": "itasy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG13",
+      "level": 1,
+      "name": {
+        "local": "Itasy",
+        "en": "Itasy",
+        "slug": "itasy"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.045",
+    "lon": "47.248"
+  },
+  "metadata": {},
+  "source": {}
+}

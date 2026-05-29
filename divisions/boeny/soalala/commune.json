@@ -1,0 +1,164 @@
+[
+  {
+    "id": "MG41403030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohipaky",
+      "en": "Ambohipaky",
+      "slug": "ambohipaky"
+    },
+    "code": {
+      "id": "MG41403030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41403",
+      "level": 2,
+      "name": {
+        "local": "Soalala",
+        "en": "Soalala",
+        "slug": "soalala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41403",
+        "level": 2,
+        "name": {
+          "local": "Soalala",
+          "en": "Soalala",
+          "slug": "soalala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.303",
+      "lon": "45.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41403050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomavo",
+      "en": "Andranomavo",
+      "slug": "andranomavo"
+    },
+    "code": {
+      "id": "MG41403050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41403",
+      "level": 2,
+      "name": {
+        "local": "Soalala",
+        "en": "Soalala",
+        "slug": "soalala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41403",
+        "level": 2,
+        "name": {
+          "local": "Soalala",
+          "en": "Soalala",
+          "slug": "soalala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.835",
+      "lon": "45.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41403010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soalala",
+      "en": "Soalala",
+      "slug": "soalala"
+    },
+    "code": {
+      "id": "MG41403010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41403",
+      "level": 2,
+      "name": {
+        "local": "Soalala",
+        "en": "Soalala",
+        "slug": "soalala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41403",
+        "level": 2,
+        "name": {
+          "local": "Soalala",
+          "en": "Soalala",
+          "slug": "soalala"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.177",
+      "lon": "45.419"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

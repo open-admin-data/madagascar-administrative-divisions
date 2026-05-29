@@ -1,0 +1,47 @@
+{
+  "id": "MG25215",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Midongy-Atsimo",
+    "en": "Midongy-Atsimo",
+    "slug": "midongy-atsimo"
+  },
+  "code": {
+    "id": "MG25215",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG25",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Atsinanana",
+      "en": "Atsimo Atsinanana",
+      "slug": "atsimo-atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.354",
+    "lon": "46.978"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MG11115",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Andramasina",
+    "en": "Andramasina",
+    "slug": "andramasina"
+  },
+  "code": {
+    "id": "MG11115",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.337",
+    "lon": "47.731"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG31309071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalapaiso II",
+      "en": "Ambalapaiso II",
+      "slug": "ambalapaiso-ii"
+    },
+    "code": {
+      "id": "MG31309071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.005",
+      "lon": "47.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatofisaka II",
+      "en": "Ambatofisaka II",
+      "slug": "ambatofisaka-ii"
+    },
+    "code": {
+      "id": "MG31309110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.102",
+      "lon": "47.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboasary",
+      "en": "Amboasary",
+      "slug": "amboasary"
+    },
+    "code": {
+      "id": "MG31309150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.453",
+      "lon": "48.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodinonoka",
+      "en": "Ambodinonoka",
+      "slug": "ambodinonoka"
+    },
+    "code": {
+      "id": "MG31309191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.331",
+      "lon": "47.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodivoangy",
+      "en": "Ambodivoangy",
+      "slug": "ambodivoangy"
+    },
+    "code": {
+      "id": "MG31309072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.948",
+      "lon": "47.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimilanja",
+      "en": "Ambohimilanja",
+      "slug": "ambohimilanja"
+    },
+    "code": {
+      "id": "MG31309090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.906",
+      "lon": "47.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andonabe Sud",
+      "en": "Andonabe Sud",
+      "slug": "andonabe-sud"
+    },
+    "code": {
+      "id": "MG31309050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.883",
+      "lon": "48.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androrangavola",
+      "en": "Androrangavola",
+      "slug": "androrangavola"
+    },
+    "code": {
+      "id": "MG31309131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.111",
+      "lon": "47.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosiarivo I",
+      "en": "Anosiarivo I",
+      "slug": "anosiarivo-i"
+    },
+    "code": {
+      "id": "MG31309132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.191",
+      "lon": "47.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betampona",
+      "en": "Betampona",
+      "slug": "betampona"
+    },
+    "code": {
+      "id": "MG31309031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.234",
+      "lon": "48.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lohavanana",
+      "en": "Lohavanana",
+      "slug": "lohavanana"
+    },
+    "code": {
+      "id": "MG31309170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.801",
+      "lon": "48.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marolambo",
+      "en": "Marolambo",
+      "slug": "marolambo"
+    },
+    "code": {
+      "id": "MG31309010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.031",
+      "lon": "48.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahakevo",
+      "en": "Sahakevo",
+      "slug": "sahakevo"
+    },
+    "code": {
+      "id": "MG31309192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.279",
+      "lon": "47.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Rabemanana",
+      "en": "Tanambao Rabemanana",
+      "slug": "tanambao-rabemanana"
+    },
+    "code": {
+      "id": "MG31309032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31309",
+      "level": 2,
+      "name": {
+        "local": "Marolambo",
+        "en": "Marolambo",
+        "slug": "marolambo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31309",
+        "level": 2,
+        "name": {
+          "local": "Marolambo",
+          "en": "Marolambo",
+          "slug": "marolambo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.382",
+      "lon": "48.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

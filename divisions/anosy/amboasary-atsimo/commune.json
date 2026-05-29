@@ -1,0 +1,866 @@
+[
+  {
+    "id": "MG53519010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboasary Atsimo",
+      "en": "Amboasary Atsimo",
+      "slug": "amboasary-atsimo"
+    },
+    "code": {
+      "id": "MG53519010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.056",
+      "lon": "46.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behara",
+      "en": "Behara",
+      "slug": "behara"
+    },
+    "code": {
+      "id": "MG53519030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.88",
+      "lon": "46.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ebelo",
+      "en": "Ebelo",
+      "slug": "ebelo"
+    },
+    "code": {
+      "id": "MG53519291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.556",
+      "lon": "46.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Elonty",
+      "en": "Elonty",
+      "slug": "elonty"
+    },
+    "code": {
+      "id": "MG53519150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.985",
+      "lon": "46.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Esira",
+      "en": "Esira",
+      "slug": "esira"
+    },
+    "code": {
+      "id": "MG53519170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.256",
+      "lon": "46.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifotaka",
+      "en": "Ifotaka",
+      "slug": "ifotaka"
+    },
+    "code": {
+      "id": "MG53519090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.742",
+      "lon": "46.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahaly",
+      "en": "Mahaly",
+      "slug": "mahaly"
+    },
+    "code": {
+      "id": "MG53519190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.117",
+      "lon": "46.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manevy",
+      "en": "Manevy",
+      "slug": "manevy"
+    },
+    "code": {
+      "id": "MG53519210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.407",
+      "lon": "46.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromby",
+      "en": "Maromby",
+      "slug": "maromby"
+    },
+    "code": {
+      "id": "MG53519130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.371",
+      "lon": "46.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotsiraka",
+      "en": "Marotsiraka",
+      "slug": "marotsiraka"
+    },
+    "code": {
+      "id": "MG53519250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.286",
+      "lon": "46.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranobe",
+      "en": "Ranobe",
+      "slug": "ranobe"
+    },
+    "code": {
+      "id": "MG53519292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.417",
+      "lon": "46.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sampona",
+      "en": "Sampona",
+      "slug": "sampona"
+    },
+    "code": {
+      "id": "MG53519070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.149",
+      "lon": "46.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanandava Sud",
+      "en": "Tanandava Sud",
+      "slug": "tanandava-sud"
+    },
+    "code": {
+      "id": "MG53519050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.117",
+      "lon": "46.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tomboarivo",
+      "en": "Tomboarivo",
+      "slug": "tomboarivo"
+    },
+    "code": {
+      "id": "MG53519270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.206",
+      "lon": "45.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tranomaro",
+      "en": "Tranomaro",
+      "slug": "tranomaro"
+    },
+    "code": {
+      "id": "MG53519110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.576",
+      "lon": "46.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53519230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsivory",
+      "en": "Tsivory",
+      "slug": "tsivory"
+    },
+    "code": {
+      "id": "MG53519230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53519",
+      "level": 2,
+      "name": {
+        "local": "Amboasary-Atsimo",
+        "en": "Amboasary-Atsimo",
+        "slug": "amboasary-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53519",
+        "level": 2,
+        "name": {
+          "local": "Amboasary-Atsimo",
+          "en": "Amboasary-Atsimo",
+          "slug": "amboasary-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.078",
+      "lon": "46.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

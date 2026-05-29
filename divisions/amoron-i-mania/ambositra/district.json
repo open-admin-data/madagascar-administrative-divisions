@@ -1,0 +1,47 @@
+{
+  "id": "MG22203",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambositra",
+    "en": "Ambositra",
+    "slug": "ambositra"
+  },
+  "code": {
+    "id": "MG22203",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG22",
+    "level": 1,
+    "name": {
+      "local": "Amoron I Mania",
+      "en": "Amoron I Mania",
+      "slug": "amoron-i-mania"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.561",
+    "lon": "47.323"
+  },
+  "metadata": {},
+  "source": {}
+}

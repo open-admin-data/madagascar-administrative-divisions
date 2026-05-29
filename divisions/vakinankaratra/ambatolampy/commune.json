@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG12110010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolampy",
+      "en": "Ambatolampy",
+      "slug": "ambatolampy"
+    },
+    "code": {
+      "id": "MG12110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.904",
+      "lon": "46.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatondrakalavao",
+      "en": "Ambatondrakalavao",
+      "slug": "ambatondrakalavao"
+    },
+    "code": {
+      "id": "MG12110090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.473",
+      "lon": "47.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodifarihy Fenomanana",
+      "en": "Ambodifarihy Fenomanana",
+      "slug": "ambodifarihy-fenomanana"
+    },
+    "code": {
+      "id": "MG12110190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.466",
+      "lon": "47.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohipihaonana",
+      "en": "Ambohipihaonana",
+      "slug": "ambohipihaonana"
+    },
+    "code": {
+      "id": "MG12110050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.462",
+      "lon": "47.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranovelona",
+      "en": "Andranovelona",
+      "slug": "andranovelona"
+    },
+    "code": {
+      "id": "MG12110330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.646",
+      "lon": "47.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andravola Vohipeno",
+      "en": "Andravola Vohipeno",
+      "slug": "andravola-vohipeno"
+    },
+    "code": {
+      "id": "MG12110150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.413",
+      "lon": "47.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andriambilany",
+      "en": "Andriambilany",
+      "slug": "andriambilany"
+    },
+    "code": {
+      "id": "MG12110110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.31",
+      "lon": "47.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antakasina",
+      "en": "Antakasina",
+      "slug": "antakasina"
+    },
+    "code": {
+      "id": "MG12110292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.516",
+      "lon": "47.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanamalaza",
+      "en": "Antanamalaza",
+      "slug": "antanamalaza"
+    },
+    "code": {
+      "id": "MG12110291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.432",
+      "lon": "47.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimasaka",
+      "en": "Antanimasaka",
+      "slug": "antanimasaka"
+    },
+    "code": {
+      "id": "MG12110230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.262",
+      "lon": "46.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsampandrano",
+      "en": "Antsampandrano",
+      "slug": "antsampandrano"
+    },
+    "code": {
+      "id": "MG12110270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.964",
+      "lon": "47.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behenjy",
+      "en": "Behenjy",
+      "slug": "behenjy"
+    },
+    "code": {
+      "id": "MG12110250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.216",
+      "lon": "47.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belambo Firaisana",
+      "en": "Belambo Firaisana",
+      "slug": "belambo-firaisana"
+    },
+    "code": {
+      "id": "MG12110130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.357",
+      "lon": "47.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manjakatompo",
+      "en": "Manjakatompo",
+      "slug": "manjakatompo"
+    },
+    "code": {
+      "id": "MG12110070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.322",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morarano",
+      "en": "Morarano",
+      "slug": "morarano"
+    },
+    "code": {
+      "id": "MG12110030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.158",
+      "lon": "49.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabotsy Namatoana",
+      "en": "Sabotsy Namatoana",
+      "slug": "sabotsy-namatoana"
+    },
+    "code": {
+      "id": "MG12110210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.305",
+      "lon": "47.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiafajavona Ankaratra",
+      "en": "Tsiafajavona Ankaratra",
+      "slug": "tsiafajavona-ankaratra"
+    },
+    "code": {
+      "id": "MG12110170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.385",
+      "lon": "47.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12110310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinjoarivo",
+      "en": "Tsinjoarivo",
+      "slug": "tsinjoarivo"
+    },
+    "code": {
+      "id": "MG12110310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12110",
+      "level": 2,
+      "name": {
+        "local": "Ambatolampy",
+        "en": "Ambatolampy",
+        "slug": "ambatolampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12110",
+        "level": 2,
+        "name": {
+          "local": "Ambatolampy",
+          "en": "Ambatolampy",
+          "slug": "ambatolampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.641",
+      "lon": "47.738"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

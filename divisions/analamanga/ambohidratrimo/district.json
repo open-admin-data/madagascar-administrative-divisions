@@ -1,0 +1,47 @@
+{
+  "id": "MG11103",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambohidratrimo",
+    "en": "Ambohidratrimo",
+    "slug": "ambohidratrimo"
+  },
+  "code": {
+    "id": "MG11103",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.676",
+    "lon": "47.417"
+  },
+  "metadata": {},
+  "source": {}
+}

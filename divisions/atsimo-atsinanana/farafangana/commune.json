@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "MG25213471",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalatany",
+      "en": "Ambalatany",
+      "slug": "ambalatany"
+    },
+    "code": {
+      "id": "MG25213471",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.563",
+      "lon": "47.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213552",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavato Antevato",
+      "en": "Ambalavato Antevato",
+      "slug": "ambalavato-antevato"
+    },
+    "code": {
+      "id": "MG25213552",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.998",
+      "lon": "47.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavato Nord",
+      "en": "Ambalavato Nord",
+      "slug": "ambalavato-nord"
+    },
+    "code": {
+      "id": "MG25213410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.635",
+      "lon": "47.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohigogo",
+      "en": "Ambohigogo",
+      "slug": "ambohigogo"
+    },
+    "code": {
+      "id": "MG25213270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.776",
+      "lon": "47.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimandroso",
+      "en": "Ambohimandroso",
+      "slug": "ambohimandroso"
+    },
+    "code": {
+      "id": "MG25213330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.605",
+      "lon": "48.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amporoforo",
+      "en": "Amporoforo",
+      "slug": "amporoforo"
+    },
+    "code": {
+      "id": "MG25213190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.817",
+      "lon": "49.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarana Miraihina",
+      "en": "Ankarana Miraihina",
+      "slug": "ankarana-miraihina"
+    },
+    "code": {
+      "id": "MG25213350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.057",
+      "lon": "47.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosivelo",
+      "en": "Anosivelo",
+      "slug": "anosivelo"
+    },
+    "code": {
+      "id": "MG25213050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.76",
+      "lon": "47.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosy Tsararafa",
+      "en": "Anosy Tsararafa",
+      "slug": "anosy-tsararafa"
+    },
+    "code": {
+      "id": "MG25213070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.704",
+      "lon": "47.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213530",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antseranambe",
+      "en": "Antseranambe",
+      "slug": "antseranambe"
+    },
+    "code": {
+      "id": "MG25213530",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.15",
+      "lon": "47.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beretra Bevoay",
+      "en": "Beretra Bevoay",
+      "slug": "beretra-bevoay"
+    },
+    "code": {
+      "id": "MG25213250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.696",
+      "lon": "47.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Efatsy",
+      "en": "Efatsy",
+      "slug": "efatsy"
+    },
+    "code": {
+      "id": "MG25213430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.139",
+      "lon": "47.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Etrotroka Atsimo",
+      "en": "Etrotroka Atsimo",
+      "slug": "etrotroka-atsimo"
+    },
+    "code": {
+      "id": "MG25213390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.901",
+      "lon": "47.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213370",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Evato",
+      "en": "Evato",
+      "slug": "evato"
+    },
+    "code": {
+      "id": "MG25213370",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.616",
+      "lon": "47.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farafangana",
+      "en": "Farafangana",
+      "slug": "farafangana"
+    },
+    "code": {
+      "id": "MG25213010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.821",
+      "lon": "47.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213510",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoarivo",
+      "en": "Fenoarivo",
+      "slug": "fenoarivo"
+    },
+    "code": {
+      "id": "MG25213510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.1",
+      "lon": "47.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iabohazo",
+      "en": "Iabohazo",
+      "slug": "iabohazo"
+    },
+    "code": {
+      "id": "MG25213210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.958",
+      "lon": "47.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213551",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ihorombe",
+      "en": "Ihorombe",
+      "slug": "ihorombe"
+    },
+    "code": {
+      "id": "MG25213551",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.014",
+      "lon": "47.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivandrika",
+      "en": "Ivandrika",
+      "slug": "ivandrika"
+    },
+    "code": {
+      "id": "MG25213110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.863",
+      "lon": "47.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabo Mananivo",
+      "en": "Mahabo Mananivo",
+      "slug": "mahabo-mananivo"
+    },
+    "code": {
+      "id": "MG25213310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.163",
+      "lon": "47.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahafasa Centre",
+      "en": "Mahafasa Centre",
+      "slug": "mahafasa-centre"
+    },
+    "code": {
+      "id": "MG25213170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.682",
+      "lon": "47.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavelo",
+      "en": "Mahavelo",
+      "slug": "mahavelo"
+    },
+    "code": {
+      "id": "MG25213150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.321",
+      "lon": "47.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maheriraty",
+      "en": "Maheriraty",
+      "slug": "maheriraty"
+    },
+    "code": {
+      "id": "MG25213290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.753",
+      "lon": "47.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambotra Atsimo",
+      "en": "Manambotra Atsimo",
+      "slug": "manambotra-atsimo"
+    },
+    "code": {
+      "id": "MG25213130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.952",
+      "lon": "47.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213590",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovandrika",
+      "en": "Marovandrika",
+      "slug": "marovandrika"
+    },
+    "code": {
+      "id": "MG25213590",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.51",
+      "lon": "47.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213472",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namohora Iaborano",
+      "en": "Namohora Iaborano",
+      "slug": "namohora-iaborano"
+    },
+    "code": {
+      "id": "MG25213472",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.626",
+      "lon": "47.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213490",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahamadio",
+      "en": "Sahamadio",
+      "slug": "sahamadio"
+    },
+    "code": {
+      "id": "MG25213490",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.498",
+      "lon": "47.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tangainony",
+      "en": "Tangainony",
+      "slug": "tangainony"
+    },
+    "code": {
+      "id": "MG25213230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.665",
+      "lon": "47.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213450",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tovona",
+      "en": "Tovona",
+      "slug": "tovona"
+    },
+    "code": {
+      "id": "MG25213450",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.893",
+      "lon": "47.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213570",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilengo",
+      "en": "Vohilengo",
+      "slug": "vohilengo"
+    },
+    "code": {
+      "id": "MG25213570",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.294",
+      "lon": "49.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimasy",
+      "en": "Vohimasy",
+      "slug": "vohimasy"
+    },
+    "code": {
+      "id": "MG25213030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.778",
+      "lon": "47.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitromby",
+      "en": "Vohitromby",
+      "slug": "vohitromby"
+    },
+    "code": {
+      "id": "MG25213090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25213",
+      "level": 2,
+      "name": {
+        "local": "Farafangana",
+        "en": "Farafangana",
+        "slug": "farafangana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25213",
+        "level": 2,
+        "name": {
+          "local": "Farafangana",
+          "en": "Farafangana",
+          "slug": "farafangana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.873",
+      "lon": "47.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

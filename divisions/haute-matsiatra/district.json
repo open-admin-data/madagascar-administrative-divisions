@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MG21205",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambalavao",
+      "en": "Ambalavao",
+      "slug": "ambalavao"
+    },
+    "code": {
+      "id": "MG21205",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.841",
+      "lon": "46.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambohimahasoa",
+      "en": "Ambohimahasoa",
+      "slug": "ambohimahasoa"
+    },
+    "code": {
+      "id": "MG21208",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.056",
+      "lon": "47.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fianarantsoa I",
+      "en": "Fianarantsoa I",
+      "slug": "fianarantsoa-i"
+    },
+    "code": {
+      "id": "MG21201",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.454",
+      "lon": "47.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ikalamavony",
+      "en": "Ikalamavony",
+      "slug": "ikalamavony"
+    },
+    "code": {
+      "id": "MG21219",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.226",
+      "lon": "46.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Isandra",
+      "en": "Isandra",
+      "slug": "isandra"
+    },
+    "code": {
+      "id": "MG21225",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.25",
+      "lon": "46.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lalangina",
+      "en": "Lalangina",
+      "slug": "lalangina"
+    },
+    "code": {
+      "id": "MG21220",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.414",
+      "lon": "47.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vohibato",
+      "en": "Vohibato",
+      "slug": "vohibato"
+    },
+    "code": {
+      "id": "MG21224",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.673",
+      "lon": "47.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "MG72",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sava",
+    "en": "Sava",
+    "slug": "sava"
+  },
+  "code": {
+    "id": "MG72",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "commune": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.368",
+    "lon": "49.775"
+  },
+  "metadata": {},
+  "source": {}
+}

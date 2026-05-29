@@ -1,0 +1,47 @@
+{
+  "id": "MG24218",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ivohibe",
+    "en": "Ivohibe",
+    "slug": "ivohibe"
+  },
+  "code": {
+    "id": "MG24218",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG24",
+    "level": 1,
+    "name": {
+      "local": "Ihorombe",
+      "en": "Ihorombe",
+      "slug": "ihorombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG24",
+      "level": 1,
+      "name": {
+        "local": "Ihorombe",
+        "en": "Ihorombe",
+        "slug": "ihorombe"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.545",
+    "lon": "46.871"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,96 @@
+# Madagascar Administrative Divisions
+
+> Open dataset of Madagascar's administrative hierarchy:
+> 22 regions, 119 districts, 1,579 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 22
+- Total districts: 119
+- Total communes: 1,579
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/all-district.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Analamanga](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/analamanga/) — 13 districts, 139 communes
+- [Vakinankaratra](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/vakinankaratra/) — 7 districts, 91 communes
+- [Itasy](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/itasy/) — 3 districts, 51 communes
+- [Bongolava](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/bongolava/) — 2 districts, 26 communes
+- [Haute Matsiatra](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/haute-matsiatra/) — 7 districts, 88 communes
+- [Amoron I Mania](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/amoron-i-mania/) — 4 districts, 55 communes
+- [Vatovavy Fitovinany](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/vatovavy-fitovinany/) — 6 districts, 139 communes
+- [Ihorombe](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/ihorombe/) — 3 districts, 26 communes
+- [Atsimo Atsinanana](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/atsimo-atsinanana/) — 5 districts, 90 communes
+- [Atsinanana](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/atsinanana/) — 7 districts, 88 communes
+- [Analanjirofo](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/analanjirofo/) — 6 districts, 63 communes
+- [Alaotra Mangoro](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/alaotra-mangoro/) — 5 districts, 79 communes
+- [Boeny](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/boeny/) — 6 districts, 44 communes
+- [Sofia](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/sofia/) — 7 districts, 108 communes
+- [Betsiboka](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/betsiboka/) — 3 districts, 35 communes
+- [Melaky](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/melaky/) — 5 districts, 37 communes
+- [Atsimo Andrefana](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/atsimo-andrefana/) — 9 districts, 110 communes
+- [Androy](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/androy/) — 4 districts, 51 communes
+- [Anosy](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/anosy/) — 3 districts, 64 communes
+- [Menabe](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/menabe/) — 5 districts, 51 communes
+- [Diana](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/diana/) — 5 districts, 65 communes
+- [Sava](https://github.com/open-admin-data/madagascar-administrative-divisions/tree/main/divisions/sava/) — 4 districts, 79 communes
+
+## Per-Region Full Data
+
+- [Analamanga](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/analamanga.txt)
+- [Vakinankaratra](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/vakinankaratra.txt)
+- [Itasy](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/itasy.txt)
+- [Bongolava](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/bongolava.txt)
+- [Haute Matsiatra](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/haute-matsiatra.txt)
+- [Amoron I Mania](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/amoron-i-mania.txt)
+- [Vatovavy Fitovinany](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/vatovavy-fitovinany.txt)
+- [Ihorombe](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/ihorombe.txt)
+- [Atsimo Atsinanana](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/atsimo-atsinanana.txt)
+- [Atsinanana](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/atsinanana.txt)
+- [Analanjirofo](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/analanjirofo.txt)
+- [Alaotra Mangoro](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/alaotra-mangoro.txt)
+- [Boeny](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/boeny.txt)
+- [Sofia](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/sofia.txt)
+- [Betsiboka](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/betsiboka.txt)
+- [Melaky](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/melaky.txt)
+- [Atsimo Andrefana](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/atsimo-andrefana.txt)
+- [Androy](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/androy.txt)
+- [Anosy](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/anosy.txt)
+- [Menabe](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/menabe.txt)
+- [Diana](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/diana.txt)
+- [Sava](https://raw.githubusercontent.com/open-admin-data/madagascar-administrative-divisions/main/docs/llms-full/sava.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Madagascar Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/madagascar-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

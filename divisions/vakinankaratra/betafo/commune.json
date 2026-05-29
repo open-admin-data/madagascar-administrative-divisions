@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG12109070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Anativato",
+      "en": "Alakamisy Anativato",
+      "slug": "alakamisy-anativato"
+    },
+    "code": {
+      "id": "MG12109070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.905",
+      "lon": "46.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Marososona",
+      "en": "Alakamisy Marososona",
+      "slug": "alakamisy-marososona"
+    },
+    "code": {
+      "id": "MG12109230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.051",
+      "lon": "46.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alarobia Bemaha",
+      "en": "Alarobia Bemaha",
+      "slug": "alarobia-bemaha"
+    },
+    "code": {
+      "id": "MG12109390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.193",
+      "lon": "46.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatonikolahy",
+      "en": "Ambatonikolahy",
+      "slug": "ambatonikolahy"
+    },
+    "code": {
+      "id": "MG12109170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.722",
+      "lon": "46.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanambola",
+      "en": "Ambohimanambola",
+      "slug": "ambohimanambola"
+    },
+    "code": {
+      "id": "MG12109250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.849",
+      "lon": "46.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimasina",
+      "en": "Ambohimasina",
+      "slug": "ambohimasina"
+    },
+    "code": {
+      "id": "MG12109270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.823",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomafana",
+      "en": "Andranomafana",
+      "slug": "andranomafana"
+    },
+    "code": {
+      "id": "MG12109030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.171",
+      "lon": "44.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109490",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrembesoa",
+      "en": "Andrembesoa",
+      "slug": "andrembesoa"
+    },
+    "code": {
+      "id": "MG12109490",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.124",
+      "lon": "46.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosiarivo Manapa",
+      "en": "Anosiarivo Manapa",
+      "slug": "anosiarivo-manapa"
+    },
+    "code": {
+      "id": "MG12109212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.011",
+      "lon": "46.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antohobe",
+      "en": "Antohobe",
+      "slug": "antohobe"
+    },
+    "code": {
+      "id": "MG12109190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.748",
+      "lon": "46.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsoso",
+      "en": "Antsoso",
+      "slug": "antsoso"
+    },
+    "code": {
+      "id": "MG12109090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.777",
+      "lon": "46.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betafo",
+      "en": "Betafo",
+      "slug": "betafo"
+    },
+    "code": {
+      "id": "MG12109010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.851",
+      "lon": "46.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Inanantonana",
+      "en": "Inanantonana",
+      "slug": "inanantonana"
+    },
+    "code": {
+      "id": "MG12109290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.618",
+      "lon": "46.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahaiza",
+      "en": "Mahaiza",
+      "slug": "mahaiza"
+    },
+    "code": {
+      "id": "MG12109211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.934",
+      "lon": "46.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandritsara",
+      "en": "Mandritsara",
+      "slug": "mandritsara"
+    },
+    "code": {
+      "id": "MG12109050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.838",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manohisoa",
+      "en": "Manohisoa",
+      "slug": "manohisoa"
+    },
+    "code": {
+      "id": "MG12109150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.672",
+      "lon": "46.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavina",
+      "en": "Soavina",
+      "slug": "soavina"
+    },
+    "code": {
+      "id": "MG12109130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.364",
+      "lon": "48.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12109110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tritriva",
+      "en": "Tritriva",
+      "slug": "tritriva"
+    },
+    "code": {
+      "id": "MG12109110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12109",
+      "level": 2,
+      "name": {
+        "local": "Betafo",
+        "en": "Betafo",
+        "slug": "betafo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12109",
+        "level": 2,
+        "name": {
+          "local": "Betafo",
+          "en": "Betafo",
+          "slug": "betafo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.931",
+      "lon": "46.915"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

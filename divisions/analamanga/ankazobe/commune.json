@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MG11104050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitromby",
+      "en": "Ambohitromby",
+      "slug": "ambohitromby"
+    },
+    "code": {
+      "id": "MG11104050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.95",
+      "lon": "46.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolotarakely",
+      "en": "Ambolotarakely",
+      "slug": "ambolotarakely"
+    },
+    "code": {
+      "id": "MG11104170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.305",
+      "lon": "47.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazobe",
+      "en": "Ankazobe",
+      "slug": "ankazobe"
+    },
+    "code": {
+      "id": "MG11104010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.241",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antakavana",
+      "en": "Antakavana",
+      "slug": "antakavana"
+    },
+    "code": {
+      "id": "MG11104190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.062",
+      "lon": "47.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antotohazo",
+      "en": "Antotohazo",
+      "slug": "antotohazo"
+    },
+    "code": {
+      "id": "MG11104071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.369",
+      "lon": "47.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiadanana",
+      "en": "Fiadanana",
+      "slug": "fiadanana"
+    },
+    "code": {
+      "id": "MG11104130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fihaonana",
+      "en": "Fihaonana",
+      "slug": "fihaonana"
+    },
+    "code": {
+      "id": "MG11104090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.608",
+      "lon": "47.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiangara",
+      "en": "Kiangara",
+      "slug": "kiangara"
+    },
+    "code": {
+      "id": "MG11104210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.958",
+      "lon": "46.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavelona",
+      "en": "Mahavelona",
+      "slug": "mahavelona"
+    },
+    "code": {
+      "id": "MG11104110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.159",
+      "lon": "46.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marondry",
+      "en": "Marondry",
+      "slug": "marondry"
+    },
+    "code": {
+      "id": "MG11104072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.465",
+      "lon": "46.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miantso",
+      "en": "Miantso",
+      "slug": "miantso"
+    },
+    "code": {
+      "id": "MG11104230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.682",
+      "lon": "47.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talata Angavo",
+      "en": "Talata Angavo",
+      "slug": "talata-angavo"
+    },
+    "code": {
+      "id": "MG11104030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.164",
+      "lon": "47.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaramasoandro",
+      "en": "Tsaramasoandro",
+      "slug": "tsaramasoandro"
+    },
+    "code": {
+      "id": "MG11104150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11104",
+      "level": 2,
+      "name": {
+        "local": "Ankazobe",
+        "en": "Ankazobe",
+        "slug": "ankazobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11104",
+        "level": 2,
+        "name": {
+          "local": "Ankazobe",
+          "en": "Ankazobe",
+          "slug": "ankazobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.917",
+      "lon": "47.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

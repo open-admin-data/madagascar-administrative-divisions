@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MG25222032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaninarenina",
+      "en": "Antaninarenina",
+      "slug": "antaninarenina"
+    },
+    "code": {
+      "id": "MG25222032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.998",
+      "lon": "47.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antondabe",
+      "en": "Antondabe",
+      "slug": "antondabe"
+    },
+    "code": {
+      "id": "MG25222012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.83",
+      "lon": "47.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befotaka Sud",
+      "en": "Befotaka Sud",
+      "slug": "befotaka-sud"
+    },
+    "code": {
+      "id": "MG25222011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.848",
+      "lon": "46.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beharena",
+      "en": "Beharena",
+      "slug": "beharena"
+    },
+    "code": {
+      "id": "MG25222052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.815",
+      "lon": "46.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222053",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekofafa Sud",
+      "en": "Bekofafa Sud",
+      "slug": "bekofafa-sud"
+    },
+    "code": {
+      "id": "MG25222053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.83",
+      "lon": "46.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovitsika Sud",
+      "en": "Marovitsika Sud",
+      "slug": "marovitsika-sud"
+    },
+    "code": {
+      "id": "MG25222031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.104",
+      "lon": "46.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25222051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranotsara Sud",
+      "en": "Ranotsara Sud",
+      "slug": "ranotsara-sud"
+    },
+    "code": {
+      "id": "MG25222051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25222",
+      "level": 2,
+      "name": {
+        "local": "Befotaka",
+        "en": "Befotaka",
+        "slug": "befotaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25222",
+        "level": 2,
+        "name": {
+          "local": "Befotaka",
+          "en": "Befotaka",
+          "slug": "befotaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.709",
+      "lon": "46.696"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

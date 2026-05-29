@@ -1,0 +1,47 @@
+{
+  "id": "MG33312",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amparafaravola",
+    "en": "Amparafaravola",
+    "slug": "amparafaravola"
+  },
+  "code": {
+    "id": "MG33312",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG33",
+    "level": 1,
+    "name": {
+      "local": "Alaotra Mangoro",
+      "en": "Alaotra Mangoro",
+      "slug": "alaotra-mangoro"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.461",
+    "lon": "48.415"
+  },
+  "metadata": {},
+  "source": {}
+}

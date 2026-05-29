@@ -1,0 +1,47 @@
+{
+  "id": "MG54510",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belo Sur Tsiribihina",
+    "en": "Belo Sur Tsiribihina",
+    "slug": "belo-sur-tsiribihina"
+  },
+  "code": {
+    "id": "MG54510",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG54",
+    "level": 1,
+    "name": {
+      "local": "Menabe",
+      "en": "Menabe",
+      "slug": "menabe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.66",
+    "lon": "44.791"
+  },
+  "metadata": {},
+  "source": {}
+}

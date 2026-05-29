@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MG22223171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomarina",
+      "en": "Ambatomarina",
+      "slug": "ambatomarina"
+    },
+    "code": {
+      "id": "MG22223171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.583",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimahazo",
+      "en": "Ambohimahazo",
+      "slug": "ambohimahazo"
+    },
+    "code": {
+      "id": "MG22223030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.694",
+      "lon": "47.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimilanja",
+      "en": "Ambohimilanja",
+      "slug": "ambohimilanja"
+    },
+    "code": {
+      "id": "MG22223070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.906",
+      "lon": "47.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohipo",
+      "en": "Ambohipo",
+      "slug": "ambohipo"
+    },
+    "code": {
+      "id": "MG22223090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.845",
+      "lon": "47.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambovombe Centre",
+      "en": "Ambovombe Centre",
+      "slug": "ambovombe-centre"
+    },
+    "code": {
+      "id": "MG22223010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.754",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andakatany",
+      "en": "Andakatany",
+      "slug": "andakatany"
+    },
+    "code": {
+      "id": "MG22223172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.51",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma Nandihizana",
+      "en": "Anjoma Nandihizana",
+      "slug": "anjoma-nandihizana"
+    },
+    "code": {
+      "id": "MG22223050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.847",
+      "lon": "47.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoman'ankona",
+      "en": "Anjoman'ankona",
+      "slug": "anjomanankona"
+    },
+    "code": {
+      "id": "MG22223110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.625",
+      "lon": "47.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talata Vohimena",
+      "en": "Talata Vohimena",
+      "slug": "talata-vohimena"
+    },
+    "code": {
+      "id": "MG22223150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.86",
+      "lon": "46.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinany Andakatanikely",
+      "en": "Vinany Andakatanikely",
+      "slug": "vinany-andakatanikely"
+    },
+    "code": {
+      "id": "MG22223130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22223",
+      "level": 2,
+      "name": {
+        "local": "Manandriana",
+        "en": "Manandriana",
+        "slug": "manandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22223",
+        "level": 2,
+        "name": {
+          "local": "Manandriana",
+          "en": "Manandriana",
+          "slug": "manandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.631",
+      "lon": "47.061"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

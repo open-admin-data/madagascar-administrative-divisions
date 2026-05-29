@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Madagascar Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-29"
+url: "https://github.com/open-admin-data/madagascar-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/madagascar-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - madagascar
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Madagascar's administrative hierarchy:
+  22 regions, 119 districts, 1,579 communes.
+  Bilingual with coordinates and postal codes where available.

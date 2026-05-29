@@ -1,0 +1,47 @@
+{
+  "id": "MG42413",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antsohihy",
+    "en": "Antsohihy",
+    "slug": "antsohihy"
+  },
+  "code": {
+    "id": "MG42413",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.972",
+    "lon": "48.077"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MG52516",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambovombe-Androy",
+      "en": "Ambovombe-Androy",
+      "slug": "ambovombe-androy"
+    },
+    "code": {
+      "id": "MG52516",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.799",
+      "lon": "45.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bekily",
+      "en": "Bekily",
+      "slug": "bekily"
+    },
+    "code": {
+      "id": "MG52518",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.27",
+      "lon": "45.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beloha",
+      "en": "Beloha",
+      "slug": "beloha"
+    },
+    "code": {
+      "id": "MG52513",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.05",
+      "lon": "44.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tsihombe",
+      "en": "Tsihombe",
+      "slug": "tsihombe"
+    },
+    "code": {
+      "id": "MG52514",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.344",
+      "lon": "45.472"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

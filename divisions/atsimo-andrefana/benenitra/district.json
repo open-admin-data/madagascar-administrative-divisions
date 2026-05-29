@@ -1,0 +1,47 @@
+{
+  "id": "MG51521",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Benenitra",
+    "en": "Benenitra",
+    "slug": "benenitra"
+  },
+  "code": {
+    "id": "MG51521",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.452",
+    "lon": "45.065"
+  },
+  "metadata": {},
+  "source": {}
+}

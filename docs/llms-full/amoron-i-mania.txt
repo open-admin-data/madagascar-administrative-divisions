@@ -1,0 +1,249 @@
+# Amoron I Mania — Madagascar Administrative Divisions
+
+> 4 districts, 55 communes
+> Code: MG22
+> Coordinates: -20.459, 46.756
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambatofinandrahana
+
+Code: MG22202, Coordinates: -20.456, 46.392
+Communes: 9
+
+#### Ambatofinandrahana
+
+Code: MG22202010, Coordinates: -20.465, 46.811
+
+#### Ambatomifanongoa
+
+Code: MG22202110, Coordinates: -20.247, 46.926
+
+#### Ambondromisotra
+
+Code: MG22202090, Coordinates: -20.325, 46.861
+
+#### Amborompotsy
+
+Code: MG22202130, Coordinates: -24.707, 44.955
+
+#### Fenoarivo
+
+Code: MG22202050, Coordinates: -23.1, 47.533
+
+#### Itremo
+
+Code: MG22202030, Coordinates: -20.509, 46.615
+
+#### Mandrosonoro
+
+Code: MG22202150, Coordinates: -20.578, 45.969
+
+#### Mangataboahangy
+
+Code: MG22202170, Coordinates: -20.218, 46.149
+
+#### Soavina
+
+Code: MG22202070, Coordinates: -20.364, 48.253
+
+### Ambositra
+
+Code: MG22203, Coordinates: -20.561, 47.323
+Communes: 23
+
+#### Alakamisy Ambohijato
+
+Code: MG22203210, Coordinates: -20.599, 47.31
+
+#### Ambalamanakana
+
+Code: MG22203250, Coordinates: -20.755, 47.22
+
+#### Ambatofitorahana
+
+Code: MG22203390, Coordinates: -20.79, 47.173
+
+#### Ambinanindrano
+
+Code: MG22203551, Coordinates: -20.099, 48.334
+
+#### Ambohimitombo I
+
+Code: MG22203491, Coordinates: -20.751, 47.423
+
+#### Ambohimitombo II
+
+Code: MG22203492, Coordinates: -20.619, 47.447
+
+#### Ambositra I
+
+Code: MG22203010, Coordinates: -20.534, 47.244
+
+#### Ambositra II
+
+Code: MG22203030, Coordinates: -20.52, 47.263
+
+#### Andina
+
+Code: MG22203090, Coordinates: -20.55, 47.145
+
+#### Ankazoambo
+
+Code: MG22203050, Coordinates: -20.596, 47.26
+
+#### Antoetra
+
+Code: MG22203410, Coordinates: -20.821, 47.359
+
+#### Fahizay
+
+Code: MG22203190, Coordinates: -20.507, 47.333
+
+#### Ihadilanana
+
+Code: MG22203310, Coordinates: -20.448, 47.043
+
+#### Ilaka Centre
+
+Code: MG22203290, Coordinates: -20.315, 47.15
+
+#### Imerina Imady
+
+Code: MG22203110, Coordinates: -20.534, 47.323
+
+#### Ivato
+
+Code: MG22203130, Coordinates: -22.437, 47.239
+
+#### Ivony Miaramiasa
+
+Code: MG22203070, Coordinates: -20.582, 47.172
+
+#### Kianjandrakefina
+
+Code: MG22203230, Coordinates: -20.625, 47.36
+
+#### Mahazina Ambohipierenana
+
+Code: MG22203430, Coordinates: -20.325, 47.068
+
+#### Marosoa
+
+Code: MG22203170, Coordinates: -20.55, 47.395
+
+#### Sahatsiho Ambohimanjaka
+
+Code: MG22203450, Coordinates: -20.222, 47.095
+
+#### Tsarasaotra
+
+Code: MG22203150, Coordinates: -20.429, 47.174
+
+#### Vohidahy
+
+Code: MG22203552, Coordinates: -20.518, 47.569
+
+### Fandriana
+
+Code: MG22204, Coordinates: -20.289, 47.446
+Communes: 13
+
+#### Alakamisy Ambohimahazo
+
+Code: MG22204210, Coordinates: -20.487, 47.445
+
+#### Ankarinoro
+
+Code: MG22204130, Coordinates: -20.373, 47.56
+
+#### Betsimisotra
+
+Code: MG22204192, Coordinates: -20.304, 47.586
+
+#### Fandriana
+
+Code: MG22204010, Coordinates: -20.177, 47.368
+
+#### Fiadanana
+
+Code: MG22204070, Coordinates: -20.425, 48.409
+
+#### Imito
+
+Code: MG22204230, Coordinates: -20.417, 47.329
+
+#### Mahazoarivo
+
+Code: MG22204170, Coordinates: -22.649, 47.329
+
+#### Miarinavaratra
+
+Code: MG22204191, Coordinates: -20.164, 47.572
+
+#### Milamaina
+
+Code: MG22204030, Coordinates: -20.267, 47.385
+
+#### Sahamadio Fisakana
+
+Code: MG22204050, Coordinates: -20.289, 47.404
+
+#### Sandrandahy
+
+Code: MG22204150, Coordinates: -20.353, 47.277
+
+#### Tatamalaza
+
+Code: MG22204110, Coordinates: -20.179, 47.456
+
+#### Tsarazaza
+
+Code: MG22204090, Coordinates: -20.16, 47.282
+
+### Manandriana
+
+Code: MG22223, Coordinates: -20.748, 47.013
+Communes: 10
+
+#### Ambatomarina
+
+Code: MG22223171, Coordinates: -20.583, 47.023
+
+#### Ambohimahazo
+
+Code: MG22223030, Coordinates: -20.694, 47.068
+
+#### Ambohimilanja
+
+Code: MG22223070, Coordinates: -19.906, 47.927
+
+#### Ambohipo
+
+Code: MG22223090, Coordinates: -20.845, 47.018
+
+#### Ambovombe Centre
+
+Code: MG22223010, Coordinates: -20.754, 47.023
+
+#### Andakatany
+
+Code: MG22223172, Coordinates: -20.51, 47.023
+
+#### Anjoma Nandihizana
+
+Code: MG22223050, Coordinates: -20.847, 47.106
+
+#### Anjoman&#39;ankona
+
+Code: MG22223110, Coordinates: -20.625, 47.105
+
+#### Talata Vohimena
+
+Code: MG22223150, Coordinates: -20.86, 46.948
+
+#### Vinany Andakatanikely
+
+Code: MG22223130, Coordinates: -20.631, 47.061
+

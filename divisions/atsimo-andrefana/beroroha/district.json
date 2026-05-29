@@ -1,0 +1,47 @@
+{
+  "id": "MG51503",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beroroha",
+    "en": "Beroroha",
+    "slug": "beroroha"
+  },
+  "code": {
+    "id": "MG51503",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.505",
+    "lon": "45.236"
+  },
+  "metadata": {},
+  "source": {}
+}

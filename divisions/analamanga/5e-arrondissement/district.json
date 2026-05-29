@@ -1,0 +1,47 @@
+{
+  "id": "MG11101005A",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "5e Arrondissement",
+    "en": "5e Arrondissement",
+    "slug": "5e-arrondissement"
+  },
+  "code": {
+    "id": "MG11101005A",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.882",
+    "lon": "47.54"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG51501006",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besakoa",
+      "en": "Besakoa",
+      "slug": "besakoa"
+    },
+    "code": {
+      "id": "MG51501006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.156",
+      "lon": "45.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betania",
+      "en": "Betania",
+      "slug": "betania"
+    },
+    "code": {
+      "id": "MG51501005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.342",
+      "lon": "43.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavatse I",
+      "en": "Mahavatse I",
+      "slug": "mahavatse-i"
+    },
+    "code": {
+      "id": "MG51501003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.375",
+      "lon": "43.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavatse II",
+      "en": "Mahavatse II",
+      "slug": "mahavatse-ii"
+    },
+    "code": {
+      "id": "MG51501004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.367",
+      "lon": "43.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao I",
+      "en": "Tanambao I",
+      "slug": "tanambao-i"
+    },
+    "code": {
+      "id": "MG51501001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.352",
+      "lon": "43.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao II Tsf Nord",
+      "en": "Tanambao II Tsf Nord",
+      "slug": "tanambao-ii-tsf-nord"
+    },
+    "code": {
+      "id": "MG51501002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51501",
+      "level": 2,
+      "name": {
+        "local": "Toliary-I",
+        "en": "Toliary-I",
+        "slug": "toliary-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51501",
+        "level": 2,
+        "name": {
+          "local": "Toliary-I",
+          "en": "Toliary-I",
+          "slug": "toliary-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.358",
+      "lon": "43.686"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

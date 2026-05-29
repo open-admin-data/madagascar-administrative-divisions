@@ -1,0 +1,30 @@
+{
+  "id": "MG31",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Atsinanana",
+    "en": "Atsinanana",
+    "slug": "atsinanana"
+  },
+  "code": {
+    "id": "MG31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.977",
+    "lon": "48.584"
+  },
+  "metadata": {},
+  "source": {}
+}

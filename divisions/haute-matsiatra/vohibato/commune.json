@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG21224050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Itenina",
+      "en": "Alakamisy Itenina",
+      "slug": "alakamisy-itenina"
+    },
+    "code": {
+      "id": "MG21224050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.661",
+      "lon": "47.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomiditra",
+      "en": "Andranomiditra",
+      "slug": "andranomiditra"
+    },
+    "code": {
+      "id": "MG21224230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.661",
+      "lon": "47.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranovorivato",
+      "en": "Andranovorivato",
+      "slug": "andranovorivato"
+    },
+    "code": {
+      "id": "MG21224190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.634",
+      "lon": "46.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaromalaza Mifanasoa",
+      "en": "Ankaromalaza Mifanasoa",
+      "slug": "ankaromalaza-mifanasoa"
+    },
+    "code": {
+      "id": "MG21224110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.739",
+      "lon": "47.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ihazoara",
+      "en": "Ihazoara",
+      "slug": "ihazoara"
+    },
+    "code": {
+      "id": "MG21224090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.584",
+      "lon": "47.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahaditra",
+      "en": "Mahaditra",
+      "slug": "mahaditra"
+    },
+    "code": {
+      "id": "MG21224270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.775",
+      "lon": "47.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahasoabe",
+      "en": "Mahasoabe",
+      "slug": "mahasoabe"
+    },
+    "code": {
+      "id": "MG21224010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.273",
+      "lon": "47.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maneva",
+      "en": "Maneva",
+      "slug": "maneva"
+    },
+    "code": {
+      "id": "MG21224150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.59",
+      "lon": "47.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soaindrana",
+      "en": "Soaindrana",
+      "slug": "soaindrana"
+    },
+    "code": {
+      "id": "MG21224250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.498",
+      "lon": "47.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talata Ampano",
+      "en": "Talata Ampano",
+      "slug": "talata-ampano"
+    },
+    "code": {
+      "id": "MG21224070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.547",
+      "lon": "47.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinanitelo",
+      "en": "Vinanitelo",
+      "slug": "vinanitelo"
+    },
+    "code": {
+      "id": "MG21224030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.011",
+      "lon": "47.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohibato Ouest",
+      "en": "Vohibato Ouest",
+      "slug": "vohibato-ouest"
+    },
+    "code": {
+      "id": "MG21224210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.597",
+      "lon": "47.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimarina",
+      "en": "Vohimarina",
+      "slug": "vohimarina"
+    },
+    "code": {
+      "id": "MG21224130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.618",
+      "lon": "46.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21224170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitrafeno",
+      "en": "Vohitrafeno",
+      "slug": "vohitrafeno"
+    },
+    "code": {
+      "id": "MG21224170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21224",
+      "level": 2,
+      "name": {
+        "local": "Vohibato",
+        "en": "Vohibato",
+        "slug": "vohibato"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21224",
+        "level": 2,
+        "name": {
+          "local": "Vohibato",
+          "en": "Vohibato",
+          "slug": "vohibato"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.697",
+      "lon": "47.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

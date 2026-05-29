@@ -1,0 +1,920 @@
+[
+  {
+    "id": "MG43404112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalajia",
+      "en": "Ambalajia",
+      "slug": "ambalajia"
+    },
+    "code": {
+      "id": "MG43404112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.778",
+      "lon": "46.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalanjanakomby",
+      "en": "Ambalanjanakomby",
+      "slug": "ambalanjanakomby"
+    },
+    "code": {
+      "id": "MG43404131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.75",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andriba",
+      "en": "Andriba",
+      "slug": "andriba"
+    },
+    "code": {
+      "id": "MG43404171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.651",
+      "lon": "46.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimbary",
+      "en": "Antanimbary",
+      "slug": "antanimbary"
+    },
+    "code": {
+      "id": "MG43404092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.219",
+      "lon": "46.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsiafabositra",
+      "en": "Antsiafabositra",
+      "slug": "antsiafabositra"
+    },
+    "code": {
+      "id": "MG43404091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.291",
+      "lon": "47.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemokotra",
+      "en": "Bemokotra",
+      "slug": "bemokotra"
+    },
+    "code": {
+      "id": "MG43404050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.046",
+      "lon": "46.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beratsimanina",
+      "en": "Beratsimanina",
+      "slug": "beratsimanina"
+    },
+    "code": {
+      "id": "MG43404032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.879",
+      "lon": "46.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madiromirafy",
+      "en": "Madiromirafy",
+      "slug": "madiromirafy"
+    },
+    "code": {
+      "id": "MG43404192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.823",
+      "lon": "46.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maevatanana I",
+      "en": "Maevatanana I",
+      "slug": "maevatanana-i"
+    },
+    "code": {
+      "id": "MG43404010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.959",
+      "lon": "46.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maevatanana II",
+      "en": "Maevatanana II",
+      "slug": "maevatanana-ii"
+    },
+    "code": {
+      "id": "MG43404031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.986",
+      "lon": "46.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsinjo",
+      "en": "Mahatsinjo",
+      "slug": "mahatsinjo"
+    },
+    "code": {
+      "id": "MG43404172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.742",
+      "lon": "47.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoma",
+      "en": "Mahazoma",
+      "slug": "mahazoma"
+    },
+    "code": {
+      "id": "MG43404070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.28",
+      "lon": "46.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangabe",
+      "en": "Mangabe",
+      "slug": "mangabe"
+    },
+    "code": {
+      "id": "MG43404191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.751",
+      "lon": "46.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maria",
+      "en": "Maria",
+      "slug": "maria"
+    },
+    "code": {
+      "id": "MG43404150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.3",
+      "lon": "46.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marokoro",
+      "en": "Marokoro",
+      "slug": "marokoro"
+    },
+    "code": {
+      "id": "MG43404132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.907",
+      "lon": "47.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404173",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG43404173",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43404111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsararano",
+      "en": "Tsararano",
+      "slug": "tsararano"
+    },
+    "code": {
+      "id": "MG43404111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43404",
+      "level": 2,
+      "name": {
+        "local": "Maevatanana",
+        "en": "Maevatanana",
+        "slug": "maevatanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43404",
+        "level": 2,
+        "name": {
+          "local": "Maevatanana",
+          "en": "Maevatanana",
+          "slug": "maevatanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.758",
+      "lon": "46.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG52513092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behabobo",
+      "en": "Behabobo",
+      "slug": "behabobo"
+    },
+    "code": {
+      "id": "MG52513092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.929",
+      "lon": "45.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beloha",
+      "en": "Beloha",
+      "slug": "beloha"
+    },
+    "code": {
+      "id": "MG52513010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.013",
+      "lon": "45.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kopoky",
+      "en": "Kopoky",
+      "slug": "kopoky"
+    },
+    "code": {
+      "id": "MG52513050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.179",
+      "lon": "45.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marolinta",
+      "en": "Marolinta",
+      "slug": "marolinta"
+    },
+    "code": {
+      "id": "MG52513070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.132",
+      "lon": "44.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tranoroa",
+      "en": "Tranoroa",
+      "slug": "tranoroa"
+    },
+    "code": {
+      "id": "MG52513091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.786",
+      "lon": "45.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52513030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tranovaho",
+      "en": "Tranovaho",
+      "slug": "tranovaho"
+    },
+    "code": {
+      "id": "MG52513030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52513",
+      "level": 2,
+      "name": {
+        "local": "Beloha",
+        "en": "Beloha",
+        "slug": "beloha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52513",
+        "level": 2,
+        "name": {
+          "local": "Beloha",
+          "en": "Beloha",
+          "slug": "beloha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.335",
+      "lon": "44.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

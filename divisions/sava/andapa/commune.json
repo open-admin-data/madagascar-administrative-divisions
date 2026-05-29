@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG72712210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalamanasy II",
+      "en": "Ambalamanasy II",
+      "slug": "ambalamanasy-ii"
+    },
+    "code": {
+      "id": "MG72712210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.526",
+      "lon": "49.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiangezoka",
+      "en": "Ambodiangezoka",
+      "slug": "ambodiangezoka"
+    },
+    "code": {
+      "id": "MG72712230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.6",
+      "lon": "49.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanga I",
+      "en": "Ambodimanga I",
+      "slug": "ambodimanga-i"
+    },
+    "code": {
+      "id": "MG72712090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.793",
+      "lon": "49.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andapa",
+      "en": "Andapa",
+      "slug": "andapa"
+    },
+    "code": {
+      "id": "MG72712010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.666",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrakata",
+      "en": "Andrakata",
+      "slug": "andrakata"
+    },
+    "code": {
+      "id": "MG72712130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.675",
+      "lon": "49.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomena",
+      "en": "Andranomena",
+      "slug": "andranomena"
+    },
+    "code": {
+      "id": "MG72712190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.593",
+      "lon": "49.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjialavabe",
+      "en": "Anjialavabe",
+      "slug": "anjialavabe"
+    },
+    "code": {
+      "id": "MG72712330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.208",
+      "lon": "49.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiakabe Nord",
+      "en": "Ankiakabe Nord",
+      "slug": "ankiakabe-nord"
+    },
+    "code": {
+      "id": "MG72712050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.671",
+      "lon": "49.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anoviara",
+      "en": "Anoviara",
+      "slug": "anoviara"
+    },
+    "code": {
+      "id": "MG72712290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.77",
+      "lon": "49.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahamena",
+      "en": "Antsahamena",
+      "slug": "antsahamena"
+    },
+    "code": {
+      "id": "MG72712350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.938",
+      "lon": "49.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bealampona",
+      "en": "Bealampona",
+      "slug": "bealampona"
+    },
+    "code": {
+      "id": "MG72712150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.694",
+      "lon": "49.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belaoka Lokoho",
+      "en": "Belaoka Lokoho",
+      "slug": "belaoka-lokoho"
+    },
+    "code": {
+      "id": "MG72712270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.56",
+      "lon": "49.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belaoka Marovato",
+      "en": "Belaoka Marovato",
+      "slug": "belaoka-marovato"
+    },
+    "code": {
+      "id": "MG72712070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.613",
+      "lon": "49.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsakotsako Andranotsara",
+      "en": "Betsakotsako Andranotsara",
+      "slug": "betsakotsako-andranotsara"
+    },
+    "code": {
+      "id": "MG72712250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.569",
+      "lon": "49.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doany",
+      "en": "Doany",
+      "slug": "doany"
+    },
+    "code": {
+      "id": "MG72712310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.349",
+      "lon": "49.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato",
+      "en": "Marovato",
+      "slug": "marovato"
+    },
+    "code": {
+      "id": "MG72712110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.549",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matsohely",
+      "en": "Matsohely",
+      "slug": "matsohely"
+    },
+    "code": {
+      "id": "MG72712170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.61",
+      "lon": "49.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72712030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanandava",
+      "en": "Tanandava",
+      "slug": "tanandava"
+    },
+    "code": {
+      "id": "MG72712030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72712",
+      "level": 2,
+      "name": {
+        "local": "Andapa",
+        "en": "Andapa",
+        "slug": "andapa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72712",
+        "level": 2,
+        "name": {
+          "local": "Andapa",
+          "en": "Andapa",
+          "slug": "andapa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.766",
+      "lon": "49.67"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

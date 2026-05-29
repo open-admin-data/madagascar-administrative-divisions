@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG23212190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andemaka",
+      "en": "Andemaka",
+      "slug": "andemaka"
+    },
+    "code": {
+      "id": "MG23212190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.29",
+      "lon": "47.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarimbary",
+      "en": "Ankarimbary",
+      "slug": "ankarimbary"
+    },
+    "code": {
+      "id": "MG23212090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.32",
+      "lon": "47.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212053",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anoloka",
+      "en": "Anoloka",
+      "slug": "anoloka"
+    },
+    "code": {
+      "id": "MG23212053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.364",
+      "lon": "47.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antananabo",
+      "en": "Antananabo",
+      "slug": "antananabo"
+    },
+    "code": {
+      "id": "MG23212212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.455",
+      "lon": "47.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifatsy",
+      "en": "Ifatsy",
+      "slug": "ifatsy"
+    },
+    "code": {
+      "id": "MG23212211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.378",
+      "lon": "47.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilakatra",
+      "en": "Ilakatra",
+      "slug": "ilakatra"
+    },
+    "code": {
+      "id": "MG23212230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.369",
+      "lon": "47.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivato",
+      "en": "Ivato",
+      "slug": "ivato"
+    },
+    "code": {
+      "id": "MG23212051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.437",
+      "lon": "47.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lanivo",
+      "en": "Lanivo",
+      "slug": "lanivo"
+    },
+    "code": {
+      "id": "MG23212110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.276",
+      "lon": "47.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabo",
+      "en": "Mahabo",
+      "slug": "mahabo"
+    },
+    "code": {
+      "id": "MG23212070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.368",
+      "lon": "44.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahasoabe",
+      "en": "Mahasoabe",
+      "slug": "mahasoabe"
+    },
+    "code": {
+      "id": "MG23212150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.273",
+      "lon": "47.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoarivo",
+      "en": "Mahazoarivo",
+      "slug": "mahazoarivo"
+    },
+    "code": {
+      "id": "MG23212270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.649",
+      "lon": "47.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nato",
+      "en": "Nato",
+      "slug": "nato"
+    },
+    "code": {
+      "id": "MG23212130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.276",
+      "lon": "47.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Onjatsy",
+      "en": "Onjatsy",
+      "slug": "onjatsy"
+    },
+    "code": {
+      "id": "MG23212171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.419",
+      "lon": "47.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahalava",
+      "en": "Sahalava",
+      "slug": "sahalava"
+    },
+    "code": {
+      "id": "MG23212250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.247",
+      "lon": "47.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Savana",
+      "en": "Savana",
+      "slug": "savana"
+    },
+    "code": {
+      "id": "MG23212052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.373",
+      "lon": "47.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilany",
+      "en": "Vohilany",
+      "slug": "vohilany"
+    },
+    "code": {
+      "id": "MG23212172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.415",
+      "lon": "47.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohindava",
+      "en": "Vohindava",
+      "slug": "vohindava"
+    },
+    "code": {
+      "id": "MG23212032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.449",
+      "lon": "47.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohipeno",
+      "en": "Vohipeno",
+      "slug": "vohipeno"
+    },
+    "code": {
+      "id": "MG23212010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.136",
+      "lon": "49.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitrindry",
+      "en": "Vohitrindry",
+      "slug": "vohitrindry"
+    },
+    "code": {
+      "id": "MG23212031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23212",
+      "level": 2,
+      "name": {
+        "local": "Vohipeno",
+        "en": "Vohipeno",
+        "slug": "vohipeno"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23212",
+        "level": 2,
+        "name": {
+          "local": "Vohipeno",
+          "en": "Vohipeno",
+          "slug": "vohipeno"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.414",
+      "lon": "47.805"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

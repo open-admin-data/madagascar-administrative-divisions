@@ -1,0 +1,47 @@
+{
+  "id": "MG25217",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vondrozo",
+    "en": "Vondrozo",
+    "slug": "vondrozo"
+  },
+  "code": {
+    "id": "MG25217",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG25",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Atsinanana",
+      "en": "Atsimo Atsinanana",
+      "slug": "atsimo-atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.691",
+    "lon": "47.308"
+  },
+  "metadata": {},
+  "source": {}
+}

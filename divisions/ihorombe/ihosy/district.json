@@ -1,0 +1,47 @@
+{
+  "id": "MG24216",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ihosy",
+    "en": "Ihosy",
+    "slug": "ihosy"
+  },
+  "code": {
+    "id": "MG24216",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG24",
+    "level": 1,
+    "name": {
+      "local": "Ihorombe",
+      "en": "Ihorombe",
+      "slug": "ihorombe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG24",
+      "level": 1,
+      "name": {
+        "local": "Ihorombe",
+        "en": "Ihorombe",
+        "slug": "ihorombe"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.367",
+    "lon": "45.85"
+  },
+  "metadata": {},
+  "source": {}
+}

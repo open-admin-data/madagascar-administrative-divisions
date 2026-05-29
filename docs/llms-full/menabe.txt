@@ -1,0 +1,238 @@
+# Menabe — Madagascar Administrative Divisions
+
+> 5 districts, 51 communes
+> Code: MG54
+> Coordinates: -20.036, 44.701
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Belo Sur Tsiribihina
+
+Code: MG54510, Coordinates: -19.66, 44.791
+Communes: 14
+
+#### Aboalimena
+
+Code: MG54510090, Coordinates: -19.328, 44.437
+
+#### Ambiky
+
+Code: MG54510112, Coordinates: -19.386, 45.025
+
+#### Andimaky Manambolo
+
+Code: MG54510012, Coordinates: -19.355, 44.699
+
+#### Ankalalobe
+
+Code: MG54510111, Coordinates: -19.552, 45.084
+
+#### Ankiroroky
+
+Code: MG54510152, Coordinates: -19.82, 45.125
+
+#### Antsoha
+
+Code: MG54510132, Coordinates: -12.498, 49.215
+
+#### Belinta
+
+Code: MG54510151, Coordinates: -20.011, 45.133
+
+#### Belo Sur Tsiribihina
+
+Code: MG54510011, Coordinates: -19.651, 44.486
+
+#### Bemarivo Ankirondro
+
+Code: MG54510013, Coordinates: -19.617, 44.613
+
+#### Berevo
+
+Code: MG54510131, Coordinates: -19.804, 44.962
+
+#### Beroboka Nord
+
+Code: MG54510032, Coordinates: -19.914, 44.645
+
+#### Masoarivo
+
+Code: MG54510070, Coordinates: -19.607, 44.778
+
+#### Tsaraotana
+
+Code: MG54510050, Coordinates: -19.779, 44.837
+
+#### Tsimafana
+
+Code: MG54510031, Coordinates: -19.776, 44.602
+
+### Mahabo
+
+Code: MG54509, Coordinates: -20.687, 45.186
+Communes: 11
+
+#### Ambia
+
+Code: MG54509092, Coordinates: -20.736, 45.206
+
+#### Ampanihy
+
+Code: MG54509070, Coordinates: -19.469, 45.391
+
+#### Analamitsivalana
+
+Code: MG54509051, Coordinates: -20.31, 44.707
+
+#### Ankilivalo
+
+Code: MG54509030, Coordinates: -20.274, 44.648
+
+#### Ankilizato
+
+Code: MG54509091, Coordinates: -20.424, 45.169
+
+#### Befotaka
+
+Code: MG54509052, Coordinates: -20.241, 44.923
+
+#### Beronono
+
+Code: MG54509150, Coordinates: -20.982, 45.121
+
+#### Mahabo
+
+Code: MG54509010, Coordinates: -20.368, 44.661
+
+#### Malaimbandy
+
+Code: MG54509130, Coordinates: -20.427, 45.571
+
+#### Mandabe
+
+Code: MG54509110, Coordinates: -21.015, 44.874
+
+#### Mazavasoa
+
+Code: MG54509170, Coordinates: -20.833, 45.58
+
+### Manja
+
+Code: MG54502, Coordinates: -21.407, 44.152
+Communes: 6
+
+#### Andranopasy
+
+Code: MG54502110, Coordinates: -21.247, 43.887
+
+#### Ankiliabo
+
+Code: MG54502090, Coordinates: -21.671, 43.909
+
+#### Anontsibe Centre
+
+Code: MG54502050, Coordinates: -21.262, 44.579
+
+#### Beharona
+
+Code: MG54502030, Coordinates: -21.629, 44.377
+
+#### Manja
+
+Code: MG54502010, Coordinates: -21.368, 44.287
+
+#### Soaserana
+
+Code: MG54502070, Coordinates: -21.125, 44.211
+
+### Miandrivazo
+
+Code: MG54511, Coordinates: -19.207, 45.321
+Communes: 15
+
+#### Ambatolahy
+
+Code: MG54511091, Coordinates: -20.028, 45.594
+
+#### Ampanihy
+
+Code: MG54511032, Coordinates: -19.469, 45.391
+
+#### Ankavandra
+
+Code: MG54511130, Coordinates: -18.818, 45.258
+
+#### Ankondromena
+
+Code: MG54511210, Coordinates: -18.401, 44.963
+
+#### Ankotrofotsy
+
+Code: MG54511071, Coordinates: -19.831, 45.488
+
+#### Anosimena
+
+Code: MG54511033, Coordinates: -19.635, 45.387
+
+#### Bemahatazana
+
+Code: MG54511031, Coordinates: -19.57, 45.326
+
+#### Betsipolitra
+
+Code: MG54511170, Coordinates: -18.699, 45.068
+
+#### Dabolava
+
+Code: MG54511012, Coordinates: -19.662, 45.652
+
+#### Isalo
+
+Code: MG54511072, Coordinates: -19.78, 45.364
+
+#### Itondy
+
+Code: MG54511110, Coordinates: -19.064, 45.308
+
+#### Manambina
+
+Code: MG54511092, Coordinates: -20.069, 45.45
+
+#### Manandaza
+
+Code: MG54511050, Coordinates: -19.298, 45.494
+
+#### Miandrivazo
+
+Code: MG54511011, Coordinates: -19.541, 45.524
+
+#### Soaloka
+
+Code: MG54511150, Coordinates: -18.434, 45.322
+
+### Morondava
+
+Code: MG54508, Coordinates: -20.514, 44.347
+Communes: 5
+
+#### Analaiva
+
+Code: MG54508079, Coordinates: -20.408, 44.493
+
+#### Befasy
+
+Code: MG54508159, Coordinates: -20.771, 44.47
+
+#### Belo Sur Mer
+
+Code: MG54508179, Coordinates: -20.696, 44.083
+
+#### Bemanonga
+
+Code: MG54508059, Coordinates: -20.199, 44.516
+
+#### Morondava
+
+Code: MG54508010, Coordinates: -20.298, 44.296
+

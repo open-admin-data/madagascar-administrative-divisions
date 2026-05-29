@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG71715009",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Diego Suarez",
+      "en": "Diego Suarez",
+      "slug": "diego-suarez"
+    },
+    "code": {
+      "id": "MG71715009",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71715",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana I",
+        "en": "Antsiranana I",
+        "slug": "antsiranana-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71715",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana I",
+          "en": "Antsiranana I",
+          "slug": "antsiranana-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.291",
+      "lon": "49.265"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

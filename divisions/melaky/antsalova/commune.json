@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MG44420010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsalova",
+      "en": "Antsalova",
+      "slug": "antsalova"
+    },
+    "code": {
+      "id": "MG44420010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44420",
+      "level": 2,
+      "name": {
+        "local": "Antsalova",
+        "en": "Antsalova",
+        "slug": "antsalova"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44420",
+        "level": 2,
+        "name": {
+          "local": "Antsalova",
+          "en": "Antsalova",
+          "slug": "antsalova"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.658",
+      "lon": "44.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44420090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekopaka",
+      "en": "Bekopaka",
+      "slug": "bekopaka"
+    },
+    "code": {
+      "id": "MG44420090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44420",
+      "level": 2,
+      "name": {
+        "local": "Antsalova",
+        "en": "Antsalova",
+        "slug": "antsalova"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44420",
+        "level": 2,
+        "name": {
+          "local": "Antsalova",
+          "en": "Antsalova",
+          "slug": "antsalova"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.078",
+      "lon": "44.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44420050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masoarivo",
+      "en": "Masoarivo",
+      "slug": "masoarivo"
+    },
+    "code": {
+      "id": "MG44420050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44420",
+      "level": 2,
+      "name": {
+        "local": "Antsalova",
+        "en": "Antsalova",
+        "slug": "antsalova"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44420",
+        "level": 2,
+        "name": {
+          "local": "Antsalova",
+          "en": "Antsalova",
+          "slug": "antsalova"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.607",
+      "lon": "44.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44420030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soahany",
+      "en": "Soahany",
+      "slug": "soahany"
+    },
+    "code": {
+      "id": "MG44420030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44420",
+      "level": 2,
+      "name": {
+        "local": "Antsalova",
+        "en": "Antsalova",
+        "slug": "antsalova"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44420",
+        "level": 2,
+        "name": {
+          "local": "Antsalova",
+          "en": "Antsalova",
+          "slug": "antsalova"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.649",
+      "lon": "44.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44420070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Trangahy",
+      "en": "Trangahy",
+      "slug": "trangahy"
+    },
+    "code": {
+      "id": "MG44420070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44420",
+      "level": 2,
+      "name": {
+        "local": "Antsalova",
+        "en": "Antsalova",
+        "slug": "antsalova"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44420",
+        "level": 2,
+        "name": {
+          "local": "Antsalova",
+          "en": "Antsalova",
+          "slug": "antsalova"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.038",
+      "lon": "44.565"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "MG44421050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andabotoka",
+      "en": "Andabotoka",
+      "slug": "andabotoka"
+    },
+    "code": {
+      "id": "MG44421050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.175",
+      "lon": "44.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421194",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranovao",
+      "en": "Andranovao",
+      "slug": "andranovao"
+    },
+    "code": {
+      "id": "MG44421194",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.634",
+      "lon": "44.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrea",
+      "en": "Andrea",
+      "slug": "andrea"
+    },
+    "code": {
+      "id": "MG44421090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.811",
+      "lon": "44.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankisatra",
+      "en": "Ankisatra",
+      "slug": "ankisatra"
+    },
+    "code": {
+      "id": "MG44421110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.392",
+      "lon": "44.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsaidoha Bebao",
+      "en": "Antsaidoha Bebao",
+      "slug": "antsaidoha-bebao"
+    },
+    "code": {
+      "id": "MG44421210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.438",
+      "lon": "44.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsondrodava",
+      "en": "Antsondrodava",
+      "slug": "antsondrodava"
+    },
+    "code": {
+      "id": "MG44421150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.416",
+      "lon": "44.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bebaboky Sud",
+      "en": "Bebaboky Sud",
+      "slug": "bebaboky-sud"
+    },
+    "code": {
+      "id": "MG44421232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.085",
+      "lon": "44.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belitsaky",
+      "en": "Belitsaky",
+      "slug": "belitsaky"
+    },
+    "code": {
+      "id": "MG44421170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.94",
+      "lon": "44.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421233",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemokotra Sud",
+      "en": "Bemokotra Sud",
+      "slug": "bemokotra-sud"
+    },
+    "code": {
+      "id": "MG44421233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.298",
+      "lon": "44.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berevo/ranobe",
+      "en": "Berevo/ranobe",
+      "slug": "berevoranobe"
+    },
+    "code": {
+      "id": "MG44421231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.293",
+      "lon": "44.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betanatanana",
+      "en": "Betanatanana",
+      "slug": "betanatanana"
+    },
+    "code": {
+      "id": "MG44421070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.197",
+      "lon": "44.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mafaijijo",
+      "en": "Mafaijijo",
+      "slug": "mafaijijo"
+    },
+    "code": {
+      "id": "MG44421030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.004",
+      "lon": "44.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maintirano",
+      "en": "Maintirano",
+      "slug": "maintirano"
+    },
+    "code": {
+      "id": "MG44421010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.015",
+      "lon": "44.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marohazo",
+      "en": "Marohazo",
+      "slug": "marohazo"
+    },
+    "code": {
+      "id": "MG44421130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.682",
+      "lon": "44.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421193",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromavo",
+      "en": "Maromavo",
+      "slug": "maromavo"
+    },
+    "code": {
+      "id": "MG44421193",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.59",
+      "lon": "44.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tambohorano",
+      "en": "Tambohorano",
+      "slug": "tambohorano"
+    },
+    "code": {
+      "id": "MG44421191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.467",
+      "lon": "44.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Veromanga",
+      "en": "Veromanga",
+      "slug": "veromanga"
+    },
+    "code": {
+      "id": "MG44421192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44421",
+      "level": 2,
+      "name": {
+        "local": "Maintirano",
+        "en": "Maintirano",
+        "slug": "maintirano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44421",
+        "level": 2,
+        "name": {
+          "local": "Maintirano",
+          "en": "Maintirano",
+          "slug": "maintirano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.476",
+      "lon": "44.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

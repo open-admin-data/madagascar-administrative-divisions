@@ -1,0 +1,128 @@
+# Ihorombe — Madagascar Administrative Divisions
+
+> 3 districts, 26 communes
+> Code: MG24
+> Coordinates: -22.634, 46.085
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Iakora
+
+Code: MG24221, Coordinates: -23.157, 46.601
+Communes: 3
+
+#### Begogo
+
+Code: MG24221050, Coordinates: -23.426, 46.655
+
+#### Iakora
+
+Code: MG24221010, Coordinates: -23.073, 46.574
+
+#### Ranotsara Nord
+
+Code: MG24221030, Coordinates: -22.796, 46.69
+
+### Ihosy
+
+Code: MG24216, Coordinates: -22.367, 45.85
+Communes: 19
+
+#### Ambatolahy
+
+Code: MG24216131, Coordinates: -20.028, 45.594
+
+#### Ambia
+
+Code: MG24216032, Coordinates: -20.736, 45.206
+
+#### Analaliry
+
+Code: MG24216090, Coordinates: -22.74, 46.243
+
+#### Analavoka
+
+Code: MG24216210, Coordinates: -22.583, 46.526
+
+#### Andiolava
+
+Code: MG24216192, Coordinates: -22.508, 45.582
+
+#### Ankily
+
+Code: MG24216031, Coordinates: -22.368, 46.076
+
+#### Antsoha
+
+Code: MG24216152, Coordinates: -12.498, 49.215
+
+#### Ihosy
+
+Code: MG24216010, Coordinates: -22.389, 46.142
+
+#### Ilakaka
+
+Code: MG24216232, Coordinates: -22.893, 45.297
+
+#### Irina
+
+Code: MG24216050, Coordinates: -22.471, 46.095
+
+#### Mahasoa
+
+Code: MG24216110, Coordinates: -22.003, 45.937
+
+#### Menamaty Iloto
+
+Code: MG24216250, Coordinates: -21.916, 45.391
+
+#### Ranohira
+
+Code: MG24216231, Coordinates: -22.465, 45.293
+
+#### Sahambano
+
+Code: MG24216070, Coordinates: -22.594, 46.346
+
+#### Sakalalina
+
+Code: MG24216170, Coordinates: -22.343, 46.504
+
+#### Satrokala
+
+Code: MG24216191, Coordinates: -22.039, 45.698
+
+#### Soamatasy
+
+Code: MG24216132, Coordinates: -22.659, 46.037
+
+#### Tolohomiady
+
+Code: MG24216033, Coordinates: -22.478, 46.156
+
+#### Zazafotsy
+
+Code: MG24216151, Coordinates: -22.061, 46.376
+
+### Ivohibe
+
+Code: MG24218, Coordinates: -22.545, 46.871
+Communes: 4
+
+#### Antambohobe
+
+Code: MG24218030, Coordinates: -22.26, 46.723
+
+#### Ivohibe
+
+Code: MG24218010, Coordinates: -22.573, 46.792
+
+#### Ivongo
+
+Code: MG24218070, Coordinates: -22.416, 47.07
+
+#### Maropaika
+
+Code: MG24218050, Coordinates: -22.802, 47.009
+

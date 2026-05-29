@@ -1,0 +1,47 @@
+{
+  "id": "MG32303",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maroantsetra",
+    "en": "Maroantsetra",
+    "slug": "maroantsetra"
+  },
+  "code": {
+    "id": "MG32303",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.369",
+    "lon": "49.534"
+  },
+  "metadata": {},
+  "source": {}
+}

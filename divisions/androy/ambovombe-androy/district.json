@@ -1,0 +1,47 @@
+{
+  "id": "MG52516",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambovombe-Androy",
+    "en": "Ambovombe-Androy",
+    "slug": "ambovombe-androy"
+  },
+  "code": {
+    "id": "MG52516",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG52",
+    "level": 1,
+    "name": {
+      "local": "Androy",
+      "en": "Androy",
+      "slug": "androy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.799",
+    "lon": "45.796"
+  },
+  "metadata": {},
+  "source": {}
+}

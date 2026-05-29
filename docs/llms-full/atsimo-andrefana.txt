@@ -1,0 +1,494 @@
+# Atsimo Andrefana — Madagascar Administrative Divisions
+
+> 9 districts, 110 communes
+> Code: MG51
+> Coordinates: -18.977, 48.584
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ampanihy Ouest
+
+Code: MG51507, Coordinates: -24.59, 44.422
+Communes: 16
+
+#### Amborompotsy
+
+Code: MG51507050, Coordinates: -24.707, 44.955
+
+#### Ampanihy Ouest
+
+Code: MG51507010, Coordinates: -24.853, 44.555
+
+#### Androka
+
+Code: MG51507230, Coordinates: -25.054, 44.317
+
+#### Ankiliabo
+
+Code: MG51507030, Coordinates: -21.671, 43.909
+
+#### Ankilimivory
+
+Code: MG51507130, Coordinates: -24.407, 44.996
+
+#### Ankilizato
+
+Code: MG51507070, Coordinates: -20.424, 45.169
+
+#### Antaly
+
+Code: MG51507110, Coordinates: -24.337, 44.865
+
+#### Beahitse
+
+Code: MG51507190, Coordinates: -24.173, 44.345
+
+#### Belafike Haut
+
+Code: MG51507170, Coordinates: -24.303, 44.634
+
+#### Beroy Atsimo
+
+Code: MG51507270, Coordinates: -24.009, 44.766
+
+#### Ejeda
+
+Code: MG51507150, Coordinates: -24.291, 44.475
+
+#### Fotadrevo
+
+Code: MG51507290, Coordinates: -24.083, 45.01
+
+#### Gogogogo
+
+Code: MG51507210, Coordinates: -24.311, 44.802
+
+#### Itampolo
+
+Code: MG51507310, Coordinates: -24.583, 44.013
+
+#### Maniry
+
+Code: MG51507090, Coordinates: -24.473, 44.924
+
+#### Vohitany
+
+Code: MG51507250, Coordinates: -24.134, 44.72
+
+### Ankazoabo
+
+Code: MG51505, Coordinates: -22.132, 44.7
+Communes: 6
+
+#### Andranomafana
+
+Code: MG51505050, Coordinates: -22.171, 44.267
+
+#### Ankazoabo Sud
+
+Code: MG51505011, Coordinates: -22.314, 44.535
+
+#### Berenty
+
+Code: MG51505071, Coordinates: -22.171, 45.043
+
+#### Fotivolo
+
+Code: MG51505012, Coordinates: -22.442, 44.598
+
+#### Ilemby
+
+Code: MG51505072, Coordinates: -22.443, 44.988
+
+#### Tandrano
+
+Code: MG51505030, Coordinates: -21.99, 44.659
+
+### Benenitra
+
+Code: MG51521, Coordinates: -23.452, 45.065
+Communes: 4
+
+#### Ambalavato
+
+Code: MG51521032, Coordinates: -23.575, 45.325
+
+#### Benenitra
+
+Code: MG51521010, Coordinates: -23.267, 45.149
+
+#### Ehara
+
+Code: MG51521050, Coordinates: -23.272, 44.849
+
+#### Ianapera
+
+Code: MG51521031, Coordinates: -23.676, 45.154
+
+### Beroroha
+
+Code: MG51503, Coordinates: -21.505, 45.236
+Communes: 8
+
+#### Behisatsy
+
+Code: MG51503050, Coordinates: -21.903, 45.091
+
+#### Bemavo
+
+Code: MG51503012, Coordinates: -21.675, 45.354
+
+#### Beroroha
+
+Code: MG51503011, Coordinates: -21.421, 45.24
+
+#### Fanjakana
+
+Code: MG51503030, Coordinates: -21.732, 45.055
+
+#### Mandronarivo
+
+Code: MG51503091, Coordinates: -21.146, 45.586
+
+#### Marerano
+
+Code: MG51503070, Coordinates: -21.468, 44.898
+
+#### Sakena
+
+Code: MG51503093, Coordinates: -21.001, 45.646
+
+#### Tanamary
+
+Code: MG51503092, Coordinates: -21.283, 45.498
+
+### Betioky Atsimo
+
+Code: MG51506, Coordinates: -23.693, 44.534
+Communes: 27
+
+#### Ambatry Mitsinjo
+
+Code: MG51506013, Coordinates: -23.869, 44.408
+
+#### Andranomangatsiaka
+
+Code: MG51506191, Coordinates: -23.364, 44.525
+
+#### Ankazomanga Ouest
+
+Code: MG51506014, Coordinates: -23.695, 44.132
+
+#### Ankazombalala
+
+Code: MG51506130, Coordinates: -23.66, 44.581
+
+#### Ankilivalo
+
+Code: MG51506192, Coordinates: -20.274, 44.648
+
+#### Antohabato
+
+Code: MG51506070, Coordinates: -23.605, 44.45
+
+#### Antsavoa
+
+Code: MG51506312, Coordinates: -23.53, 44.779
+
+#### Beantake
+
+Code: MG51506030, Coordinates: -23.867, 44.303
+
+#### Belamoty
+
+Code: MG51506311, Coordinates: -23.61, 44.826
+
+#### Besely
+
+Code: MG51506112, Coordinates: -23.356, 44.394
+
+#### Betioky Atsimo
+
+Code: MG51506011, Coordinates: -23.839, 44.448
+
+#### Bezaha
+
+Code: MG51506150, Coordinates: -23.504, 44.491
+
+#### Fenoandala
+
+Code: MG51506230, Coordinates: -23.531, 44.648
+
+#### Lazarivo
+
+Code: MG51506330, Coordinates: -23.817, 44.991
+
+#### Manalobe
+
+Code: MG51506170, Coordinates: -23.456, 44.624
+
+#### Maroarivo Ankazomanga
+
+Code: MG51506015, Coordinates: -23.922, 44.097
+
+#### Marosavoa
+
+Code: MG51506252, Coordinates: -23.836, 44.831
+
+#### Masiaboay
+
+Code: MG51506050, Coordinates: -23.95, 44.417
+
+#### Montifeno
+
+Code: MG51506313, Coordinates: -23.457, 44.766
+
+#### Sakamasay
+
+Code: MG51506012, Coordinates: -23.848, 44.7
+
+#### Salobe
+
+Code: MG51506270, Coordinates: -23.516, 44.71
+
+#### Soamanonga
+
+Code: MG51506210, Coordinates: -23.876, 44.785
+
+#### Soaserana
+
+Code: MG51506251, Coordinates: -21.125, 44.211
+
+#### Tameantsoa
+
+Code: MG51506090, Coordinates: -23.628, 44.257
+
+#### Tanambao Haut
+
+Code: MG51506290, Coordinates: -23.549, 44.745
+
+#### Tongobory
+
+Code: MG51506111, Coordinates: -23.451, 44.257
+
+#### Vatolatsaka
+
+Code: MG51506113, Coordinates: -23.287, 44.278
+
+### Morombe
+
+Code: MG51504, Coordinates: -21.873, 43.739
+Communes: 8
+
+#### Ambahikily
+
+Code: MG51504050, Coordinates: -21.619, 43.672
+
+#### Antanimieva
+
+Code: MG51504130, Coordinates: -22.302, 43.807
+
+#### Antongo Vaovao
+
+Code: MG51504070, Coordinates: -21.459, 43.569
+
+#### Basibasy
+
+Code: MG51504150, Coordinates: -22.043, 43.629
+
+#### Befandefa
+
+Code: MG51504030, Coordinates: -22.126, 43.355
+
+#### Befandriana Sud
+
+Code: MG51504110, Coordinates: -22.188, 43.971
+
+#### Cu Morombe
+
+Code: MG51504010, Coordinates: -21.77, 43.499
+
+#### Nosy Ambositra
+
+Code: MG51504090, Coordinates: -21.945, 44.028
+
+### Sakaraha
+
+Code: MG51512, Coordinates: -22.83, 44.369
+Communes: 12
+
+#### Ambinany
+
+Code: MG51512150, Coordinates: -22.695, 44.898
+
+#### Amboronabo
+
+Code: MG51512070, Coordinates: -22.626, 44.356
+
+#### Andamasiny Vineta
+
+Code: MG51512111, Coordinates: -23.031, 44.262
+
+#### Andranolava
+
+Code: MG51512130, Coordinates: -22.607, 44.641
+
+#### Bereketa
+
+Code: MG51512090, Coordinates: -23.092, 44.414
+
+#### Mahaboboka
+
+Code: MG51512050, Coordinates: -22.793, 44.257
+
+#### Miary Lamatihy
+
+Code: MG51512030, Coordinates: -22.805, 44.434
+
+#### Miary Taheza
+
+Code: MG51512012, Coordinates: -23.089, 44.762
+
+#### Mihavatsy
+
+Code: MG51512112, Coordinates: -22.921, 44.159
+
+#### Mikoboka
+
+Code: MG51512171, Coordinates: -22.583, 43.998
+
+#### Mitsinjo
+
+Code: MG51512172, Coordinates: -22.777, 43.894
+
+#### Sakaraha
+
+Code: MG51512011, Coordinates: -22.894, 44.629
+
+### Toliary-I
+
+Code: MG51501, Coordinates: -23.343, 43.659
+Communes: 6
+
+#### Besakoa
+
+Code: MG51501006, Coordinates: -24.156, 45.256
+
+#### Betania
+
+Code: MG51501005, Coordinates: -23.342, 43.681
+
+#### Mahavatse I
+
+Code: MG51501003, Coordinates: -23.375, 43.688
+
+#### Mahavatse II
+
+Code: MG51501004, Coordinates: -23.367, 43.673
+
+#### Tanambao I
+
+Code: MG51501001, Coordinates: -23.352, 43.67
+
+#### Tanambao II Tsf Nord
+
+Code: MG51501002, Coordinates: -23.358, 43.686
+
+### Toliary-II
+
+Code: MG51520, Coordinates: -23.281, 43.808
+Communes: 23
+
+#### Ambohimahavelona
+
+Code: MG51520111, Coordinates: -23.465, 43.993
+
+#### Ambolofoty
+
+Code: MG51520150, Coordinates: -23.519, 43.875
+
+#### Anakao
+
+Code: MG51520132, Coordinates: -23.737, 43.666
+
+#### Analamisampy
+
+Code: MG51520330, Coordinates: -22.486, 43.631
+
+#### Andranohinaly
+
+Code: MG51520112, Coordinates: -23.354, 43.962
+
+#### Andranovory
+
+Code: MG51520270, Coordinates: -23.142, 44.164
+
+#### Ankililoaka
+
+Code: MG51520310, Coordinates: -22.688, 43.629
+
+#### Ankilimalinike
+
+Code: MG51520170, Coordinates: -22.985, 43.616
+
+#### Antanimena Onilahy
+
+Code: MG51520191, Coordinates: -23.554, 44.068
+
+#### Beheloka
+
+Code: MG51520358, Coordinates: -23.983, 43.919
+
+#### Behompy
+
+Code: MG51520072, Coordinates: -23.088, 43.92
+
+#### Belalanda
+
+Code: MG51520030, Coordinates: -23.184, 43.66
+
+#### Betsinjaka
+
+Code: MG51520050, Coordinates: -23.357, 43.752
+
+#### Manombo Sud
+
+Code: MG51520250, Coordinates: -22.744, 43.445
+
+#### Manorofify
+
+Code: MG51520192, Coordinates: -23.587, 43.915
+
+#### Marofoty
+
+Code: MG51520210, Coordinates: -22.896, 43.531
+
+#### Maromiandra
+
+Code: MG51520090, Coordinates: -23.079, 43.814
+
+#### Miary Ambohibola
+
+Code: MG51520071, Coordinates: -23.302, 43.742
+
+#### Milenaka
+
+Code: MG51520290, Coordinates: -22.829, 43.589
+
+#### Mitsinjo Betanimena
+
+Code: MG51520010, Coordinates: -23.331, 43.694
+
+#### Saint Augustin
+
+Code: MG51520131, Coordinates: -23.519, 43.801
+
+#### Soalara Sud
+
+Code: MG51520133, Coordinates: -23.697, 43.811
+
+#### Tsianisiha
+
+Code: MG51520230, Coordinates: -22.882, 43.637
+

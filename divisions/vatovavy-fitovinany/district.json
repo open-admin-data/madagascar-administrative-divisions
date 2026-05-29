@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MG23206",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ifanadiana",
+      "en": "Ifanadiana",
+      "slug": "ifanadiana"
+    },
+    "code": {
+      "id": "MG23206",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.071",
+      "lon": "47.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ikongo",
+      "en": "Ikongo",
+      "slug": "ikongo"
+    },
+    "code": {
+      "id": "MG23211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.855",
+      "lon": "47.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manakara Atsimo",
+      "en": "Manakara Atsimo",
+      "slug": "manakara-atsimo"
+    },
+    "code": {
+      "id": "MG23210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.964",
+      "lon": "47.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mananjary",
+      "en": "Mananjary",
+      "slug": "mananjary"
+    },
+    "code": {
+      "id": "MG23209",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.236",
+      "lon": "48.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nosy-Varika",
+      "en": "Nosy-Varika",
+      "slug": "nosy-varika"
+    },
+    "code": {
+      "id": "MG23207",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.536",
+      "lon": "48.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23212",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vohipeno",
+      "en": "Vohipeno",
+      "slug": "vohipeno"
+    },
+    "code": {
+      "id": "MG23212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.341",
+      "lon": "47.683"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

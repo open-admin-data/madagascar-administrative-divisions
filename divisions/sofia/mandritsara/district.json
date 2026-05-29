@@ -1,0 +1,47 @@
+{
+  "id": "MG42410",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandritsara",
+    "en": "Mandritsara",
+    "slug": "mandritsara"
+  },
+  "code": {
+    "id": "MG42410",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.049",
+    "lon": "48.704"
+  },
+  "metadata": {},
+  "source": {}
+}

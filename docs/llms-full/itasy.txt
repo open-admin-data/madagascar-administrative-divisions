@@ -1,0 +1,228 @@
+# Itasy — Madagascar Administrative Divisions
+
+> 3 districts, 51 communes
+> Code: MG13
+> Coordinates: -19.056, 46.833
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Arivonimamo
+
+Code: MG13105, Coordinates: -19.045, 47.248
+Communes: 22
+
+#### Alakamisikely
+
+Code: MG13105213, Coordinates: -19.22, 47.195
+
+#### Ambatomanga
+
+Code: MG13105190, Coordinates: -18.797, 47.177
+
+#### Ambatomirahavavy
+
+Code: MG13105170, Coordinates: -18.968, 47.388
+
+#### Amboanana
+
+Code: MG13105090, Coordinates: -19.18, 47.189
+
+#### Ambohimandry
+
+Code: MG13105230, Coordinates: -19.085, 47.365
+
+#### Ambohimasina
+
+Code: MG13105270, Coordinates: -18.823, 47.268
+
+#### Ambohipandrano
+
+Code: MG13105291, Coordinates: -19.159, 47.35
+
+#### Ambohitrambo
+
+Code: MG13105050, Coordinates: -18.906, 47.17
+
+#### Ampahimanga
+
+Code: MG13105070, Coordinates: -19.112, 47.192
+
+#### Antambolo
+
+Code: MG13105250, Coordinates: -18.841, 47.309
+
+#### Antenimbe
+
+Code: MG13105212, Coordinates: -19.206, 47.088
+
+#### Arivonimamo I
+
+Code: MG13105010, Coordinates: -19.018, 47.192
+
+#### Arivonimamo II
+
+Code: MG13105030, Coordinates: -19.006, 47.166
+
+#### Imerintsiatosika
+
+Code: MG13105130, Coordinates: -19.011, 47.309
+
+#### Mahatsinjo Est
+
+Code: MG13105214, Coordinates: -19.283, 47.215
+
+#### Manalalondo
+
+Code: MG13105211, Coordinates: -19.267, 47.115
+
+#### Marofangady
+
+Code: MG13105215, Coordinates: -19.319, 47.11
+
+#### Miandrandra
+
+Code: MG13105292, Coordinates: -19.207, 47.309
+
+#### Miantsoarivo
+
+Code: MG13105310, Coordinates: -19.206, 47.364
+
+#### Morafeno
+
+Code: MG13105110, Coordinates: -14.371, 50.046
+
+#### Morarano
+
+Code: MG13105150, Coordinates: -18.158, 49.387
+
+#### Rambolamasoandro Andranomiely
+
+Code: MG13105216, Coordinates: -19.33, 47.191
+
+### Miarinarivo
+
+Code: MG13112, Coordinates: -18.928, 46.805
+Communes: 14
+
+#### Alatsinainikely
+
+Code: MG13112112, Coordinates: -18.944, 46.567
+
+#### Ambatomanjaka
+
+Code: MG13112050, Coordinates: -18.806, 46.869
+
+#### Analavory
+
+Code: MG13112111, Coordinates: -21.7, 47.937
+
+#### Andolofotsy
+
+Code: MG13112210, Coordinates: -18.75, 46.626
+
+#### Anosibe Ifanja
+
+Code: MG13112151, Coordinates: -18.891, 46.734
+
+#### Antoby Est
+
+Code: MG13112072, Coordinates: -19.101, 46.897
+
+#### Manazary
+
+Code: MG13112071, Coordinates: -19.06, 46.842
+
+#### Mandiavato
+
+Code: MG13112130, Coordinates: -19.115, 46.993
+
+#### Miarinarivo I
+
+Code: MG13112010, Coordinates: -18.953, 46.901
+
+#### Miarinarivo II
+
+Code: MG13112030, Coordinates: -18.963, 46.901
+
+#### Sarobaratra Ifanja
+
+Code: MG13112152, Coordinates: -18.828, 46.76
+
+#### Soamahamanina
+
+Code: MG13112090, Coordinates: -18.977, 47.024
+
+#### Soavimbazaha
+
+Code: MG13112190, Coordinates: -18.786, 47.034
+
+#### Zoma Bealoka
+
+Code: MG13112170, Coordinates: -18.872, 47.041
+
+### Soavinandriana
+
+Code: MG13113, Coordinates: -19.219, 46.544
+Communes: 15
+
+#### Ambatoasana Centre
+
+Code: MG13113210, Coordinates: -19.181, 46.398
+
+#### Amberomanga
+
+Code: MG13113132, Coordinates: -19.249, 46.624
+
+#### Amparaky
+
+Code: MG13113131, Coordinates: -19.331, 46.628
+
+#### Amparibohitra
+
+Code: MG13113072, Coordinates: -19.253, 46.723
+
+#### Ampary
+
+Code: MG13113030, Coordinates: -19.089, 46.692
+
+#### Ampefy
+
+Code: MG13113090, Coordinates: -19.053, 46.71
+
+#### Ankaranana
+
+Code: MG13113150, Coordinates: -19.046, 46.606
+
+#### Ankisabe
+
+Code: MG13113190, Coordinates: -19.314, 46.497
+
+#### Antanetibe
+
+Code: MG13113110, Coordinates: -19.144, 46.848
+
+#### Dondona
+
+Code: MG13113012, Coordinates: -19.192, 46.872
+
+#### Mahavelona
+
+Code: MG13113170, Coordinates: -19.159, 46.52
+
+#### Mananasy
+
+Code: MG13113050, Coordinates: -19.141, 46.617
+
+#### Masindray
+
+Code: MG13113071, Coordinates: -19.277, 46.736
+
+#### Soavinandriana
+
+Code: MG13113011, Coordinates: -19.171, 46.758
+
+#### Tamponala
+
+Code: MG13113230, Coordinates: -19.316, 46.298
+

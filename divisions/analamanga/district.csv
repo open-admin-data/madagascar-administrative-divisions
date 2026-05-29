@@ -1,0 +1,14 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+MG11101001A,1er Arrondissement,1er Arrondissement,1er-arrondissement,MG11101001A,1,-18.904,47.512
+MG11101002A,2e Arrondissement,2e Arrondissement,2e-arrondissement,MG11101002A,1,-18.933,47.551
+MG11101003A,3e Arrondissement,3e Arrondissement,3e-arrondissement,MG11101003A,1,-18.895,47.529
+MG11101004A,4e Arrondissement,4e Arrondissement,4e-arrondissement,MG11101004A,1,-18.933,47.515
+MG11101005A,5e Arrondissement,5e Arrondissement,5e-arrondissement,MG11101005A,1,-18.882,47.54
+MG11101006A,6e Arrondissement,6e Arrondissement,6e-arrondissement,MG11101006A,1,-18.868,47.493
+MG11103,Ambohidratrimo,Ambohidratrimo,ambohidratrimo,MG11103,25,-18.676,47.417
+MG11115,Andramasina,Andramasina,andramasina,MG11115,12,-19.337,47.731
+MG11107,Anjozorobe,Anjozorobe,anjozorobe,MG11107,18,-18.198,47.724
+MG11104,Ankazobe,Ankazobe,ankazobe,MG11104,13,-18.235,47.004
+MG11117,Antananarivo Atsimondrano,Antananarivo Atsimondrano,antananarivo-atsimondrano,MG11117,26,-19.01,47.52
+MG11102,Antananarivo Avaradrano,Antananarivo Avaradrano,antananarivo-avaradrano,MG11102,14,-18.918,47.625
+MG11106,Manjakandriana,Manjakandriana,manjakandriana,MG11106,25,-18.821,47.772

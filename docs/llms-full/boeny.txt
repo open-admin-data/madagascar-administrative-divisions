@@ -1,0 +1,215 @@
+# Boeny — Madagascar Administrative Divisions
+
+> 6 districts, 44 communes
+> Code: MG41
+> Coordinates: -16.238, 46.124
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambato Boeni
+
+Code: MG41405, Coordinates: -16.718, 46.558
+Communes: 11
+
+#### Ambato Ambarimay
+
+Code: MG41405019, Coordinates: -16.542, 46.748
+
+#### Ambondromamy
+
+Code: MG41405112, Coordinates: -16.374, 47.199
+
+#### Andranofasika
+
+Code: MG41405052, Coordinates: -16.383, 46.871
+
+#### Andranomamy
+
+Code: MG41405150, Coordinates: -16.577, 47.153
+
+#### Anjiajia
+
+Code: MG41405090, Coordinates: -16.489, 46.954
+
+#### Ankijabe
+
+Code: MG41405051, Coordinates: -16.411, 46.748
+
+#### Ankirihitra
+
+Code: MG41405130, Coordinates: -16.928, 46.415
+
+#### Madirovalo
+
+Code: MG41405070, Coordinates: -16.513, 46.478
+
+#### Manerinerina
+
+Code: MG41405170, Coordinates: -16.289, 47.28
+
+#### Sitampiky
+
+Code: MG41405190, Coordinates: -16.848, 46.017
+
+#### Tsaramandroso
+
+Code: MG41405111, Coordinates: -16.368, 47.057
+
+### Mahajanga I
+
+Code: MG41401, Coordinates: -15.68, 46.344
+Communes: 2
+
+#### Mahabibo
+
+Code: MG41401002, Coordinates: -15.68, 46.352
+
+#### Mahajanga
+
+Code: MG41401001, Coordinates: -15.711, 46.316
+
+### Mahajanga II
+
+Code: MG41415, Coordinates: -15.594, 46.739
+Communes: 9
+
+#### Ambalabe Befanjava
+
+Code: MG41415092, Coordinates: -15.778, 46.973
+
+#### Ambalakida
+
+Code: MG41415031, Coordinates: -15.759, 46.644
+
+#### Andranoboka
+
+Code: MG41415072, Coordinates: -15.636, 46.916
+
+#### Bekobay
+
+Code: MG41415071, Coordinates: -15.861, 46.855
+
+#### Belobaka
+
+Code: MG41415011, Coordinates: -15.73, 46.472
+
+#### Betsako
+
+Code: MG41415032, Coordinates: -15.594, 46.527
+
+#### Boanamary
+
+Code: MG41415012, Coordinates: -15.862, 46.394
+
+#### Mahajamba Usine
+
+Code: MG41415091, Coordinates: -15.668, 47.094
+
+#### Mariarano
+
+Code: MG41415050, Coordinates: -15.445, 46.799
+
+### Marovoay
+
+Code: MG41406, Coordinates: -16.229, 46.657
+Communes: 12
+
+#### Ambolomoty
+
+Code: MG41406051, Coordinates: -16.169, 46.696
+
+#### Ankaraobato
+
+Code: MG41406158, Coordinates: -16.262, 46.229
+
+#### Ankazomborona
+
+Code: MG41406090, Coordinates: -16.065, 46.98
+
+#### Anosinalainolona
+
+Code: MG41406033, Coordinates: -16.248, 46.6
+
+#### Antanambao Andranolava
+
+Code: MG41406032, Coordinates: -15.957, 46.667
+
+#### Antanimasaka
+
+Code: MG41406112, Coordinates: -16.262, 46.5
+
+#### Bemaharivo
+
+Code: MG41406130, Coordinates: -16.129, 46.352
+
+#### Manaratsandry
+
+Code: MG41406111, Coordinates: -16.083, 46.493
+
+#### Marovoay
+
+Code: MG41406052, Coordinates: -16.245, 46.882
+
+#### Marovoay Banlieue
+
+Code: MG41406031, Coordinates: -16.017, 46.573
+
+#### Marovoay Ville
+
+Code: MG41406010, Coordinates: -16.098, 46.679
+
+#### Tsararano
+
+Code: MG41406070, Coordinates: -16.758, 46.963
+
+### Mitsinjo
+
+Code: MG41407, Coordinates: -16.15, 45.933
+Communes: 7
+
+#### Ambarimaninga
+
+Code: MG41407092, Coordinates: -16.466, 45.962
+
+#### Antongomena Bevary
+
+Code: MG41407030, Coordinates: -15.921, 45.927
+
+#### Antseza
+
+Code: MG41407012, Coordinates: -16.259, 45.853
+
+#### Bekipay
+
+Code: MG41407091, Coordinates: -16.251, 46.054
+
+#### Katsepy
+
+Code: MG41407070, Coordinates: -15.913, 46.141
+
+#### Matsakabanja
+
+Code: MG41407050, Coordinates: -15.96, 45.728
+
+#### Mitsinjo
+
+Code: MG41407011, Coordinates: -22.777, 43.894
+
+### Soalala
+
+Code: MG41403, Coordinates: -16.649, 45.399
+Communes: 3
+
+#### Ambohipaky
+
+Code: MG41403030, Coordinates: -16.303, 45.07
+
+#### Andranomavo
+
+Code: MG41403050, Coordinates: -16.835, 45.521
+
+#### Soalala
+
+Code: MG41403010, Coordinates: -16.177, 45.419
+

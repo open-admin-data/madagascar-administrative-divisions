@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG14119072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomainty Atsimo",
+      "en": "Ambatomainty Atsimo",
+      "slug": "ambatomainty-atsimo"
+    },
+    "code": {
+      "id": "MG14119072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.201",
+      "lon": "46.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitromby",
+      "en": "Ambohitromby",
+      "slug": "ambohitromby"
+    },
+    "code": {
+      "id": "MG14119071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.95",
+      "lon": "46.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoarivo Centre",
+      "en": "Fenoarivo Centre",
+      "slug": "fenoarivo-centre"
+    },
+    "code": {
+      "id": "MG14119010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.352",
+      "lon": "46.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Firavahana",
+      "en": "Firavahana",
+      "slug": "firavahana"
+    },
+    "code": {
+      "id": "MG14119031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.592",
+      "lon": "46.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiranomena",
+      "en": "Kiranomena",
+      "slug": "kiranomena"
+    },
+    "code": {
+      "id": "MG14119051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.279",
+      "lon": "46.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119053",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahajeby",
+      "en": "Mahajeby",
+      "slug": "mahajeby"
+    },
+    "code": {
+      "id": "MG14119053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.021",
+      "lon": "46.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morarano Maritampona",
+      "en": "Morarano Maritampona",
+      "slug": "morarano-maritampona"
+    },
+    "code": {
+      "id": "MG14119032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.665",
+      "lon": "47.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14119052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinjoarivo 22",
+      "en": "Tsinjoarivo 22",
+      "slug": "tsinjoarivo-22"
+    },
+    "code": {
+      "id": "MG14119052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14119",
+      "level": 2,
+      "name": {
+        "local": "Fenoarivobe",
+        "en": "Fenoarivobe",
+        "slug": "fenoarivobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14119",
+        "level": 2,
+        "name": {
+          "local": "Fenoarivobe",
+          "en": "Fenoarivobe",
+          "slug": "fenoarivobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.28",
+      "lon": "45.842"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

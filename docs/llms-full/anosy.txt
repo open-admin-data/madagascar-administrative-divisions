@@ -1,0 +1,280 @@
+# Anosy — Madagascar Administrative Divisions
+
+> 3 districts, 64 communes
+> Code: MG53
+> Coordinates: -23.937, 46.309
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Amboasary-Atsimo
+
+Code: MG53519, Coordinates: -24.509, 46.357
+Communes: 16
+
+#### Amboasary Atsimo
+
+Code: MG53519010, Coordinates: -25.056, 46.409
+
+#### Behara
+
+Code: MG53519030, Coordinates: -24.88, 46.395
+
+#### Ebelo
+
+Code: MG53519291, Coordinates: -24.556, 46.056
+
+#### Elonty
+
+Code: MG53519150, Coordinates: -23.985, 46.247
+
+#### Esira
+
+Code: MG53519170, Coordinates: -24.256, 46.713
+
+#### Ifotaka
+
+Code: MG53519090, Coordinates: -24.742, 46.153
+
+#### Mahaly
+
+Code: MG53519190, Coordinates: -24.117, 46.466
+
+#### Manevy
+
+Code: MG53519210, Coordinates: -24.407, 46.803
+
+#### Maromby
+
+Code: MG53519130, Coordinates: -24.371, 46.592
+
+#### Marotsiraka
+
+Code: MG53519250, Coordinates: -24.286, 46.073
+
+#### Ranobe
+
+Code: MG53519292, Coordinates: -24.417, 46.221
+
+#### Sampona
+
+Code: MG53519070, Coordinates: -25.149, 46.299
+
+#### Tanandava Sud
+
+Code: MG53519050, Coordinates: -25.117, 46.452
+
+#### Tomboarivo
+
+Code: MG53519270, Coordinates: -24.206, 45.897
+
+#### Tranomaro
+
+Code: MG53519110, Coordinates: -24.576, 46.482
+
+#### Tsivory
+
+Code: MG53519230, Coordinates: -24.078, 46.034
+
+### Betroka
+
+Code: MG53517, Coordinates: -23.412, 45.85
+Communes: 21
+
+#### Ambalasoa
+
+Code: MG53517070, Coordinates: -23.075, 46.074
+
+#### Ambatomivary
+
+Code: MG53517350, Coordinates: -23.843, 45.543
+
+#### Analamary
+
+Code: MG53517110, Coordinates: -23.262, 45.778
+
+#### Andriandampy
+
+Code: MG53517331, Coordinates: -22.815, 45.68
+
+#### Beampombo I
+
+Code: MG53517190, Coordinates: -23.071, 45.639
+
+#### Beampombo II
+
+Code: MG53517292, Coordinates: -23.6, 45.538
+
+#### Bekorobo
+
+Code: MG53517250, Coordinates: -23.835, 45.906
+
+#### Benato Toby
+
+Code: MG53517150, Coordinates: -23.057, 45.886
+
+#### Betroka
+
+Code: MG53517010, Coordinates: -23.342, 46.035
+
+#### Iaborotra
+
+Code: MG53517270, Coordinates: -23.223, 45.582
+
+#### Ianabinda
+
+Code: MG53517130, Coordinates: -23.53, 45.958
+
+#### Ianakafy
+
+Code: MG53517310, Coordinates: -23.319, 45.397
+
+#### Isoanala
+
+Code: MG53517291, Coordinates: -23.906, 45.751
+
+#### Ivahona
+
+Code: MG53517090, Coordinates: -23.447, 46.273
+
+#### Jangany
+
+Code: MG53517210, Coordinates: -22.845, 45.876
+
+#### Mahabo
+
+Code: MG53517170, Coordinates: -20.368, 44.661
+
+#### Mahasoa Est
+
+Code: MG53517230, Coordinates: -23.439, 45.683
+
+#### Nanarena Besakoa
+
+Code: MG53517293, Coordinates: -23.604, 45.762
+
+#### Naninora
+
+Code: MG53517050, Coordinates: -23.263, 46.039
+
+#### Sakamahily
+
+Code: MG53517332, Coordinates: -23.04, 45.485
+
+#### Tsaraitso
+
+Code: MG53517030, Coordinates: -23.275, 46.289
+
+### Taolagnaro
+
+Code: MG53515, Coordinates: -24.588, 46.948
+Communes: 27
+
+#### Ambatoabo
+
+Code: MG53515112, Coordinates: -24.783, 46.645
+
+#### Ampasimena
+
+Code: MG53515230, Coordinates: -24.396, 47.074
+
+#### Ampasy Nahampoana
+
+Code: MG53515031, Coordinates: -24.938, 46.981
+
+#### Analamary
+
+Code: MG53515252, Coordinates: -23.262, 45.778
+
+#### Analapatsy
+
+Code: MG53515114, Coordinates: -25.156, 46.69
+
+#### Andranobory
+
+Code: MG53515115, Coordinates: -25.127, 46.569
+
+#### Ankaramena
+
+Code: MG53515090, Coordinates: -25.015, 46.743
+
+#### Ankariera
+
+Code: MG53515113, Coordinates: -25.013, 46.607
+
+#### Bevoay
+
+Code: MG53515210, Coordinates: -24.503, 47.046
+
+#### Emagnobo
+
+Code: MG53515192, Coordinates: -24.637, 47.001
+
+#### Enakara-Haut
+
+Code: MG53515170, Coordinates: -24.609, 46.867
+
+#### Enaniliha
+
+Code: MG53515151, Coordinates: -24.686, 46.792
+
+#### Fenoevo-Efita
+
+Code: MG53515152, Coordinates: -24.719, 46.901
+
+#### Fort-Dauphin
+
+Code: MG53515010, Coordinates: -25.02, 46.981
+
+#### Iaboakoho
+
+Code: MG53515132, Coordinates: -24.618, 47.179
+
+#### Ifarantsa
+
+Code: MG53515051, Coordinates: -24.891, 46.9
+
+#### Isaka-Ivondro
+
+Code: MG53515052, Coordinates: -24.802, 46.847
+
+#### Mahatalaky
+
+Code: MG53515131, Coordinates: -24.744, 47.062
+
+#### Manambaro
+
+Code: MG53515071, Coordinates: -24.971, 46.806
+
+#### Manantenina
+
+Code: MG53515251, Coordinates: -24.379, 47.264
+
+#### Mandiso
+
+Code: MG53515053, Coordinates: -24.861, 46.804
+
+#### Mandromondromotra
+
+Code: MG53515032, Coordinates: -24.939, 47.066
+
+#### Ranomafana
+
+Code: MG53515191, Coordinates: -24.5, 46.914
+
+#### Ranopiso
+
+Code: MG53515111, Coordinates: -25.043, 46.676
+
+#### Sarisambo
+
+Code: MG53515072, Coordinates: -25.108, 46.794
+
+#### Soanierana
+
+Code: MG53515033, Coordinates: -25.003, 46.913
+
+#### Soavary
+
+Code: MG53515253, Coordinates: -24.114, 47.222
+

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MG21220250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Ambohimaha",
+      "en": "Alakamisy Ambohimaha",
+      "slug": "alakamisy-ambohimaha"
+    },
+    "code": {
+      "id": "MG21220250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.299",
+      "lon": "47.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alatsinainy Ialamarina",
+      "en": "Alatsinainy Ialamarina",
+      "slug": "alatsinainy-ialamarina"
+    },
+    "code": {
+      "id": "MG21220350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.484",
+      "lon": "47.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalakely",
+      "en": "Ambalakely",
+      "slug": "ambalakely"
+    },
+    "code": {
+      "id": "MG21220030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.393",
+      "lon": "47.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalamahasoa",
+      "en": "Ambalamahasoa",
+      "slug": "ambalamahasoa"
+    },
+    "code": {
+      "id": "MG21220210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.333",
+      "lon": "47.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrainjato Centre",
+      "en": "Andrainjato Centre",
+      "slug": "andrainjato-centre"
+    },
+    "code": {
+      "id": "MG21220011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.506",
+      "lon": "47.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrainjato Est",
+      "en": "Andrainjato Est",
+      "slug": "andrainjato-est"
+    },
+    "code": {
+      "id": "MG21220012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.518",
+      "lon": "47.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androy",
+      "en": "Androy",
+      "slug": "androy"
+    },
+    "code": {
+      "id": "MG21220330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.331",
+      "lon": "47.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fandrandava",
+      "en": "Fandrandava",
+      "slug": "fandrandava"
+    },
+    "code": {
+      "id": "MG21220430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.504",
+      "lon": "47.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220630",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ialananindro",
+      "en": "Ialananindro",
+      "slug": "ialananindro"
+    },
+    "code": {
+      "id": "MG21220630",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.441",
+      "lon": "47.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivoamba",
+      "en": "Ivoamba",
+      "slug": "ivoamba"
+    },
+    "code": {
+      "id": "MG21220070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.386",
+      "lon": "47.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsinjony",
+      "en": "Mahatsinjony",
+      "slug": "mahatsinjony"
+    },
+    "code": {
+      "id": "MG21220111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.408",
+      "lon": "47.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahambavy",
+      "en": "Sahambavy",
+      "slug": "sahambavy"
+    },
+    "code": {
+      "id": "MG21220112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.445",
+      "lon": "47.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21220090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Taindambo",
+      "en": "Taindambo",
+      "slug": "taindambo"
+    },
+    "code": {
+      "id": "MG21220090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21220",
+      "level": 2,
+      "name": {
+        "local": "Lalangina",
+        "en": "Lalangina",
+        "slug": "lalangina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21220",
+        "level": 2,
+        "name": {
+          "local": "Lalangina",
+          "en": "Lalangina",
+          "slug": "lalangina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.458",
+      "lon": "47.18"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

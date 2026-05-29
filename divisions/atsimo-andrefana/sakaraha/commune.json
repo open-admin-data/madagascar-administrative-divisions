@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG51512150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinany",
+      "en": "Ambinany",
+      "slug": "ambinany"
+    },
+    "code": {
+      "id": "MG51512150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.695",
+      "lon": "44.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboronabo",
+      "en": "Amboronabo",
+      "slug": "amboronabo"
+    },
+    "code": {
+      "id": "MG51512070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.626",
+      "lon": "44.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andamasiny Vineta",
+      "en": "Andamasiny Vineta",
+      "slug": "andamasiny-vineta"
+    },
+    "code": {
+      "id": "MG51512111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.031",
+      "lon": "44.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranolava",
+      "en": "Andranolava",
+      "slug": "andranolava"
+    },
+    "code": {
+      "id": "MG51512130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.607",
+      "lon": "44.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bereketa",
+      "en": "Bereketa",
+      "slug": "bereketa"
+    },
+    "code": {
+      "id": "MG51512090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.092",
+      "lon": "44.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahaboboka",
+      "en": "Mahaboboka",
+      "slug": "mahaboboka"
+    },
+    "code": {
+      "id": "MG51512050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.793",
+      "lon": "44.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miary Lamatihy",
+      "en": "Miary Lamatihy",
+      "slug": "miary-lamatihy"
+    },
+    "code": {
+      "id": "MG51512030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.805",
+      "lon": "44.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miary Taheza",
+      "en": "Miary Taheza",
+      "slug": "miary-taheza"
+    },
+    "code": {
+      "id": "MG51512012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.089",
+      "lon": "44.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mihavatsy",
+      "en": "Mihavatsy",
+      "slug": "mihavatsy"
+    },
+    "code": {
+      "id": "MG51512112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.921",
+      "lon": "44.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mikoboka",
+      "en": "Mikoboka",
+      "slug": "mikoboka"
+    },
+    "code": {
+      "id": "MG51512171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.583",
+      "lon": "43.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mitsinjo",
+      "en": "Mitsinjo",
+      "slug": "mitsinjo"
+    },
+    "code": {
+      "id": "MG51512172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.777",
+      "lon": "43.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakaraha",
+      "en": "Sakaraha",
+      "slug": "sakaraha"
+    },
+    "code": {
+      "id": "MG51512011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51512",
+      "level": 2,
+      "name": {
+        "local": "Sakaraha",
+        "en": "Sakaraha",
+        "slug": "sakaraha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51512",
+        "level": 2,
+        "name": {
+          "local": "Sakaraha",
+          "en": "Sakaraha",
+          "slug": "sakaraha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.894",
+      "lon": "44.629"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

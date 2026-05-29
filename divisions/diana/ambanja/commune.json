@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "MG71719130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalahonko",
+      "en": "Ambalahonko",
+      "slug": "ambalahonko"
+    },
+    "code": {
+      "id": "MG71719130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.568",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambaliha",
+      "en": "Ambaliha",
+      "slug": "ambaliha"
+    },
+    "code": {
+      "id": "MG71719250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.746",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambanja",
+      "en": "Ambanja",
+      "slug": "ambanja"
+    },
+    "code": {
+      "id": "MG71719010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.621",
+      "lon": "48.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanga Ramena",
+      "en": "Ambodimanga Ramena",
+      "slug": "ambodimanga-ramena"
+    },
+    "code": {
+      "id": "MG71719172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.763",
+      "lon": "48.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719233",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimarina",
+      "en": "Ambohimarina",
+      "slug": "ambohimarina"
+    },
+    "code": {
+      "id": "MG71719233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.951",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimena",
+      "en": "Ambohimena",
+      "slug": "ambohimena"
+    },
+    "code": {
+      "id": "MG71719050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.593",
+      "lon": "48.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrandriana",
+      "en": "Ambohitrandriana",
+      "slug": "ambohitrandriana"
+    },
+    "code": {
+      "id": "MG71719232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.912",
+      "lon": "48.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankatafa",
+      "en": "Ankatafa",
+      "slug": "ankatafa"
+    },
+    "code": {
+      "id": "MG71719350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.657",
+      "lon": "48.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankingameloka",
+      "en": "Ankingameloka",
+      "slug": "ankingameloka"
+    },
+    "code": {
+      "id": "MG71719150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.839",
+      "lon": "48.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anorontsangana",
+      "en": "Anorontsangana",
+      "slug": "anorontsangana"
+    },
+    "code": {
+      "id": "MG71719310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.868",
+      "lon": "47.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antafiambotry",
+      "en": "Antafiambotry",
+      "slug": "antafiambotry"
+    },
+    "code": {
+      "id": "MG71719190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.395",
+      "lon": "48.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antranokarany",
+      "en": "Antranokarany",
+      "slug": "antranokarany"
+    },
+    "code": {
+      "id": "MG71719091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.737",
+      "lon": "48.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsakoamanondro",
+      "en": "Antsakoamanondro",
+      "slug": "antsakoamanondro"
+    },
+    "code": {
+      "id": "MG71719110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.582",
+      "lon": "48.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsatsaka",
+      "en": "Antsatsaka",
+      "slug": "antsatsaka"
+    },
+    "code": {
+      "id": "MG71719070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.691",
+      "lon": "48.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsirabe",
+      "en": "Antsirabe",
+      "slug": "antsirabe"
+    },
+    "code": {
+      "id": "MG71719330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.879",
+      "lon": "48.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemaneviky Haut Sambirano",
+      "en": "Bemaneviky Haut Sambirano",
+      "slug": "bemaneviky-haut-sambirano"
+    },
+    "code": {
+      "id": "MG71719171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.848",
+      "lon": "48.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemaneviky Ouest",
+      "en": "Bemaneviky Ouest",
+      "slug": "bemaneviky-ouest"
+    },
+    "code": {
+      "id": "MG71719290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.631",
+      "lon": "47.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benavony",
+      "en": "Benavony",
+      "slug": "benavony"
+    },
+    "code": {
+      "id": "MG71719030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.693",
+      "lon": "48.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djangoa",
+      "en": "Djangoa",
+      "slug": "djangoa"
+    },
+    "code": {
+      "id": "MG71719092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.966",
+      "lon": "48.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719173",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maevatanana",
+      "en": "Maevatanana",
+      "slug": "maevatanana"
+    },
+    "code": {
+      "id": "MG71719173",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.873",
+      "lon": "48.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maherivaratra",
+      "en": "Maherivaratra",
+      "slug": "maherivaratra"
+    },
+    "code": {
+      "id": "MG71719210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.527",
+      "lon": "48.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotolana",
+      "en": "Marotolana",
+      "slug": "marotolana"
+    },
+    "code": {
+      "id": "MG71719270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.108",
+      "lon": "48.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71719231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato",
+      "en": "Marovato",
+      "slug": "marovato"
+    },
+    "code": {
+      "id": "MG71719231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71719",
+      "level": 2,
+      "name": {
+        "local": "Ambanja",
+        "en": "Ambanja",
+        "slug": "ambanja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71719",
+        "level": 2,
+        "name": {
+          "local": "Ambanja",
+          "en": "Ambanja",
+          "slug": "ambanja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.549",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

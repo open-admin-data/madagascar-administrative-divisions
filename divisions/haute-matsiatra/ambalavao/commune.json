@@ -1,0 +1,920 @@
+[
+  {
+    "id": "MG21205010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavao",
+      "en": "Ambalavao",
+      "slug": "ambalavao"
+    },
+    "code": {
+      "id": "MG21205010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.831",
+      "lon": "46.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanindovoka",
+      "en": "Ambinanindovoka",
+      "slug": "ambinanindovoka"
+    },
+    "code": {
+      "id": "MG21205190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.916",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinaniroa",
+      "en": "Ambinaniroa",
+      "slug": "ambinaniroa"
+    },
+    "code": {
+      "id": "MG21205212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.927",
+      "lon": "46.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimahamasina",
+      "en": "Ambohimahamasina",
+      "slug": "ambohimahamasina"
+    },
+    "code": {
+      "id": "MG21205230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.969",
+      "lon": "47.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimandroso",
+      "en": "Ambohimandroso",
+      "slug": "ambohimandroso"
+    },
+    "code": {
+      "id": "MG21205071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.605",
+      "lon": "48.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrainjato",
+      "en": "Andrainjato",
+      "slug": "andrainjato"
+    },
+    "code": {
+      "id": "MG21205072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.943",
+      "lon": "46.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma",
+      "en": "Anjoma",
+      "slug": "anjoma"
+    },
+    "code": {
+      "id": "MG21205090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.176",
+      "lon": "49.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaramena",
+      "en": "Ankaramena",
+      "slug": "ankaramena"
+    },
+    "code": {
+      "id": "MG21205211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.015",
+      "lon": "46.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besoa",
+      "en": "Besoa",
+      "slug": "besoa"
+    },
+    "code": {
+      "id": "MG21205150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.913",
+      "lon": "46.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoarivo",
+      "en": "Fenoarivo",
+      "slug": "fenoarivo"
+    },
+    "code": {
+      "id": "MG21205290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.1",
+      "lon": "47.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iarintsena",
+      "en": "Iarintsena",
+      "slug": "iarintsena"
+    },
+    "code": {
+      "id": "MG21205050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.82",
+      "lon": "46.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirano",
+      "en": "Kirano",
+      "slug": "kirano"
+    },
+    "code": {
+      "id": "MG21205110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.819",
+      "lon": "47.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazony",
+      "en": "Mahazony",
+      "slug": "mahazony"
+    },
+    "code": {
+      "id": "MG21205170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.988",
+      "lon": "47.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manamisoa",
+      "en": "Manamisoa",
+      "slug": "manamisoa"
+    },
+    "code": {
+      "id": "MG21205030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.754",
+      "lon": "46.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinarivo",
+      "en": "Miarinarivo",
+      "slug": "miarinarivo"
+    },
+    "code": {
+      "id": "MG21205250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.665",
+      "lon": "48.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sendrisoa",
+      "en": "Sendrisoa",
+      "slug": "sendrisoa"
+    },
+    "code": {
+      "id": "MG21205130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.087",
+      "lon": "46.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21205270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitsaoka",
+      "en": "Vohitsaoka",
+      "slug": "vohitsaoka"
+    },
+    "code": {
+      "id": "MG21205270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21205",
+      "level": 2,
+      "name": {
+        "local": "Ambalavao",
+        "en": "Ambalavao",
+        "slug": "ambalavao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21205",
+        "level": 2,
+        "name": {
+          "local": "Ambalavao",
+          "en": "Ambalavao",
+          "slug": "ambalavao"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.072",
+      "lon": "46.741"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

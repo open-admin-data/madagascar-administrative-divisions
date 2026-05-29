@@ -1,0 +1,47 @@
+{
+  "id": "MG31309",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marolambo",
+    "en": "Marolambo",
+    "slug": "marolambo"
+  },
+  "code": {
+    "id": "MG31309",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG31",
+    "level": 1,
+    "name": {
+      "local": "Atsinanana",
+      "en": "Atsinanana",
+      "slug": "atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.084",
+    "lon": "48.019"
+  },
+  "metadata": {},
+  "source": {}
+}

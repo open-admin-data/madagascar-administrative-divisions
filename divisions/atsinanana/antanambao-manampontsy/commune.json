@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MG31311010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambao Manampontsy",
+      "en": "Antanambao Manampontsy",
+      "slug": "antanambao-manampontsy"
+    },
+    "code": {
+      "id": "MG31311010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31311",
+      "level": 2,
+      "name": {
+        "local": "Antanambao Manampontsy",
+        "en": "Antanambao Manampontsy",
+        "slug": "antanambao-manampontsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31311",
+        "level": 2,
+        "name": {
+          "local": "Antanambao Manampontsy",
+          "en": "Antanambao Manampontsy",
+          "slug": "antanambao-manampontsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.437",
+      "lon": "48.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31311070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanandehibe",
+      "en": "Antanandehibe",
+      "slug": "antanandehibe"
+    },
+    "code": {
+      "id": "MG31311070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31311",
+      "level": 2,
+      "name": {
+        "local": "Antanambao Manampontsy",
+        "en": "Antanambao Manampontsy",
+        "slug": "antanambao-manampontsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31311",
+        "level": 2,
+        "name": {
+          "local": "Antanambao Manampontsy",
+          "en": "Antanambao Manampontsy",
+          "slug": "antanambao-manampontsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.617",
+      "lon": "48.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31311030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahela",
+      "en": "Mahela",
+      "slug": "mahela"
+    },
+    "code": {
+      "id": "MG31311030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31311",
+      "level": 2,
+      "name": {
+        "local": "Antanambao Manampontsy",
+        "en": "Antanambao Manampontsy",
+        "slug": "antanambao-manampontsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31311",
+        "level": 2,
+        "name": {
+          "local": "Antanambao Manampontsy",
+          "en": "Antanambao Manampontsy",
+          "slug": "antanambao-manampontsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.44",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31311090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakana",
+      "en": "Manakana",
+      "slug": "manakana"
+    },
+    "code": {
+      "id": "MG31311090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31311",
+      "level": 2,
+      "name": {
+        "local": "Antanambao Manampontsy",
+        "en": "Antanambao Manampontsy",
+        "slug": "antanambao-manampontsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31311",
+        "level": 2,
+        "name": {
+          "local": "Antanambao Manampontsy",
+          "en": "Antanambao Manampontsy",
+          "slug": "antanambao-manampontsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.768",
+      "lon": "47.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31311050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saivaza",
+      "en": "Saivaza",
+      "slug": "saivaza"
+    },
+    "code": {
+      "id": "MG31311050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31311",
+      "level": 2,
+      "name": {
+        "local": "Antanambao Manampontsy",
+        "en": "Antanambao Manampontsy",
+        "slug": "antanambao-manampontsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31311",
+        "level": 2,
+        "name": {
+          "local": "Antanambao Manampontsy",
+          "en": "Antanambao Manampontsy",
+          "slug": "antanambao-manampontsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.647",
+      "lon": "48.526"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

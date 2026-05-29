@@ -1,0 +1,47 @@
+{
+  "id": "MG72710",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antalaha",
+    "en": "Antalaha",
+    "slug": "antalaha"
+  },
+  "code": {
+    "id": "MG72710",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG72",
+    "level": 1,
+    "name": {
+      "local": "Sava",
+      "en": "Sava",
+      "slug": "sava"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.259",
+    "lon": "50.137"
+  },
+  "metadata": {},
+  "source": {}
+}

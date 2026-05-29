@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "MG72711450",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoafo",
+      "en": "Ambatoafo",
+      "slug": "ambatoafo"
+    },
+    "code": {
+      "id": "MG72711450",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.176",
+      "lon": "49.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711371",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboangibe",
+      "en": "Amboangibe",
+      "slug": "amboangibe"
+    },
+    "code": {
+      "id": "MG72711371",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.204",
+      "lon": "49.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiampana",
+      "en": "Ambodiampana",
+      "slug": "ambodiampana"
+    },
+    "code": {
+      "id": "MG72711410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.536",
+      "lon": "49.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodivoara",
+      "en": "Ambodivoara",
+      "slug": "ambodivoara"
+    },
+    "code": {
+      "id": "MG72711130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.373",
+      "lon": "49.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711059",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimalaza",
+      "en": "Ambohimalaza",
+      "slug": "ambohimalaza"
+    },
+    "code": {
+      "id": "MG72711059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.295",
+      "lon": "50.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimitsinjo",
+      "en": "Ambohimitsinjo",
+      "slug": "ambohimitsinjo"
+    },
+    "code": {
+      "id": "MG72711210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.313",
+      "lon": "49.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analamaho",
+      "en": "Analamaho",
+      "slug": "analamaho"
+    },
+    "code": {
+      "id": "MG72711190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.238",
+      "lon": "49.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrahanjo",
+      "en": "Andrahanjo",
+      "slug": "andrahanjo"
+    },
+    "code": {
+      "id": "MG72711330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.347",
+      "lon": "49.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andratamarina",
+      "en": "Andratamarina",
+      "slug": "andratamarina"
+    },
+    "code": {
+      "id": "MG72711250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.365",
+      "lon": "49.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711372",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrembona",
+      "en": "Andrembona",
+      "slug": "andrembona"
+    },
+    "code": {
+      "id": "MG72711372",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.221",
+      "lon": "49.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjangoveratra",
+      "en": "Anjangoveratra",
+      "slug": "anjangoveratra"
+    },
+    "code": {
+      "id": "MG72711230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.094",
+      "lon": "50.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711470",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjialava",
+      "en": "Anjialava",
+      "slug": "anjialava"
+    },
+    "code": {
+      "id": "MG72711470",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.07",
+      "lon": "49.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjinjaomby",
+      "en": "Anjinjaomby",
+      "slug": "anjinjaomby"
+    },
+    "code": {
+      "id": "MG72711150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.278",
+      "lon": "49.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antindra",
+      "en": "Antindra",
+      "slug": "antindra"
+    },
+    "code": {
+      "id": "MG72711390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.075",
+      "lon": "49.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711510",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahavaribe",
+      "en": "Antsahavaribe",
+      "slug": "antsahavaribe"
+    },
+    "code": {
+      "id": "MG72711510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.994",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsambaharo",
+      "en": "Antsambaharo",
+      "slug": "antsambaharo"
+    },
+    "code": {
+      "id": "MG72711310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.538",
+      "lon": "49.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemanevika",
+      "en": "Bemanevika",
+      "slug": "bemanevika"
+    },
+    "code": {
+      "id": "MG72711350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.117",
+      "lon": "50.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711530",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bevonotra",
+      "en": "Bevonotra",
+      "slug": "bevonotra"
+    },
+    "code": {
+      "id": "MG72711530",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.078",
+      "lon": "49.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711079",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Farahalana",
+      "en": "Farahalana",
+      "slug": "farahalana"
+    },
+    "code": {
+      "id": "MG72711079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.416",
+      "lon": "50.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroambihy",
+      "en": "Maroambihy",
+      "slug": "maroambihy"
+    },
+    "code": {
+      "id": "MG72711430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.475",
+      "lon": "49.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marogaona",
+      "en": "Marogaona",
+      "slug": "marogaona"
+    },
+    "code": {
+      "id": "MG72711270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.219",
+      "lon": "49.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marojala",
+      "en": "Marojala",
+      "slug": "marojala"
+    },
+    "code": {
+      "id": "MG72711290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.475",
+      "lon": "50.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG72711170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nosiarina",
+      "en": "Nosiarina",
+      "slug": "nosiarina"
+    },
+    "code": {
+      "id": "MG72711090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.226",
+      "lon": "50.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sambava Cu",
+      "en": "Sambava Cu",
+      "slug": "sambava-cu"
+    },
+    "code": {
+      "id": "MG72711010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.254",
+      "lon": "50.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711490",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Daoud",
+      "en": "Tanambao Daoud",
+      "slug": "tanambao-daoud"
+    },
+    "code": {
+      "id": "MG72711490",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72711",
+      "level": 2,
+      "name": {
+        "local": "Sambava",
+        "en": "Sambava",
+        "slug": "sambava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72711",
+        "level": 2,
+        "name": {
+          "local": "Sambava",
+          "en": "Sambava",
+          "slug": "sambava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.931",
+      "lon": "50.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

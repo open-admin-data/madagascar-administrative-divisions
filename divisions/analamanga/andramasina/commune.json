@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG11115110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alarobia Vatosola",
+      "en": "Alarobia Vatosola",
+      "slug": "alarobia-vatosola"
+    },
+    "code": {
+      "id": "MG11115110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.248",
+      "lon": "47.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alatsinainy Bakaro",
+      "en": "Alatsinainy Bakaro",
+      "slug": "alatsinainy-bakaro"
+    },
+    "code": {
+      "id": "MG11115071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.316",
+      "lon": "47.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimiadana",
+      "en": "Ambohimiadana",
+      "slug": "ambohimiadana"
+    },
+    "code": {
+      "id": "MG11115091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.243",
+      "lon": "47.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andohariana",
+      "en": "Andohariana",
+      "slug": "andohariana"
+    },
+    "code": {
+      "id": "MG11115032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.335",
+      "lon": "47.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andramasina",
+      "en": "Andramasina",
+      "slug": "andramasina"
+    },
+    "code": {
+      "id": "MG11115010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.19",
+      "lon": "47.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosibe Trimoloharano",
+      "en": "Anosibe Trimoloharano",
+      "slug": "anosibe-trimoloharano"
+    },
+    "code": {
+      "id": "MG11115170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.18",
+      "lon": "47.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antotohazo",
+      "en": "Antotohazo",
+      "slug": "antotohazo"
+    },
+    "code": {
+      "id": "MG11115072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.369",
+      "lon": "47.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fitsinjovana Bakaro",
+      "en": "Fitsinjovana Bakaro",
+      "slug": "fitsinjovana-bakaro"
+    },
+    "code": {
+      "id": "MG11115130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.417",
+      "lon": "47.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandrosoa",
+      "en": "Mandrosoa",
+      "slug": "mandrosoa"
+    },
+    "code": {
+      "id": "MG11115050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.164",
+      "lon": "47.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabotsy Ambohitromby",
+      "en": "Sabotsy Ambohitromby",
+      "slug": "sabotsy-ambohitromby"
+    },
+    "code": {
+      "id": "MG11115031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.236",
+      "lon": "47.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabotsy Manjakavahoaka",
+      "en": "Sabotsy Manjakavahoaka",
+      "slug": "sabotsy-manjakavahoaka"
+    },
+    "code": {
+      "id": "MG11115150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.16",
+      "lon": "47.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tankafatra",
+      "en": "Tankafatra",
+      "slug": "tankafatra"
+    },
+    "code": {
+      "id": "MG11115092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11115",
+      "level": 2,
+      "name": {
+        "local": "Andramasina",
+        "en": "Andramasina",
+        "slug": "andramasina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11115",
+        "level": 2,
+        "name": {
+          "local": "Andramasina",
+          "en": "Andramasina",
+          "slug": "andramasina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.414",
+      "lon": "47.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

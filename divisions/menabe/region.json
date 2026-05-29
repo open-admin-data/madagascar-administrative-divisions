@@ -1,0 +1,30 @@
+{
+  "id": "MG54",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Menabe",
+    "en": "Menabe",
+    "slug": "menabe"
+  },
+  "code": {
+    "id": "MG54",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.036",
+    "lon": "44.701"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "MG32",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Analanjirofo",
+    "en": "Analanjirofo",
+    "slug": "analanjirofo"
+  },
+  "code": {
+    "id": "MG32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "commune": 63
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.316",
+    "lon": "49.368"
+  },
+  "metadata": {},
+  "source": {}
+}

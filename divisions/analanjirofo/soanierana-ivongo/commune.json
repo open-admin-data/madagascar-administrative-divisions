@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG32318090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahoabe",
+      "en": "Ambahoabe",
+      "slug": "ambahoabe"
+    },
+    "code": {
+      "id": "MG32318090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.709",
+      "lon": "49.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiampana",
+      "en": "Ambodiampana",
+      "slug": "ambodiampana"
+    },
+    "code": {
+      "id": "MG32318050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.536",
+      "lon": "49.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andapafito",
+      "en": "Andapafito",
+      "slug": "andapafito"
+    },
+    "code": {
+      "id": "MG32318070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.829",
+      "lon": "49.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanifotsy",
+      "en": "Antanifotsy",
+      "slug": "antanifotsy"
+    },
+    "code": {
+      "id": "MG32318030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.832",
+      "lon": "49.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antenina",
+      "en": "Antenina",
+      "slug": "antenina"
+    },
+    "code": {
+      "id": "MG32318130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.491",
+      "lon": "49.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fotsialanana",
+      "en": "Fotsialanana",
+      "slug": "fotsialanana"
+    },
+    "code": {
+      "id": "MG32318012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.895",
+      "lon": "49.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manompana",
+      "en": "Manompana",
+      "slug": "manompana"
+    },
+    "code": {
+      "id": "MG32318110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.711",
+      "lon": "49.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soanierana Ivongo",
+      "en": "Soanierana Ivongo",
+      "slug": "soanierana-ivongo"
+    },
+    "code": {
+      "id": "MG32318011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32318",
+      "level": 2,
+      "name": {
+        "local": "Soanierana Ivongo",
+        "en": "Soanierana Ivongo",
+        "slug": "soanierana-ivongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32318",
+        "level": 2,
+        "name": {
+          "local": "Soanierana Ivongo",
+          "en": "Soanierana Ivongo",
+          "slug": "soanierana-ivongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.97",
+      "lon": "49.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

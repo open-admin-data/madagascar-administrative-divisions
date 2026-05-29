@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MG41415092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalabe Befanjava",
+      "en": "Ambalabe Befanjava",
+      "slug": "ambalabe-befanjava"
+    },
+    "code": {
+      "id": "MG41415092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.778",
+      "lon": "46.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalakida",
+      "en": "Ambalakida",
+      "slug": "ambalakida"
+    },
+    "code": {
+      "id": "MG41415031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.759",
+      "lon": "46.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranoboka",
+      "en": "Andranoboka",
+      "slug": "andranoboka"
+    },
+    "code": {
+      "id": "MG41415072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.636",
+      "lon": "46.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekobay",
+      "en": "Bekobay",
+      "slug": "bekobay"
+    },
+    "code": {
+      "id": "MG41415071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.861",
+      "lon": "46.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belobaka",
+      "en": "Belobaka",
+      "slug": "belobaka"
+    },
+    "code": {
+      "id": "MG41415011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.73",
+      "lon": "46.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsako",
+      "en": "Betsako",
+      "slug": "betsako"
+    },
+    "code": {
+      "id": "MG41415032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.594",
+      "lon": "46.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boanamary",
+      "en": "Boanamary",
+      "slug": "boanamary"
+    },
+    "code": {
+      "id": "MG41415012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.862",
+      "lon": "46.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahajamba Usine",
+      "en": "Mahajamba Usine",
+      "slug": "mahajamba-usine"
+    },
+    "code": {
+      "id": "MG41415091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.668",
+      "lon": "47.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mariarano",
+      "en": "Mariarano",
+      "slug": "mariarano"
+    },
+    "code": {
+      "id": "MG41415050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41415",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga II",
+        "en": "Mahajanga II",
+        "slug": "mahajanga-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41415",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga II",
+          "en": "Mahajanga II",
+          "slug": "mahajanga-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.445",
+      "lon": "46.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

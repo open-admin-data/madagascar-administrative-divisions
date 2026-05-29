@@ -1,0 +1,30 @@
+{
+  "id": "MG14",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Bongolava",
+    "en": "Bongolava",
+    "slug": "bongolava"
+  },
+  "code": {
+    "id": "MG14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 2,
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.592",
+    "lon": "46.303"
+  },
+  "metadata": {},
+  "source": {}
+}

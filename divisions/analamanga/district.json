@@ -1,0 +1,613 @@
+[
+  {
+    "id": "MG11101001A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "1er Arrondissement",
+      "en": "1er Arrondissement",
+      "slug": "1er-arrondissement"
+    },
+    "code": {
+      "id": "MG11101001A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.904",
+      "lon": "47.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11101002A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "2e Arrondissement",
+      "en": "2e Arrondissement",
+      "slug": "2e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101002A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.933",
+      "lon": "47.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11101003A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "3e Arrondissement",
+      "en": "3e Arrondissement",
+      "slug": "3e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101003A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.895",
+      "lon": "47.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11101004A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "4e Arrondissement",
+      "en": "4e Arrondissement",
+      "slug": "4e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101004A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.933",
+      "lon": "47.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11101005A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "5e Arrondissement",
+      "en": "5e Arrondissement",
+      "slug": "5e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101005A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.882",
+      "lon": "47.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11101006A",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "6e Arrondissement",
+      "en": "6e Arrondissement",
+      "slug": "6e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101006A",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.868",
+      "lon": "47.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambohidratrimo",
+      "en": "Ambohidratrimo",
+      "slug": "ambohidratrimo"
+    },
+    "code": {
+      "id": "MG11103",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.676",
+      "lon": "47.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11115",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andramasina",
+      "en": "Andramasina",
+      "slug": "andramasina"
+    },
+    "code": {
+      "id": "MG11115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.337",
+      "lon": "47.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anjozorobe",
+      "en": "Anjozorobe",
+      "slug": "anjozorobe"
+    },
+    "code": {
+      "id": "MG11107",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.198",
+      "lon": "47.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11104",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ankazobe",
+      "en": "Ankazobe",
+      "slug": "ankazobe"
+    },
+    "code": {
+      "id": "MG11104",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.235",
+      "lon": "47.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11117",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antananarivo Atsimondrano",
+      "en": "Antananarivo Atsimondrano",
+      "slug": "antananarivo-atsimondrano"
+    },
+    "code": {
+      "id": "MG11117",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.01",
+      "lon": "47.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antananarivo Avaradrano",
+      "en": "Antananarivo Avaradrano",
+      "slug": "antananarivo-avaradrano"
+    },
+    "code": {
+      "id": "MG11102",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.918",
+      "lon": "47.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manjakandriana",
+      "en": "Manjakandriana",
+      "slug": "manjakandriana"
+    },
+    "code": {
+      "id": "MG11106",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.821",
+      "lon": "47.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

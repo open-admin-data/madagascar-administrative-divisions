@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "1er Arrondissement",
+      "en": "1er Arrondissement",
+      "slug": "1er-arrondissement"
+    },
+    "code": {
+      "id": "MG11101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101001A",
+      "level": 2,
+      "name": {
+        "local": "1er Arrondissement",
+        "en": "1er Arrondissement",
+        "slug": "1er-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101001A",
+        "level": 2,
+        "name": {
+          "local": "1er Arrondissement",
+          "en": "1er Arrondissement",
+          "slug": "1er-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.904",
+      "lon": "47.512"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MG32318",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Soanierana Ivongo",
+    "en": "Soanierana Ivongo",
+    "slug": "soanierana-ivongo"
+  },
+  "code": {
+    "id": "MG32318",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.67",
+    "lon": "49.328"
+  },
+  "metadata": {},
+  "source": {}
+}

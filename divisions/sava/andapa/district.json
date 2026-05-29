@@ -1,0 +1,47 @@
+{
+  "id": "MG72712",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Andapa",
+    "en": "Andapa",
+    "slug": "andapa"
+  },
+  "code": {
+    "id": "MG72712",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG72",
+    "level": 1,
+    "name": {
+      "local": "Sava",
+      "en": "Sava",
+      "slug": "sava"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.613",
+    "lon": "49.497"
+  },
+  "metadata": {},
+  "source": {}
+}

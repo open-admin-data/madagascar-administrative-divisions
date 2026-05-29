@@ -1,0 +1,47 @@
+{
+  "id": "MG43404",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maevatanana",
+    "en": "Maevatanana",
+    "slug": "maevatanana"
+  },
+  "code": {
+    "id": "MG43404",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG43",
+    "level": 1,
+    "name": {
+      "local": "Betsiboka",
+      "en": "Betsiboka",
+      "slug": "betsiboka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG43",
+      "level": 1,
+      "name": {
+        "local": "Betsiboka",
+        "en": "Betsiboka",
+        "slug": "betsiboka"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.22",
+    "lon": "46.843"
+  },
+  "metadata": {},
+  "source": {}
+}

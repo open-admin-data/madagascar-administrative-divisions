@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MG21225090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalamidera II",
+      "en": "Ambalamidera II",
+      "slug": "ambalamidera-ii"
+    },
+    "code": {
+      "id": "MG21225090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.332",
+      "lon": "46.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambondrona",
+      "en": "Ambondrona",
+      "slug": "ambondrona"
+    },
+    "code": {
+      "id": "MG21225070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.777",
+      "lon": "49.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andoharanomaitso",
+      "en": "Andoharanomaitso",
+      "slug": "andoharanomaitso"
+    },
+    "code": {
+      "id": "MG21225050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.465",
+      "lon": "46.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma Itsara",
+      "en": "Anjoma Itsara",
+      "slug": "anjoma-itsara"
+    },
+    "code": {
+      "id": "MG21225030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.219",
+      "lon": "46.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarinarivo Manirisoa",
+      "en": "Ankarinarivo Manirisoa",
+      "slug": "ankarinarivo-manirisoa"
+    },
+    "code": {
+      "id": "MG21225110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.404",
+      "lon": "47.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fanjakana",
+      "en": "Fanjakana",
+      "slug": "fanjakana"
+    },
+    "code": {
+      "id": "MG21225190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.732",
+      "lon": "45.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iavonomby Vohibola",
+      "en": "Iavonomby Vohibola",
+      "slug": "iavonomby-vohibola"
+    },
+    "code": {
+      "id": "MG21225210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.346",
+      "lon": "47.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isorana",
+      "en": "Isorana",
+      "slug": "isorana"
+    },
+    "code": {
+      "id": "MG21225010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.304",
+      "lon": "46.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoarivo",
+      "en": "Mahazoarivo",
+      "slug": "mahazoarivo"
+    },
+    "code": {
+      "id": "MG21225170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.649",
+      "lon": "47.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nasandratrony",
+      "en": "Nasandratrony",
+      "slug": "nasandratrony"
+    },
+    "code": {
+      "id": "MG21225150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.355",
+      "lon": "47.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21225130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soatanana",
+      "en": "Soatanana",
+      "slug": "soatanana"
+    },
+    "code": {
+      "id": "MG21225130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21225",
+      "level": 2,
+      "name": {
+        "local": "Isandra",
+        "en": "Isandra",
+        "slug": "isandra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21225",
+        "level": 2,
+        "name": {
+          "local": "Isandra",
+          "en": "Isandra",
+          "slug": "isandra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.392",
+      "lon": "46.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

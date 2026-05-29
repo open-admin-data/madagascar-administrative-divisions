@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG32302019",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sainte Marie",
+      "en": "Sainte Marie",
+      "slug": "sainte-marie"
+    },
+    "code": {
+      "id": "MG32302019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32302",
+      "level": 2,
+      "name": {
+        "local": "Sainte Marie",
+        "en": "Sainte Marie",
+        "slug": "sainte-marie"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32302",
+        "level": 2,
+        "name": {
+          "local": "Sainte Marie",
+          "en": "Sainte Marie",
+          "slug": "sainte-marie"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.911",
+      "lon": "49.911"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

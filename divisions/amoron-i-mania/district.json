@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MG22202",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambatofinandrahana",
+      "en": "Ambatofinandrahana",
+      "slug": "ambatofinandrahana"
+    },
+    "code": {
+      "id": "MG22202",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.456",
+      "lon": "46.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambositra",
+      "en": "Ambositra",
+      "slug": "ambositra"
+    },
+    "code": {
+      "id": "MG22203",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.561",
+      "lon": "47.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fandriana",
+      "en": "Fandriana",
+      "slug": "fandriana"
+    },
+    "code": {
+      "id": "MG22204",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.289",
+      "lon": "47.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22223",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manandriana",
+      "en": "Manandriana",
+      "slug": "manandriana"
+    },
+    "code": {
+      "id": "MG22223",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.748",
+      "lon": "47.013"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

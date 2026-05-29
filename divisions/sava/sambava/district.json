@@ -1,0 +1,47 @@
+{
+  "id": "MG72711",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sambava",
+    "en": "Sambava",
+    "slug": "sambava"
+  },
+  "code": {
+    "id": "MG72711",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG72",
+    "level": 1,
+    "name": {
+      "local": "Sava",
+      "en": "Sava",
+      "slug": "sava"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.245",
+    "lon": "49.675"
+  },
+  "metadata": {},
+  "source": {}
+}

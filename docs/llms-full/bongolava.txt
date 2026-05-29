@@ -1,0 +1,123 @@
+# Bongolava — Madagascar Administrative Divisions
+
+> 2 districts, 26 communes
+> Code: MG14
+> Coordinates: -18.592, 46.303
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Fenoarivobe
+
+Code: MG14119, Coordinates: -18.242, 46.41
+Communes: 8
+
+#### Ambatomainty Atsimo
+
+Code: MG14119072, Coordinates: -18.201, 46.4
+
+#### Ambohitromby
+
+Code: MG14119071, Coordinates: -17.95, 46.386
+
+#### Fenoarivo Centre
+
+Code: MG14119010, Coordinates: -18.352, 46.542
+
+#### Firavahana
+
+Code: MG14119031, Coordinates: -18.592, 46.791
+
+#### Kiranomena
+
+Code: MG14119051, Coordinates: -18.279, 46.102
+
+#### Mahajeby
+
+Code: MG14119053, Coordinates: -18.021, 46.016
+
+#### Morarano Maritampona
+
+Code: MG14119032, Coordinates: -18.665, 47.022
+
+#### Tsinjoarivo 22
+
+Code: MG14119052, Coordinates: -18.28, 45.842
+
+### Tsiroanomandidy
+
+Code: MG14111, Coordinates: -18.728, 46.021
+Communes: 18
+
+#### Ambalanirana
+
+Code: MG14111250, Coordinates: -18.779, 46.487
+
+#### Ambararatabe
+
+Code: MG14111210, Coordinates: -19.022, 46.228
+
+#### Ambatolampy
+
+Code: MG14111051, Coordinates: -18.904, 46.152
+
+#### Ankadinondry Sakay
+
+Code: MG14111090, Coordinates: -18.966, 46.465
+
+#### Ankerana Avaratra
+
+Code: MG14111110, Coordinates: -18.543, 46.137
+
+#### Anosy
+
+Code: MG14111190, Coordinates: -18.729, 46.391
+
+#### Belobaka
+
+Code: MG14111230, Coordinates: -15.73, 46.472
+
+#### Bemahatazana
+
+Code: MG14111290, Coordinates: -19.57, 45.326
+
+#### Bevato
+
+Code: MG14111070, Coordinates: -18.699, 46.254
+
+#### Fierenana
+
+Code: MG14111310, Coordinates: -18.484, 48.416
+
+#### Mahasolo
+
+Code: MG14111270, Coordinates: -19.12, 46.298
+
+#### Maritampona
+
+Code: MG14111052, Coordinates: -19.085, 46.112
+
+#### Maroharona
+
+Code: MG14111330, Coordinates: -19.297, 46.164
+
+#### Miandrarivo
+
+Code: MG14111130, Coordinates: -18.927, 45.922
+
+#### Soanierana
+
+Code: MG14111170, Coordinates: -25.003, 46.913
+
+#### Tsinjoarivo Imanga
+
+Code: MG14111150, Coordinates: -18.887, 46.307
+
+#### Tsiroanomandidy Fihaonana
+
+Code: MG14111030, Coordinates: -18.673, 45.946
+
+#### Tsiroanomandidy Ville
+
+Code: MG14111010, Coordinates: -18.777, 46.043
+

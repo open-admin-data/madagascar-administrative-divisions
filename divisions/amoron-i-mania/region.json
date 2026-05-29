@@ -1,0 +1,30 @@
+{
+  "id": "MG22",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Amoron I Mania",
+    "en": "Amoron I Mania",
+    "slug": "amoron-i-mania"
+  },
+  "code": {
+    "id": "MG22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "commune": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.459",
+    "lon": "46.756"
+  },
+  "metadata": {},
+  "source": {}
+}

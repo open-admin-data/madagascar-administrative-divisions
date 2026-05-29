@@ -1,0 +1,47 @@
+{
+  "id": "MG32302",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sainte Marie",
+    "en": "Sainte Marie",
+    "slug": "sainte-marie"
+  },
+  "code": {
+    "id": "MG32302",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.911",
+    "lon": "49.911"
+  },
+  "metadata": {},
+  "source": {}
+}

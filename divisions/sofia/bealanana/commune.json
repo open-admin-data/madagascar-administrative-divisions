@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG42414213",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalaromba",
+      "en": "Ambalaromba",
+      "slug": "ambalaromba"
+    },
+    "code": {
+      "id": "MG42414213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.606",
+      "lon": "49.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambararata Sofia",
+      "en": "Ambararata Sofia",
+      "slug": "ambararata-sofia"
+    },
+    "code": {
+      "id": "MG42414172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.773",
+      "lon": "48.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambararatabe Nord",
+      "en": "Ambararatabe Nord",
+      "slug": "ambararatabe-nord"
+    },
+    "code": {
+      "id": "MG42414152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.352",
+      "lon": "48.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoriha Est",
+      "en": "Ambatoriha Est",
+      "slug": "ambatoriha-est"
+    },
+    "code": {
+      "id": "MG42414090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.484",
+      "lon": "48.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatosia",
+      "en": "Ambatosia",
+      "slug": "ambatosia"
+    },
+    "code": {
+      "id": "MG42414071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.742",
+      "lon": "48.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiadabo M",
+      "en": "Ambodiadabo M",
+      "slug": "ambodiadabo-m"
+    },
+    "code": {
+      "id": "MG42414211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.671",
+      "lon": "49.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiampana",
+      "en": "Ambodiampana",
+      "slug": "ambodiampana"
+    },
+    "code": {
+      "id": "MG42414072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.536",
+      "lon": "49.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodisikidy",
+      "en": "Ambodisikidy",
+      "slug": "ambodisikidy"
+    },
+    "code": {
+      "id": "MG42414171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.834",
+      "lon": "48.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambovonomby",
+      "en": "Ambovonomby",
+      "slug": "ambovonomby"
+    },
+    "code": {
+      "id": "MG42414110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.356",
+      "lon": "49.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analila",
+      "en": "Analila",
+      "slug": "analila"
+    },
+    "code": {
+      "id": "MG42414131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.473",
+      "lon": "49.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjozoromadosy",
+      "en": "Anjozoromadosy",
+      "slug": "anjozoromadosy"
+    },
+    "code": {
+      "id": "MG42414132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.445",
+      "lon": "49.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazotokana",
+      "en": "Ankazotokana",
+      "slug": "ankazotokana"
+    },
+    "code": {
+      "id": "MG42414212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.546",
+      "lon": "49.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antananivo Haut",
+      "en": "Antananivo Haut",
+      "slug": "antananivo-haut"
+    },
+    "code": {
+      "id": "MG42414032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.325",
+      "lon": "48.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsamaka",
+      "en": "Antsamaka",
+      "slug": "antsamaka"
+    },
+    "code": {
+      "id": "MG42414050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.658",
+      "lon": "48.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bealanana",
+      "en": "Bealanana",
+      "slug": "bealanana"
+    },
+    "code": {
+      "id": "MG42414010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.53",
+      "lon": "48.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beandrarezona",
+      "en": "Beandrarezona",
+      "slug": "beandrarezona"
+    },
+    "code": {
+      "id": "MG42414031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.503",
+      "lon": "48.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangindrano",
+      "en": "Mangindrano",
+      "slug": "mangindrano"
+    },
+    "code": {
+      "id": "MG42414151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.259",
+      "lon": "48.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotolana",
+      "en": "Marotolana",
+      "slug": "marotolana"
+    },
+    "code": {
+      "id": "MG42414190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42414",
+      "level": 2,
+      "name": {
+        "local": "Bealanana",
+        "en": "Bealanana",
+        "slug": "bealanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42414",
+        "level": 2,
+        "name": {
+          "local": "Bealanana",
+          "en": "Bealanana",
+          "slug": "bealanana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.108",
+      "lon": "48.684"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

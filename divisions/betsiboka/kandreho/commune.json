@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG43416012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambaliha",
+      "en": "Ambaliha",
+      "slug": "ambaliha"
+    },
+    "code": {
+      "id": "MG43416012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.746",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43416052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andasibe",
+      "en": "Andasibe",
+      "slug": "andasibe"
+    },
+    "code": {
+      "id": "MG43416052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.695",
+      "lon": "46.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43416030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimbaribe",
+      "en": "Antanimbaribe",
+      "slug": "antanimbaribe"
+    },
+    "code": {
+      "id": "MG43416030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.193",
+      "lon": "45.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43416013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behazomaty",
+      "en": "Behazomaty",
+      "slug": "behazomaty"
+    },
+    "code": {
+      "id": "MG43416013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.44",
+      "lon": "46.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43416051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betaimboay",
+      "en": "Betaimboay",
+      "slug": "betaimboay"
+    },
+    "code": {
+      "id": "MG43416051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.759",
+      "lon": "46.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43416011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kandreho",
+      "en": "Kandreho",
+      "slug": "kandreho"
+    },
+    "code": {
+      "id": "MG43416011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG43416",
+      "level": 2,
+      "name": {
+        "local": "Kandreho",
+        "en": "Kandreho",
+        "slug": "kandreho"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG43",
+        "level": 1,
+        "name": {
+          "local": "Betsiboka",
+          "en": "Betsiboka",
+          "slug": "betsiboka"
+        }
+      },
+      {
+        "id": "MG43416",
+        "level": 2,
+        "name": {
+          "local": "Kandreho",
+          "en": "Kandreho",
+          "slug": "kandreho"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.489",
+      "lon": "46.12"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

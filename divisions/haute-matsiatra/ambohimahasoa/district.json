@@ -1,0 +1,47 @@
+{
+  "id": "MG21208",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambohimahasoa",
+    "en": "Ambohimahasoa",
+    "slug": "ambohimahasoa"
+  },
+  "code": {
+    "id": "MG21208",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG21",
+    "level": 1,
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.056",
+    "lon": "47.146"
+  },
+  "metadata": {},
+  "source": {}
+}

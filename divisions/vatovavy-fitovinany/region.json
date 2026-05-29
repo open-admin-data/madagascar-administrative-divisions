@@ -1,0 +1,30 @@
+{
+  "id": "MG23",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Vatovavy Fitovinany",
+    "en": "Vatovavy Fitovinany",
+    "slug": "vatovavy-fitovinany"
+  },
+  "code": {
+    "id": "MG23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "commune": 139
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.287",
+    "lon": "47.832"
+  },
+  "metadata": {},
+  "source": {}
+}

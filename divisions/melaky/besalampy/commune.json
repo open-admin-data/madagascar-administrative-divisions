@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG44402072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolodia Sud",
+      "en": "Ambolodia Sud",
+      "slug": "ambolodia-sud"
+    },
+    "code": {
+      "id": "MG44402072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.291",
+      "lon": "44.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampako",
+      "en": "Ampako",
+      "slug": "ampako"
+    },
+    "code": {
+      "id": "MG44402012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.765",
+      "lon": "44.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankasakasa Tsibiray",
+      "en": "Ankasakasa Tsibiray",
+      "slug": "ankasakasa-tsibiray"
+    },
+    "code": {
+      "id": "MG44402090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.459",
+      "lon": "44.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekodoka",
+      "en": "Bekodoka",
+      "slug": "bekodoka"
+    },
+    "code": {
+      "id": "MG44402071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.84",
+      "lon": "45.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besalampy",
+      "en": "Besalampy",
+      "slug": "besalampy"
+    },
+    "code": {
+      "id": "MG44402011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.716",
+      "lon": "44.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabe",
+      "en": "Mahabe",
+      "slug": "mahabe"
+    },
+    "code": {
+      "id": "MG44402110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.172",
+      "lon": "45.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovoay Sud",
+      "en": "Marovoay Sud",
+      "slug": "marovoay-sud"
+    },
+    "code": {
+      "id": "MG44402030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.983",
+      "lon": "44.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soanenga",
+      "en": "Soanenga",
+      "slug": "soanenga"
+    },
+    "code": {
+      "id": "MG44402050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44402",
+      "level": 2,
+      "name": {
+        "local": "Besalampy",
+        "en": "Besalampy",
+        "slug": "besalampy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44402",
+        "level": 2,
+        "name": {
+          "local": "Besalampy",
+          "en": "Besalampy",
+          "slug": "besalampy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.412",
+      "lon": "44.596"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

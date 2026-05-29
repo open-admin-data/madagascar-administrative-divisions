@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG14111250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalanirana",
+      "en": "Ambalanirana",
+      "slug": "ambalanirana"
+    },
+    "code": {
+      "id": "MG14111250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.779",
+      "lon": "46.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambararatabe",
+      "en": "Ambararatabe",
+      "slug": "ambararatabe"
+    },
+    "code": {
+      "id": "MG14111210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.022",
+      "lon": "46.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolampy",
+      "en": "Ambatolampy",
+      "slug": "ambatolampy"
+    },
+    "code": {
+      "id": "MG14111051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.904",
+      "lon": "46.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankadinondry Sakay",
+      "en": "Ankadinondry Sakay",
+      "slug": "ankadinondry-sakay"
+    },
+    "code": {
+      "id": "MG14111090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.966",
+      "lon": "46.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankerana Avaratra",
+      "en": "Ankerana Avaratra",
+      "slug": "ankerana-avaratra"
+    },
+    "code": {
+      "id": "MG14111110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.543",
+      "lon": "46.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosy",
+      "en": "Anosy",
+      "slug": "anosy"
+    },
+    "code": {
+      "id": "MG14111190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.729",
+      "lon": "46.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belobaka",
+      "en": "Belobaka",
+      "slug": "belobaka"
+    },
+    "code": {
+      "id": "MG14111230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.73",
+      "lon": "46.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemahatazana",
+      "en": "Bemahatazana",
+      "slug": "bemahatazana"
+    },
+    "code": {
+      "id": "MG14111290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.57",
+      "lon": "45.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bevato",
+      "en": "Bevato",
+      "slug": "bevato"
+    },
+    "code": {
+      "id": "MG14111070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.699",
+      "lon": "46.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fierenana",
+      "en": "Fierenana",
+      "slug": "fierenana"
+    },
+    "code": {
+      "id": "MG14111310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.484",
+      "lon": "48.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahasolo",
+      "en": "Mahasolo",
+      "slug": "mahasolo"
+    },
+    "code": {
+      "id": "MG14111270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.12",
+      "lon": "46.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maritampona",
+      "en": "Maritampona",
+      "slug": "maritampona"
+    },
+    "code": {
+      "id": "MG14111052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.085",
+      "lon": "46.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroharona",
+      "en": "Maroharona",
+      "slug": "maroharona"
+    },
+    "code": {
+      "id": "MG14111330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.297",
+      "lon": "46.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miandrarivo",
+      "en": "Miandrarivo",
+      "slug": "miandrarivo"
+    },
+    "code": {
+      "id": "MG14111130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.927",
+      "lon": "45.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soanierana",
+      "en": "Soanierana",
+      "slug": "soanierana"
+    },
+    "code": {
+      "id": "MG14111170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.003",
+      "lon": "46.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsinjoarivo Imanga",
+      "en": "Tsinjoarivo Imanga",
+      "slug": "tsinjoarivo-imanga"
+    },
+    "code": {
+      "id": "MG14111150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.887",
+      "lon": "46.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiroanomandidy Fihaonana",
+      "en": "Tsiroanomandidy Fihaonana",
+      "slug": "tsiroanomandidy-fihaonana"
+    },
+    "code": {
+      "id": "MG14111030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.673",
+      "lon": "45.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiroanomandidy Ville",
+      "en": "Tsiroanomandidy Ville",
+      "slug": "tsiroanomandidy-ville"
+    },
+    "code": {
+      "id": "MG14111010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14111",
+      "level": 2,
+      "name": {
+        "local": "Tsiroanomandidy",
+        "en": "Tsiroanomandidy",
+        "slug": "tsiroanomandidy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      },
+      {
+        "id": "MG14111",
+        "level": 2,
+        "name": {
+          "local": "Tsiroanomandidy",
+          "en": "Tsiroanomandidy",
+          "slug": "tsiroanomandidy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.777",
+      "lon": "46.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

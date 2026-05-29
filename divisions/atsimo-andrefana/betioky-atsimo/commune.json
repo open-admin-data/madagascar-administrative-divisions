@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "MG51506013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatry Mitsinjo",
+      "en": "Ambatry Mitsinjo",
+      "slug": "ambatry-mitsinjo"
+    },
+    "code": {
+      "id": "MG51506013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.869",
+      "lon": "44.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomangatsiaka",
+      "en": "Andranomangatsiaka",
+      "slug": "andranomangatsiaka"
+    },
+    "code": {
+      "id": "MG51506191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.364",
+      "lon": "44.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506014",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazomanga Ouest",
+      "en": "Ankazomanga Ouest",
+      "slug": "ankazomanga-ouest"
+    },
+    "code": {
+      "id": "MG51506014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.695",
+      "lon": "44.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazombalala",
+      "en": "Ankazombalala",
+      "slug": "ankazombalala"
+    },
+    "code": {
+      "id": "MG51506130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.66",
+      "lon": "44.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankilivalo",
+      "en": "Ankilivalo",
+      "slug": "ankilivalo"
+    },
+    "code": {
+      "id": "MG51506192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.274",
+      "lon": "44.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antohabato",
+      "en": "Antohabato",
+      "slug": "antohabato"
+    },
+    "code": {
+      "id": "MG51506070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.605",
+      "lon": "44.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506312",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsavoa",
+      "en": "Antsavoa",
+      "slug": "antsavoa"
+    },
+    "code": {
+      "id": "MG51506312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.53",
+      "lon": "44.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beantake",
+      "en": "Beantake",
+      "slug": "beantake"
+    },
+    "code": {
+      "id": "MG51506030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.867",
+      "lon": "44.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506311",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belamoty",
+      "en": "Belamoty",
+      "slug": "belamoty"
+    },
+    "code": {
+      "id": "MG51506311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.61",
+      "lon": "44.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besely",
+      "en": "Besely",
+      "slug": "besely"
+    },
+    "code": {
+      "id": "MG51506112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.356",
+      "lon": "44.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betioky Atsimo",
+      "en": "Betioky Atsimo",
+      "slug": "betioky-atsimo"
+    },
+    "code": {
+      "id": "MG51506011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.839",
+      "lon": "44.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bezaha",
+      "en": "Bezaha",
+      "slug": "bezaha"
+    },
+    "code": {
+      "id": "MG51506150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.504",
+      "lon": "44.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoandala",
+      "en": "Fenoandala",
+      "slug": "fenoandala"
+    },
+    "code": {
+      "id": "MG51506230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.531",
+      "lon": "44.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lazarivo",
+      "en": "Lazarivo",
+      "slug": "lazarivo"
+    },
+    "code": {
+      "id": "MG51506330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.817",
+      "lon": "44.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manalobe",
+      "en": "Manalobe",
+      "slug": "manalobe"
+    },
+    "code": {
+      "id": "MG51506170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.456",
+      "lon": "44.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506015",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroarivo Ankazomanga",
+      "en": "Maroarivo Ankazomanga",
+      "slug": "maroarivo-ankazomanga"
+    },
+    "code": {
+      "id": "MG51506015",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.922",
+      "lon": "44.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marosavoa",
+      "en": "Marosavoa",
+      "slug": "marosavoa"
+    },
+    "code": {
+      "id": "MG51506252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.836",
+      "lon": "44.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masiaboay",
+      "en": "Masiaboay",
+      "slug": "masiaboay"
+    },
+    "code": {
+      "id": "MG51506050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.95",
+      "lon": "44.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506313",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Montifeno",
+      "en": "Montifeno",
+      "slug": "montifeno"
+    },
+    "code": {
+      "id": "MG51506313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.457",
+      "lon": "44.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakamasay",
+      "en": "Sakamasay",
+      "slug": "sakamasay"
+    },
+    "code": {
+      "id": "MG51506012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.848",
+      "lon": "44.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Salobe",
+      "en": "Salobe",
+      "slug": "salobe"
+    },
+    "code": {
+      "id": "MG51506270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.516",
+      "lon": "44.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soamanonga",
+      "en": "Soamanonga",
+      "slug": "soamanonga"
+    },
+    "code": {
+      "id": "MG51506210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.876",
+      "lon": "44.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soaserana",
+      "en": "Soaserana",
+      "slug": "soaserana"
+    },
+    "code": {
+      "id": "MG51506251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.125",
+      "lon": "44.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tameantsoa",
+      "en": "Tameantsoa",
+      "slug": "tameantsoa"
+    },
+    "code": {
+      "id": "MG51506090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.628",
+      "lon": "44.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Haut",
+      "en": "Tanambao Haut",
+      "slug": "tanambao-haut"
+    },
+    "code": {
+      "id": "MG51506290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.549",
+      "lon": "44.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tongobory",
+      "en": "Tongobory",
+      "slug": "tongobory"
+    },
+    "code": {
+      "id": "MG51506111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.451",
+      "lon": "44.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506113",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatolatsaka",
+      "en": "Vatolatsaka",
+      "slug": "vatolatsaka"
+    },
+    "code": {
+      "id": "MG51506113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51506",
+      "level": 2,
+      "name": {
+        "local": "Betioky Atsimo",
+        "en": "Betioky Atsimo",
+        "slug": "betioky-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51506",
+        "level": 2,
+        "name": {
+          "local": "Betioky Atsimo",
+          "en": "Betioky Atsimo",
+          "slug": "betioky-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.287",
+      "lon": "44.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

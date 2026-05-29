@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG13112112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alatsinainikely",
+      "en": "Alatsinainikely",
+      "slug": "alatsinainikely"
+    },
+    "code": {
+      "id": "MG13112112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.944",
+      "lon": "46.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomanjaka",
+      "en": "Ambatomanjaka",
+      "slug": "ambatomanjaka"
+    },
+    "code": {
+      "id": "MG13112050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.806",
+      "lon": "46.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analavory",
+      "en": "Analavory",
+      "slug": "analavory"
+    },
+    "code": {
+      "id": "MG13112111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.7",
+      "lon": "47.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andolofotsy",
+      "en": "Andolofotsy",
+      "slug": "andolofotsy"
+    },
+    "code": {
+      "id": "MG13112210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.75",
+      "lon": "46.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosibe Ifanja",
+      "en": "Anosibe Ifanja",
+      "slug": "anosibe-ifanja"
+    },
+    "code": {
+      "id": "MG13112151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.891",
+      "lon": "46.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antoby Est",
+      "en": "Antoby Est",
+      "slug": "antoby-est"
+    },
+    "code": {
+      "id": "MG13112072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.101",
+      "lon": "46.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manazary",
+      "en": "Manazary",
+      "slug": "manazary"
+    },
+    "code": {
+      "id": "MG13112071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.06",
+      "lon": "46.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandiavato",
+      "en": "Mandiavato",
+      "slug": "mandiavato"
+    },
+    "code": {
+      "id": "MG13112130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.115",
+      "lon": "46.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinarivo I",
+      "en": "Miarinarivo I",
+      "slug": "miarinarivo-i"
+    },
+    "code": {
+      "id": "MG13112010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.953",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinarivo II",
+      "en": "Miarinarivo II",
+      "slug": "miarinarivo-ii"
+    },
+    "code": {
+      "id": "MG13112030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.963",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarobaratra Ifanja",
+      "en": "Sarobaratra Ifanja",
+      "slug": "sarobaratra-ifanja"
+    },
+    "code": {
+      "id": "MG13112152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.828",
+      "lon": "46.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soamahamanina",
+      "en": "Soamahamanina",
+      "slug": "soamahamanina"
+    },
+    "code": {
+      "id": "MG13112090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.977",
+      "lon": "47.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavimbazaha",
+      "en": "Soavimbazaha",
+      "slug": "soavimbazaha"
+    },
+    "code": {
+      "id": "MG13112190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.786",
+      "lon": "47.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13112170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zoma Bealoka",
+      "en": "Zoma Bealoka",
+      "slug": "zoma-bealoka"
+    },
+    "code": {
+      "id": "MG13112170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13112",
+      "level": 2,
+      "name": {
+        "local": "Miarinarivo",
+        "en": "Miarinarivo",
+        "slug": "miarinarivo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13112",
+        "level": 2,
+        "name": {
+          "local": "Miarinarivo",
+          "en": "Miarinarivo",
+          "slug": "miarinarivo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.872",
+      "lon": "47.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

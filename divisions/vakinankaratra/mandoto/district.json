@@ -1,0 +1,47 @@
+{
+  "id": "MG12120",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandoto",
+    "en": "Mandoto",
+    "slug": "mandoto"
+  },
+  "code": {
+    "id": "MG12120",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG12",
+    "level": 1,
+    "name": {
+      "local": "Vakinankaratra",
+      "en": "Vakinankaratra",
+      "slug": "vakinankaratra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG12",
+      "level": 1,
+      "name": {
+        "local": "Vakinankaratra",
+        "en": "Vakinankaratra",
+        "slug": "vakinankaratra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.727",
+    "lon": "46.227"
+  },
+  "metadata": {},
+  "source": {}
+}

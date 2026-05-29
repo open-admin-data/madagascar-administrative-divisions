@@ -1,0 +1,30 @@
+{
+  "id": "MG53",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Anosy",
+    "en": "Anosy",
+    "slug": "anosy"
+  },
+  "code": {
+    "id": "MG53",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "commune": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.937",
+    "lon": "46.309"
+  },
+  "metadata": {},
+  "source": {}
+}

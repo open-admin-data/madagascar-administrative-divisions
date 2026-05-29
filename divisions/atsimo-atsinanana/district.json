@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MG25222",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Befotaka",
+      "en": "Befotaka",
+      "slug": "befotaka"
+    },
+    "code": {
+      "id": "MG25222",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.944",
+      "lon": "46.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25213",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Farafangana",
+      "en": "Farafangana",
+      "slug": "farafangana"
+    },
+    "code": {
+      "id": "MG25213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 32
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.832",
+      "lon": "47.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25215",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Midongy-Atsimo",
+      "en": "Midongy-Atsimo",
+      "slug": "midongy-atsimo"
+    },
+    "code": {
+      "id": "MG25215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.354",
+      "lon": "46.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vangaindrano",
+      "en": "Vangaindrano",
+      "slug": "vangaindrano"
+    },
+    "code": {
+      "id": "MG25214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.586",
+      "lon": "47.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vondrozo",
+      "en": "Vondrozo",
+      "slug": "vondrozo"
+    },
+    "code": {
+      "id": "MG25217",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.691",
+      "lon": "47.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

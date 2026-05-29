@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "MG11103390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambato",
+      "en": "Ambato",
+      "slug": "ambato"
+    },
+    "code": {
+      "id": "MG11103390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.559",
+      "lon": "47.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolampy",
+      "en": "Ambatolampy",
+      "slug": "ambatolampy"
+    },
+    "code": {
+      "id": "MG11103172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.904",
+      "lon": "46.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohidratrimo",
+      "en": "Ambohidratrimo",
+      "slug": "ambohidratrimo"
+    },
+    "code": {
+      "id": "MG11103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.824",
+      "lon": "47.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanjaka",
+      "en": "Ambohimanjaka",
+      "slug": "ambohimanjaka"
+    },
+    "code": {
+      "id": "MG11103270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.708",
+      "lon": "47.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103370",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohipihaonana",
+      "en": "Ambohipihaonana",
+      "slug": "ambohipihaonana"
+    },
+    "code": {
+      "id": "MG11103370",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.462",
+      "lon": "47.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrimanjaka",
+      "en": "Ambohitrimanjaka",
+      "slug": "ambohitrimanjaka"
+    },
+    "code": {
+      "id": "MG11103130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.873",
+      "lon": "47.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampangabe",
+      "en": "Ampangabe",
+      "slug": "ampangabe"
+    },
+    "code": {
+      "id": "MG11103190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.87",
+      "lon": "47.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanotokana",
+      "en": "Ampanotokana",
+      "slug": "ampanotokana"
+    },
+    "code": {
+      "id": "MG11103210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.722",
+      "lon": "47.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjanadoria",
+      "en": "Anjanadoria",
+      "slug": "anjanadoria"
+    },
+    "code": {
+      "id": "MG11103410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.548",
+      "lon": "47.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosiala",
+      "en": "Anosiala",
+      "slug": "anosiala"
+    },
+    "code": {
+      "id": "MG11103030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.061",
+      "lon": "48.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanetibe",
+      "en": "Antanetibe",
+      "slug": "antanetibe"
+    },
+    "code": {
+      "id": "MG11103350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.144",
+      "lon": "46.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antehiroka",
+      "en": "Antehiroka",
+      "slug": "antehiroka"
+    },
+    "code": {
+      "id": "MG11103070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.837",
+      "lon": "47.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahafilo",
+      "en": "Antsahafilo",
+      "slug": "antsahafilo"
+    },
+    "code": {
+      "id": "MG11103252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.664",
+      "lon": "47.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Avaratsena",
+      "en": "Avaratsena",
+      "slug": "avaratsena"
+    },
+    "code": {
+      "id": "MG11103430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.591",
+      "lon": "47.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiadanana",
+      "en": "Fiadanana",
+      "slug": "fiadanana"
+    },
+    "code": {
+      "id": "MG11103290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iarinarivo",
+      "en": "Iarinarivo",
+      "slug": "iarinarivo"
+    },
+    "code": {
+      "id": "MG11103090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.833",
+      "lon": "47.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivato Aeroport",
+      "en": "Ivato Aeroport",
+      "slug": "ivato-aeroport"
+    },
+    "code": {
+      "id": "MG11103112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.803",
+      "lon": "47.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivato Firaisana",
+      "en": "Ivato Firaisana",
+      "slug": "ivato-firaisana"
+    },
+    "code": {
+      "id": "MG11103111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.822",
+      "lon": "47.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabo",
+      "en": "Mahabo",
+      "slug": "mahabo"
+    },
+    "code": {
+      "id": "MG11103310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.368",
+      "lon": "44.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahereza",
+      "en": "Mahereza",
+      "slug": "mahereza"
+    },
+    "code": {
+      "id": "MG11103330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.896",
+      "lon": "47.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahitsy",
+      "en": "Mahitsy",
+      "slug": "mahitsy"
+    },
+    "code": {
+      "id": "MG11103150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.761",
+      "lon": "47.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mananjara",
+      "en": "Mananjara",
+      "slug": "mananjara"
+    },
+    "code": {
+      "id": "MG11103230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.757",
+      "lon": "47.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manjakavaradrano",
+      "en": "Manjakavaradrano",
+      "slug": "manjakavaradrano"
+    },
+    "code": {
+      "id": "MG11103251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.685",
+      "lon": "47.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merimandroso",
+      "en": "Merimandroso",
+      "slug": "merimandroso"
+    },
+    "code": {
+      "id": "MG11103171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.735",
+      "lon": "47.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talatamaty",
+      "en": "Talatamaty",
+      "slug": "talatamaty"
+    },
+    "code": {
+      "id": "MG11103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11103",
+      "level": 2,
+      "name": {
+        "local": "Ambohidratrimo",
+        "en": "Ambohidratrimo",
+        "slug": "ambohidratrimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11103",
+        "level": 2,
+        "name": {
+          "local": "Ambohidratrimo",
+          "en": "Ambohidratrimo",
+          "slug": "ambohidratrimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.825",
+      "lon": "47.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

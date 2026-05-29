@@ -1,0 +1,30 @@
+{
+  "id": "MG11",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Analamanga",
+    "en": "Analamanga",
+    "slug": "analamanga"
+  },
+  "code": {
+    "id": "MG11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "commune": 139
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.604",
+    "lon": "47.292"
+  },
+  "metadata": {},
+  "source": {}
+}

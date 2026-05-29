@@ -1,0 +1,47 @@
+{
+  "id": "MG32304",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mananara-Avaratra",
+    "en": "Mananara-Avaratra",
+    "slug": "mananara-avaratra"
+  },
+  "code": {
+    "id": "MG32304",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.235",
+    "lon": "49.499"
+  },
+  "metadata": {},
+  "source": {}
+}

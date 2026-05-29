@@ -1,0 +1,47 @@
+{
+  "id": "MG54502",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manja",
+    "en": "Manja",
+    "slug": "manja"
+  },
+  "code": {
+    "id": "MG54502",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG54",
+    "level": 1,
+    "name": {
+      "local": "Menabe",
+      "en": "Menabe",
+      "slug": "menabe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.407",
+    "lon": "44.152"
+  },
+  "metadata": {},
+  "source": {}
+}

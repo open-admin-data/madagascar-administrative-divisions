@@ -1,0 +1,47 @@
+{
+  "id": "MG42411",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Analalava",
+    "en": "Analalava",
+    "slug": "analalava"
+  },
+  "code": {
+    "id": "MG42411",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.668",
+    "lon": "47.764"
+  },
+  "metadata": {},
+  "source": {}
+}

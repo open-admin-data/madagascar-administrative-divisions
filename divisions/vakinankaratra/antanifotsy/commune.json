@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG12114030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolahy",
+      "en": "Ambatolahy",
+      "slug": "ambatolahy"
+    },
+    "code": {
+      "id": "MG12114030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.028",
+      "lon": "45.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114079",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomiady",
+      "en": "Ambatomiady",
+      "slug": "ambatomiady"
+    },
+    "code": {
+      "id": "MG12114079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.688",
+      "lon": "47.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatotsipihina",
+      "en": "Ambatotsipihina",
+      "slug": "ambatotsipihina"
+    },
+    "code": {
+      "id": "MG12114150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.468",
+      "lon": "47.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiriana",
+      "en": "Ambodiriana",
+      "slug": "ambodiriana"
+    },
+    "code": {
+      "id": "MG12114230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.926",
+      "lon": "49.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimandroso",
+      "en": "Ambohimandroso",
+      "slug": "ambohimandroso"
+    },
+    "code": {
+      "id": "MG12114110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.605",
+      "lon": "48.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitompoina",
+      "en": "Ambohitompoina",
+      "slug": "ambohitompoina"
+    },
+    "code": {
+      "id": "MG12114171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.8",
+      "lon": "47.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampitatafika",
+      "en": "Ampitatafika",
+      "slug": "ampitatafika"
+    },
+    "code": {
+      "id": "MG12114050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.955",
+      "lon": "47.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranofito",
+      "en": "Andranofito",
+      "slug": "andranofito"
+    },
+    "code": {
+      "id": "MG12114090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.802",
+      "lon": "47.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanifotsy",
+      "en": "Antanifotsy",
+      "slug": "antanifotsy"
+    },
+    "code": {
+      "id": "MG12114010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.832",
+      "lon": "49.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114199",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahalava",
+      "en": "Antsahalava",
+      "slug": "antsahalava"
+    },
+    "code": {
+      "id": "MG12114199",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.591",
+      "lon": "47.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsampandrano",
+      "en": "Antsampandrano",
+      "slug": "antsampandrano"
+    },
+    "code": {
+      "id": "MG12114290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.964",
+      "lon": "47.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12114172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belanitra",
+      "en": "Belanitra",
+      "slug": "belanitra"
+    },
+    "code": {
+      "id": "MG12114172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12114",
+      "level": 2,
+      "name": {
+        "local": "Antanifotsy",
+        "en": "Antanifotsy",
+        "slug": "antanifotsy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12114",
+        "level": 2,
+        "name": {
+          "local": "Antanifotsy",
+          "en": "Antanifotsy",
+          "slug": "antanifotsy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.784",
+      "lon": "47.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG31307230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalabe",
+      "en": "Ambalabe",
+      "slug": "ambalabe"
+    },
+    "code": {
+      "id": "MG31307230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.19",
+      "lon": "50.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavolo",
+      "en": "Ambalavolo",
+      "slug": "ambalavolo"
+    },
+    "code": {
+      "id": "MG31307110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.217",
+      "lon": "48.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboditavolo",
+      "en": "Amboditavolo",
+      "slug": "amboditavolo"
+    },
+    "code": {
+      "id": "MG31307131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.157",
+      "lon": "48.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodivoananto",
+      "en": "Ambodivoananto",
+      "slug": "ambodivoananto"
+    },
+    "code": {
+      "id": "MG31307030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.341",
+      "lon": "48.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimadinika",
+      "en": "Ampasimadinika",
+      "slug": "ampasimadinika"
+    },
+    "code": {
+      "id": "MG31307190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.542",
+      "lon": "48.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimazava",
+      "en": "Ampasimazava",
+      "slug": "ampasimazava"
+    },
+    "code": {
+      "id": "MG31307172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.401",
+      "lon": "49.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambao Mahatsara",
+      "en": "Antanambao Mahatsara",
+      "slug": "antanambao-mahatsara"
+    },
+    "code": {
+      "id": "MG31307091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.309",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iamborano",
+      "en": "Iamborano",
+      "slug": "iamborano"
+    },
+    "code": {
+      "id": "MG31307092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.412",
+      "lon": "48.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifasina I",
+      "en": "Ifasina I",
+      "slug": "ifasina-i"
+    },
+    "code": {
+      "id": "MG31307210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.411",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifasina II",
+      "en": "Ifasina II",
+      "slug": "ifasina-ii"
+    },
+    "code": {
+      "id": "MG31307250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.314",
+      "lon": "48.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilaka Est",
+      "en": "Ilaka Est",
+      "slug": "ilaka-est"
+    },
+    "code": {
+      "id": "MG31307151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.526",
+      "lon": "48.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maintinandry",
+      "en": "Maintinandry",
+      "slug": "maintinandry"
+    },
+    "code": {
+      "id": "MG31307051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.439",
+      "lon": "48.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niarovana Caroline",
+      "en": "Niarovana Caroline",
+      "slug": "niarovana-caroline"
+    },
+    "code": {
+      "id": "MG31307152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.547",
+      "lon": "48.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niherenana",
+      "en": "Niherenana",
+      "slug": "niherenana"
+    },
+    "code": {
+      "id": "MG31307132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.083",
+      "lon": "48.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahamatevina",
+      "en": "Sahamatevina",
+      "slug": "sahamatevina"
+    },
+    "code": {
+      "id": "MG31307070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.248",
+      "lon": "48.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Vahatrakaka",
+      "en": "Tanambao Vahatrakaka",
+      "slug": "tanambao-vahatrakaka"
+    },
+    "code": {
+      "id": "MG31307052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.424",
+      "lon": "48.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307053",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarasambo",
+      "en": "Tsarasambo",
+      "slug": "tsarasambo"
+    },
+    "code": {
+      "id": "MG31307053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.441",
+      "lon": "48.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsivangiana",
+      "en": "Tsivangiana",
+      "slug": "tsivangiana"
+    },
+    "code": {
+      "id": "MG31307171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.647",
+      "lon": "48.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatomandry",
+      "en": "Vatomandry",
+      "slug": "vatomandry"
+    },
+    "code": {
+      "id": "MG31307010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31307",
+      "level": 2,
+      "name": {
+        "local": "Vatomandry",
+        "en": "Vatomandry",
+        "slug": "vatomandry"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31307",
+        "level": 2,
+        "name": {
+          "local": "Vatomandry",
+          "en": "Vatomandry",
+          "slug": "vatomandry"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.355",
+      "lon": "48.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

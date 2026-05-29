@@ -1,0 +1,47 @@
+{
+  "id": "MG51512",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sakaraha",
+    "en": "Sakaraha",
+    "slug": "sakaraha"
+  },
+  "code": {
+    "id": "MG51512",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.83",
+    "lon": "44.369"
+  },
+  "metadata": {},
+  "source": {}
+}

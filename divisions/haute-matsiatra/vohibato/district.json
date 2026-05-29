@@ -1,0 +1,47 @@
+{
+  "id": "MG21224",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vohibato",
+    "en": "Vohibato",
+    "slug": "vohibato"
+  },
+  "code": {
+    "id": "MG21224",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG21",
+    "level": 1,
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.673",
+    "lon": "47.053"
+  },
+  "metadata": {},
+  "source": {}
+}

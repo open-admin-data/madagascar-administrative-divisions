@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "MG42410211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalakirajy",
+      "en": "Ambalakirajy",
+      "slug": "ambalakirajy"
+    },
+    "code": {
+      "id": "MG42410211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.754",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambarikorano",
+      "en": "Ambarikorano",
+      "slug": "ambarikorano"
+    },
+    "code": {
+      "id": "MG42410171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.873",
+      "lon": "48.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambaripaika",
+      "en": "Ambaripaika",
+      "slug": "ambaripaika"
+    },
+    "code": {
+      "id": "MG42410191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.77",
+      "lon": "49.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambilombe",
+      "en": "Ambilombe",
+      "slug": "ambilombe"
+    },
+    "code": {
+      "id": "MG42410270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.516",
+      "lon": "49.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboaboa",
+      "en": "Amboaboa",
+      "slug": "amboaboa"
+    },
+    "code": {
+      "id": "MG42410130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.906",
+      "lon": "48.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410391",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiadabo",
+      "en": "Ambodiadabo",
+      "slug": "ambodiadabo"
+    },
+    "code": {
+      "id": "MG42410391",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.31",
+      "lon": "48.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiamontana Kianga",
+      "en": "Ambodiamontana Kianga",
+      "slug": "ambodiamontana-kianga"
+    },
+    "code": {
+      "id": "MG42410192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.77",
+      "lon": "48.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohisoa",
+      "en": "Ambohisoa",
+      "slug": "ambohisoa"
+    },
+    "code": {
+      "id": "MG42410330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.99",
+      "lon": "48.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410392",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amborondolo",
+      "en": "Amborondolo",
+      "slug": "amborondolo"
+    },
+    "code": {
+      "id": "MG42410392",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.183",
+      "lon": "48.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampatakamaroreny",
+      "en": "Ampatakamaroreny",
+      "slug": "ampatakamaroreny"
+    },
+    "code": {
+      "id": "MG42410350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.505",
+      "lon": "48.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andohajango",
+      "en": "Andohajango",
+      "slug": "andohajango"
+    },
+    "code": {
+      "id": "MG42410290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.042",
+      "lon": "48.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andratamarina",
+      "en": "Andratamarina",
+      "slug": "andratamarina"
+    },
+    "code": {
+      "id": "MG42410172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.365",
+      "lon": "49.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjiabe",
+      "en": "Anjiabe",
+      "slug": "anjiabe"
+    },
+    "code": {
+      "id": "MG42410310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.654",
+      "lon": "48.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410371",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiabe-Salohy",
+      "en": "Ankiabe-Salohy",
+      "slug": "ankiabe-salohy"
+    },
+    "code": {
+      "id": "MG42410371",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.543",
+      "lon": "48.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiakabe-Fonoko",
+      "en": "Ankiakabe-Fonoko",
+      "slug": "ankiakabe-fonoko"
+    },
+    "code": {
+      "id": "MG42410232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.681",
+      "lon": "49.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambaon'amberina",
+      "en": "Antanambaon'amberina",
+      "slug": "antanambaonamberina"
+    },
+    "code": {
+      "id": "MG42410410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.31",
+      "lon": "49.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanandava",
+      "en": "Antanandava",
+      "slug": "antanandava"
+    },
+    "code": {
+      "id": "MG42410030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.901",
+      "lon": "48.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsatramidola",
+      "en": "Antsatramidola",
+      "slug": "antsatramidola"
+    },
+    "code": {
+      "id": "MG42410231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.597",
+      "lon": "48.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsiatsiaka",
+      "en": "Antsiatsiaka",
+      "slug": "antsiatsiaka"
+    },
+    "code": {
+      "id": "MG42410112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.042",
+      "lon": "49.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsirabe Centre",
+      "en": "Antsirabe Centre",
+      "slug": "antsirabe-centre"
+    },
+    "code": {
+      "id": "MG42410111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.999",
+      "lon": "48.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsoha",
+      "en": "Antsoha",
+      "slug": "antsoha"
+    },
+    "code": {
+      "id": "MG42410050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.498",
+      "lon": "49.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalandy",
+      "en": "Kalandy",
+      "slug": "kalandy"
+    },
+    "code": {
+      "id": "MG42410090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.7",
+      "lon": "48.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manampaneva",
+      "en": "Manampaneva",
+      "slug": "manampaneva"
+    },
+    "code": {
+      "id": "MG42410150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.126",
+      "lon": "48.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandritsara",
+      "en": "Mandritsara",
+      "slug": "mandritsara"
+    },
+    "code": {
+      "id": "MG42410010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.838",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotandrano",
+      "en": "Marotandrano",
+      "slug": "marotandrano"
+    },
+    "code": {
+      "id": "MG42410250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.188",
+      "lon": "48.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410372",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pont Sofia",
+      "en": "Pont Sofia",
+      "slug": "pont-sofia"
+    },
+    "code": {
+      "id": "MG42410372",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.5",
+      "lon": "48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarajomoka",
+      "en": "Tsarajomoka",
+      "slug": "tsarajomoka"
+    },
+    "code": {
+      "id": "MG42410212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.818",
+      "lon": "48.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaratanana",
+      "en": "Tsaratanana",
+      "slug": "tsaratanana"
+    },
+    "code": {
+      "id": "MG42410070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42410",
+      "level": 2,
+      "name": {
+        "local": "Mandritsara",
+        "en": "Mandritsara",
+        "slug": "mandritsara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42410",
+        "level": 2,
+        "name": {
+          "local": "Mandritsara",
+          "en": "Mandritsara",
+          "slug": "mandritsara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.842",
+      "lon": "47.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "5e Arrondissement",
+      "en": "5e Arrondissement",
+      "slug": "5e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101005A",
+      "level": 2,
+      "name": {
+        "local": "5e Arrondissement",
+        "en": "5e Arrondissement",
+        "slug": "5e-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101005A",
+        "level": 2,
+        "name": {
+          "local": "5e Arrondissement",
+          "en": "5e Arrondissement",
+          "slug": "5e-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.882",
+      "lon": "47.54"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

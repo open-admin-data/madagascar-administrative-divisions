@@ -1,0 +1,30 @@
+{
+  "id": "MG13",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Itasy",
+    "en": "Itasy",
+    "slug": "itasy"
+  },
+  "code": {
+    "id": "MG13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 3,
+    "commune": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.056",
+    "lon": "46.833"
+  },
+  "metadata": {},
+  "source": {}
+}

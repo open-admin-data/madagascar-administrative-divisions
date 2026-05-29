@@ -1,0 +1,47 @@
+{
+  "id": "MG25222",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Befotaka",
+    "en": "Befotaka",
+    "slug": "befotaka"
+  },
+  "code": {
+    "id": "MG25222",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG25",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Atsinanana",
+      "en": "Atsimo Atsinanana",
+      "slug": "atsimo-atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.944",
+    "lon": "46.81"
+  },
+  "metadata": {},
+  "source": {}
+}

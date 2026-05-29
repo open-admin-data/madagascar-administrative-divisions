@@ -1,0 +1,47 @@
+{
+  "id": "MG71713",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antsiranana II",
+    "en": "Antsiranana II",
+    "slug": "antsiranana-ii"
+  },
+  "code": {
+    "id": "MG71713",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG71",
+    "level": 1,
+    "name": {
+      "local": "Diana",
+      "en": "Diana",
+      "slug": "diana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG71",
+      "level": 1,
+      "name": {
+        "local": "Diana",
+        "en": "Diana",
+        "slug": "diana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.498",
+    "lon": "49.164"
+  },
+  "metadata": {},
+  "source": {}
+}

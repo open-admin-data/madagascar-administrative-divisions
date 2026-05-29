@@ -1,0 +1,182 @@
+# Melaky — Madagascar Administrative Divisions
+
+> 5 districts, 37 communes
+> Code: MG44
+> Coordinates: -17.755, 44.943
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambatomainty
+
+Code: MG44417, Coordinates: -17.814, 45.505
+Communes: 4
+
+#### Ambatomainty
+
+Code: MG44417011, Coordinates: -17.671, 45.685
+
+#### Bemarivo
+
+Code: MG44417012, Coordinates: -17.513, 45.71
+
+#### Marotsialeha
+
+Code: MG44417032, Coordinates: -17.713, 45.269
+
+#### Sarodrano
+
+Code: MG44417031, Coordinates: -17.965, 45.685
+
+### Antsalova
+
+Code: MG44420, Coordinates: -18.816, 44.628
+Communes: 5
+
+#### Antsalova
+
+Code: MG44420010, Coordinates: -18.658, 44.714
+
+#### Bekopaka
+
+Code: MG44420090, Coordinates: -19.078, 44.888
+
+#### Masoarivo
+
+Code: MG44420050, Coordinates: -19.607, 44.778
+
+#### Soahany
+
+Code: MG44420030, Coordinates: -18.649, 44.323
+
+#### Trangahy
+
+Code: MG44420070, Coordinates: -19.038, 44.565
+
+### Besalampy
+
+Code: MG44402, Coordinates: -16.857, 44.947
+Communes: 8
+
+#### Ambolodia Sud
+
+Code: MG44402072, Coordinates: -17.291, 44.892
+
+#### Ampako
+
+Code: MG44402012, Coordinates: -16.765, 44.833
+
+#### Ankasakasa Tsibiray
+
+Code: MG44402090, Coordinates: -16.459, 44.79
+
+#### Bekodoka
+
+Code: MG44402071, Coordinates: -16.84, 45.086
+
+#### Besalampy
+
+Code: MG44402011, Coordinates: -16.716, 44.555
+
+#### Mahabe
+
+Code: MG44402110, Coordinates: -17.172, 45.359
+
+#### Marovoay Sud
+
+Code: MG44402030, Coordinates: -16.983, 44.593
+
+#### Soanenga
+
+Code: MG44402050, Coordinates: -16.412, 44.596
+
+### Maintirano
+
+Code: MG44421, Coordinates: -17.733, 44.405
+Communes: 17
+
+#### Andabotoka
+
+Code: MG44421050, Coordinates: -18.175, 44.383
+
+#### Andranovao
+
+Code: MG44421194, Coordinates: -17.634, 44.076
+
+#### Andrea
+
+Code: MG44421090, Coordinates: -17.811, 44.118
+
+#### Ankisatra
+
+Code: MG44421110, Coordinates: -18.392, 44.128
+
+#### Antsaidoha Bebao
+
+Code: MG44421210, Coordinates: -17.438, 44.573
+
+#### Antsondrodava
+
+Code: MG44421150, Coordinates: -18.416, 44.376
+
+#### Bebaboky Sud
+
+Code: MG44421232, Coordinates: -17.085, 44.343
+
+#### Belitsaky
+
+Code: MG44421170, Coordinates: -17.94, 44.385
+
+#### Bemokotra Sud
+
+Code: MG44421233, Coordinates: -17.298, 44.147
+
+#### Berevo/ranobe
+
+Code: MG44421231, Coordinates: -17.293, 44.291
+
+#### Betanatanana
+
+Code: MG44421070, Coordinates: -18.197, 44.201
+
+#### Mafaijijo
+
+Code: MG44421030, Coordinates: -18.004, 44.165
+
+#### Maintirano
+
+Code: MG44421010, Coordinates: -18.015, 44.094
+
+#### Marohazo
+
+Code: MG44421130, Coordinates: -17.682, 44.412
+
+#### Maromavo
+
+Code: MG44421193, Coordinates: -17.59, 44.273
+
+#### Tambohorano
+
+Code: MG44421191, Coordinates: -17.467, 44.028
+
+#### Veromanga
+
+Code: MG44421192, Coordinates: -17.476, 44.219
+
+### Morafenobe
+
+Code: MG44422, Coordinates: -17.912, 45.014
+Communes: 3
+
+#### Andramy
+
+Code: MG44422030, Coordinates: -18.012, 44.738
+
+#### Beravina
+
+Code: MG44422050, Coordinates: -18.107, 45.252
+
+#### Morafenobe
+
+Code: MG44422010, Coordinates: -17.764, 44.933
+

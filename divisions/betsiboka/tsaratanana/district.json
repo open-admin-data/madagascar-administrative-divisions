@@ -1,0 +1,47 @@
+{
+  "id": "MG43408",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tsaratanana",
+    "en": "Tsaratanana",
+    "slug": "tsaratanana"
+  },
+  "code": {
+    "id": "MG43408",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG43",
+    "level": 1,
+    "name": {
+      "local": "Betsiboka",
+      "en": "Betsiboka",
+      "slug": "betsiboka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG43",
+      "level": 1,
+      "name": {
+        "local": "Betsiboka",
+        "en": "Betsiboka",
+        "slug": "betsiboka"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.139",
+    "lon": "47.646"
+  },
+  "metadata": {},
+  "source": {}
+}

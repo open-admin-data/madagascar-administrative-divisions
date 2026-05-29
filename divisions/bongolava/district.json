@@ -1,0 +1,96 @@
+[
+  {
+    "id": "MG14119",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fenoarivobe",
+      "en": "Fenoarivobe",
+      "slug": "fenoarivobe"
+    },
+    "code": {
+      "id": "MG14119",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14",
+      "level": 1,
+      "name": {
+        "local": "Bongolava",
+        "en": "Bongolava",
+        "slug": "bongolava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.242",
+      "lon": "46.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14111",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tsiroanomandidy",
+      "en": "Tsiroanomandidy",
+      "slug": "tsiroanomandidy"
+    },
+    "code": {
+      "id": "MG14111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG14",
+      "level": 1,
+      "name": {
+        "local": "Bongolava",
+        "en": "Bongolava",
+        "slug": "bongolava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG14",
+        "level": 1,
+        "name": {
+          "local": "Bongolava",
+          "en": "Bongolava",
+          "slug": "bongolava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.728",
+      "lon": "46.021"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

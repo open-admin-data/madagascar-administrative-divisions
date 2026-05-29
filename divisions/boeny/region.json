@@ -1,0 +1,30 @@
+{
+  "id": "MG41",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Boeny",
+    "en": "Boeny",
+    "slug": "boeny"
+  },
+  "code": {
+    "id": "MG41",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "commune": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.238",
+    "lon": "46.124"
+  },
+  "metadata": {},
+  "source": {}
+}

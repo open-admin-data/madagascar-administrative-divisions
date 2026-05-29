@@ -1,0 +1,47 @@
+{
+  "id": "MG54511",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Miandrivazo",
+    "en": "Miandrivazo",
+    "slug": "miandrivazo"
+  },
+  "code": {
+    "id": "MG54511",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG54",
+    "level": 1,
+    "name": {
+      "local": "Menabe",
+      "en": "Menabe",
+      "slug": "menabe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.207",
+    "lon": "45.321"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG52518151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahita",
+      "en": "Ambahita",
+      "slug": "ambahita"
+    },
+    "code": {
+      "id": "MG52518151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.009",
+      "lon": "45.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatosola",
+      "en": "Ambatosola",
+      "slug": "ambatosola"
+    },
+    "code": {
+      "id": "MG52518091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.017",
+      "lon": "45.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anivorano Mitsinjo",
+      "en": "Anivorano Mitsinjo",
+      "slug": "anivorano-mitsinjo"
+    },
+    "code": {
+      "id": "MG52518290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.36",
+      "lon": "45.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anja Nord",
+      "en": "Anja Nord",
+      "slug": "anja-nord"
+    },
+    "code": {
+      "id": "MG52518050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.293",
+      "lon": "45.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaranabo Nord",
+      "en": "Ankaranabo Nord",
+      "slug": "ankaranabo-nord"
+    },
+    "code": {
+      "id": "MG52518031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.199",
+      "lon": "45.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsakoamaro",
+      "en": "Antsakoamaro",
+      "slug": "antsakoamaro"
+    },
+    "code": {
+      "id": "MG52518070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.306",
+      "lon": "45.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekitro",
+      "en": "Bekitro",
+      "slug": "bekitro"
+    },
+    "code": {
+      "id": "MG52518230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.557",
+      "lon": "45.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belindo Mahasoa",
+      "en": "Belindo Mahasoa",
+      "slug": "belindo-mahasoa"
+    },
+    "code": {
+      "id": "MG52518170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.486",
+      "lon": "45.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beraketa",
+      "en": "Beraketa",
+      "slug": "beraketa"
+    },
+    "code": {
+      "id": "MG52518251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.14",
+      "lon": "45.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Besakoa",
+      "en": "Besakoa",
+      "slug": "besakoa"
+    },
+    "code": {
+      "id": "MG52518032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.156",
+      "lon": "45.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beteza",
+      "en": "Beteza",
+      "slug": "beteza"
+    },
+    "code": {
+      "id": "MG52518190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.458",
+      "lon": "45.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bevitiky",
+      "en": "Bevitiky",
+      "slug": "bevitiky"
+    },
+    "code": {
+      "id": "MG52518270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.653",
+      "lon": "45.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakompy",
+      "en": "Manakompy",
+      "slug": "manakompy"
+    },
+    "code": {
+      "id": "MG52518130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.324",
+      "lon": "45.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroviro",
+      "en": "Maroviro",
+      "slug": "maroviro"
+    },
+    "code": {
+      "id": "MG52518152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.846",
+      "lon": "45.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno Bekily",
+      "en": "Morafeno Bekily",
+      "slug": "morafeno-bekily"
+    },
+    "code": {
+      "id": "MG52518010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.254",
+      "lon": "45.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanandava",
+      "en": "Tanandava",
+      "slug": "tanandava"
+    },
+    "code": {
+      "id": "MG52518210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.766",
+      "lon": "49.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsikolaky",
+      "en": "Tsikolaky",
+      "slug": "tsikolaky"
+    },
+    "code": {
+      "id": "MG52518110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.337",
+      "lon": "45.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsirandrany",
+      "en": "Tsirandrany",
+      "slug": "tsirandrany"
+    },
+    "code": {
+      "id": "MG52518092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.128",
+      "lon": "45.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52518252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimanga",
+      "en": "Vohimanga",
+      "slug": "vohimanga"
+    },
+    "code": {
+      "id": "MG52518252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52518",
+      "level": 2,
+      "name": {
+        "local": "Bekily",
+        "en": "Bekily",
+        "slug": "bekily"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52518",
+        "level": 2,
+        "name": {
+          "local": "Bekily",
+          "en": "Bekily",
+          "slug": "bekily"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.023",
+      "lon": "45.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

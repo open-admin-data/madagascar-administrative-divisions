@@ -1,0 +1,143 @@
+[
+  {
+    "id": "MG24221",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Iakora",
+      "en": "Iakora",
+      "slug": "iakora"
+    },
+    "code": {
+      "id": "MG24221",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24",
+      "level": 1,
+      "name": {
+        "local": "Ihorombe",
+        "en": "Ihorombe",
+        "slug": "ihorombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.157",
+      "lon": "46.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ihosy",
+      "en": "Ihosy",
+      "slug": "ihosy"
+    },
+    "code": {
+      "id": "MG24216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24",
+      "level": 1,
+      "name": {
+        "local": "Ihorombe",
+        "en": "Ihorombe",
+        "slug": "ihorombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.367",
+      "lon": "45.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24218",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ivohibe",
+      "en": "Ivohibe",
+      "slug": "ivohibe"
+    },
+    "code": {
+      "id": "MG24218",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24",
+      "level": 1,
+      "name": {
+        "local": "Ihorombe",
+        "en": "Ihorombe",
+        "slug": "ihorombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.545",
+      "lon": "46.871"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

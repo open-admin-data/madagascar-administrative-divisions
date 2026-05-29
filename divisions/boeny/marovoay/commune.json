@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG41406051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolomoty",
+      "en": "Ambolomoty",
+      "slug": "ambolomoty"
+    },
+    "code": {
+      "id": "MG41406051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.169",
+      "lon": "46.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406158",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaraobato",
+      "en": "Ankaraobato",
+      "slug": "ankaraobato"
+    },
+    "code": {
+      "id": "MG41406158",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.262",
+      "lon": "46.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazomborona",
+      "en": "Ankazomborona",
+      "slug": "ankazomborona"
+    },
+    "code": {
+      "id": "MG41406090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.065",
+      "lon": "46.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosinalainolona",
+      "en": "Anosinalainolona",
+      "slug": "anosinalainolona"
+    },
+    "code": {
+      "id": "MG41406033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.248",
+      "lon": "46.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambao Andranolava",
+      "en": "Antanambao Andranolava",
+      "slug": "antanambao-andranolava"
+    },
+    "code": {
+      "id": "MG41406032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.957",
+      "lon": "46.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimasaka",
+      "en": "Antanimasaka",
+      "slug": "antanimasaka"
+    },
+    "code": {
+      "id": "MG41406112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.262",
+      "lon": "46.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemaharivo",
+      "en": "Bemaharivo",
+      "slug": "bemaharivo"
+    },
+    "code": {
+      "id": "MG41406130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.129",
+      "lon": "46.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manaratsandry",
+      "en": "Manaratsandry",
+      "slug": "manaratsandry"
+    },
+    "code": {
+      "id": "MG41406111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.083",
+      "lon": "46.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovoay",
+      "en": "Marovoay",
+      "slug": "marovoay"
+    },
+    "code": {
+      "id": "MG41406052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.245",
+      "lon": "46.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovoay Banlieue",
+      "en": "Marovoay Banlieue",
+      "slug": "marovoay-banlieue"
+    },
+    "code": {
+      "id": "MG41406031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.017",
+      "lon": "46.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovoay Ville",
+      "en": "Marovoay Ville",
+      "slug": "marovoay-ville"
+    },
+    "code": {
+      "id": "MG41406010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.098",
+      "lon": "46.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsararano",
+      "en": "Tsararano",
+      "slug": "tsararano"
+    },
+    "code": {
+      "id": "MG41406070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41406",
+      "level": 2,
+      "name": {
+        "local": "Marovoay",
+        "en": "Marovoay",
+        "slug": "marovoay"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41406",
+        "level": 2,
+        "name": {
+          "local": "Marovoay",
+          "en": "Marovoay",
+          "slug": "marovoay"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.758",
+      "lon": "46.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

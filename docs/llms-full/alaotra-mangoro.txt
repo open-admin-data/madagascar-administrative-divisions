@@ -1,0 +1,350 @@
+# Alaotra Mangoro — Madagascar Administrative Divisions
+
+> 5 districts, 79 communes
+> Code: MG33
+> Coordinates: -18.009, 48.362
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambatondrazaka
+
+Code: MG33313, Coordinates: -17.866, 48.374
+Communes: 20
+
+#### Ambandrika
+
+Code: MG33313033, Coordinates: -17.769, 48.443
+
+#### Ambatondrazaka
+
+Code: MG33313010, Coordinates: -17.811, 48.418
+
+#### Ambatondrazaka Suburbaine
+
+Code: MG33313032, Coordinates: -17.876, 48.493
+
+#### Ambatosoratra
+
+Code: MG33313130, Coordinates: -17.598, 48.576
+
+#### Ambohitsilaozana
+
+Code: MG33313070, Coordinates: -17.729, 48.479
+
+#### Amparihintsokatra
+
+Code: MG33313192, Coordinates: -17.536, 48.624
+
+#### Ampitatsimo
+
+Code: MG33313050, Coordinates: -17.777, 48.37
+
+#### Andilanatoby
+
+Code: MG33313151, Coordinates: -18.028, 48.234
+
+#### Andromba
+
+Code: MG33313194, Coordinates: -17.413, 48.675
+
+#### Antanandava
+
+Code: MG33313193, Coordinates: -15.901, 48.835
+
+#### Antsangasanga
+
+Code: MG33313112, Coordinates: -17.814, 48.275
+
+#### Bejofo
+
+Code: MG33313152, Coordinates: -17.874, 48.179
+
+#### Didy
+
+Code: MG33313170, Coordinates: -18.134, 48.552
+
+#### Feramanga Nord
+
+Code: MG33313031, Coordinates: -17.848, 48.54
+
+#### Ilafy
+
+Code: MG33313090, Coordinates: -17.907, 48.412
+
+#### Imerimandroso
+
+Code: MG33313191, Coordinates: -17.445, 48.602
+
+#### Manakambahiny Andrefana
+
+Code: MG33313111, Coordinates: -17.85, 48.307
+
+#### Manakambahiny Antsinanana
+
+Code: MG33313210, Coordinates: -17.774, 48.685
+
+#### Soalazaina
+
+Code: MG33313231, Coordinates: -17.96, 48.01
+
+#### Tanambao Besakay
+
+Code: MG33313232, Coordinates: -18.173, 48.08
+
+### Amparafaravola
+
+Code: MG33312, Coordinates: -17.461, 48.415
+Communes: 20
+
+#### Ambatomainty
+
+Code: MG33312031, Coordinates: -17.671, 45.685
+
+#### Amboavory
+
+Code: MG33312131, Coordinates: -17.17, 48.371
+
+#### Ambodimanga
+
+Code: MG33312133, Coordinates: -17.351, 48.488
+
+#### Ambohijanahary
+
+Code: MG33312090, Coordinates: -17.331, 48.293
+
+#### Ambohimandroso
+
+Code: MG33312013, Coordinates: -17.605, 48.159
+
+#### Ambohitrarivo
+
+Code: MG33312051, Coordinates: -17.435, 48.295
+
+#### Amparafaravola
+
+Code: MG33312011, Coordinates: -17.566, 48.278
+
+#### Ampasikely
+
+Code: MG33312032, Coordinates: -17.611, 48.089
+
+#### Andilana Nord
+
+Code: MG33312132, Coordinates: -17.355, 48.547
+
+#### Andrebakely Nord
+
+Code: MG33312152, Coordinates: -17.232, 48.757
+
+#### Andrebakely Sud
+
+Code: MG33312033, Coordinates: -17.681, 48.126
+
+#### Anororo
+
+Code: MG33312052, Coordinates: -17.494, 48.426
+
+#### Beanana
+
+Code: MG33312112, Coordinates: -17.275, 48.317
+
+#### Bedidy
+
+Code: MG33312012, Coordinates: -17.467, 48.036
+
+#### Morarano Chrome
+
+Code: MG33312071, Coordinates: -17.775, 48.119
+
+#### Ranomainty
+
+Code: MG33312072, Coordinates: -17.864, 48.094
+
+#### Sahamamy
+
+Code: MG33312014, Coordinates: -17.425, 48.294
+
+#### Tanambe
+
+Code: MG33312111, Coordinates: -17.437, 48.463
+
+#### Vohimena
+
+Code: MG33312151, Coordinates: -17.27, 48.671
+
+#### Vohitsara
+
+Code: MG33312113, Coordinates: -17.427, 48.51
+
+### Andilamena
+
+Code: MG33316, Coordinates: -16.737, 48.316
+Communes: 8
+
+#### Andilamena
+
+Code: MG33316011, Coordinates: -16.932, 48.722
+
+#### Antanimenabaka
+
+Code: MG33316031, Coordinates: -16.861, 48.331
+
+#### Bemaitso
+
+Code: MG33316012, Coordinates: -17.085, 48.366
+
+#### Maitsokely
+
+Code: MG33316072, Coordinates: -16.442, 48.039
+
+#### Maroadabo
+
+Code: MG33316051, Coordinates: -16.611, 48.47
+
+#### Marovato
+
+Code: MG33316052, Coordinates: -14.549, 49.653
+
+#### Miarinarivo
+
+Code: MG33316071, Coordinates: -16.665, 48.129
+
+#### Tanananifololahy
+
+Code: MG33316032, Coordinates: -16.801, 48.356
+
+### Anosibe-An&#39;ala
+
+Code: MG33317, Coordinates: -19.502, 48.122
+Communes: 10
+
+#### Ambalaomby
+
+Code: MG33317052, Coordinates: -19.705, 47.947
+
+#### Ambatoharanana
+
+Code: MG33317072, Coordinates: -19.619, 48.161
+
+#### Ampandroantraka
+
+Code: MG33317031, Coordinates: -19.331, 48.304
+
+#### Ampasimaneva
+
+Code: MG33317012, Coordinates: -19.366, 48.035
+
+#### Anosibe An&#39;ala
+
+Code: MG33317011, Coordinates: -19.429, 48.203
+
+#### Antandrokomby
+
+Code: MG33317051, Coordinates: -19.612, 47.976
+
+#### Longozabe
+
+Code: MG33317071, Coordinates: -19.725, 48.186
+
+#### Niarovana Marosampanana
+
+Code: MG33317053, Coordinates: -19.509, 48.069
+
+#### Tratramarina
+
+Code: MG33317032, Coordinates: -19.498, 48.315
+
+#### Tsaravinany
+
+Code: MG33317054, Coordinates: -19.473, 47.969
+
+### Moramanga
+
+Code: MG33314, Coordinates: -18.729, 48.305
+Communes: 21
+
+#### Ambatovola
+
+Code: MG33314210, Coordinates: -18.86, 48.512
+
+#### Amboasary
+
+Code: MG33314250, Coordinates: -18.453, 48.218
+
+#### Ambohibary
+
+Code: MG33314030, Coordinates: -18.985, 48.212
+
+#### Ambohidronono
+
+Code: MG33314170, Coordinates: -18.767, 48.016
+
+#### Ampasimpotsy Gara
+
+Code: MG33314050, Coordinates: -18.975, 48.338
+
+#### Ampasipotsy Mandialaza
+
+Code: MG33314293, Coordinates: -18.678, 48.011
+
+#### Andaingo
+
+Code: MG33314350, Coordinates: -18.257, 48.171
+
+#### Andasibe
+
+Code: MG33314070, Coordinates: -17.695, 46.318
+
+#### Anosibe Ifody
+
+Code: MG33314091, Coordinates: -18.912, 48.063
+
+#### Antanandava
+
+Code: MG33314310, Coordinates: -15.901, 48.835
+
+#### Antaniditra
+
+Code: MG33314292, Coordinates: -18.486, 48.082
+
+#### Beforona
+
+Code: MG33314190, Coordinates: -18.993, 48.588
+
+#### Belavabary
+
+Code: MG33314130, Coordinates: -18.834, 48.04
+
+#### Fierenana
+
+Code: MG33314270, Coordinates: -18.484, 48.416
+
+#### Lakato
+
+Code: MG33314230, Coordinates: -19.179, 48.436
+
+#### Mandialaza
+
+Code: MG33314291, Coordinates: -18.539, 48.037
+
+#### Mangarivotra
+
+Code: MG33314330, Coordinates: -19.185, 48.011
+
+#### Moramanga
+
+Code: MG33314010, Coordinates: -18.947, 48.226
+
+#### Morarano Gara
+
+Code: MG33314110, Coordinates: -18.699, 48.312
+
+#### Sabotsy Anjiro
+
+Code: MG33314150, Coordinates: -18.91, 47.985
+
+#### Vodiriana
+
+Code: MG33314092, Coordinates: -18.999, 48.028
+

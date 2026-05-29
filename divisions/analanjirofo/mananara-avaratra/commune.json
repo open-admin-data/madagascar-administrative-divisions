@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG32304093",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoharanana",
+      "en": "Ambatoharanana",
+      "slug": "ambatoharanana"
+    },
+    "code": {
+      "id": "MG32304093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.619",
+      "lon": "48.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiampana",
+      "en": "Ambodiampana",
+      "slug": "ambodiampana"
+    },
+    "code": {
+      "id": "MG32304070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.536",
+      "lon": "49.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodivoanio",
+      "en": "Ambodivoanio",
+      "slug": "ambodivoanio"
+    },
+    "code": {
+      "id": "MG32304012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.187",
+      "lon": "49.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andasibe I",
+      "en": "Andasibe I",
+      "slug": "andasibe-i"
+    },
+    "code": {
+      "id": "MG32304152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.08",
+      "lon": "49.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambaobe",
+      "en": "Antanambaobe",
+      "slug": "antanambaobe"
+    },
+    "code": {
+      "id": "MG32304031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.258",
+      "lon": "49.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambe",
+      "en": "Antanambe",
+      "slug": "antanambe"
+    },
+    "code": {
+      "id": "MG32304110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.457",
+      "lon": "49.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanananivo",
+      "en": "Antanananivo",
+      "slug": "antanananivo"
+    },
+    "code": {
+      "id": "MG32304032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.301",
+      "lon": "49.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imorona",
+      "en": "Imorona",
+      "slug": "imorona"
+    },
+    "code": {
+      "id": "MG32304013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.238",
+      "lon": "49.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambolosy",
+      "en": "Manambolosy",
+      "slug": "manambolosy"
+    },
+    "code": {
+      "id": "MG32304050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16",
+      "lon": "49.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mananara Avaratra",
+      "en": "Mananara Avaratra",
+      "slug": "mananara-avaratra"
+    },
+    "code": {
+      "id": "MG32304011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.191",
+      "lon": "49.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandrakatsy",
+      "en": "Sandrakatsy",
+      "slug": "sandrakatsy"
+    },
+    "code": {
+      "id": "MG32304091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.304",
+      "lon": "49.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saromaona",
+      "en": "Saromaona",
+      "slug": "saromaona"
+    },
+    "code": {
+      "id": "MG32304130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.124",
+      "lon": "49.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanibe",
+      "en": "Tanibe",
+      "slug": "tanibe"
+    },
+    "code": {
+      "id": "MG32304092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.397",
+      "lon": "49.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vanono",
+      "en": "Vanono",
+      "slug": "vanono"
+    },
+    "code": {
+      "id": "MG32304151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32304",
+      "level": 2,
+      "name": {
+        "local": "Mananara-Avaratra",
+        "en": "Mananara-Avaratra",
+        "slug": "mananara-avaratra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32304",
+        "level": 2,
+        "name": {
+          "local": "Mananara-Avaratra",
+          "en": "Mananara-Avaratra",
+          "slug": "mananara-avaratra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.96",
+      "lon": "49.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

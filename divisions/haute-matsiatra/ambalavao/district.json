@@ -1,0 +1,47 @@
+{
+  "id": "MG21205",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambalavao",
+    "en": "Ambalavao",
+    "slug": "ambalavao"
+  },
+  "code": {
+    "id": "MG21205",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG21",
+    "level": 1,
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.841",
+    "lon": "46.737"
+  },
+  "metadata": {},
+  "source": {}
+}

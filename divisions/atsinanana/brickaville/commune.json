@@ -1,0 +1,920 @@
+[
+  {
+    "id": "MG31306210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalarondra",
+      "en": "Ambalarondra",
+      "slug": "ambalarondra"
+    },
+    "code": {
+      "id": "MG31306210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.486",
+      "lon": "49.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinaninony",
+      "en": "Ambinaninony",
+      "slug": "ambinaninony"
+    },
+    "code": {
+      "id": "MG31306110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.581",
+      "lon": "49.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanana",
+      "en": "Ambohimanana",
+      "slug": "ambohimanana"
+    },
+    "code": {
+      "id": "MG31306270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.495",
+      "lon": "48.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimbe",
+      "en": "Ampasimbe",
+      "slug": "ampasimbe"
+    },
+    "code": {
+      "id": "MG31306172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19",
+      "lon": "48.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andekaleka",
+      "en": "Andekaleka",
+      "slug": "andekaleka"
+    },
+    "code": {
+      "id": "MG31306252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.681",
+      "lon": "48.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andovoranto",
+      "en": "Andovoranto",
+      "slug": "andovoranto"
+    },
+    "code": {
+      "id": "MG31306090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.961",
+      "lon": "49.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anivorano Est",
+      "en": "Anivorano Est",
+      "slug": "anivorano-est"
+    },
+    "code": {
+      "id": "MG31306050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.732",
+      "lon": "48.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjahamana",
+      "en": "Anjahamana",
+      "slug": "anjahamana"
+    },
+    "code": {
+      "id": "MG31306290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.326",
+      "lon": "48.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Brickaville",
+      "en": "Brickaville",
+      "slug": "brickaville"
+    },
+    "code": {
+      "id": "MG31306010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.818",
+      "lon": "49.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fanasana",
+      "en": "Fanasana",
+      "slug": "fanasana"
+    },
+    "code": {
+      "id": "MG31306190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.779",
+      "lon": "48.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fetraomby",
+      "en": "Fetraomby",
+      "slug": "fetraomby"
+    },
+    "code": {
+      "id": "MG31306130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.612",
+      "lon": "48.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lohariandava",
+      "en": "Lohariandava",
+      "slug": "lohariandava"
+    },
+    "code": {
+      "id": "MG31306251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.77",
+      "lon": "48.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsara",
+      "en": "Mahatsara",
+      "slug": "mahatsara"
+    },
+    "code": {
+      "id": "MG31306070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.986",
+      "lon": "48.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroseranana",
+      "en": "Maroseranana",
+      "slug": "maroseranana"
+    },
+    "code": {
+      "id": "MG31306230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.388",
+      "lon": "48.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranomafana Est",
+      "en": "Ranomafana Est",
+      "slug": "ranomafana-est"
+    },
+    "code": {
+      "id": "MG31306171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.958",
+      "lon": "48.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohipeno Razanaka",
+      "en": "Vohipeno Razanaka",
+      "slug": "vohipeno-razanaka"
+    },
+    "code": {
+      "id": "MG31306150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.781",
+      "lon": "48.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitranivona",
+      "en": "Vohitranivona",
+      "slug": "vohitranivona"
+    },
+    "code": {
+      "id": "MG31306030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31306",
+      "level": 2,
+      "name": {
+        "local": "Brickaville",
+        "en": "Brickaville",
+        "slug": "brickaville"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31306",
+        "level": 2,
+        "name": {
+          "local": "Brickaville",
+          "en": "Brickaville",
+          "slug": "brickaville"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.696",
+      "lon": "49.1"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MG42412",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Befandriana Nord",
+    "en": "Befandriana Nord",
+    "slug": "befandriana-nord"
+  },
+  "code": {
+    "id": "MG42412",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.151",
+    "lon": "48.76"
+  },
+  "metadata": {},
+  "source": {}
+}

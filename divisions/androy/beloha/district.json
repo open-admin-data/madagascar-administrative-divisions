@@ -1,0 +1,47 @@
+{
+  "id": "MG52513",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beloha",
+    "en": "Beloha",
+    "slug": "beloha"
+  },
+  "code": {
+    "id": "MG52513",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG52",
+    "level": 1,
+    "name": {
+      "local": "Androy",
+      "en": "Androy",
+      "slug": "androy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG52",
+      "level": 1,
+      "name": {
+        "local": "Androy",
+        "en": "Androy",
+        "slug": "androy"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-25.05",
+    "lon": "44.938"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MG11106",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manjakandriana",
+    "en": "Manjakandriana",
+    "slug": "manjakandriana"
+  },
+  "code": {
+    "id": "MG11106",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.821",
+    "lon": "47.772"
+  },
+  "metadata": {},
+  "source": {}
+}

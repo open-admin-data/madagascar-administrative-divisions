@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG33316011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andilamena",
+      "en": "Andilamena",
+      "slug": "andilamena"
+    },
+    "code": {
+      "id": "MG33316011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.932",
+      "lon": "48.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimenabaka",
+      "en": "Antanimenabaka",
+      "slug": "antanimenabaka"
+    },
+    "code": {
+      "id": "MG33316031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.861",
+      "lon": "48.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemaitso",
+      "en": "Bemaitso",
+      "slug": "bemaitso"
+    },
+    "code": {
+      "id": "MG33316012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.085",
+      "lon": "48.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maitsokely",
+      "en": "Maitsokely",
+      "slug": "maitsokely"
+    },
+    "code": {
+      "id": "MG33316072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.442",
+      "lon": "48.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroadabo",
+      "en": "Maroadabo",
+      "slug": "maroadabo"
+    },
+    "code": {
+      "id": "MG33316051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.611",
+      "lon": "48.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato",
+      "en": "Marovato",
+      "slug": "marovato"
+    },
+    "code": {
+      "id": "MG33316052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.549",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinarivo",
+      "en": "Miarinarivo",
+      "slug": "miarinarivo"
+    },
+    "code": {
+      "id": "MG33316071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.665",
+      "lon": "48.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33316032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanananifololahy",
+      "en": "Tanananifololahy",
+      "slug": "tanananifololahy"
+    },
+    "code": {
+      "id": "MG33316032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33316",
+      "level": 2,
+      "name": {
+        "local": "Andilamena",
+        "en": "Andilamena",
+        "slug": "andilamena"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33316",
+        "level": 2,
+        "name": {
+          "local": "Andilamena",
+          "en": "Andilamena",
+          "slug": "andilamena"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.801",
+      "lon": "48.356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

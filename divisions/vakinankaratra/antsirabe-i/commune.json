@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG12108002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampatana Mandriankeniheny",
+      "en": "Ampatana Mandriankeniheny",
+      "slug": "ampatana-mandriankeniheny"
+    },
+    "code": {
+      "id": "MG12108002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.905",
+      "lon": "47.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12108001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsenakely Andraikiba",
+      "en": "Antsenakely Andraikiba",
+      "slug": "antsenakely-andraikiba"
+    },
+    "code": {
+      "id": "MG12108001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.885",
+      "lon": "46.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12108004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsirabe Afovoany Atsinanana",
+      "en": "Antsirabe Afovoany Atsinanana",
+      "slug": "antsirabe-afovoany-atsinanana"
+    },
+    "code": {
+      "id": "MG12108004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.913",
+      "lon": "47.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12108006",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoarivo Avarabohitra",
+      "en": "Mahazoarivo Avarabohitra",
+      "slug": "mahazoarivo-avarabohitra"
+    },
+    "code": {
+      "id": "MG12108006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.84",
+      "lon": "47.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12108005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manodidina Ny Gara Ambilombe",
+      "en": "Manodidina Ny Gara Ambilombe",
+      "slug": "manodidina-ny-gara-ambilombe"
+    },
+    "code": {
+      "id": "MG12108005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.851",
+      "lon": "47.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12108003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soamalaza Mahatsinjo",
+      "en": "Soamalaza Mahatsinjo",
+      "slug": "soamalaza-mahatsinjo"
+    },
+    "code": {
+      "id": "MG12108003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12108",
+      "level": 2,
+      "name": {
+        "local": "Antsirabe I",
+        "en": "Antsirabe I",
+        "slug": "antsirabe-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12108",
+        "level": 2,
+        "name": {
+          "local": "Antsirabe I",
+          "en": "Antsirabe I",
+          "slug": "antsirabe-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.887",
+      "lon": "47.067"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

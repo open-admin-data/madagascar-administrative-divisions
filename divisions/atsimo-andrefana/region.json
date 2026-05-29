@@ -1,0 +1,30 @@
+{
+  "id": "MG51",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Atsimo Andrefana",
+    "en": "Atsimo Andrefana",
+    "slug": "atsimo-andrefana"
+  },
+  "code": {
+    "id": "MG51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "commune": 110
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.977",
+    "lon": "48.584"
+  },
+  "metadata": {},
+  "source": {}
+}

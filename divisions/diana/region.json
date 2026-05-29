@@ -1,0 +1,30 @@
+{
+  "id": "MG71",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Diana",
+    "en": "Diana",
+    "slug": "diana"
+  },
+  "code": {
+    "id": "MG71",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.109",
+    "lon": "48.762"
+  },
+  "metadata": {},
+  "source": {}
+}

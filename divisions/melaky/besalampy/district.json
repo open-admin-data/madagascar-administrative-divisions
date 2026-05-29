@@ -1,0 +1,47 @@
+{
+  "id": "MG44402",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Besalampy",
+    "en": "Besalampy",
+    "slug": "besalampy"
+  },
+  "code": {
+    "id": "MG44402",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG44",
+    "level": 1,
+    "name": {
+      "local": "Melaky",
+      "en": "Melaky",
+      "slug": "melaky"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.857",
+    "lon": "44.947"
+  },
+  "metadata": {},
+  "source": {}
+}

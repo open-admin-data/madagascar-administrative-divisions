@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "MG33314210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatovola",
+      "en": "Ambatovola",
+      "slug": "ambatovola"
+    },
+    "code": {
+      "id": "MG33314210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.86",
+      "lon": "48.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboasary",
+      "en": "Amboasary",
+      "slug": "amboasary"
+    },
+    "code": {
+      "id": "MG33314250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.453",
+      "lon": "48.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohibary",
+      "en": "Ambohibary",
+      "slug": "ambohibary"
+    },
+    "code": {
+      "id": "MG33314030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.985",
+      "lon": "48.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohidronono",
+      "en": "Ambohidronono",
+      "slug": "ambohidronono"
+    },
+    "code": {
+      "id": "MG33314170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.767",
+      "lon": "48.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimpotsy Gara",
+      "en": "Ampasimpotsy Gara",
+      "slug": "ampasimpotsy-gara"
+    },
+    "code": {
+      "id": "MG33314050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.975",
+      "lon": "48.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314293",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasipotsy Mandialaza",
+      "en": "Ampasipotsy Mandialaza",
+      "slug": "ampasipotsy-mandialaza"
+    },
+    "code": {
+      "id": "MG33314293",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.678",
+      "lon": "48.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andaingo",
+      "en": "Andaingo",
+      "slug": "andaingo"
+    },
+    "code": {
+      "id": "MG33314350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.257",
+      "lon": "48.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andasibe",
+      "en": "Andasibe",
+      "slug": "andasibe"
+    },
+    "code": {
+      "id": "MG33314070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.695",
+      "lon": "46.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosibe Ifody",
+      "en": "Anosibe Ifody",
+      "slug": "anosibe-ifody"
+    },
+    "code": {
+      "id": "MG33314091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.912",
+      "lon": "48.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanandava",
+      "en": "Antanandava",
+      "slug": "antanandava"
+    },
+    "code": {
+      "id": "MG33314310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.901",
+      "lon": "48.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaniditra",
+      "en": "Antaniditra",
+      "slug": "antaniditra"
+    },
+    "code": {
+      "id": "MG33314292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.486",
+      "lon": "48.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beforona",
+      "en": "Beforona",
+      "slug": "beforona"
+    },
+    "code": {
+      "id": "MG33314190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.993",
+      "lon": "48.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belavabary",
+      "en": "Belavabary",
+      "slug": "belavabary"
+    },
+    "code": {
+      "id": "MG33314130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.834",
+      "lon": "48.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fierenana",
+      "en": "Fierenana",
+      "slug": "fierenana"
+    },
+    "code": {
+      "id": "MG33314270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.484",
+      "lon": "48.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lakato",
+      "en": "Lakato",
+      "slug": "lakato"
+    },
+    "code": {
+      "id": "MG33314230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.179",
+      "lon": "48.436"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandialaza",
+      "en": "Mandialaza",
+      "slug": "mandialaza"
+    },
+    "code": {
+      "id": "MG33314291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.539",
+      "lon": "48.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangarivotra",
+      "en": "Mangarivotra",
+      "slug": "mangarivotra"
+    },
+    "code": {
+      "id": "MG33314330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.185",
+      "lon": "48.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moramanga",
+      "en": "Moramanga",
+      "slug": "moramanga"
+    },
+    "code": {
+      "id": "MG33314010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.947",
+      "lon": "48.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morarano Gara",
+      "en": "Morarano Gara",
+      "slug": "morarano-gara"
+    },
+    "code": {
+      "id": "MG33314110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.699",
+      "lon": "48.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabotsy Anjiro",
+      "en": "Sabotsy Anjiro",
+      "slug": "sabotsy-anjiro"
+    },
+    "code": {
+      "id": "MG33314150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.91",
+      "lon": "47.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33314092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vodiriana",
+      "en": "Vodiriana",
+      "slug": "vodiriana"
+    },
+    "code": {
+      "id": "MG33314092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33314",
+      "level": 2,
+      "name": {
+        "local": "Moramanga",
+        "en": "Moramanga",
+        "slug": "moramanga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33314",
+        "level": 2,
+        "name": {
+          "local": "Moramanga",
+          "en": "Moramanga",
+          "slug": "moramanga"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.999",
+      "lon": "48.028"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

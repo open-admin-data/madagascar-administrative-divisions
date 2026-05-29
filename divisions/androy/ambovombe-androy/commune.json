@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG52516031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambanisarika",
+      "en": "Ambanisarika",
+      "slug": "ambanisarika"
+    },
+    "code": {
+      "id": "MG52516031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.976",
+      "lon": "45.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambazoa",
+      "en": "Ambazoa",
+      "slug": "ambazoa"
+    },
+    "code": {
+      "id": "MG52516092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.344",
+      "lon": "45.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimalaza",
+      "en": "Ambohimalaza",
+      "slug": "ambohimalaza"
+    },
+    "code": {
+      "id": "MG52516033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.295",
+      "lon": "50.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambonaivo",
+      "en": "Ambonaivo",
+      "slug": "ambonaivo"
+    },
+    "code": {
+      "id": "MG52516050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.229",
+      "lon": "45.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambondro",
+      "en": "Ambondro",
+      "slug": "ambondro"
+    },
+    "code": {
+      "id": "MG52516091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.256",
+      "lon": "45.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambovombe",
+      "en": "Ambovombe",
+      "slug": "ambovombe"
+    },
+    "code": {
+      "id": "MG52516011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.064",
+      "lon": "46.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampamata",
+      "en": "Ampamata",
+      "slug": "ampamata"
+    },
+    "code": {
+      "id": "MG52516152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.513",
+      "lon": "45.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analamary",
+      "en": "Analamary",
+      "slug": "analamary"
+    },
+    "code": {
+      "id": "MG52516032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.262",
+      "lon": "45.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andalatanosy",
+      "en": "Andalatanosy",
+      "slug": "andalatanosy"
+    },
+    "code": {
+      "id": "MG52516151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.651",
+      "lon": "45.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516014",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjeky Ankilikira",
+      "en": "Anjeky Ankilikira",
+      "slug": "anjeky-ankilikira"
+    },
+    "code": {
+      "id": "MG52516014",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.028",
+      "lon": "46.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimora Atsimo",
+      "en": "Antanimora Atsimo",
+      "slug": "antanimora-atsimo"
+    },
+    "code": {
+      "id": "MG52516130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.802",
+      "lon": "45.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Erada",
+      "en": "Erada",
+      "slug": "erada"
+    },
+    "code": {
+      "id": "MG52516013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.291",
+      "lon": "45.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imanombo",
+      "en": "Imanombo",
+      "slug": "imanombo"
+    },
+    "code": {
+      "id": "MG52516190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.389",
+      "lon": "45.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jafaro",
+      "en": "Jafaro",
+      "slug": "jafaro"
+    },
+    "code": {
+      "id": "MG52516170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.93",
+      "lon": "45.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroalomainty",
+      "en": "Maroalomainty",
+      "slug": "maroalomainty"
+    },
+    "code": {
+      "id": "MG52516071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.185",
+      "lon": "46.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroalopoty",
+      "en": "Maroalopoty",
+      "slug": "maroalopoty"
+    },
+    "code": {
+      "id": "MG52516072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.168",
+      "lon": "46.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato Befeno",
+      "en": "Marovato Befeno",
+      "slug": "marovato-befeno"
+    },
+    "code": {
+      "id": "MG52516112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.147",
+      "lon": "45.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sihanamaro",
+      "en": "Sihanamaro",
+      "slug": "sihanamaro"
+    },
+    "code": {
+      "id": "MG52516111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.077",
+      "lon": "45.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52516012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsimananada",
+      "en": "Tsimananada",
+      "slug": "tsimananada"
+    },
+    "code": {
+      "id": "MG52516012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52516",
+      "level": 2,
+      "name": {
+        "local": "Ambovombe-Androy",
+        "en": "Ambovombe-Androy",
+        "slug": "ambovombe-androy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52516",
+        "level": 2,
+        "name": {
+          "local": "Ambovombe-Androy",
+          "en": "Ambovombe-Androy",
+          "slug": "ambovombe-androy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.226",
+      "lon": "46.017"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

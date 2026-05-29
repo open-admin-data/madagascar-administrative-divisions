@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "MG22203210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Ambohijato",
+      "en": "Alakamisy Ambohijato",
+      "slug": "alakamisy-ambohijato"
+    },
+    "code": {
+      "id": "MG22203210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.599",
+      "lon": "47.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalamanakana",
+      "en": "Ambalamanakana",
+      "slug": "ambalamanakana"
+    },
+    "code": {
+      "id": "MG22203250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.755",
+      "lon": "47.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatofitorahana",
+      "en": "Ambatofitorahana",
+      "slug": "ambatofitorahana"
+    },
+    "code": {
+      "id": "MG22203390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.79",
+      "lon": "47.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203551",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanindrano",
+      "en": "Ambinanindrano",
+      "slug": "ambinanindrano"
+    },
+    "code": {
+      "id": "MG22203551",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.099",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203491",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimitombo I",
+      "en": "Ambohimitombo I",
+      "slug": "ambohimitombo-i"
+    },
+    "code": {
+      "id": "MG22203491",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.751",
+      "lon": "47.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203492",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimitombo II",
+      "en": "Ambohimitombo II",
+      "slug": "ambohimitombo-ii"
+    },
+    "code": {
+      "id": "MG22203492",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.619",
+      "lon": "47.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambositra I",
+      "en": "Ambositra I",
+      "slug": "ambositra-i"
+    },
+    "code": {
+      "id": "MG22203010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.534",
+      "lon": "47.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambositra II",
+      "en": "Ambositra II",
+      "slug": "ambositra-ii"
+    },
+    "code": {
+      "id": "MG22203030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.52",
+      "lon": "47.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andina",
+      "en": "Andina",
+      "slug": "andina"
+    },
+    "code": {
+      "id": "MG22203090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.55",
+      "lon": "47.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazoambo",
+      "en": "Ankazoambo",
+      "slug": "ankazoambo"
+    },
+    "code": {
+      "id": "MG22203050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.596",
+      "lon": "47.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antoetra",
+      "en": "Antoetra",
+      "slug": "antoetra"
+    },
+    "code": {
+      "id": "MG22203410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.821",
+      "lon": "47.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fahizay",
+      "en": "Fahizay",
+      "slug": "fahizay"
+    },
+    "code": {
+      "id": "MG22203190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.507",
+      "lon": "47.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ihadilanana",
+      "en": "Ihadilanana",
+      "slug": "ihadilanana"
+    },
+    "code": {
+      "id": "MG22203310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.448",
+      "lon": "47.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilaka Centre",
+      "en": "Ilaka Centre",
+      "slug": "ilaka-centre"
+    },
+    "code": {
+      "id": "MG22203290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.315",
+      "lon": "47.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imerina Imady",
+      "en": "Imerina Imady",
+      "slug": "imerina-imady"
+    },
+    "code": {
+      "id": "MG22203110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.534",
+      "lon": "47.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivato",
+      "en": "Ivato",
+      "slug": "ivato"
+    },
+    "code": {
+      "id": "MG22203130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.437",
+      "lon": "47.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivony Miaramiasa",
+      "en": "Ivony Miaramiasa",
+      "slug": "ivony-miaramiasa"
+    },
+    "code": {
+      "id": "MG22203070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.582",
+      "lon": "47.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kianjandrakefina",
+      "en": "Kianjandrakefina",
+      "slug": "kianjandrakefina"
+    },
+    "code": {
+      "id": "MG22203230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.625",
+      "lon": "47.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazina Ambohipierenana",
+      "en": "Mahazina Ambohipierenana",
+      "slug": "mahazina-ambohipierenana"
+    },
+    "code": {
+      "id": "MG22203430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.325",
+      "lon": "47.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marosoa",
+      "en": "Marosoa",
+      "slug": "marosoa"
+    },
+    "code": {
+      "id": "MG22203170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.55",
+      "lon": "47.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203450",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahatsiho Ambohimanjaka",
+      "en": "Sahatsiho Ambohimanjaka",
+      "slug": "sahatsiho-ambohimanjaka"
+    },
+    "code": {
+      "id": "MG22203450",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.222",
+      "lon": "47.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarasaotra",
+      "en": "Tsarasaotra",
+      "slug": "tsarasaotra"
+    },
+    "code": {
+      "id": "MG22203150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.429",
+      "lon": "47.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22203552",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohidahy",
+      "en": "Vohidahy",
+      "slug": "vohidahy"
+    },
+    "code": {
+      "id": "MG22203552",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22203",
+      "level": 2,
+      "name": {
+        "local": "Ambositra",
+        "en": "Ambositra",
+        "slug": "ambositra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22203",
+        "level": 2,
+        "name": {
+          "local": "Ambositra",
+          "en": "Ambositra",
+          "slug": "ambositra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.518",
+      "lon": "47.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

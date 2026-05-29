@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "MG11106090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alarobia",
+      "en": "Alarobia",
+      "slug": "alarobia"
+    },
+    "code": {
+      "id": "MG11106090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.976",
+      "lon": "47.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambanitsena",
+      "en": "Ambanitsena",
+      "slug": "ambanitsena"
+    },
+    "code": {
+      "id": "MG11106210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.886",
+      "lon": "47.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolaona",
+      "en": "Ambatolaona",
+      "slug": "ambatolaona"
+    },
+    "code": {
+      "id": "MG11106012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.928",
+      "lon": "47.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomanga",
+      "en": "Ambatomanga",
+      "slug": "ambatomanga"
+    },
+    "code": {
+      "id": "MG11106070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.797",
+      "lon": "47.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomena",
+      "en": "Ambatomena",
+      "slug": "ambatomena"
+    },
+    "code": {
+      "id": "MG11106251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.824",
+      "lon": "47.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohibao Sud",
+      "en": "Ambohibao Sud",
+      "slug": "ambohibao-sud"
+    },
+    "code": {
+      "id": "MG11106252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.743",
+      "lon": "47.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohibary",
+      "en": "Ambohibary",
+      "slug": "ambohibary"
+    },
+    "code": {
+      "id": "MG11106050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.985",
+      "lon": "48.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrandriamanitra",
+      "en": "Ambohitrandriamanitra",
+      "slug": "ambohitrandriamanitra"
+    },
+    "code": {
+      "id": "MG11106230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.103",
+      "lon": "47.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106371",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrolomahitsy",
+      "en": "Ambohitrolomahitsy",
+      "slug": "ambohitrolomahitsy"
+    },
+    "code": {
+      "id": "MG11106371",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.716",
+      "lon": "47.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrony",
+      "en": "Ambohitrony",
+      "slug": "ambohitrony"
+    },
+    "code": {
+      "id": "MG11106290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.743",
+      "lon": "47.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106271",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitseheno",
+      "en": "Ambohitseheno",
+      "slug": "ambohitseheno"
+    },
+    "code": {
+      "id": "MG11106271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.792",
+      "lon": "47.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106372",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampaneva",
+      "en": "Ampaneva",
+      "slug": "ampaneva"
+    },
+    "code": {
+      "id": "MG11106372",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.763",
+      "lon": "47.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjepy",
+      "en": "Anjepy",
+      "slug": "anjepy"
+    },
+    "code": {
+      "id": "MG11106190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.856",
+      "lon": "47.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma Betoho",
+      "en": "Anjoma Betoho",
+      "slug": "anjoma-betoho"
+    },
+    "code": {
+      "id": "MG11106330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.815",
+      "lon": "47.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106351",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazondandy",
+      "en": "Ankazondandy",
+      "slug": "ankazondandy"
+    },
+    "code": {
+      "id": "MG11106351",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.678",
+      "lon": "47.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106272",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahalalina",
+      "en": "Antsahalalina",
+      "slug": "antsahalalina"
+    },
+    "code": {
+      "id": "MG11106272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.751",
+      "lon": "47.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manjakandriana",
+      "en": "Manjakandriana",
+      "slug": "manjakandriana"
+    },
+    "code": {
+      "id": "MG11106011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.811",
+      "lon": "48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mantasoa",
+      "en": "Mantasoa",
+      "slug": "mantasoa"
+    },
+    "code": {
+      "id": "MG11106110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.012",
+      "lon": "47.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Merikanjaka",
+      "en": "Merikanjaka",
+      "slug": "merikanjaka"
+    },
+    "code": {
+      "id": "MG11106310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.134",
+      "lon": "47.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miadanandriana",
+      "en": "Miadanandriana",
+      "slug": "miadanandriana"
+    },
+    "code": {
+      "id": "MG11106150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.062",
+      "lon": "47.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nandihizana",
+      "en": "Nandihizana",
+      "slug": "nandihizana"
+    },
+    "code": {
+      "id": "MG11106170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.912",
+      "lon": "47.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranovao",
+      "en": "Ranovao",
+      "slug": "ranovao"
+    },
+    "code": {
+      "id": "MG11106130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.813",
+      "lon": "47.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sadabe",
+      "en": "Sadabe",
+      "slug": "sadabe"
+    },
+    "code": {
+      "id": "MG11106390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.576",
+      "lon": "47.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sambaina",
+      "en": "Sambaina",
+      "slug": "sambaina"
+    },
+    "code": {
+      "id": "MG11106030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.897",
+      "lon": "47.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11106352",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavinandriana",
+      "en": "Soavinandriana",
+      "slug": "soavinandriana"
+    },
+    "code": {
+      "id": "MG11106352",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11106",
+      "level": 2,
+      "name": {
+        "local": "Manjakandriana",
+        "en": "Manjakandriana",
+        "slug": "manjakandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11106",
+        "level": 2,
+        "name": {
+          "local": "Manjakandriana",
+          "en": "Manjakandriana",
+          "slug": "manjakandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.171",
+      "lon": "46.758"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

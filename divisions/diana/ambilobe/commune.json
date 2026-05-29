@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MG71717090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambakirano",
+      "en": "Ambakirano",
+      "slug": "ambakirano"
+    },
+    "code": {
+      "id": "MG71717090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.407",
+      "lon": "49.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambarakaraka",
+      "en": "Ambarakaraka",
+      "slug": "ambarakaraka"
+    },
+    "code": {
+      "id": "MG71717231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.588",
+      "lon": "48.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoben'anjavy",
+      "en": "Ambatoben'anjavy",
+      "slug": "ambatobenanjavy"
+    },
+    "code": {
+      "id": "MG71717110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.429",
+      "lon": "49.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambilobe",
+      "en": "Ambilobe",
+      "slug": "ambilobe"
+    },
+    "code": {
+      "id": "MG71717010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.213",
+      "lon": "49.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodibonara",
+      "en": "Ambodibonara",
+      "slug": "ambodibonara"
+    },
+    "code": {
+      "id": "MG71717172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.182",
+      "lon": "48.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampondralava",
+      "en": "Ampondralava",
+      "slug": "ampondralava"
+    },
+    "code": {
+      "id": "MG71717050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.186",
+      "lon": "48.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anaborano Ifasy",
+      "en": "Anaborano Ifasy",
+      "slug": "anaborano-ifasy"
+    },
+    "code": {
+      "id": "MG71717232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.699",
+      "lon": "48.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjiabe Ambony",
+      "en": "Anjiabe Ambony",
+      "slug": "anjiabe-ambony"
+    },
+    "code": {
+      "id": "MG71717171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.242",
+      "lon": "48.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsaravibe",
+      "en": "Antsaravibe",
+      "slug": "antsaravibe"
+    },
+    "code": {
+      "id": "MG71717130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.98",
+      "lon": "49.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsohimbondrona",
+      "en": "Antsohimbondrona",
+      "slug": "antsohimbondrona"
+    },
+    "code": {
+      "id": "MG71717150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.985",
+      "lon": "48.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beramanja",
+      "en": "Beramanja",
+      "slug": "beramanja"
+    },
+    "code": {
+      "id": "MG71717190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.459",
+      "lon": "48.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsiaka",
+      "en": "Betsiaka",
+      "slug": "betsiaka"
+    },
+    "code": {
+      "id": "MG71717210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.194",
+      "lon": "49.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717233",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambato",
+      "en": "Manambato",
+      "slug": "manambato"
+    },
+    "code": {
+      "id": "MG71717233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.912",
+      "lon": "49.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mantaly",
+      "en": "Mantaly",
+      "slug": "mantaly"
+    },
+    "code": {
+      "id": "MG71717030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.186",
+      "lon": "48.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71717070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Marivorahona",
+      "en": "Tanambao Marivorahona",
+      "slug": "tanambao-marivorahona"
+    },
+    "code": {
+      "id": "MG71717070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71717",
+      "level": 2,
+      "name": {
+        "local": "Ambilobe",
+        "en": "Ambilobe",
+        "slug": "ambilobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71717",
+        "level": 2,
+        "name": {
+          "local": "Ambilobe",
+          "en": "Ambilobe",
+          "slug": "ambilobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.023",
+      "lon": "49.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

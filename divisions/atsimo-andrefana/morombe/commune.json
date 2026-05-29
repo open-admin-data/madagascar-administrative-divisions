@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG51504050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahikily",
+      "en": "Ambahikily",
+      "slug": "ambahikily"
+    },
+    "code": {
+      "id": "MG51504050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.619",
+      "lon": "43.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanimieva",
+      "en": "Antanimieva",
+      "slug": "antanimieva"
+    },
+    "code": {
+      "id": "MG51504130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.302",
+      "lon": "43.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antongo Vaovao",
+      "en": "Antongo Vaovao",
+      "slug": "antongo-vaovao"
+    },
+    "code": {
+      "id": "MG51504070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.459",
+      "lon": "43.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basibasy",
+      "en": "Basibasy",
+      "slug": "basibasy"
+    },
+    "code": {
+      "id": "MG51504150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.043",
+      "lon": "43.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befandefa",
+      "en": "Befandefa",
+      "slug": "befandefa"
+    },
+    "code": {
+      "id": "MG51504030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.126",
+      "lon": "43.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befandriana Sud",
+      "en": "Befandriana Sud",
+      "slug": "befandriana-sud"
+    },
+    "code": {
+      "id": "MG51504110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.188",
+      "lon": "43.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cu Morombe",
+      "en": "Cu Morombe",
+      "slug": "cu-morombe"
+    },
+    "code": {
+      "id": "MG51504010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.77",
+      "lon": "43.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nosy Ambositra",
+      "en": "Nosy Ambositra",
+      "slug": "nosy-ambositra"
+    },
+    "code": {
+      "id": "MG51504090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51504",
+      "level": 2,
+      "name": {
+        "local": "Morombe",
+        "en": "Morombe",
+        "slug": "morombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51504",
+        "level": 2,
+        "name": {
+          "local": "Morombe",
+          "en": "Morombe",
+          "slug": "morombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.945",
+      "lon": "44.028"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

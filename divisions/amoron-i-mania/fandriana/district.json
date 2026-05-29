@@ -1,0 +1,47 @@
+{
+  "id": "MG22204",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fandriana",
+    "en": "Fandriana",
+    "slug": "fandriana"
+  },
+  "code": {
+    "id": "MG22204",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG22",
+    "level": 1,
+    "name": {
+      "local": "Amoron I Mania",
+      "en": "Amoron I Mania",
+      "slug": "amoron-i-mania"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.289",
+    "lon": "47.446"
+  },
+  "metadata": {},
+  "source": {}
+}

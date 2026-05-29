@@ -1,0 +1,47 @@
+{
+  "id": "MG71717",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambilobe",
+    "en": "Ambilobe",
+    "slug": "ambilobe"
+  },
+  "code": {
+    "id": "MG71717",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG71",
+    "level": 1,
+    "name": {
+      "local": "Diana",
+      "en": "Diana",
+      "slug": "diana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG71",
+      "level": 1,
+      "name": {
+        "local": "Diana",
+        "en": "Diana",
+        "slug": "diana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.513",
+    "lon": "49.008"
+  },
+  "metadata": {},
+  "source": {}
+}

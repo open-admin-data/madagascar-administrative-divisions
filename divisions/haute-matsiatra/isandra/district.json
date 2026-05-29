@@ -1,0 +1,47 @@
+{
+  "id": "MG21225",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Isandra",
+    "en": "Isandra",
+    "slug": "isandra"
+  },
+  "code": {
+    "id": "MG21225",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG21",
+    "level": 1,
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.25",
+    "lon": "46.909"
+  },
+  "metadata": {},
+  "source": {}
+}

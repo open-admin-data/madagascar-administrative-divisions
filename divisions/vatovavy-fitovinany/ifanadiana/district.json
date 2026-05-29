@@ -1,0 +1,47 @@
+{
+  "id": "MG23206",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ifanadiana",
+    "en": "Ifanadiana",
+    "slug": "ifanadiana"
+  },
+  "code": {
+    "id": "MG23206",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG23",
+    "level": 1,
+    "name": {
+      "local": "Vatovavy Fitovinany",
+      "en": "Vatovavy Fitovinany",
+      "slug": "vatovavy-fitovinany"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.071",
+    "lon": "47.611"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MG23211031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatofotsy",
+      "en": "Ambatofotsy",
+      "slug": "ambatofotsy"
+    },
+    "code": {
+      "id": "MG23211031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.753",
+      "lon": "47.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanitromby",
+      "en": "Ambinanitromby",
+      "slug": "ambinanitromby"
+    },
+    "code": {
+      "id": "MG23211052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.624",
+      "lon": "47.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimisafy",
+      "en": "Ambohimisafy",
+      "slug": "ambohimisafy"
+    },
+    "code": {
+      "id": "MG23211092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.494",
+      "lon": "47.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolomadinika",
+      "en": "Ambolomadinika",
+      "slug": "ambolomadinika"
+    },
+    "code": {
+      "id": "MG23211012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.942",
+      "lon": "47.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarimbelo",
+      "en": "Ankarimbelo",
+      "slug": "ankarimbelo"
+    },
+    "code": {
+      "id": "MG23211111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.13",
+      "lon": "47.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antodinga",
+      "en": "Antodinga",
+      "slug": "antodinga"
+    },
+    "code": {
+      "id": "MG23211112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.115",
+      "lon": "47.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belemoka",
+      "en": "Belemoka",
+      "slug": "belemoka"
+    },
+    "code": {
+      "id": "MG23211032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.796",
+      "lon": "47.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifanirea",
+      "en": "Ifanirea",
+      "slug": "ifanirea"
+    },
+    "code": {
+      "id": "MG23211071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.175",
+      "lon": "47.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ikongo",
+      "en": "Ikongo",
+      "slug": "ikongo"
+    },
+    "code": {
+      "id": "MG23211011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.884",
+      "lon": "47.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211113",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalafotsy",
+      "en": "Kalafotsy",
+      "slug": "kalafotsy"
+    },
+    "code": {
+      "id": "MG23211113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.246",
+      "lon": "47.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manampatrana",
+      "en": "Manampatrana",
+      "slug": "manampatrana"
+    },
+    "code": {
+      "id": "MG23211051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.68",
+      "lon": "47.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromiandra",
+      "en": "Maromiandra",
+      "slug": "maromiandra"
+    },
+    "code": {
+      "id": "MG23211033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.079",
+      "lon": "43.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211073",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahalanona",
+      "en": "Sahalanona",
+      "slug": "sahalanona"
+    },
+    "code": {
+      "id": "MG23211073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.088",
+      "lon": "47.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanakambana",
+      "en": "Tanakambana",
+      "slug": "tanakambana"
+    },
+    "code": {
+      "id": "MG23211072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.051",
+      "lon": "47.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23211091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tolongoina",
+      "en": "Tolongoina",
+      "slug": "tolongoina"
+    },
+    "code": {
+      "id": "MG23211091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23211",
+      "level": 2,
+      "name": {
+        "local": "Ikongo",
+        "en": "Ikongo",
+        "slug": "ikongo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23211",
+        "level": 2,
+        "name": {
+          "local": "Ikongo",
+          "en": "Ikongo",
+          "slug": "ikongo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.504",
+      "lon": "47.506"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

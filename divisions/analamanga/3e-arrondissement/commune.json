@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "3e Arrondissement",
+      "en": "3e Arrondissement",
+      "slug": "3e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101003A",
+      "level": 2,
+      "name": {
+        "local": "3e Arrondissement",
+        "en": "3e Arrondissement",
+        "slug": "3e-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101003A",
+        "level": 2,
+        "name": {
+          "local": "3e Arrondissement",
+          "en": "3e Arrondissement",
+          "slug": "3e-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.895",
+      "lon": "47.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

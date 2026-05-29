@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "2e Arrondissement",
+      "en": "2e Arrondissement",
+      "slug": "2e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101002A",
+      "level": 2,
+      "name": {
+        "local": "2e Arrondissement",
+        "en": "2e Arrondissement",
+        "slug": "2e-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101002A",
+        "level": 2,
+        "name": {
+          "local": "2e Arrondissement",
+          "en": "2e Arrondissement",
+          "slug": "2e-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.933",
+      "lon": "47.551"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

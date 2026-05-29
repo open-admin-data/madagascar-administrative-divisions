@@ -1,0 +1,47 @@
+{
+  "id": "MG32305",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fenerive Est",
+    "en": "Fenerive Est",
+    "slug": "fenerive-est"
+  },
+  "code": {
+    "id": "MG32305",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.25",
+    "lon": "49.153"
+  },
+  "metadata": {},
+  "source": {}
+}

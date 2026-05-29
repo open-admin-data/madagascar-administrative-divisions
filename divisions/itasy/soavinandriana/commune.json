@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MG13113210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoasana Centre",
+      "en": "Ambatoasana Centre",
+      "slug": "ambatoasana-centre"
+    },
+    "code": {
+      "id": "MG13113210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.181",
+      "lon": "46.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amberomanga",
+      "en": "Amberomanga",
+      "slug": "amberomanga"
+    },
+    "code": {
+      "id": "MG13113132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.249",
+      "lon": "46.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparaky",
+      "en": "Amparaky",
+      "slug": "amparaky"
+    },
+    "code": {
+      "id": "MG13113131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.331",
+      "lon": "46.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparibohitra",
+      "en": "Amparibohitra",
+      "slug": "amparibohitra"
+    },
+    "code": {
+      "id": "MG13113072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.253",
+      "lon": "46.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampary",
+      "en": "Ampary",
+      "slug": "ampary"
+    },
+    "code": {
+      "id": "MG13113030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.089",
+      "lon": "46.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampefy",
+      "en": "Ampefy",
+      "slug": "ampefy"
+    },
+    "code": {
+      "id": "MG13113090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.053",
+      "lon": "46.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaranana",
+      "en": "Ankaranana",
+      "slug": "ankaranana"
+    },
+    "code": {
+      "id": "MG13113150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.046",
+      "lon": "46.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankisabe",
+      "en": "Ankisabe",
+      "slug": "ankisabe"
+    },
+    "code": {
+      "id": "MG13113190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.314",
+      "lon": "46.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanetibe",
+      "en": "Antanetibe",
+      "slug": "antanetibe"
+    },
+    "code": {
+      "id": "MG13113110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.144",
+      "lon": "46.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dondona",
+      "en": "Dondona",
+      "slug": "dondona"
+    },
+    "code": {
+      "id": "MG13113012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.192",
+      "lon": "46.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavelona",
+      "en": "Mahavelona",
+      "slug": "mahavelona"
+    },
+    "code": {
+      "id": "MG13113170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.159",
+      "lon": "46.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mananasy",
+      "en": "Mananasy",
+      "slug": "mananasy"
+    },
+    "code": {
+      "id": "MG13113050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.141",
+      "lon": "46.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masindray",
+      "en": "Masindray",
+      "slug": "masindray"
+    },
+    "code": {
+      "id": "MG13113071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.277",
+      "lon": "46.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavinandriana",
+      "en": "Soavinandriana",
+      "slug": "soavinandriana"
+    },
+    "code": {
+      "id": "MG13113011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.171",
+      "lon": "46.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13113230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tamponala",
+      "en": "Tamponala",
+      "slug": "tamponala"
+    },
+    "code": {
+      "id": "MG13113230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13113",
+      "level": 2,
+      "name": {
+        "local": "Soavinandriana",
+        "en": "Soavinandriana",
+        "slug": "soavinandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13113",
+        "level": 2,
+        "name": {
+          "local": "Soavinandriana",
+          "en": "Soavinandriana",
+          "slug": "soavinandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.316",
+      "lon": "46.298"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

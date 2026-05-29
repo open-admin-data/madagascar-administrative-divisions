@@ -1,0 +1,47 @@
+{
+  "id": "MG42423",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mampikony",
+    "en": "Mampikony",
+    "slug": "mampikony"
+  },
+  "code": {
+    "id": "MG42423",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.182",
+    "lon": "47.697"
+  },
+  "metadata": {},
+  "source": {}
+}

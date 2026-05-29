@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MG54510",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belo Sur Tsiribihina",
+      "en": "Belo Sur Tsiribihina",
+      "slug": "belo-sur-tsiribihina"
+    },
+    "code": {
+      "id": "MG54510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.66",
+      "lon": "44.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54509",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mahabo",
+      "en": "Mahabo",
+      "slug": "mahabo"
+    },
+    "code": {
+      "id": "MG54509",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.687",
+      "lon": "45.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manja",
+      "en": "Manja",
+      "slug": "manja"
+    },
+    "code": {
+      "id": "MG54502",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.407",
+      "lon": "44.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Miandrivazo",
+      "en": "Miandrivazo",
+      "slug": "miandrivazo"
+    },
+    "code": {
+      "id": "MG54511",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.207",
+      "lon": "45.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54508",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morondava",
+      "en": "Morondava",
+      "slug": "morondava"
+    },
+    "code": {
+      "id": "MG54508",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54",
+      "level": 1,
+      "name": {
+        "local": "Menabe",
+        "en": "Menabe",
+        "slug": "menabe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.514",
+      "lon": "44.347"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

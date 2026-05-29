@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MG21201003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrainjato Avaratra",
+      "en": "Andrainjato Avaratra",
+      "slug": "andrainjato-avaratra"
+    },
+    "code": {
+      "id": "MG21201003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.452",
+      "lon": "47.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrainjato Sud",
+      "en": "Andrainjato Sud",
+      "slug": "andrainjato-sud"
+    },
+    "code": {
+      "id": "MG21201004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.477",
+      "lon": "47.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201006",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lalazana",
+      "en": "Lalazana",
+      "slug": "lalazana"
+    },
+    "code": {
+      "id": "MG21201006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.489",
+      "lon": "47.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manolafaka",
+      "en": "Manolafaka",
+      "slug": "manolafaka"
+    },
+    "code": {
+      "id": "MG21201005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.415",
+      "lon": "47.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanana Ambany",
+      "en": "Tanana Ambany",
+      "slug": "tanana-ambany"
+    },
+    "code": {
+      "id": "MG21201002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.442",
+      "lon": "47.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanana Ambony",
+      "en": "Tanana Ambony",
+      "slug": "tanana-ambony"
+    },
+    "code": {
+      "id": "MG21201001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.461",
+      "lon": "47.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21201007",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatosola",
+      "en": "Vatosola",
+      "slug": "vatosola"
+    },
+    "code": {
+      "id": "MG21201007",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21201",
+      "level": 2,
+      "name": {
+        "local": "Fianarantsoa I",
+        "en": "Fianarantsoa I",
+        "slug": "fianarantsoa-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21201",
+        "level": 2,
+        "name": {
+          "local": "Fianarantsoa I",
+          "en": "Fianarantsoa I",
+          "slug": "fianarantsoa-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.443",
+      "lon": "47.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

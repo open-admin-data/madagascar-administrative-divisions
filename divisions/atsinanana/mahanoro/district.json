@@ -1,0 +1,47 @@
+{
+  "id": "MG31308",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mahanoro",
+    "en": "Mahanoro",
+    "slug": "mahanoro"
+  },
+  "code": {
+    "id": "MG31308",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG31",
+    "level": 1,
+    "name": {
+      "local": "Atsinanana",
+      "en": "Atsinanana",
+      "slug": "atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.043",
+    "lon": "48.505"
+  },
+  "metadata": {},
+  "source": {}
+}

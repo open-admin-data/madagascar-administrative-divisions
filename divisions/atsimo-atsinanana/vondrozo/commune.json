@@ -1,0 +1,866 @@
+[
+  {
+    "id": "MG25217090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimana",
+      "en": "Ambohimana",
+      "slug": "ambohimana"
+    },
+    "code": {
+      "id": "MG25217090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.563",
+      "lon": "47.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anandravy",
+      "en": "Anandravy",
+      "slug": "anandravy"
+    },
+    "code": {
+      "id": "MG25217013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.914",
+      "lon": "47.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andakana",
+      "en": "Andakana",
+      "slug": "andakana"
+    },
+    "code": {
+      "id": "MG25217170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.555",
+      "lon": "47.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antokonala",
+      "en": "Antokonala",
+      "slug": "antokonala"
+    },
+    "code": {
+      "id": "MG25217072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.008",
+      "lon": "47.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iamonta",
+      "en": "Iamonta",
+      "slug": "iamonta"
+    },
+    "code": {
+      "id": "MG25217052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.698",
+      "lon": "47.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivato",
+      "en": "Ivato",
+      "slug": "ivato"
+    },
+    "code": {
+      "id": "MG25217130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.437",
+      "lon": "47.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karianga",
+      "en": "Karianga",
+      "slug": "karianga"
+    },
+    "code": {
+      "id": "MG25217111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.438",
+      "lon": "47.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsinjo",
+      "en": "Mahatsinjo",
+      "slug": "mahatsinjo"
+    },
+    "code": {
+      "id": "MG25217030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.742",
+      "lon": "47.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavelo",
+      "en": "Mahavelo",
+      "slug": "mahavelo"
+    },
+    "code": {
+      "id": "MG25217150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.321",
+      "lon": "47.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoarivo",
+      "en": "Mahazoarivo",
+      "slug": "mahazoarivo"
+    },
+    "code": {
+      "id": "MG25217051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.649",
+      "lon": "47.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambidala",
+      "en": "Manambidala",
+      "slug": "manambidala"
+    },
+    "code": {
+      "id": "MG25217012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.738",
+      "lon": "47.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manato",
+      "en": "Manato",
+      "slug": "manato"
+    },
+    "code": {
+      "id": "MG25217112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.443",
+      "lon": "47.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moroteza",
+      "en": "Moroteza",
+      "slug": "moroteza"
+    },
+    "code": {
+      "id": "MG25217191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.248",
+      "lon": "47.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohiboreka",
+      "en": "Vohiboreka",
+      "slug": "vohiboreka"
+    },
+    "code": {
+      "id": "MG25217192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.333",
+      "lon": "47.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimary",
+      "en": "Vohimary",
+      "slug": "vohimary"
+    },
+    "code": {
+      "id": "MG25217071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.039",
+      "lon": "47.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25217011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vondrozo",
+      "en": "Vondrozo",
+      "slug": "vondrozo"
+    },
+    "code": {
+      "id": "MG25217011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25217",
+      "level": 2,
+      "name": {
+        "local": "Vondrozo",
+        "en": "Vondrozo",
+        "slug": "vondrozo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25217",
+        "level": 2,
+        "name": {
+          "local": "Vondrozo",
+          "en": "Vondrozo",
+          "slug": "vondrozo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.833",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "MG53517",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Betroka",
+    "en": "Betroka",
+    "slug": "betroka"
+  },
+  "code": {
+    "id": "MG53517",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG53",
+    "level": 1,
+    "name": {
+      "local": "Anosy",
+      "en": "Anosy",
+      "slug": "anosy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG53",
+      "level": 1,
+      "name": {
+        "local": "Anosy",
+        "en": "Anosy",
+        "slug": "anosy"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.412",
+    "lon": "45.85"
+  },
+  "metadata": {},
+  "source": {}
+}

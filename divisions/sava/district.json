@@ -1,0 +1,190 @@
+[
+  {
+    "id": "MG72712",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Andapa",
+      "en": "Andapa",
+      "slug": "andapa"
+    },
+    "code": {
+      "id": "MG72712",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.613",
+      "lon": "49.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antalaha",
+      "en": "Antalaha",
+      "slug": "antalaha"
+    },
+    "code": {
+      "id": "MG72710",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.259",
+      "lon": "50.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72711",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sambava",
+      "en": "Sambava",
+      "slug": "sambava"
+    },
+    "code": {
+      "id": "MG72711",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.245",
+      "lon": "49.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vohemar",
+      "en": "Vohemar",
+      "slug": "vohemar"
+    },
+    "code": {
+      "id": "MG72716",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72",
+      "level": 1,
+      "name": {
+        "local": "Sava",
+        "en": "Sava",
+        "slug": "sava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.453",
+      "lon": "49.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

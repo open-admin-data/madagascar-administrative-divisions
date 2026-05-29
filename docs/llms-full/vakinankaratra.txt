@@ -1,0 +1,408 @@
+# Vakinankaratra — Madagascar Administrative Divisions
+
+> 7 districts, 91 communes
+> Code: MG12
+> Coordinates: -19.709, 46.814
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambatolampy
+
+Code: MG12110, Coordinates: -19.422, 47.54
+Communes: 18
+
+#### Ambatolampy
+
+Code: MG12110010, Coordinates: -18.904, 46.152
+
+#### Ambatondrakalavao
+
+Code: MG12110090, Coordinates: -19.473, 47.514
+
+#### Ambodifarihy Fenomanana
+
+Code: MG12110190, Coordinates: -19.466, 47.577
+
+#### Ambohipihaonana
+
+Code: MG12110050, Coordinates: -19.462, 47.427
+
+#### Andranovelona
+
+Code: MG12110330, Coordinates: -19.646, 47.595
+
+#### Andravola Vohipeno
+
+Code: MG12110150, Coordinates: -19.413, 47.381
+
+#### Andriambilany
+
+Code: MG12110110, Coordinates: -19.31, 47.452
+
+#### Antakasina
+
+Code: MG12110292, Coordinates: -19.516, 47.759
+
+#### Antanamalaza
+
+Code: MG12110291, Coordinates: -19.432, 47.649
+
+#### Antanimasaka
+
+Code: MG12110230, Coordinates: -16.262, 46.5
+
+#### Antsampandrano
+
+Code: MG12110270, Coordinates: -19.964, 47.603
+
+#### Behenjy
+
+Code: MG12110250, Coordinates: -19.216, 47.494
+
+#### Belambo Firaisana
+
+Code: MG12110130, Coordinates: -19.357, 47.52
+
+#### Manjakatompo
+
+Code: MG12110070, Coordinates: -19.322, 47.418
+
+#### Morarano
+
+Code: MG12110030, Coordinates: -18.158, 49.387
+
+#### Sabotsy Namatoana
+
+Code: MG12110210, Coordinates: -19.305, 47.328
+
+#### Tsiafajavona Ankaratra
+
+Code: MG12110170, Coordinates: -19.385, 47.318
+
+#### Tsinjoarivo
+
+Code: MG12110310, Coordinates: -19.641, 47.738
+
+### Antanifotsy
+
+Code: MG12114, Coordinates: -19.75, 47.533
+Communes: 12
+
+#### Ambatolahy
+
+Code: MG12114030, Coordinates: -20.028, 45.594
+
+#### Ambatomiady
+
+Code: MG12114079, Coordinates: -19.688, 47.454
+
+#### Ambatotsipihina
+
+Code: MG12114150, Coordinates: -19.468, 47.278
+
+#### Ambodiriana
+
+Code: MG12114230, Coordinates: -17.926, 49.27
+
+#### Ambohimandroso
+
+Code: MG12114110, Coordinates: -17.605, 48.159
+
+#### Ambohitompoina
+
+Code: MG12114171, Coordinates: -19.8, 47.602
+
+#### Ampitatafika
+
+Code: MG12114050, Coordinates: -18.955, 47.461
+
+#### Andranofito
+
+Code: MG12114090, Coordinates: -19.802, 47.412
+
+#### Antanifotsy
+
+Code: MG12114010, Coordinates: -16.832, 49.694
+
+#### Antsahalava
+
+Code: MG12114199, Coordinates: -19.591, 47.484
+
+#### Antsampandrano
+
+Code: MG12114290, Coordinates: -19.964, 47.603
+
+#### Belanitra
+
+Code: MG12114172, Coordinates: -19.784, 47.747
+
+### Antsirabe I
+
+Code: MG12108, Coordinates: -19.882, 47.031
+Communes: 6
+
+#### Ampatana Mandriankeniheny
+
+Code: MG12108002, Coordinates: -19.905, 47.014
+
+#### Antsenakely Andraikiba
+
+Code: MG12108001, Coordinates: -19.885, 46.998
+
+#### Antsirabe Afovoany Atsinanana
+
+Code: MG12108004, Coordinates: -19.913, 47.043
+
+#### Mahazoarivo Avarabohitra
+
+Code: MG12108006, Coordinates: -19.84, 47.008
+
+#### Manodidina Ny Gara Ambilombe
+
+Code: MG12108005, Coordinates: -19.851, 47.06
+
+#### Soamalaza Mahatsinjo
+
+Code: MG12108003, Coordinates: -19.887, 47.067
+
+### Antsirabe II
+
+Code: MG12118, Coordinates: -19.841, 47.204
+Communes: 20
+
+#### Alakamisy
+
+Code: MG12118050, Coordinates: -19.765, 46.99
+
+#### Alatsinainy Ibity
+
+Code: MG12118250, Coordinates: -20.117, 46.978
+
+#### Ambano
+
+Code: MG12118010, Coordinates: -19.747, 47.036
+
+#### Ambatomena
+
+Code: MG12118310, Coordinates: -19.824, 47.289
+
+#### Ambohibary
+
+Code: MG12118331, Coordinates: -18.985, 48.212
+
+#### Ambohidranandriana
+
+Code: MG12118130, Coordinates: -19.929, 47.156
+
+#### Ambohimiarivo
+
+Code: MG12118150, Coordinates: -19.835, 47.171
+
+#### Ambohitsimanova
+
+Code: MG12118170, Coordinates: -19.987, 47.138
+
+#### Andranomanelatra
+
+Code: MG12118110, Coordinates: -19.779, 47.123
+
+#### Antanambao
+
+Code: MG12118370, Coordinates: -20.547, 47.875
+
+#### Antanimandry
+
+Code: MG12118070, Coordinates: -19.845, 46.964
+
+#### Antsoatany
+
+Code: MG12118230, Coordinates: -19.71, 47.158
+
+#### Belazao
+
+Code: MG12118030, Coordinates: -19.915, 46.962
+
+#### Manandona
+
+Code: MG12118210, Coordinates: -20.055, 47.089
+
+#### Mandrosohasina
+
+Code: MG12118332, Coordinates: -19.536, 47.163
+
+#### Mangarano
+
+Code: MG12118190, Coordinates: -19.982, 46.98
+
+#### Sahanivotry Manandona
+
+Code: MG12118270, Coordinates: -20.135, 47.101
+
+#### Soanindrariny
+
+Code: MG12118290, Coordinates: -19.885, 47.305
+
+#### Tsarahonenana Sahanivotry
+
+Code: MG12118350, Coordinates: -20.014, 47.267
+
+#### Vinaninkarena
+
+Code: MG12118090, Coordinates: -19.978, 47.037
+
+### Betafo
+
+Code: MG12109, Coordinates: -19.892, 46.626
+Communes: 18
+
+#### Alakamisy Anativato
+
+Code: MG12109070, Coordinates: -19.905, 46.894
+
+#### Alakamisy Marososona
+
+Code: MG12109230, Coordinates: -20.051, 46.872
+
+#### Alarobia Bemaha
+
+Code: MG12109390, Coordinates: -20.193, 46.85
+
+#### Ambatonikolahy
+
+Code: MG12109170, Coordinates: -19.722, 46.936
+
+#### Ambohimanambola
+
+Code: MG12109250, Coordinates: -19.849, 46.556
+
+#### Ambohimasina
+
+Code: MG12109270, Coordinates: -18.823, 47.268
+
+#### Andranomafana
+
+Code: MG12109030, Coordinates: -22.171, 44.267
+
+#### Andrembesoa
+
+Code: MG12109490, Coordinates: -20.124, 46.53
+
+#### Anosiarivo Manapa
+
+Code: MG12109212, Coordinates: -20.011, 46.661
+
+#### Antohobe
+
+Code: MG12109190, Coordinates: -19.748, 46.662
+
+#### Antsoso
+
+Code: MG12109090, Coordinates: -19.777, 46.847
+
+#### Betafo
+
+Code: MG12109010, Coordinates: -19.851, 46.855
+
+#### Inanantonana
+
+Code: MG12109290, Coordinates: -19.618, 46.643
+
+#### Mahaiza
+
+Code: MG12109211, Coordinates: -19.934, 46.792
+
+#### Mandritsara
+
+Code: MG12109050, Coordinates: -15.838, 48.828
+
+#### Manohisoa
+
+Code: MG12109150, Coordinates: -19.672, 46.813
+
+#### Soavina
+
+Code: MG12109130, Coordinates: -20.364, 48.253
+
+#### Tritriva
+
+Code: MG12109110, Coordinates: -19.931, 46.915
+
+### Faratsiho
+
+Code: MG12116, Coordinates: -19.419, 46.893
+Communes: 9
+
+#### Ambohiborona
+
+Code: MG12116130, Coordinates: -19.401, 47.141
+
+#### Andranomiady
+
+Code: MG12116090, Coordinates: -19.237, 46.991
+
+#### Antsampanimahazo
+
+Code: MG12116030, Coordinates: -19.432, 47.037
+
+#### Faratsiho
+
+Code: MG12116010, Coordinates: -19.358, 46.88
+
+#### Faravohitra
+
+Code: MG12116050, Coordinates: -19.481, 47.007
+
+#### Miandrarivo
+
+Code: MG12116150, Coordinates: -18.927, 45.922
+
+#### Ramainandro
+
+Code: MG12116070, Coordinates: -19.309, 46.973
+
+#### Valabetokana
+
+Code: MG12116170, Coordinates: -19.347, 46.742
+
+#### Vinaninony Atsimo
+
+Code: MG12116110, Coordinates: -19.56, 46.955
+
+### Mandoto
+
+Code: MG12120, Coordinates: -19.727, 46.227
+Communes: 8
+
+#### Anjoma Ramartina
+
+Code: MG12120070, Coordinates: -19.669, 45.953
+
+#### Ankazomiriotra
+
+Code: MG12120090, Coordinates: -19.68, 46.486
+
+#### Antanambao Ambary
+
+Code: MG12120050, Coordinates: -19.525, 46.19
+
+#### Betsohana
+
+Code: MG12120030, Coordinates: -19.455, 46.369
+
+#### Fidirana
+
+Code: MG12120110, Coordinates: -19.498, 46.567
+
+#### Mandoto
+
+Code: MG12120010, Coordinates: -19.578, 46.34
+
+#### Vasiana
+
+Code: MG12120130, Coordinates: -19.847, 46.23
+
+#### Vinany
+
+Code: MG12120150, Coordinates: -19.517, 46.469
+

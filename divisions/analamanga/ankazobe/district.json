@@ -1,0 +1,47 @@
+{
+  "id": "MG11104",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ankazobe",
+    "en": "Ankazobe",
+    "slug": "ankazobe"
+  },
+  "code": {
+    "id": "MG11104",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG11",
+    "level": 1,
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG11",
+      "level": 1,
+      "name": {
+        "local": "Analamanga",
+        "en": "Analamanga",
+        "slug": "analamanga"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.235",
+    "lon": "47.004"
+  },
+  "metadata": {},
+  "source": {}
+}

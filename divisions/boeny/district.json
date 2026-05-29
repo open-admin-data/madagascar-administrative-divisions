@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MG41405",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambato Boeni",
+      "en": "Ambato Boeni",
+      "slug": "ambato-boeni"
+    },
+    "code": {
+      "id": "MG41405",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.718",
+      "lon": "46.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41401",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mahajanga I",
+      "en": "Mahajanga I",
+      "slug": "mahajanga-i"
+    },
+    "code": {
+      "id": "MG41401",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.68",
+      "lon": "46.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41415",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mahajanga II",
+      "en": "Mahajanga II",
+      "slug": "mahajanga-ii"
+    },
+    "code": {
+      "id": "MG41415",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.594",
+      "lon": "46.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41406",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marovoay",
+      "en": "Marovoay",
+      "slug": "marovoay"
+    },
+    "code": {
+      "id": "MG41406",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.229",
+      "lon": "46.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mitsinjo",
+      "en": "Mitsinjo",
+      "slug": "mitsinjo"
+    },
+    "code": {
+      "id": "MG41407",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.15",
+      "lon": "45.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41403",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soalala",
+      "en": "Soalala",
+      "slug": "soalala"
+    },
+    "code": {
+      "id": "MG41403",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.649",
+      "lon": "45.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

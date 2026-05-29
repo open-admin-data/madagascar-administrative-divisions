@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "4e Arrondissement",
+      "en": "4e Arrondissement",
+      "slug": "4e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101004A",
+      "level": 2,
+      "name": {
+        "local": "4e Arrondissement",
+        "en": "4e Arrondissement",
+        "slug": "4e-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101004A",
+        "level": 2,
+        "name": {
+          "local": "4e Arrondissement",
+          "en": "4e Arrondissement",
+          "slug": "4e-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.933",
+      "lon": "47.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

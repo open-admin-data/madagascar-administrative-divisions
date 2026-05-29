@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG51503050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Behisatsy",
+      "en": "Behisatsy",
+      "slug": "behisatsy"
+    },
+    "code": {
+      "id": "MG51503050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.903",
+      "lon": "45.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemavo",
+      "en": "Bemavo",
+      "slug": "bemavo"
+    },
+    "code": {
+      "id": "MG51503012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.675",
+      "lon": "45.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beroroha",
+      "en": "Beroroha",
+      "slug": "beroroha"
+    },
+    "code": {
+      "id": "MG51503011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.421",
+      "lon": "45.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fanjakana",
+      "en": "Fanjakana",
+      "slug": "fanjakana"
+    },
+    "code": {
+      "id": "MG51503030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.732",
+      "lon": "45.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandronarivo",
+      "en": "Mandronarivo",
+      "slug": "mandronarivo"
+    },
+    "code": {
+      "id": "MG51503091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.146",
+      "lon": "45.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marerano",
+      "en": "Marerano",
+      "slug": "marerano"
+    },
+    "code": {
+      "id": "MG51503070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.468",
+      "lon": "44.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503093",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakena",
+      "en": "Sakena",
+      "slug": "sakena"
+    },
+    "code": {
+      "id": "MG51503093",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.001",
+      "lon": "45.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanamary",
+      "en": "Tanamary",
+      "slug": "tanamary"
+    },
+    "code": {
+      "id": "MG51503092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51503",
+      "level": 2,
+      "name": {
+        "local": "Beroroha",
+        "en": "Beroroha",
+        "slug": "beroroha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51503",
+        "level": 2,
+        "name": {
+          "local": "Beroroha",
+          "en": "Beroroha",
+          "slug": "beroroha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.283",
+      "lon": "45.498"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

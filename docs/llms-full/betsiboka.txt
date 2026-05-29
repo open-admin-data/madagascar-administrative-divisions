@@ -1,0 +1,164 @@
+# Betsiboka — Madagascar Administrative Divisions
+
+> 3 districts, 35 communes
+> Code: MG43
+> Coordinates: -17.095, 46.846
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Kandreho
+
+Code: MG43416, Coordinates: -17.43, 46.027
+Communes: 6
+
+#### Ambaliha
+
+Code: MG43416012, Coordinates: -13.746, 48.156
+
+#### Andasibe
+
+Code: MG43416052, Coordinates: -17.695, 46.318
+
+#### Antanimbaribe
+
+Code: MG43416030, Coordinates: -17.193, 45.938
+
+#### Behazomaty
+
+Code: MG43416013, Coordinates: -17.44, 46.323
+
+#### Betaimboay
+
+Code: MG43416051, Coordinates: -17.759, 46.085
+
+#### Kandreho
+
+Code: MG43416011, Coordinates: -17.489, 46.12
+
+### Maevatanana
+
+Code: MG43404, Coordinates: -17.22, 46.843
+Communes: 17
+
+#### Ambalajia
+
+Code: MG43404112, Coordinates: -16.778, 46.895
+
+#### Ambalanjanakomby
+
+Code: MG43404131, Coordinates: -16.75, 47.11
+
+#### Andriba
+
+Code: MG43404171, Coordinates: -17.651, 46.777
+
+#### Antanimbary
+
+Code: MG43404092, Coordinates: -17.219, 46.842
+
+#### Antsiafabositra
+
+Code: MG43404091, Coordinates: -17.291, 47.008
+
+#### Bemokotra
+
+Code: MG43404050, Coordinates: -17.046, 46.691
+
+#### Beratsimanina
+
+Code: MG43404032, Coordinates: -16.879, 46.899
+
+#### Madiromirafy
+
+Code: MG43404192, Coordinates: -16.823, 46.816
+
+#### Maevatanana I
+
+Code: MG43404010, Coordinates: -16.959, 46.827
+
+#### Maevatanana II
+
+Code: MG43404031, Coordinates: -16.986, 46.904
+
+#### Mahatsinjo
+
+Code: MG43404172, Coordinates: -17.742, 47.014
+
+#### Mahazoma
+
+Code: MG43404070, Coordinates: -17.28, 46.633
+
+#### Mangabe
+
+Code: MG43404191, Coordinates: -16.751, 46.782
+
+#### Maria
+
+Code: MG43404150, Coordinates: -17.3, 46.429
+
+#### Marokoro
+
+Code: MG43404132, Coordinates: -16.907, 47.161
+
+#### Morafeno
+
+Code: MG43404173, Coordinates: -14.371, 50.046
+
+#### Tsararano
+
+Code: MG43404111, Coordinates: -16.758, 46.963
+
+### Tsaratanana
+
+Code: MG43408, Coordinates: -17.139, 47.646
+Communes: 12
+
+#### Ambakireny
+
+Code: MG43408170, Coordinates: -17.613, 47.864
+
+#### Ampandrana
+
+Code: MG43408130, Coordinates: -17.344, 47.879
+
+#### Andriamena
+
+Code: MG43408150, Coordinates: -17.28, 47.384
+
+#### Bekapaika
+
+Code: MG43408030, Coordinates: -16.811, 47.455
+
+#### Betrandraka
+
+Code: MG43408070, Coordinates: -17.021, 47.637
+
+#### Brieville
+
+Code: MG43408190, Coordinates: -17.591, 47.595
+
+#### Keliloha
+
+Code: MG43408090, Coordinates: -17.251, 47.667
+
+#### Manakana
+
+Code: MG43408230, Coordinates: -17.768, 47.499
+
+#### Sakoamadinika
+
+Code: MG43408210, Coordinates: -17.203, 47.988
+
+#### Sarobaratra
+
+Code: MG43408110, Coordinates: -16.567, 47.429
+
+#### Tsararova
+
+Code: MG43408050, Coordinates: -16.625, 47.75
+
+#### Tsaratanana
+
+Code: MG43408010, Coordinates: -16.842, 47.817
+

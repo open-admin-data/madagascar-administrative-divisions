@@ -1,0 +1,47 @@
+{
+  "id": "MG42409",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Port-Berge (Boriziny-Vaovao)",
+    "en": "Port-Berge (Boriziny-Vaovao)",
+    "slug": "port-berge-boriziny-vaovao"
+  },
+  "code": {
+    "id": "MG42409",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG42",
+    "level": 1,
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.801",
+    "lon": "47.723"
+  },
+  "metadata": {},
+  "source": {}
+}

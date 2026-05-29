@@ -1,0 +1,47 @@
+{
+  "id": "MG51507",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ampanihy Ouest",
+    "en": "Ampanihy Ouest",
+    "slug": "ampanihy-ouest"
+  },
+  "code": {
+    "id": "MG51507",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.59",
+    "lon": "44.422"
+  },
+  "metadata": {},
+  "source": {}
+}

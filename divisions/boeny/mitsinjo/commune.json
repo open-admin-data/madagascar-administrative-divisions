@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MG41407092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambarimaninga",
+      "en": "Ambarimaninga",
+      "slug": "ambarimaninga"
+    },
+    "code": {
+      "id": "MG41407092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.466",
+      "lon": "45.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antongomena Bevary",
+      "en": "Antongomena Bevary",
+      "slug": "antongomena-bevary"
+    },
+    "code": {
+      "id": "MG41407030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.921",
+      "lon": "45.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antseza",
+      "en": "Antseza",
+      "slug": "antseza"
+    },
+    "code": {
+      "id": "MG41407012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.259",
+      "lon": "45.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekipay",
+      "en": "Bekipay",
+      "slug": "bekipay"
+    },
+    "code": {
+      "id": "MG41407091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.251",
+      "lon": "46.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katsepy",
+      "en": "Katsepy",
+      "slug": "katsepy"
+    },
+    "code": {
+      "id": "MG41407070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.913",
+      "lon": "46.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matsakabanja",
+      "en": "Matsakabanja",
+      "slug": "matsakabanja"
+    },
+    "code": {
+      "id": "MG41407050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.96",
+      "lon": "45.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41407011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mitsinjo",
+      "en": "Mitsinjo",
+      "slug": "mitsinjo"
+    },
+    "code": {
+      "id": "MG41407011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41407",
+      "level": 2,
+      "name": {
+        "local": "Mitsinjo",
+        "en": "Mitsinjo",
+        "slug": "mitsinjo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41407",
+        "level": 2,
+        "name": {
+          "local": "Mitsinjo",
+          "en": "Mitsinjo",
+          "slug": "mitsinjo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.777",
+      "lon": "43.894"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

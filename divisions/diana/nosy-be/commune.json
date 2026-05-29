@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MG71718003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatozavavy",
+      "en": "Ambatozavavy",
+      "slug": "ambatozavavy"
+    },
+    "code": {
+      "id": "MG71718003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71718",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Be",
+        "en": "Nosy-Be",
+        "slug": "nosy-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71718",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Be",
+          "en": "Nosy-Be",
+          "slug": "nosy-be"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.36",
+      "lon": "48.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71718002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampangorina",
+      "en": "Ampangorina",
+      "slug": "ampangorina"
+    },
+    "code": {
+      "id": "MG71718002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71718",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Be",
+        "en": "Nosy-Be",
+        "slug": "nosy-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71718",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Be",
+          "en": "Nosy-Be",
+          "slug": "nosy-be"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.464",
+      "lon": "48.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71718004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemanondrobe",
+      "en": "Bemanondrobe",
+      "slug": "bemanondrobe"
+    },
+    "code": {
+      "id": "MG71718004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71718",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Be",
+        "en": "Nosy-Be",
+        "slug": "nosy-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71718",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Be",
+          "en": "Nosy-Be",
+          "slug": "nosy-be"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.274",
+      "lon": "48.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71718005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dzamandzar",
+      "en": "Dzamandzar",
+      "slug": "dzamandzar"
+    },
+    "code": {
+      "id": "MG71718005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71718",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Be",
+        "en": "Nosy-Be",
+        "slug": "nosy-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71718",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Be",
+          "en": "Nosy-Be",
+          "slug": "nosy-be"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.323",
+      "lon": "48.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71718001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hell-Ville",
+      "en": "Hell-Ville",
+      "slug": "hell-ville"
+    },
+    "code": {
+      "id": "MG71718001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71718",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Be",
+        "en": "Nosy-Be",
+        "slug": "nosy-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71718",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Be",
+          "en": "Nosy-Be",
+          "slug": "nosy-be"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.396",
+      "lon": "48.279"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

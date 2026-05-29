@@ -1,0 +1,47 @@
+{
+  "id": "MG22202",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambatofinandrahana",
+    "en": "Ambatofinandrahana",
+    "slug": "ambatofinandrahana"
+  },
+  "code": {
+    "id": "MG22202",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG22",
+    "level": 1,
+    "name": {
+      "local": "Amoron I Mania",
+      "en": "Amoron I Mania",
+      "slug": "amoron-i-mania"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.456",
+    "lon": "46.392"
+  },
+  "metadata": {},
+  "source": {}
+}

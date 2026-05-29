@@ -1,0 +1,47 @@
+{
+  "id": "MG32315",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vavatenina",
+    "en": "Vavatenina",
+    "slug": "vavatenina"
+  },
+  "code": {
+    "id": "MG32315",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG32",
+    "level": 1,
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.472",
+    "lon": "49.006"
+  },
+  "metadata": {},
+  "source": {}
+}

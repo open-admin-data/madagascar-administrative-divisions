@@ -1,0 +1,396 @@
+# Atsinanana — Madagascar Administrative Divisions
+
+> 7 districts, 88 communes
+> Code: MG31
+> Coordinates: -18.977, 48.584
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Antanambao Manampontsy
+
+Code: MG31311, Coordinates: -19.564, 48.461
+Communes: 5
+
+#### Antanambao Manampontsy
+
+Code: MG31311010, Coordinates: -19.437, 48.571
+
+#### Antanandehibe
+
+Code: MG31311070, Coordinates: -19.617, 48.408
+
+#### Mahela
+
+Code: MG31311030, Coordinates: -19.44, 48.455
+
+#### Manakana
+
+Code: MG31311090, Coordinates: -17.768, 47.499
+
+#### Saivaza
+
+Code: MG31311050, Coordinates: -19.647, 48.526
+
+### Brickaville
+
+Code: MG31306, Coordinates: -18.667, 48.883
+Communes: 17
+
+#### Ambalarondra
+
+Code: MG31306210, Coordinates: -18.486, 49.026
+
+#### Ambinaninony
+
+Code: MG31306110, Coordinates: -18.581, 49.186
+
+#### Ambohimanana
+
+Code: MG31306270, Coordinates: -18.495, 48.641
+
+#### Ampasimbe
+
+Code: MG31306172, Coordinates: -19, 48.713
+
+#### Andekaleka
+
+Code: MG31306252, Coordinates: -18.681, 48.573
+
+#### Andovoranto
+
+Code: MG31306090, Coordinates: -18.961, 49.085
+
+#### Anivorano Est
+
+Code: MG31306050, Coordinates: -18.732, 48.97
+
+#### Anjahamana
+
+Code: MG31306290, Coordinates: -18.326, 48.916
+
+#### Brickaville
+
+Code: MG31306010, Coordinates: -18.818, 49.06
+
+#### Fanasana
+
+Code: MG31306190, Coordinates: -18.779, 48.793
+
+#### Fetraomby
+
+Code: MG31306130, Coordinates: -18.612, 48.893
+
+#### Lohariandava
+
+Code: MG31306251, Coordinates: -18.77, 48.703
+
+#### Mahatsara
+
+Code: MG31306070, Coordinates: -18.986, 48.962
+
+#### Maroseranana
+
+Code: MG31306230, Coordinates: -18.388, 48.737
+
+#### Ranomafana Est
+
+Code: MG31306171, Coordinates: -18.958, 48.825
+
+#### Vohipeno Razanaka
+
+Code: MG31306150, Coordinates: -18.781, 48.869
+
+#### Vohitranivona
+
+Code: MG31306030, Coordinates: -18.696, 49.1
+
+### Mahanoro
+
+Code: MG31308, Coordinates: -20.043, 48.505
+Communes: 11
+
+#### Ambinanidilana
+
+Code: MG31308110, Coordinates: -19.889, 48.438
+
+#### Ambinanindrano
+
+Code: MG31308170, Coordinates: -20.099, 48.334
+
+#### Ambodibonara
+
+Code: MG31308130, Coordinates: -13.182, 48.84
+
+#### Ambodiharina
+
+Code: MG31308050, Coordinates: -20.076, 48.666
+
+#### Ankazotsifantatra
+
+Code: MG31308150, Coordinates: -19.996, 48.501
+
+#### Befotaka
+
+Code: MG31308190, Coordinates: -20.241, 44.923
+
+#### Betsizaraina
+
+Code: MG31308012, Coordinates: -19.985, 48.654
+
+#### Mahanoro
+
+Code: MG31308011, Coordinates: -17.362, 49.303
+
+#### Manjakandriana
+
+Code: MG31308070, Coordinates: -19.811, 48.536
+
+#### Masomeloka
+
+Code: MG31308090, Coordinates: -20.203, 48.574
+
+#### Tsaravinany
+
+Code: MG31308030, Coordinates: -19.473, 47.969
+
+### Marolambo
+
+Code: MG31309, Coordinates: -20.084, 48.019
+Communes: 14
+
+#### Ambalapaiso II
+
+Code: MG31309071, Coordinates: -20.005, 47.895
+
+#### Ambatofisaka II
+
+Code: MG31309110, Coordinates: -20.102, 47.833
+
+#### Amboasary
+
+Code: MG31309150, Coordinates: -18.453, 48.218
+
+#### Ambodinonoka
+
+Code: MG31309191, Coordinates: -20.331, 47.808
+
+#### Ambodivoangy
+
+Code: MG31309072, Coordinates: -19.948, 47.8
+
+#### Ambohimilanja
+
+Code: MG31309090, Coordinates: -19.906, 47.927
+
+#### Andonabe Sud
+
+Code: MG31309050, Coordinates: -19.883, 48.218
+
+#### Androrangavola
+
+Code: MG31309131, Coordinates: -20.111, 47.956
+
+#### Anosiarivo I
+
+Code: MG31309132, Coordinates: -20.191, 47.91
+
+#### Betampona
+
+Code: MG31309031, Coordinates: -20.234, 48.069
+
+#### Lohavanana
+
+Code: MG31309170, Coordinates: -19.801, 48.079
+
+#### Marolambo
+
+Code: MG31309010, Coordinates: -20.031, 48.133
+
+#### Sahakevo
+
+Code: MG31309192, Coordinates: -20.279, 47.854
+
+#### Tanambao Rabemanana
+
+Code: MG31309032, Coordinates: -20.382, 48.034
+
+### Toamasina I
+
+Code: MG31301, Coordinates: -18.143, 49.398
+Communes: 5
+
+#### Ambodimanga
+
+Code: MG31301001, Coordinates: -17.351, 48.488
+
+#### Anjoma
+
+Code: MG31301002, Coordinates: -18.176, 49.395
+
+#### Ankirihiry
+
+Code: MG31301005, Coordinates: -18.125, 49.393
+
+#### Morarano
+
+Code: MG31301003, Coordinates: -18.158, 49.387
+
+#### Tanambao V
+
+Code: MG31301004, Coordinates: -18.148, 49.402
+
+### Toamasina II
+
+Code: MG31310, Coordinates: -18.014, 49.089
+Communes: 17
+
+#### Ambodilazana
+
+Code: MG31310150, Coordinates: -18.137, 49.11
+
+#### Ambodiriana
+
+Code: MG31310070, Coordinates: -17.926, 49.27
+
+#### Amboditandroroho
+
+Code: MG31310092, Coordinates: -18.334, 49.307
+
+#### Ampasimadinika Manambolo
+
+Code: MG31310091, Coordinates: -18.407, 49.187
+
+#### Ampasimbe Onibe
+
+Code: MG31310170, Coordinates: -17.623, 49.376
+
+#### Ampisokina
+
+Code: MG31310212, Coordinates: -17.76, 49.292
+
+#### Amporoforo
+
+Code: MG31310192, Coordinates: -17.817, 49.125
+
+#### Andondabe
+
+Code: MG31310211, Coordinates: -17.78, 49.345
+
+#### Andranobolaha
+
+Code: MG31310230, Coordinates: -18.293, 49.069
+
+#### Antenina
+
+Code: MG31310193, Coordinates: -16.491, 49.201
+
+#### Antetezambaro
+
+Code: MG31310030, Coordinates: -17.98, 49.386
+
+#### Fanandrana
+
+Code: MG31310050, Coordinates: -18.25, 49.252
+
+#### Fito
+
+Code: MG31310250, Coordinates: -18.027, 48.853
+
+#### Mahavelona (Foulpointe)
+
+Code: MG31310110, Coordinates: -17.776, 49.438
+
+#### Mangabe
+
+Code: MG31310191, Coordinates: -16.751, 46.782
+
+#### Sahambala
+
+Code: MG31310130, Coordinates: -17.947, 49.103
+
+#### Toamasina Suburbaine
+
+Code: MG31310010, Coordinates: -18.093, 49.289
+
+### Vatomandry
+
+Code: MG31307, Coordinates: -19.365, 48.771
+Communes: 19
+
+#### Ambalabe
+
+Code: MG31307230, Coordinates: -15.19, 50.351
+
+#### Ambalavolo
+
+Code: MG31307110, Coordinates: -19.217, 48.785
+
+#### Amboditavolo
+
+Code: MG31307131, Coordinates: -19.157, 48.863
+
+#### Ambodivoananto
+
+Code: MG31307030, Coordinates: -19.341, 48.899
+
+#### Ampasimadinika
+
+Code: MG31307190, Coordinates: -19.542, 48.692
+
+#### Ampasimazava
+
+Code: MG31307172, Coordinates: -17.401, 49.295
+
+#### Antanambao Mahatsara
+
+Code: MG31307091, Coordinates: -19.309, 48.762
+
+#### Iamborano
+
+Code: MG31307092, Coordinates: -19.412, 48.77
+
+#### Ifasina I
+
+Code: MG31307210, Coordinates: -19.411, 48.675
+
+#### Ifasina II
+
+Code: MG31307250, Coordinates: -19.314, 48.612
+
+#### Ilaka Est
+
+Code: MG31307151, Coordinates: -19.526, 48.835
+
+#### Maintinandry
+
+Code: MG31307051, Coordinates: -19.439, 48.919
+
+#### Niarovana Caroline
+
+Code: MG31307152, Coordinates: -19.547, 48.766
+
+#### Niherenana
+
+Code: MG31307132, Coordinates: -19.083, 48.852
+
+#### Sahamatevina
+
+Code: MG31307070, Coordinates: -19.248, 48.931
+
+#### Tanambao Vahatrakaka
+
+Code: MG31307052, Coordinates: -19.424, 48.811
+
+#### Tsarasambo
+
+Code: MG31307053, Coordinates: -19.441, 48.869
+
+#### Tsivangiana
+
+Code: MG31307171, Coordinates: -19.647, 48.792
+
+#### Vatomandry
+
+Code: MG31307010, Coordinates: -19.355, 48.953
+

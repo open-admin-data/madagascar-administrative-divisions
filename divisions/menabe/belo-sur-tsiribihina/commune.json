@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG54510090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aboalimena",
+      "en": "Aboalimena",
+      "slug": "aboalimena"
+    },
+    "code": {
+      "id": "MG54510090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.328",
+      "lon": "44.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambiky",
+      "en": "Ambiky",
+      "slug": "ambiky"
+    },
+    "code": {
+      "id": "MG54510112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.386",
+      "lon": "45.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andimaky Manambolo",
+      "en": "Andimaky Manambolo",
+      "slug": "andimaky-manambolo"
+    },
+    "code": {
+      "id": "MG54510012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.355",
+      "lon": "44.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankalalobe",
+      "en": "Ankalalobe",
+      "slug": "ankalalobe"
+    },
+    "code": {
+      "id": "MG54510111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.552",
+      "lon": "45.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiroroky",
+      "en": "Ankiroroky",
+      "slug": "ankiroroky"
+    },
+    "code": {
+      "id": "MG54510152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.82",
+      "lon": "45.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsoha",
+      "en": "Antsoha",
+      "slug": "antsoha"
+    },
+    "code": {
+      "id": "MG54510132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.498",
+      "lon": "49.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belinta",
+      "en": "Belinta",
+      "slug": "belinta"
+    },
+    "code": {
+      "id": "MG54510151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.011",
+      "lon": "45.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belo Sur Tsiribihina",
+      "en": "Belo Sur Tsiribihina",
+      "slug": "belo-sur-tsiribihina"
+    },
+    "code": {
+      "id": "MG54510011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.651",
+      "lon": "44.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510013",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemarivo Ankirondro",
+      "en": "Bemarivo Ankirondro",
+      "slug": "bemarivo-ankirondro"
+    },
+    "code": {
+      "id": "MG54510013",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.617",
+      "lon": "44.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Berevo",
+      "en": "Berevo",
+      "slug": "berevo"
+    },
+    "code": {
+      "id": "MG54510131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.804",
+      "lon": "44.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beroboka Nord",
+      "en": "Beroboka Nord",
+      "slug": "beroboka-nord"
+    },
+    "code": {
+      "id": "MG54510032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.914",
+      "lon": "44.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masoarivo",
+      "en": "Masoarivo",
+      "slug": "masoarivo"
+    },
+    "code": {
+      "id": "MG54510070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.607",
+      "lon": "44.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaraotana",
+      "en": "Tsaraotana",
+      "slug": "tsaraotana"
+    },
+    "code": {
+      "id": "MG54510050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.779",
+      "lon": "44.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54510031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsimafana",
+      "en": "Tsimafana",
+      "slug": "tsimafana"
+    },
+    "code": {
+      "id": "MG54510031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54510",
+      "level": 2,
+      "name": {
+        "local": "Belo Sur Tsiribihina",
+        "en": "Belo Sur Tsiribihina",
+        "slug": "belo-sur-tsiribihina"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54510",
+        "level": 2,
+        "name": {
+          "local": "Belo Sur Tsiribihina",
+          "en": "Belo Sur Tsiribihina",
+          "slug": "belo-sur-tsiribihina"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.776",
+      "lon": "44.602"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

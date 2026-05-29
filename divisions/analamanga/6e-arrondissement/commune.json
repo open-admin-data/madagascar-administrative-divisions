@@ -1,0 +1,56 @@
+[
+  {
+    "id": "MG11101006",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "6e Arrondissement",
+      "en": "6e Arrondissement",
+      "slug": "6e-arrondissement"
+    },
+    "code": {
+      "id": "MG11101006",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11101006A",
+      "level": 2,
+      "name": {
+        "local": "6e Arrondissement",
+        "en": "6e Arrondissement",
+        "slug": "6e-arrondissement"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11101006A",
+        "level": 2,
+        "name": {
+          "local": "6e Arrondissement",
+          "en": "6e Arrondissement",
+          "slug": "6e-arrondissement"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.868",
+      "lon": "47.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

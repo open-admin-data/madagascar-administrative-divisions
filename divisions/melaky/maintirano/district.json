@@ -1,0 +1,47 @@
+{
+  "id": "MG44421",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maintirano",
+    "en": "Maintirano",
+    "slug": "maintirano"
+  },
+  "code": {
+    "id": "MG44421",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG44",
+    "level": 1,
+    "name": {
+      "local": "Melaky",
+      "en": "Melaky",
+      "slug": "melaky"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.733",
+    "lon": "44.405"
+  },
+  "metadata": {},
+  "source": {}
+}

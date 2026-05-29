@@ -1,0 +1,425 @@
+[
+  {
+    "id": "MG51507",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ampanihy Ouest",
+      "en": "Ampanihy Ouest",
+      "slug": "ampanihy-ouest"
+    },
+    "code": {
+      "id": "MG51507",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.59",
+      "lon": "44.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51505",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ankazoabo",
+      "en": "Ankazoabo",
+      "slug": "ankazoabo"
+    },
+    "code": {
+      "id": "MG51505",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.132",
+      "lon": "44.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51521",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Benenitra",
+      "en": "Benenitra",
+      "slug": "benenitra"
+    },
+    "code": {
+      "id": "MG51521",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.452",
+      "lon": "45.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51503",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beroroha",
+      "en": "Beroroha",
+      "slug": "beroroha"
+    },
+    "code": {
+      "id": "MG51503",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.505",
+      "lon": "45.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51506",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Betioky Atsimo",
+      "en": "Betioky Atsimo",
+      "slug": "betioky-atsimo"
+    },
+    "code": {
+      "id": "MG51506",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.693",
+      "lon": "44.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51504",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morombe",
+      "en": "Morombe",
+      "slug": "morombe"
+    },
+    "code": {
+      "id": "MG51504",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.873",
+      "lon": "43.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51512",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sakaraha",
+      "en": "Sakaraha",
+      "slug": "sakaraha"
+    },
+    "code": {
+      "id": "MG51512",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.83",
+      "lon": "44.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51501",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toliary-I",
+      "en": "Toliary-I",
+      "slug": "toliary-i"
+    },
+    "code": {
+      "id": "MG51501",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.343",
+      "lon": "43.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51520",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toliary-II",
+      "en": "Toliary-II",
+      "slug": "toliary-ii"
+    },
+    "code": {
+      "id": "MG51520",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.281",
+      "lon": "43.808"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

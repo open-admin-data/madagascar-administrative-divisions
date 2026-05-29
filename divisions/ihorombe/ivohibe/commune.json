@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MG24218030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antambohobe",
+      "en": "Antambohobe",
+      "slug": "antambohobe"
+    },
+    "code": {
+      "id": "MG24218030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24218",
+      "level": 2,
+      "name": {
+        "local": "Ivohibe",
+        "en": "Ivohibe",
+        "slug": "ivohibe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24218",
+        "level": 2,
+        "name": {
+          "local": "Ivohibe",
+          "en": "Ivohibe",
+          "slug": "ivohibe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.26",
+      "lon": "46.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24218010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivohibe",
+      "en": "Ivohibe",
+      "slug": "ivohibe"
+    },
+    "code": {
+      "id": "MG24218010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24218",
+      "level": 2,
+      "name": {
+        "local": "Ivohibe",
+        "en": "Ivohibe",
+        "slug": "ivohibe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24218",
+        "level": 2,
+        "name": {
+          "local": "Ivohibe",
+          "en": "Ivohibe",
+          "slug": "ivohibe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.573",
+      "lon": "46.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24218070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivongo",
+      "en": "Ivongo",
+      "slug": "ivongo"
+    },
+    "code": {
+      "id": "MG24218070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24218",
+      "level": 2,
+      "name": {
+        "local": "Ivohibe",
+        "en": "Ivohibe",
+        "slug": "ivohibe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24218",
+        "level": 2,
+        "name": {
+          "local": "Ivohibe",
+          "en": "Ivohibe",
+          "slug": "ivohibe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.416",
+      "lon": "47.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24218050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maropaika",
+      "en": "Maropaika",
+      "slug": "maropaika"
+    },
+    "code": {
+      "id": "MG24218050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24218",
+      "level": 2,
+      "name": {
+        "local": "Ivohibe",
+        "en": "Ivohibe",
+        "slug": "ivohibe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24218",
+        "level": 2,
+        "name": {
+          "local": "Ivohibe",
+          "en": "Ivohibe",
+          "slug": "ivohibe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.802",
+      "lon": "47.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

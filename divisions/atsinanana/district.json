@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MG31311",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antanambao Manampontsy",
+      "en": "Antanambao Manampontsy",
+      "slug": "antanambao-manampontsy"
+    },
+    "code": {
+      "id": "MG31311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.564",
+      "lon": "48.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31306",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brickaville",
+      "en": "Brickaville",
+      "slug": "brickaville"
+    },
+    "code": {
+      "id": "MG31306",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.667",
+      "lon": "48.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mahanoro",
+      "en": "Mahanoro",
+      "slug": "mahanoro"
+    },
+    "code": {
+      "id": "MG31308",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.043",
+      "lon": "48.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31309",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marolambo",
+      "en": "Marolambo",
+      "slug": "marolambo"
+    },
+    "code": {
+      "id": "MG31309",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.084",
+      "lon": "48.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31301",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toamasina I",
+      "en": "Toamasina I",
+      "slug": "toamasina-i"
+    },
+    "code": {
+      "id": "MG31301",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.143",
+      "lon": "49.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31310",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toamasina II",
+      "en": "Toamasina II",
+      "slug": "toamasina-ii"
+    },
+    "code": {
+      "id": "MG31310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.014",
+      "lon": "49.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31307",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vatomandry",
+      "en": "Vatomandry",
+      "slug": "vatomandry"
+    },
+    "code": {
+      "id": "MG31307",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.365",
+      "lon": "48.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

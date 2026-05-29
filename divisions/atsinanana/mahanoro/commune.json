@@ -1,0 +1,596 @@
+[
+  {
+    "id": "MG31308110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanidilana",
+      "en": "Ambinanidilana",
+      "slug": "ambinanidilana"
+    },
+    "code": {
+      "id": "MG31308110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.889",
+      "lon": "48.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanindrano",
+      "en": "Ambinanindrano",
+      "slug": "ambinanindrano"
+    },
+    "code": {
+      "id": "MG31308170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.099",
+      "lon": "48.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodibonara",
+      "en": "Ambodibonara",
+      "slug": "ambodibonara"
+    },
+    "code": {
+      "id": "MG31308130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.182",
+      "lon": "48.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiharina",
+      "en": "Ambodiharina",
+      "slug": "ambodiharina"
+    },
+    "code": {
+      "id": "MG31308050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.076",
+      "lon": "48.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazotsifantatra",
+      "en": "Ankazotsifantatra",
+      "slug": "ankazotsifantatra"
+    },
+    "code": {
+      "id": "MG31308150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.996",
+      "lon": "48.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befotaka",
+      "en": "Befotaka",
+      "slug": "befotaka"
+    },
+    "code": {
+      "id": "MG31308190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.241",
+      "lon": "44.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsizaraina",
+      "en": "Betsizaraina",
+      "slug": "betsizaraina"
+    },
+    "code": {
+      "id": "MG31308012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.985",
+      "lon": "48.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahanoro",
+      "en": "Mahanoro",
+      "slug": "mahanoro"
+    },
+    "code": {
+      "id": "MG31308011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.362",
+      "lon": "49.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manjakandriana",
+      "en": "Manjakandriana",
+      "slug": "manjakandriana"
+    },
+    "code": {
+      "id": "MG31308070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.811",
+      "lon": "48.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masomeloka",
+      "en": "Masomeloka",
+      "slug": "masomeloka"
+    },
+    "code": {
+      "id": "MG31308090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.203",
+      "lon": "48.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31308030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaravinany",
+      "en": "Tsaravinany",
+      "slug": "tsaravinany"
+    },
+    "code": {
+      "id": "MG31308030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31308",
+      "level": 2,
+      "name": {
+        "local": "Mahanoro",
+        "en": "Mahanoro",
+        "slug": "mahanoro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31308",
+        "level": 2,
+        "name": {
+          "local": "Mahanoro",
+          "en": "Mahanoro",
+          "slug": "mahanoro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.473",
+      "lon": "47.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

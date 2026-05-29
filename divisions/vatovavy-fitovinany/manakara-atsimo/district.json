@@ -1,0 +1,47 @@
+{
+  "id": "MG23210",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manakara Atsimo",
+    "en": "Manakara Atsimo",
+    "slug": "manakara-atsimo"
+  },
+  "code": {
+    "id": "MG23210",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG23",
+    "level": 1,
+    "name": {
+      "local": "Vatovavy Fitovinany",
+      "en": "Vatovavy Fitovinany",
+      "slug": "vatovavy-fitovinany"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.964",
+    "lon": "47.899"
+  },
+  "metadata": {},
+  "source": {}
+}

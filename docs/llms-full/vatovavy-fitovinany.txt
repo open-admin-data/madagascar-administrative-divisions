@@ -1,0 +1,595 @@
+# Vatovavy Fitovinany — Madagascar Administrative Divisions
+
+> 6 districts, 139 communes
+> Code: MG23
+> Coordinates: -21.287, 47.832
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ifanadiana
+
+Code: MG23206, Coordinates: -21.071, 47.611
+Communes: 13
+
+#### Ambohimanga Du Sud
+
+Code: MG23206130, Coordinates: -20.868, 47.623
+
+#### Ambohimiera
+
+Code: MG23206090, Coordinates: -21.029, 47.484
+
+#### Analampasina
+
+Code: MG23206150, Coordinates: -20.83, 47.507
+
+#### Androrangavola
+
+Code: MG23206071, Coordinates: -20.111, 47.956
+
+#### Antaretra
+
+Code: MG23206012, Coordinates: -21.06, 47.863
+
+#### Antsindra
+
+Code: MG23206110, Coordinates: -20.965, 47.739
+
+#### Fasintsara
+
+Code: MG23206170, Coordinates: -20.677, 47.691
+
+#### Ifanadiana
+
+Code: MG23206011, Coordinates: -21.368, 47.622
+
+#### Kelilalina
+
+Code: MG23206052, Coordinates: -21.297, 47.559
+
+#### Maroharatra
+
+Code: MG23206190, Coordinates: -20.707, 47.794
+
+#### Marotoko
+
+Code: MG23206072, Coordinates: -21.586, 47.701
+
+#### Ranomafana
+
+Code: MG23206051, Coordinates: -24.5, 46.914
+
+#### Tsaratanana
+
+Code: MG23206030, Coordinates: -16.842, 47.817
+
+### Ikongo
+
+Code: MG23211, Coordinates: -21.855, 47.392
+Communes: 15
+
+#### Ambatofotsy
+
+Code: MG23211031, Coordinates: -21.753, 47.457
+
+#### Ambinanitromby
+
+Code: MG23211052, Coordinates: -21.624, 47.461
+
+#### Ambohimisafy
+
+Code: MG23211092, Coordinates: -21.494, 47.545
+
+#### Ambolomadinika
+
+Code: MG23211012, Coordinates: -21.942, 47.363
+
+#### Ankarimbelo
+
+Code: MG23211111, Coordinates: -22.13, 47.254
+
+#### Antodinga
+
+Code: MG23211112, Coordinates: -22.115, 47.366
+
+#### Belemoka
+
+Code: MG23211032, Coordinates: -21.796, 47.605
+
+#### Ifanirea
+
+Code: MG23211071, Coordinates: -22.175, 47.543
+
+#### Ikongo
+
+Code: MG23211011, Coordinates: -21.884, 47.487
+
+#### Kalafotsy
+
+Code: MG23211113, Coordinates: -22.246, 47.362
+
+#### Manampatrana
+
+Code: MG23211051, Coordinates: -21.68, 47.571
+
+#### Maromiandra
+
+Code: MG23211033, Coordinates: -23.079, 43.814
+
+#### Sahalanona
+
+Code: MG23211073, Coordinates: -22.088, 47.581
+
+#### Tanakambana
+
+Code: MG23211072, Coordinates: -22.051, 47.494
+
+#### Tolongoina
+
+Code: MG23211091, Coordinates: -21.504, 47.506
+
+### Manakara Atsimo
+
+Code: MG23210, Coordinates: -21.964, 47.899
+Communes: 45
+
+#### Ambahatrazo
+
+Code: MG23210153, Coordinates: -21.858, 47.934
+
+#### Ambahive
+
+Code: MG23210231, Coordinates: -22.176, 47.7
+
+#### Ambalaroka
+
+Code: MG23210233, Coordinates: -22.147, 47.714
+
+#### Ambalavero
+
+Code: MG23210410, Coordinates: -21.822, 47.75
+
+#### Ambandrika
+
+Code: MG23210232, Coordinates: -17.769, 48.443
+
+#### Ambila
+
+Code: MG23210070, Coordinates: -21.967, 48.005
+
+#### Amboanjo
+
+Code: MG23210171, Coordinates: -22.005, 47.863
+
+#### Ambohitsara M
+
+Code: MG23210130, Coordinates: -21.916, 47.83
+
+#### Amborondra
+
+Code: MG23210430, Coordinates: -21.932, 47.775
+
+#### Ambotaka
+
+Code: MG23210312, Coordinates: -21.781, 48.029
+
+#### Ampasimanjeva
+
+Code: MG23210311, Coordinates: -21.677, 48.041
+
+#### Ampasimboraka
+
+Code: MG23210532, Coordinates: -21.658, 47.625
+
+#### Ampasimpotsy Sud
+
+Code: MG23210490, Coordinates: -21.934, 47.706
+
+#### Analavory
+
+Code: MG23210272, Coordinates: -21.7, 47.937
+
+#### Anorombato
+
+Code: MG23210172, Coordinates: -22.022, 47.782
+
+#### Anosiala
+
+Code: MG23210052, Coordinates: -22.061, 48.007
+
+#### Anteza
+
+Code: MG23210510, Coordinates: -21.648, 47.835
+
+#### Bekatra
+
+Code: MG23210291, Coordinates: -22.09, 47.697
+
+#### Betampona
+
+Code: MG23210353, Coordinates: -20.234, 48.069
+
+#### Fenomby
+
+Code: MG23210390, Coordinates: -21.755, 47.769
+
+#### Kianjanomby
+
+Code: MG23210472, Coordinates: -21.721, 47.827
+
+#### Lokomby
+
+Code: MG23210211, Coordinates: -22.17, 47.768
+
+#### Mahabako
+
+Code: MG23210451, Coordinates: -21.748, 47.733
+
+#### Mahamaibe
+
+Code: MG23210471, Coordinates: -21.735, 47.889
+
+#### Manakara
+
+Code: MG23210010, Coordinates: -22.153, 48.006
+
+#### Mangatsiotra
+
+Code: MG23210032, Coordinates: -22.258, 47.946
+
+#### Marofarihy
+
+Code: MG23210051, Coordinates: -22.044, 47.946
+
+#### Mavorano
+
+Code: MG23210330, Coordinates: -21.797, 47.943
+
+#### Mitanty
+
+Code: MG23210271, Coordinates: -21.684, 47.998
+
+#### Mizilo Gara
+
+Code: MG23210110, Coordinates: -21.934, 47.908
+
+#### Nihaonana
+
+Code: MG23210313, Coordinates: -21.748, 47.989
+
+#### Onilahy
+
+Code: MG23210452, Coordinates: -21.722, 47.641
+
+#### Sahanambohitra
+
+Code: MG23210152, Coordinates: -21.861, 47.779
+
+#### Saharefo
+
+Code: MG23210531, Coordinates: -21.662, 47.707
+
+#### Sahasinaka
+
+Code: MG23210151, Coordinates: -21.796, 47.833
+
+#### Sakoana
+
+Code: MG23210213, Coordinates: -22.211, 47.835
+
+#### Sorombo
+
+Code: MG23210090, Coordinates: -22.121, 47.877
+
+#### Tataho
+
+Code: MG23210031, Coordinates: -22.146, 47.937
+
+#### Vatana
+
+Code: MG23210212, Coordinates: -22.235, 47.752
+
+#### Vinanitelo
+
+Code: MG23210292, Coordinates: -22.011, 47.701
+
+#### Vohilava
+
+Code: MG23210370, Coordinates: -21.78, 47.904
+
+#### Vohimanitra
+
+Code: MG23210250, Coordinates: -21.697, 47.716
+
+#### Vohimasina Nord
+
+Code: MG23210351, Coordinates: -21.749, 48.141
+
+#### Vohimasina Sud
+
+Code: MG23210352, Coordinates: -21.853, 48.068
+
+#### Vohimasy
+
+Code: MG23210190, Coordinates: -22.778, 47.719
+
+### Mananjary
+
+Code: MG23209, Coordinates: -21.236, 48.106
+Communes: 29
+
+#### Ambalahosy Nord
+
+Code: MG23209370, Coordinates: -21.304, 47.877
+
+#### Ambodinonoka
+
+Code: MG23209391, Coordinates: -20.331, 47.808
+
+#### Ambohimiarina II
+
+Code: MG23209190, Coordinates: -21.353, 47.983
+
+#### Ambohinihaonana
+
+Code: MG23209310, Coordinates: -21.204, 47.932
+
+#### Ambohitsara Est
+
+Code: MG23209252, Coordinates: -20.871, 48.415
+
+#### Andonabe
+
+Code: MG23209290, Coordinates: -21.462, 47.885
+
+#### Andranambolava
+
+Code: MG23209210, Coordinates: -20.904, 48.299
+
+#### Andranomavo
+
+Code: MG23209332, Coordinates: -16.835, 45.521
+
+#### Ankatafana
+
+Code: MG23209032, Coordinates: -21.365, 48.253
+
+#### Anosimparihy
+
+Code: MG23209450, Coordinates: -21.494, 48.035
+
+#### Antaretra
+
+Code: MG23209392, Coordinates: -21.06, 47.863
+
+#### Antsenavolo
+
+Code: MG23209150, Coordinates: -21.368, 48.1
+
+#### Kianjavato
+
+Code: MG23209410, Coordinates: -21.387, 47.883
+
+#### Mahatsara Iefaka
+
+Code: MG23209090, Coordinates: -21.076, 48.327
+
+#### Mahatsara Sud
+
+Code: MG23209050, Coordinates: -21.123, 48.343
+
+#### Mahavoky Nord
+
+Code: MG23209270, Coordinates: -20.845, 48.33
+
+#### Mahela
+
+Code: MG23209251, Coordinates: -19.44, 48.455
+
+#### Manakana Nord
+
+Code: MG23209470, Coordinates: -21.315, 47.843
+
+#### Mananjary
+
+Code: MG23209010, Coordinates: -21.225, 48.324
+
+#### Marofototra
+
+Code: MG23209331, Coordinates: -20.819, 48.123
+
+#### Marokarima
+
+Code: MG23209110, Coordinates: -21.214, 48.103
+
+#### Marosangy
+
+Code: MG23209170, Coordinates: -20.989, 48.3
+
+#### Morafeno
+
+Code: MG23209130, Coordinates: -14.371, 50.046
+
+#### Namorona
+
+Code: MG23209490, Coordinates: -21.568, 48.166
+
+#### Sandrohy
+
+Code: MG23209430, Coordinates: -21.608, 47.936
+
+#### Tsaravary
+
+Code: MG23209031, Coordinates: -21.258, 48.274
+
+#### Tsiatosika
+
+Code: MG23209070, Coordinates: -21.166, 48.207
+
+#### Vatohandrina
+
+Code: MG23209350, Coordinates: -21.543, 47.855
+
+#### Vohilava
+
+Code: MG23209230, Coordinates: -21.78, 47.904
+
+### Nosy-Varika
+
+Code: MG23207, Coordinates: -20.536, 48.122
+Communes: 18
+
+#### Ambahy
+
+Code: MG23207031, Coordinates: -20.752, 48.434
+
+#### Ambakobe
+
+Code: MG23207113, Coordinates: -20.681, 48.107
+
+#### Ambodiara
+
+Code: MG23207192, Coordinates: -20.649, 47.979
+
+#### Ambodilafa
+
+Code: MG23207151, Coordinates: -20.479, 48.148
+
+#### Ambodirian&#39;i Sahafary
+
+Code: MG23207052, Coordinates: -20.496, 48.442
+
+#### Ampasinambo
+
+Code: MG23207171, Coordinates: -20.51, 47.988
+
+#### Andara
+
+Code: MG23207032, Coordinates: -20.797, 48.402
+
+#### Androrangavola
+
+Code: MG23207152, Coordinates: -20.111, 47.956
+
+#### Angodongodona
+
+Code: MG23207173, Coordinates: -20.526, 47.754
+
+#### Antanambao
+
+Code: MG23207172, Coordinates: -20.547, 47.875
+
+#### Befody
+
+Code: MG23207191, Coordinates: -20.754, 47.943
+
+#### Fiadanana
+
+Code: MG23207051, Coordinates: -20.425, 48.409
+
+#### Nosy Varika
+
+Code: MG23207010, Coordinates: -20.536, 48.485
+
+#### Sahavato
+
+Code: MG23207070, Coordinates: -20.576, 48.303
+
+#### Soavina
+
+Code: MG23207130, Coordinates: -20.364, 48.253
+
+#### Vohidroa
+
+Code: MG23207112, Coordinates: -20.676, 48.192
+
+#### Vohilava
+
+Code: MG23207090, Coordinates: -21.78, 47.904
+
+#### Vohitrandriana
+
+Code: MG23207111, Coordinates: -20.755, 48.214
+
+### Vohipeno
+
+Code: MG23212, Coordinates: -22.341, 47.683
+Communes: 19
+
+#### Andemaka
+
+Code: MG23212190, Coordinates: -22.29, 47.726
+
+#### Ankarimbary
+
+Code: MG23212090, Coordinates: -22.32, 47.775
+
+#### Anoloka
+
+Code: MG23212053, Coordinates: -22.364, 47.897
+
+#### Antananabo
+
+Code: MG23212212, Coordinates: -22.455, 47.707
+
+#### Ifatsy
+
+Code: MG23212211, Coordinates: -22.378, 47.748
+
+#### Ilakatra
+
+Code: MG23212230, Coordinates: -22.369, 47.626
+
+#### Ivato
+
+Code: MG23212051, Coordinates: -22.437, 47.239
+
+#### Lanivo
+
+Code: MG23212110, Coordinates: -22.276, 47.805
+
+#### Mahabo
+
+Code: MG23212070, Coordinates: -20.368, 44.661
+
+#### Mahasoabe
+
+Code: MG23212150, Coordinates: -22.273, 47.769
+
+#### Mahazoarivo
+
+Code: MG23212270, Coordinates: -22.649, 47.329
+
+#### Nato
+
+Code: MG23212130, Coordinates: -22.276, 47.887
+
+#### Onjatsy
+
+Code: MG23212171, Coordinates: -22.419, 47.905
+
+#### Sahalava
+
+Code: MG23212250, Coordinates: -22.247, 47.664
+
+#### Savana
+
+Code: MG23212052, Coordinates: -22.373, 47.908
+
+#### Vohilany
+
+Code: MG23212172, Coordinates: -22.415, 47.879
+
+#### Vohindava
+
+Code: MG23212032, Coordinates: -22.449, 47.862
+
+#### Vohipeno
+
+Code: MG23212010, Coordinates: -17.136, 49.251
+
+#### Vohitrindry
+
+Code: MG23212031, Coordinates: -22.414, 47.805
+

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "MG44417",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambatomainty",
+      "en": "Ambatomainty",
+      "slug": "ambatomainty"
+    },
+    "code": {
+      "id": "MG44417",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.814",
+      "lon": "45.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44420",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antsalova",
+      "en": "Antsalova",
+      "slug": "antsalova"
+    },
+    "code": {
+      "id": "MG44420",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.816",
+      "lon": "44.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44402",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Besalampy",
+      "en": "Besalampy",
+      "slug": "besalampy"
+    },
+    "code": {
+      "id": "MG44402",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.857",
+      "lon": "44.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44421",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maintirano",
+      "en": "Maintirano",
+      "slug": "maintirano"
+    },
+    "code": {
+      "id": "MG44421",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.733",
+      "lon": "44.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44422",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Morafenobe",
+      "en": "Morafenobe",
+      "slug": "morafenobe"
+    },
+    "code": {
+      "id": "MG44422",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.912",
+      "lon": "45.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,476 @@
+# Sofia — Madagascar Administrative Divisions
+
+> 7 districts, 108 communes
+> Code: MG42
+> Coordinates: -15.282, 48.244
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Analalava
+
+Code: MG42411, Coordinates: -14.668, 47.764
+Communes: 13
+
+#### Ambaliha
+
+Code: MG42411070, Coordinates: -13.746, 48.156
+
+#### Ambarijeby Sud
+
+Code: MG42411012, Coordinates: -14.922, 47.672
+
+#### Ambolobozo
+
+Code: MG42411030, Coordinates: -14.354, 47.82
+
+#### Analalava
+
+Code: MG42411011, Coordinates: -14.703, 47.787
+
+#### Andribavontsona
+
+Code: MG42411131, Coordinates: -15.362, 47.476
+
+#### Angoaka Sud
+
+Code: MG42411132, Coordinates: -15.339, 47.362
+
+#### Ankaramy
+
+Code: MG42411170, Coordinates: -14.047, 48.195
+
+#### Antonibe
+
+Code: MG42411190, Coordinates: -14.975, 47.33
+
+#### Befotaka Nord
+
+Code: MG42411050, Coordinates: -14.498, 47.999
+
+#### Mahadrodroka
+
+Code: MG42411210, Coordinates: -15.305, 47.229
+
+#### Maromandia
+
+Code: MG42411090, Coordinates: -14.254, 48.235
+
+#### Marovantaza
+
+Code: MG42411150, Coordinates: -15.364, 47.677
+
+#### Marovatolena
+
+Code: MG42411110, Coordinates: -15.157, 47.657
+
+### Antsohihy
+
+Code: MG42413, Coordinates: -14.972, 48.077
+Communes: 12
+
+#### Ambodimadiro
+
+Code: MG42413171, Coordinates: -14.609, 48.074
+
+#### Ambodimanary
+
+Code: MG42413130, Coordinates: -15.207, 48.069
+
+#### Ambodimandresy
+
+Code: MG42413090, Coordinates: -14.784, 48.092
+
+#### Ampandriankilandy
+
+Code: MG42413051, Coordinates: -14.959, 48.043
+
+#### Anahidrano
+
+Code: MG42413070, Coordinates: -15.08, 47.91
+
+#### Andreba
+
+Code: MG42413172, Coordinates: -14.603, 48.159
+
+#### Anjalazala
+
+Code: MG42413052, Coordinates: -14.99, 48.227
+
+#### Anjiamangirana
+
+Code: MG42413110, Coordinates: -15.196, 47.815
+
+#### Ankerika
+
+Code: MG42413030, Coordinates: -14.899, 47.88
+
+#### Antsahabe
+
+Code: MG42413150, Coordinates: -14.74, 48.276
+
+#### Antsohihy
+
+Code: MG42413010, Coordinates: -14.884, 47.993
+
+#### Maroala
+
+Code: MG42413190, Coordinates: -15.353, 47.957
+
+### Bealanana
+
+Code: MG42414, Coordinates: -14.561, 48.883
+Communes: 18
+
+#### Ambalaromba
+
+Code: MG42414213, Coordinates: -14.606, 49.333
+
+#### Ambararata Sofia
+
+Code: MG42414172, Coordinates: -14.773, 48.797
+
+#### Ambararatabe Nord
+
+Code: MG42414152, Coordinates: -14.352, 48.818
+
+#### Ambatoriha Est
+
+Code: MG42414090, Coordinates: -14.484, 48.95
+
+#### Ambatosia
+
+Code: MG42414071, Coordinates: -14.742, 48.697
+
+#### Ambodiadabo M
+
+Code: MG42414211, Coordinates: -14.671, 49.155
+
+#### Ambodiampana
+
+Code: MG42414072, Coordinates: -14.536, 49.886
+
+#### Ambodisikidy
+
+Code: MG42414171, Coordinates: -14.834, 48.959
+
+#### Ambovonomby
+
+Code: MG42414110, Coordinates: -14.356, 49.057
+
+#### Analila
+
+Code: MG42414131, Coordinates: -14.473, 49.024
+
+#### Anjozoromadosy
+
+Code: MG42414132, Coordinates: -14.445, 49.171
+
+#### Ankazotokana
+
+Code: MG42414212, Coordinates: -14.546, 49.157
+
+#### Antananivo Haut
+
+Code: MG42414032, Coordinates: -14.325, 48.607
+
+#### Antsamaka
+
+Code: MG42414050, Coordinates: -14.658, 48.516
+
+#### Bealanana
+
+Code: MG42414010, Coordinates: -14.53, 48.788
+
+#### Beandrarezona
+
+Code: MG42414031, Coordinates: -14.503, 48.547
+
+#### Mangindrano
+
+Code: MG42414151, Coordinates: -14.259, 48.977
+
+#### Marotolana
+
+Code: MG42414190, Coordinates: -14.108, 48.684
+
+### Befandriana Nord
+
+Code: MG42412, Coordinates: -15.151, 48.76
+Communes: 12
+
+#### Ambararata
+
+Code: MG42412150, Coordinates: -15.025, 48.648
+
+#### Ambodimotso Sud
+
+Code: MG42412050, Coordinates: -15.41, 48.583
+
+#### Ambolidibe Est
+
+Code: MG42412170, Coordinates: -15.026, 48.76
+
+#### Ankarongana
+
+Code: MG42412190, Coordinates: -12.694, 49.512
+
+#### Antsakabary
+
+Code: MG42412210, Coordinates: -15.136, 49.121
+
+#### Antsakanalabe
+
+Code: MG42412130, Coordinates: -15.401, 48.207
+
+#### Befandriana Nord
+
+Code: MG42412010, Coordinates: -15.257, 48.533
+
+#### Maroamalona
+
+Code: MG42412090, Coordinates: -15.331, 48.699
+
+#### Matsondakana
+
+Code: MG42412230, Coordinates: -14.904, 49.255
+
+#### Morafeno
+
+Code: MG42412030, Coordinates: -14.371, 50.046
+
+#### Tsarahonenana
+
+Code: MG42412110, Coordinates: -15.507, 48.449
+
+#### Tsiamalao
+
+Code: MG42412070, Coordinates: -15.02, 48.438
+
+### Mampikony
+
+Code: MG42423, Coordinates: -16.182, 47.697
+Communes: 10
+
+#### Ambodihazoambo
+
+Code: MG42423112, Coordinates: -16.133, 48.024
+
+#### Ambohitoaka
+
+Code: MG42423051, Coordinates: -15.942, 47.647
+
+#### Ampasimatera
+
+Code: MG42423111, Coordinates: -15.97, 47.762
+
+#### Ankiririky
+
+Code: MG42423052, Coordinates: -15.828, 47.634
+
+#### Bekoratsaka
+
+Code: MG42423071, Coordinates: -16.118, 47.38
+
+#### Betaramahamay
+
+Code: MG42423073, Coordinates: -15.958, 47.508
+
+#### Komajia
+
+Code: MG42423090, Coordinates: -16.232, 47.831
+
+#### Malakialina
+
+Code: MG42423072, Coordinates: -16.319, 47.437
+
+#### Mampikony I
+
+Code: MG42423010, Coordinates: -16.086, 47.645
+
+#### Mampikony II
+
+Code: MG42423030, Coordinates: -16.303, 47.702
+
+### Mandritsara
+
+Code: MG42410, Coordinates: -16.049, 48.704
+Communes: 28
+
+#### Ambalakirajy
+
+Code: MG42410211, Coordinates: -15.754, 48.455
+
+#### Ambarikorano
+
+Code: MG42410171, Coordinates: -15.873, 48.975
+
+#### Ambaripaika
+
+Code: MG42410191, Coordinates: -15.77, 49.012
+
+#### Ambilombe
+
+Code: MG42410270, Coordinates: -15.516, 49.041
+
+#### Amboaboa
+
+Code: MG42410130, Coordinates: -15.906, 48.674
+
+#### Ambodiadabo
+
+Code: MG42410391, Coordinates: -16.31, 48.618
+
+#### Ambodiamontana Kianga
+
+Code: MG42410192, Coordinates: -15.77, 48.934
+
+#### Ambohisoa
+
+Code: MG42410330, Coordinates: -15.99, 48.324
+
+#### Amborondolo
+
+Code: MG42410392, Coordinates: -16.183, 48.454
+
+#### Ampatakamaroreny
+
+Code: MG42410350, Coordinates: -16.505, 48.826
+
+#### Andohajango
+
+Code: MG42410290, Coordinates: -16.042, 48.445
+
+#### Andratamarina
+
+Code: MG42410172, Coordinates: -14.365, 49.892
+
+#### Anjiabe
+
+Code: MG42410310, Coordinates: -15.654, 48.347
+
+#### Ankiabe-Salohy
+
+Code: MG42410371, Coordinates: -15.543, 48.773
+
+#### Ankiakabe-Fonoko
+
+Code: MG42410232, Coordinates: -15.681, 49.03
+
+#### Antanambaon&#39;amberina
+
+Code: MG42410410, Coordinates: -16.31, 49.044
+
+#### Antanandava
+
+Code: MG42410030, Coordinates: -15.901, 48.835
+
+#### Antsatramidola
+
+Code: MG42410231, Coordinates: -15.597, 48.986
+
+#### Antsiatsiaka
+
+Code: MG42410112, Coordinates: -16.042, 49.103
+
+#### Antsirabe Centre
+
+Code: MG42410111, Coordinates: -15.999, 48.973
+
+#### Antsoha
+
+Code: MG42410050, Coordinates: -12.498, 49.215
+
+#### Kalandy
+
+Code: MG42410090, Coordinates: -15.7, 48.679
+
+#### Manampaneva
+
+Code: MG42410150, Coordinates: -16.126, 48.678
+
+#### Mandritsara
+
+Code: MG42410010, Coordinates: -15.838, 48.828
+
+#### Marotandrano
+
+Code: MG42410250, Coordinates: -16.188, 48.891
+
+#### Pont Sofia
+
+Code: MG42410372, Coordinates: -15.5, 48.648
+
+#### Tsarajomoka
+
+Code: MG42410212, Coordinates: -15.818, 48.598
+
+#### Tsaratanana
+
+Code: MG42410070, Coordinates: -16.842, 47.817
+
+### Port-Berge (Boriziny-Vaovao)
+
+Code: MG42409, Coordinates: -15.801, 47.723
+Communes: 15
+
+#### Ambanjabe
+
+Code: MG42409031, Coordinates: -15.615, 47.695
+
+#### Ambodimahabibo
+
+Code: MG42409171, Coordinates: -15.75, 48.176
+
+#### Ambodisakoana
+
+Code: MG42409112, Coordinates: -15.438, 47.929
+
+#### Ambodivongo
+
+Code: MG42409172, Coordinates: -15.644, 48.191
+
+#### Amparihy
+
+Code: MG42409092, Coordinates: -15.787, 47.685
+
+#### Andranomeva
+
+Code: MG42409091, Coordinates: -15.857, 47.889
+
+#### Leanja
+
+Code: MG42409111, Coordinates: -15.548, 47.876
+
+#### Maevaranohely
+
+Code: MG42409132, Coordinates: -15.865, 47.282
+
+#### Marovato
+
+Code: MG42409150, Coordinates: -14.549, 49.653
+
+#### Port Berge
+
+Code: MG42409010, Coordinates: -15.577, 47.638
+
+#### Port Berge II
+
+Code: MG42409190, Coordinates: -15.566, 47.586
+
+#### Tsarahasina
+
+Code: MG42409050, Coordinates: -15.787, 47.526
+
+#### Tsaratanana I
+
+Code: MG42409032, Coordinates: -15.655, 47.829
+
+#### Tsiningia
+
+Code: MG42409070, Coordinates: -15.607, 47.346
+
+#### Tsinjomitondraka
+
+Code: MG42409131, Coordinates: -15.641, 47.217
+

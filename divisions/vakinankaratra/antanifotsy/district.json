@@ -1,0 +1,47 @@
+{
+  "id": "MG12114",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antanifotsy",
+    "en": "Antanifotsy",
+    "slug": "antanifotsy"
+  },
+  "code": {
+    "id": "MG12114",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG12",
+    "level": 1,
+    "name": {
+      "local": "Vakinankaratra",
+      "en": "Vakinankaratra",
+      "slug": "vakinankaratra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG12",
+      "level": 1,
+      "name": {
+        "local": "Vakinankaratra",
+        "en": "Vakinankaratra",
+        "slug": "vakinankaratra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.75",
+    "lon": "47.533"
+  },
+  "metadata": {},
+  "source": {}
+}

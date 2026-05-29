@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "MG53517070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalasoa",
+      "en": "Ambalasoa",
+      "slug": "ambalasoa"
+    },
+    "code": {
+      "id": "MG53517070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.075",
+      "lon": "46.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomivary",
+      "en": "Ambatomivary",
+      "slug": "ambatomivary"
+    },
+    "code": {
+      "id": "MG53517350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.843",
+      "lon": "45.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analamary",
+      "en": "Analamary",
+      "slug": "analamary"
+    },
+    "code": {
+      "id": "MG53517110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.262",
+      "lon": "45.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517331",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andriandampy",
+      "en": "Andriandampy",
+      "slug": "andriandampy"
+    },
+    "code": {
+      "id": "MG53517331",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.815",
+      "lon": "45.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beampombo I",
+      "en": "Beampombo I",
+      "slug": "beampombo-i"
+    },
+    "code": {
+      "id": "MG53517190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.071",
+      "lon": "45.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beampombo II",
+      "en": "Beampombo II",
+      "slug": "beampombo-ii"
+    },
+    "code": {
+      "id": "MG53517292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.6",
+      "lon": "45.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekorobo",
+      "en": "Bekorobo",
+      "slug": "bekorobo"
+    },
+    "code": {
+      "id": "MG53517250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.835",
+      "lon": "45.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benato Toby",
+      "en": "Benato Toby",
+      "slug": "benato-toby"
+    },
+    "code": {
+      "id": "MG53517150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.057",
+      "lon": "45.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betroka",
+      "en": "Betroka",
+      "slug": "betroka"
+    },
+    "code": {
+      "id": "MG53517010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.342",
+      "lon": "46.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iaborotra",
+      "en": "Iaborotra",
+      "slug": "iaborotra"
+    },
+    "code": {
+      "id": "MG53517270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.223",
+      "lon": "45.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ianabinda",
+      "en": "Ianabinda",
+      "slug": "ianabinda"
+    },
+    "code": {
+      "id": "MG53517130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.53",
+      "lon": "45.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ianakafy",
+      "en": "Ianakafy",
+      "slug": "ianakafy"
+    },
+    "code": {
+      "id": "MG53517310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.319",
+      "lon": "45.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isoanala",
+      "en": "Isoanala",
+      "slug": "isoanala"
+    },
+    "code": {
+      "id": "MG53517291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.906",
+      "lon": "45.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ivahona",
+      "en": "Ivahona",
+      "slug": "ivahona"
+    },
+    "code": {
+      "id": "MG53517090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.447",
+      "lon": "46.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jangany",
+      "en": "Jangany",
+      "slug": "jangany"
+    },
+    "code": {
+      "id": "MG53517210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.845",
+      "lon": "45.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabo",
+      "en": "Mahabo",
+      "slug": "mahabo"
+    },
+    "code": {
+      "id": "MG53517170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.368",
+      "lon": "44.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahasoa Est",
+      "en": "Mahasoa Est",
+      "slug": "mahasoa-est"
+    },
+    "code": {
+      "id": "MG53517230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.439",
+      "lon": "45.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517293",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nanarena Besakoa",
+      "en": "Nanarena Besakoa",
+      "slug": "nanarena-besakoa"
+    },
+    "code": {
+      "id": "MG53517293",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.604",
+      "lon": "45.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Naninora",
+      "en": "Naninora",
+      "slug": "naninora"
+    },
+    "code": {
+      "id": "MG53517050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.263",
+      "lon": "46.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517332",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakamahily",
+      "en": "Sakamahily",
+      "slug": "sakamahily"
+    },
+    "code": {
+      "id": "MG53517332",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.04",
+      "lon": "45.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53517030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaraitso",
+      "en": "Tsaraitso",
+      "slug": "tsaraitso"
+    },
+    "code": {
+      "id": "MG53517030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53517",
+      "level": 2,
+      "name": {
+        "local": "Betroka",
+        "en": "Betroka",
+        "slug": "betroka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53517",
+        "level": 2,
+        "name": {
+          "local": "Betroka",
+          "en": "Betroka",
+          "slug": "betroka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.275",
+      "lon": "46.289"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

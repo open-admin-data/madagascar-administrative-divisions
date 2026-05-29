@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG42413171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimadiro",
+      "en": "Ambodimadiro",
+      "slug": "ambodimadiro"
+    },
+    "code": {
+      "id": "MG42413171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.609",
+      "lon": "48.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanary",
+      "en": "Ambodimanary",
+      "slug": "ambodimanary"
+    },
+    "code": {
+      "id": "MG42413130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.207",
+      "lon": "48.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimandresy",
+      "en": "Ambodimandresy",
+      "slug": "ambodimandresy"
+    },
+    "code": {
+      "id": "MG42413090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.784",
+      "lon": "48.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampandriankilandy",
+      "en": "Ampandriankilandy",
+      "slug": "ampandriankilandy"
+    },
+    "code": {
+      "id": "MG42413051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.959",
+      "lon": "48.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anahidrano",
+      "en": "Anahidrano",
+      "slug": "anahidrano"
+    },
+    "code": {
+      "id": "MG42413070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.08",
+      "lon": "47.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andreba",
+      "en": "Andreba",
+      "slug": "andreba"
+    },
+    "code": {
+      "id": "MG42413172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.603",
+      "lon": "48.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjalazala",
+      "en": "Anjalazala",
+      "slug": "anjalazala"
+    },
+    "code": {
+      "id": "MG42413052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.99",
+      "lon": "48.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjiamangirana",
+      "en": "Anjiamangirana",
+      "slug": "anjiamangirana"
+    },
+    "code": {
+      "id": "MG42413110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.196",
+      "lon": "47.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankerika",
+      "en": "Ankerika",
+      "slug": "ankerika"
+    },
+    "code": {
+      "id": "MG42413030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.899",
+      "lon": "47.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahabe",
+      "en": "Antsahabe",
+      "slug": "antsahabe"
+    },
+    "code": {
+      "id": "MG42413150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.74",
+      "lon": "48.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsohihy",
+      "en": "Antsohihy",
+      "slug": "antsohihy"
+    },
+    "code": {
+      "id": "MG42413010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.884",
+      "lon": "47.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroala",
+      "en": "Maroala",
+      "slug": "maroala"
+    },
+    "code": {
+      "id": "MG42413190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42413",
+      "level": 2,
+      "name": {
+        "local": "Antsohihy",
+        "en": "Antsohihy",
+        "slug": "antsohihy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42413",
+        "level": 2,
+        "name": {
+          "local": "Antsohihy",
+          "en": "Antsohihy",
+          "slug": "antsohihy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.353",
+      "lon": "47.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

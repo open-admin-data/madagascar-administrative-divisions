@@ -1,0 +1,47 @@
+{
+  "id": "MG12118",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antsirabe II",
+    "en": "Antsirabe II",
+    "slug": "antsirabe-ii"
+  },
+  "code": {
+    "id": "MG12118",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG12",
+    "level": 1,
+    "name": {
+      "local": "Vakinankaratra",
+      "en": "Vakinankaratra",
+      "slug": "vakinankaratra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG12",
+      "level": 1,
+      "name": {
+        "local": "Vakinankaratra",
+        "en": "Vakinankaratra",
+        "slug": "vakinankaratra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.841",
+    "lon": "47.204"
+  },
+  "metadata": {},
+  "source": {}
+}

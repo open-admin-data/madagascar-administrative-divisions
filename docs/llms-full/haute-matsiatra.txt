@@ -1,0 +1,395 @@
+# Haute Matsiatra — Madagascar Administrative Divisions
+
+> 7 districts, 88 communes
+> Code: MG21
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambalavao
+
+Code: MG21205, Coordinates: -21.841, 46.737
+Communes: 17
+
+#### Ambalavao
+
+Code: MG21205010, Coordinates: -21.831, 46.937
+
+#### Ambinanindovoka
+
+Code: MG21205190, Coordinates: -21.916, 47.107
+
+#### Ambinaniroa
+
+Code: MG21205212, Coordinates: -21.927, 46.477
+
+#### Ambohimahamasina
+
+Code: MG21205230, Coordinates: -21.969, 47.215
+
+#### Ambohimandroso
+
+Code: MG21205071, Coordinates: -17.605, 48.159
+
+#### Andrainjato
+
+Code: MG21205072, Coordinates: -21.943, 46.991
+
+#### Anjoma
+
+Code: MG21205090, Coordinates: -18.176, 49.395
+
+#### Ankaramena
+
+Code: MG21205211, Coordinates: -25.015, 46.743
+
+#### Besoa
+
+Code: MG21205150, Coordinates: -21.913, 46.787
+
+#### Fenoarivo
+
+Code: MG21205290, Coordinates: -23.1, 47.533
+
+#### Iarintsena
+
+Code: MG21205050, Coordinates: -21.82, 46.74
+
+#### Kirano
+
+Code: MG21205110, Coordinates: -21.819, 47.032
+
+#### Mahazony
+
+Code: MG21205170, Coordinates: -21.988, 47.043
+
+#### Manamisoa
+
+Code: MG21205030, Coordinates: -21.754, 46.944
+
+#### Miarinarivo
+
+Code: MG21205250, Coordinates: -16.665, 48.129
+
+#### Sendrisoa
+
+Code: MG21205130, Coordinates: -22.087, 46.942
+
+#### Vohitsaoka
+
+Code: MG21205270, Coordinates: -22.072, 46.741
+
+### Ambohimahasoa
+
+Code: MG21208, Coordinates: -21.056, 47.146
+Communes: 18
+
+#### Ambalakindresy
+
+Code: MG21208072, Coordinates: -21.122, 47.358
+
+#### Ambatosoa
+
+Code: MG21208190, Coordinates: -20.994, 47.27
+
+#### Ambohimahasoa
+
+Code: MG21208010, Coordinates: -21.092, 47.208
+
+#### Ambohinamboarina
+
+Code: MG21208230, Coordinates: -21.014, 47.019
+
+#### Ampitana
+
+Code: MG21208030, Coordinates: -21.128, 47.21
+
+#### Ankafina Tsarafidy
+
+Code: MG21208090, Coordinates: -21.223, 47.231
+
+#### Ankerana
+
+Code: MG21208050, Coordinates: -21.117, 47.176
+
+#### Befeta
+
+Code: MG21208270, Coordinates: -21.237, 47.067
+
+#### Camp Robin
+
+Code: MG21208252, Coordinates: -20.911, 47.14
+
+#### Fiadanana
+
+Code: MG21208290, Coordinates: -20.425, 48.409
+
+#### Ikalalao
+
+Code: MG21208150, Coordinates: -21.187, 47.128
+
+#### Isaka
+
+Code: MG21208211, Coordinates: -21.134, 47.032
+
+#### Manandroy
+
+Code: MG21208071, Coordinates: -21.121, 47.265
+
+#### Morafeno
+
+Code: MG21208130, Coordinates: -14.371, 50.046
+
+#### Sahatona
+
+Code: MG21208251, Coordinates: -20.948, 47.084
+
+#### Sahave
+
+Code: MG21208110, Coordinates: -21.086, 47.111
+
+#### Vohiposa
+
+Code: MG21208170, Coordinates: -21.004, 47.173
+
+#### Vohitrarivo
+
+Code: MG21208212, Coordinates: -21.053, 46.949
+
+### Fianarantsoa I
+
+Code: MG21201, Coordinates: -21.454, 47.087
+Communes: 7
+
+#### Andrainjato Avaratra
+
+Code: MG21201003, Coordinates: -21.452, 47.117
+
+#### Andrainjato Sud
+
+Code: MG21201004, Coordinates: -21.477, 47.107
+
+#### Lalazana
+
+Code: MG21201006, Coordinates: -21.489, 47.075
+
+#### Manolafaka
+
+Code: MG21201005, Coordinates: -21.415, 47.097
+
+#### Tanana Ambany
+
+Code: MG21201002, Coordinates: -21.442, 47.096
+
+#### Tanana Ambony
+
+Code: MG21201001, Coordinates: -21.461, 47.077
+
+#### Vatosola
+
+Code: MG21201007, Coordinates: -21.443, 47.056
+
+### Ikalamavony
+
+Code: MG21219, Coordinates: -21.226, 46.204
+Communes: 8
+
+#### Ambatomainty
+
+Code: MG21219070, Coordinates: -17.671, 45.685
+
+#### Fitampito
+
+Code: MG21219090, Coordinates: -21.155, 45.997
+
+#### Ikalamavony
+
+Code: MG21219010, Coordinates: -21.179, 46.483
+
+#### Mangidy
+
+Code: MG21219030, Coordinates: -21.162, 46.724
+
+#### Solila
+
+Code: MG21219050, Coordinates: -21.438, 46.606
+
+#### Tanamarina Bekisopa
+
+Code: MG21219150, Coordinates: -21.579, 45.886
+
+#### Tanamarina Sakay
+
+Code: MG21219110, Coordinates: -21.511, 46.545
+
+#### Tsitondroina
+
+Code: MG21219130, Coordinates: -21.436, 46.13
+
+### Isandra
+
+Code: MG21225, Coordinates: -21.25, 46.909
+Communes: 11
+
+#### Ambalamidera II
+
+Code: MG21225090, Coordinates: -21.332, 46.864
+
+#### Ambondrona
+
+Code: MG21225070, Coordinates: -12.777, 49.066
+
+#### Andoharanomaitso
+
+Code: MG21225050, Coordinates: -21.465, 46.914
+
+#### Anjoma Itsara
+
+Code: MG21225030, Coordinates: -21.219, 46.923
+
+#### Ankarinarivo Manirisoa
+
+Code: MG21225110, Coordinates: -21.404, 47.043
+
+#### Fanjakana
+
+Code: MG21225190, Coordinates: -21.732, 45.055
+
+#### Iavonomby Vohibola
+
+Code: MG21225210, Coordinates: -21.346, 47.088
+
+#### Isorana
+
+Code: MG21225010, Coordinates: -21.304, 46.921
+
+#### Mahazoarivo
+
+Code: MG21225170, Coordinates: -22.649, 47.329
+
+#### Nasandratrony
+
+Code: MG21225150, Coordinates: -21.355, 47.015
+
+#### Soatanana
+
+Code: MG21225130, Coordinates: -21.392, 46.93
+
+### Lalangina
+
+Code: MG21220, Coordinates: -21.414, 47.248
+Communes: 13
+
+#### Alakamisy Ambohimaha
+
+Code: MG21220250, Coordinates: -21.299, 47.189
+
+#### Alatsinainy Ialamarina
+
+Code: MG21220350, Coordinates: -21.484, 47.349
+
+#### Ambalakely
+
+Code: MG21220030, Coordinates: -21.393, 47.187
+
+#### Ambalamahasoa
+
+Code: MG21220210, Coordinates: -21.333, 47.124
+
+#### Andrainjato Centre
+
+Code: MG21220011, Coordinates: -21.506, 47.136
+
+#### Andrainjato Est
+
+Code: MG21220012, Coordinates: -21.518, 47.188
+
+#### Androy
+
+Code: MG21220330, Coordinates: -21.331, 47.324
+
+#### Fandrandava
+
+Code: MG21220430, Coordinates: -21.504, 47.244
+
+#### Ialananindro
+
+Code: MG21220630, Coordinates: -21.441, 47.143
+
+#### Ivoamba
+
+Code: MG21220070, Coordinates: -21.386, 47.114
+
+#### Mahatsinjony
+
+Code: MG21220111, Coordinates: -21.408, 47.22
+
+#### Sahambavy
+
+Code: MG21220112, Coordinates: -21.445, 47.294
+
+#### Taindambo
+
+Code: MG21220090, Coordinates: -21.458, 47.18
+
+### Vohibato
+
+Code: MG21224, Coordinates: -21.673, 47.053
+Communes: 14
+
+#### Alakamisy Itenina
+
+Code: MG21224050, Coordinates: -21.661, 47.146
+
+#### Andranomiditra
+
+Code: MG21224230, Coordinates: -21.661, 47.311
+
+#### Andranovorivato
+
+Code: MG21224190, Coordinates: -21.634, 46.974
+
+#### Ankaromalaza Mifanasoa
+
+Code: MG21224110, Coordinates: -21.739, 47.157
+
+#### Ihazoara
+
+Code: MG21224090, Coordinates: -21.584, 47.292
+
+#### Mahaditra
+
+Code: MG21224270, Coordinates: -21.775, 47.091
+
+#### Mahasoabe
+
+Code: MG21224010, Coordinates: -22.273, 47.769
+
+#### Maneva
+
+Code: MG21224150, Coordinates: -21.59, 47.082
+
+#### Soaindrana
+
+Code: MG21224250, Coordinates: -21.498, 47.023
+
+#### Talata Ampano
+
+Code: MG21224070, Coordinates: -21.547, 47.041
+
+#### Vinanitelo
+
+Code: MG21224030, Coordinates: -22.011, 47.701
+
+#### Vohibato Ouest
+
+Code: MG21224210, Coordinates: -21.597, 47.115
+
+#### Vohimarina
+
+Code: MG21224130, Coordinates: -21.618, 46.843
+
+#### Vohitrafeno
+
+Code: MG21224170, Coordinates: -21.697, 47.226
+

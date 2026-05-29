@@ -1,0 +1,47 @@
+{
+  "id": "MG33314",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moramanga",
+    "en": "Moramanga",
+    "slug": "moramanga"
+  },
+  "code": {
+    "id": "MG33314",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG33",
+    "level": 1,
+    "name": {
+      "local": "Alaotra Mangoro",
+      "en": "Alaotra Mangoro",
+      "slug": "alaotra-mangoro"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG33",
+      "level": 1,
+      "name": {
+        "local": "Alaotra Mangoro",
+        "en": "Alaotra Mangoro",
+        "slug": "alaotra-mangoro"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.729",
+    "lon": "48.305"
+  },
+  "metadata": {},
+  "source": {}
+}

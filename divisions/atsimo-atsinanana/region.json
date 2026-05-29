@@ -1,0 +1,30 @@
+{
+  "id": "MG25",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Atsimo Atsinanana",
+    "en": "Atsimo Atsinanana",
+    "slug": "atsimo-atsinanana"
+  },
+  "code": {
+    "id": "MG25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.977",
+    "lon": "48.584"
+  },
+  "metadata": {},
+  "source": {}
+}

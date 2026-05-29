@@ -1,0 +1,662 @@
+[
+  {
+    "id": "MG11",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Analamanga",
+      "en": "Analamanga",
+      "slug": "analamanga"
+    },
+    "code": {
+      "id": "MG11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "commune": 139
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.604",
+      "lon": "47.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Vakinankaratra",
+      "en": "Vakinankaratra",
+      "slug": "vakinankaratra"
+    },
+    "code": {
+      "id": "MG12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 91
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.709",
+      "lon": "46.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Itasy",
+      "en": "Itasy",
+      "slug": "itasy"
+    },
+    "code": {
+      "id": "MG13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "commune": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.056",
+      "lon": "46.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG14",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Bongolava",
+      "en": "Bongolava",
+      "slug": "bongolava"
+    },
+    "code": {
+      "id": "MG14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 2,
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.592",
+      "lon": "46.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    },
+    "code": {
+      "id": "MG21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Amoron I Mania",
+      "en": "Amoron I Mania",
+      "slug": "amoron-i-mania"
+    },
+    "code": {
+      "id": "MG22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "commune": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.459",
+      "lon": "46.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Vatovavy Fitovinany",
+      "en": "Vatovavy Fitovinany",
+      "slug": "vatovavy-fitovinany"
+    },
+    "code": {
+      "id": "MG23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "commune": 139
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.287",
+      "lon": "47.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ihorombe",
+      "en": "Ihorombe",
+      "slug": "ihorombe"
+    },
+    "code": {
+      "id": "MG24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "commune": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.634",
+      "lon": "46.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Atsimo Atsinanana",
+      "en": "Atsimo Atsinanana",
+      "slug": "atsimo-atsinanana"
+    },
+    "code": {
+      "id": "MG25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.977",
+      "lon": "48.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Atsinanana",
+      "en": "Atsinanana",
+      "slug": "atsinanana"
+    },
+    "code": {
+      "id": "MG31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.977",
+      "lon": "48.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Analanjirofo",
+      "en": "Analanjirofo",
+      "slug": "analanjirofo"
+    },
+    "code": {
+      "id": "MG32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "commune": 63
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.316",
+      "lon": "49.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Alaotra Mangoro",
+      "en": "Alaotra Mangoro",
+      "slug": "alaotra-mangoro"
+    },
+    "code": {
+      "id": "MG33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.009",
+      "lon": "48.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Boeny",
+      "en": "Boeny",
+      "slug": "boeny"
+    },
+    "code": {
+      "id": "MG41",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "commune": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.238",
+      "lon": "46.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sofia",
+      "en": "Sofia",
+      "slug": "sofia"
+    },
+    "code": {
+      "id": "MG42",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "commune": 108
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.282",
+      "lon": "48.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG43",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Betsiboka",
+      "en": "Betsiboka",
+      "slug": "betsiboka"
+    },
+    "code": {
+      "id": "MG43",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "commune": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.095",
+      "lon": "46.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Melaky",
+      "en": "Melaky",
+      "slug": "melaky"
+    },
+    "code": {
+      "id": "MG44",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.755",
+      "lon": "44.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    },
+    "code": {
+      "id": "MG51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "commune": 110
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.977",
+      "lon": "48.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Androy",
+      "en": "Androy",
+      "slug": "androy"
+    },
+    "code": {
+      "id": "MG52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "commune": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.687",
+      "lon": "45.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Anosy",
+      "en": "Anosy",
+      "slug": "anosy"
+    },
+    "code": {
+      "id": "MG53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "commune": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.937",
+      "lon": "46.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Menabe",
+      "en": "Menabe",
+      "slug": "menabe"
+    },
+    "code": {
+      "id": "MG54",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.036",
+      "lon": "44.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Diana",
+      "en": "Diana",
+      "slug": "diana"
+    },
+    "code": {
+      "id": "MG71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "commune": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.109",
+      "lon": "48.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72",
+    "level": 1,
+    "level_name": {
+      "local": "Faritra",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Sava",
+      "en": "Sava",
+      "slug": "sava"
+    },
+    "code": {
+      "id": "MG72",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "commune": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.368",
+      "lon": "49.775"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

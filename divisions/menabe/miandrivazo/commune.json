@@ -1,0 +1,812 @@
+[
+  {
+    "id": "MG54511091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolahy",
+      "en": "Ambatolahy",
+      "slug": "ambatolahy"
+    },
+    "code": {
+      "id": "MG54511091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.028",
+      "lon": "45.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanihy",
+      "en": "Ampanihy",
+      "slug": "ampanihy"
+    },
+    "code": {
+      "id": "MG54511032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.469",
+      "lon": "45.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankavandra",
+      "en": "Ankavandra",
+      "slug": "ankavandra"
+    },
+    "code": {
+      "id": "MG54511130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.818",
+      "lon": "45.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankondromena",
+      "en": "Ankondromena",
+      "slug": "ankondromena"
+    },
+    "code": {
+      "id": "MG54511210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.401",
+      "lon": "44.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankotrofotsy",
+      "en": "Ankotrofotsy",
+      "slug": "ankotrofotsy"
+    },
+    "code": {
+      "id": "MG54511071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.831",
+      "lon": "45.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosimena",
+      "en": "Anosimena",
+      "slug": "anosimena"
+    },
+    "code": {
+      "id": "MG54511033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.635",
+      "lon": "45.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemahatazana",
+      "en": "Bemahatazana",
+      "slug": "bemahatazana"
+    },
+    "code": {
+      "id": "MG54511031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.57",
+      "lon": "45.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsipolitra",
+      "en": "Betsipolitra",
+      "slug": "betsipolitra"
+    },
+    "code": {
+      "id": "MG54511170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.699",
+      "lon": "45.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dabolava",
+      "en": "Dabolava",
+      "slug": "dabolava"
+    },
+    "code": {
+      "id": "MG54511012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.662",
+      "lon": "45.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isalo",
+      "en": "Isalo",
+      "slug": "isalo"
+    },
+    "code": {
+      "id": "MG54511072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.78",
+      "lon": "45.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itondy",
+      "en": "Itondy",
+      "slug": "itondy"
+    },
+    "code": {
+      "id": "MG54511110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.064",
+      "lon": "45.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambina",
+      "en": "Manambina",
+      "slug": "manambina"
+    },
+    "code": {
+      "id": "MG54511092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.069",
+      "lon": "45.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manandaza",
+      "en": "Manandaza",
+      "slug": "manandaza"
+    },
+    "code": {
+      "id": "MG54511050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.298",
+      "lon": "45.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miandrivazo",
+      "en": "Miandrivazo",
+      "slug": "miandrivazo"
+    },
+    "code": {
+      "id": "MG54511011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.541",
+      "lon": "45.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54511150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soaloka",
+      "en": "Soaloka",
+      "slug": "soaloka"
+    },
+    "code": {
+      "id": "MG54511150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54511",
+      "level": 2,
+      "name": {
+        "local": "Miandrivazo",
+        "en": "Miandrivazo",
+        "slug": "miandrivazo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54511",
+        "level": 2,
+        "name": {
+          "local": "Miandrivazo",
+          "en": "Miandrivazo",
+          "slug": "miandrivazo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.434",
+      "lon": "45.322"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

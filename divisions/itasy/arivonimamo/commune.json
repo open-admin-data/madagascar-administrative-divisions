@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "MG13105213",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisikely",
+      "en": "Alakamisikely",
+      "slug": "alakamisikely"
+    },
+    "code": {
+      "id": "MG13105213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.22",
+      "lon": "47.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomanga",
+      "en": "Ambatomanga",
+      "slug": "ambatomanga"
+    },
+    "code": {
+      "id": "MG13105190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.797",
+      "lon": "47.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomirahavavy",
+      "en": "Ambatomirahavavy",
+      "slug": "ambatomirahavavy"
+    },
+    "code": {
+      "id": "MG13105170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.968",
+      "lon": "47.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboanana",
+      "en": "Amboanana",
+      "slug": "amboanana"
+    },
+    "code": {
+      "id": "MG13105090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.18",
+      "lon": "47.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimandry",
+      "en": "Ambohimandry",
+      "slug": "ambohimandry"
+    },
+    "code": {
+      "id": "MG13105230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.085",
+      "lon": "47.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimasina",
+      "en": "Ambohimasina",
+      "slug": "ambohimasina"
+    },
+    "code": {
+      "id": "MG13105270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.823",
+      "lon": "47.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohipandrano",
+      "en": "Ambohipandrano",
+      "slug": "ambohipandrano"
+    },
+    "code": {
+      "id": "MG13105291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.159",
+      "lon": "47.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitrambo",
+      "en": "Ambohitrambo",
+      "slug": "ambohitrambo"
+    },
+    "code": {
+      "id": "MG13105050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.906",
+      "lon": "47.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampahimanga",
+      "en": "Ampahimanga",
+      "slug": "ampahimanga"
+    },
+    "code": {
+      "id": "MG13105070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.112",
+      "lon": "47.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antambolo",
+      "en": "Antambolo",
+      "slug": "antambolo"
+    },
+    "code": {
+      "id": "MG13105250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.841",
+      "lon": "47.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antenimbe",
+      "en": "Antenimbe",
+      "slug": "antenimbe"
+    },
+    "code": {
+      "id": "MG13105212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.206",
+      "lon": "47.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arivonimamo I",
+      "en": "Arivonimamo I",
+      "slug": "arivonimamo-i"
+    },
+    "code": {
+      "id": "MG13105010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.018",
+      "lon": "47.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arivonimamo II",
+      "en": "Arivonimamo II",
+      "slug": "arivonimamo-ii"
+    },
+    "code": {
+      "id": "MG13105030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.006",
+      "lon": "47.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imerintsiatosika",
+      "en": "Imerintsiatosika",
+      "slug": "imerintsiatosika"
+    },
+    "code": {
+      "id": "MG13105130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.011",
+      "lon": "47.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105214",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsinjo Est",
+      "en": "Mahatsinjo Est",
+      "slug": "mahatsinjo-est"
+    },
+    "code": {
+      "id": "MG13105214",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.283",
+      "lon": "47.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manalalondo",
+      "en": "Manalalondo",
+      "slug": "manalalondo"
+    },
+    "code": {
+      "id": "MG13105211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.267",
+      "lon": "47.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105215",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marofangady",
+      "en": "Marofangady",
+      "slug": "marofangady"
+    },
+    "code": {
+      "id": "MG13105215",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.319",
+      "lon": "47.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miandrandra",
+      "en": "Miandrandra",
+      "slug": "miandrandra"
+    },
+    "code": {
+      "id": "MG13105292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.207",
+      "lon": "47.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miantsoarivo",
+      "en": "Miantsoarivo",
+      "slug": "miantsoarivo"
+    },
+    "code": {
+      "id": "MG13105310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.206",
+      "lon": "47.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG13105110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morarano",
+      "en": "Morarano",
+      "slug": "morarano"
+    },
+    "code": {
+      "id": "MG13105150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.158",
+      "lon": "49.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG13105216",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rambolamasoandro Andranomiely",
+      "en": "Rambolamasoandro Andranomiely",
+      "slug": "rambolamasoandro-andranomiely"
+    },
+    "code": {
+      "id": "MG13105216",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG13105",
+      "level": 2,
+      "name": {
+        "local": "Arivonimamo",
+        "en": "Arivonimamo",
+        "slug": "arivonimamo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG13",
+        "level": 1,
+        "name": {
+          "local": "Itasy",
+          "en": "Itasy",
+          "slug": "itasy"
+        }
+      },
+      {
+        "id": "MG13105",
+        "level": 2,
+        "name": {
+          "local": "Arivonimamo",
+          "en": "Arivonimamo",
+          "slug": "arivonimamo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.33",
+      "lon": "47.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

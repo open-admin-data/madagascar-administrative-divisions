@@ -1,0 +1,30 @@
+{
+  "id": "MG33",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Alaotra Mangoro",
+    "en": "Alaotra Mangoro",
+    "slug": "alaotra-mangoro"
+  },
+  "code": {
+    "id": "MG33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "commune": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.009",
+    "lon": "48.362"
+  },
+  "metadata": {},
+  "source": {}
+}

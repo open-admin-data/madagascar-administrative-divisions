@@ -1,0 +1,47 @@
+{
+  "id": "MG44422",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Morafenobe",
+    "en": "Morafenobe",
+    "slug": "morafenobe"
+  },
+  "code": {
+    "id": "MG44422",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG44",
+    "level": 1,
+    "name": {
+      "local": "Melaky",
+      "en": "Melaky",
+      "slug": "melaky"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.912",
+    "lon": "45.014"
+  },
+  "metadata": {},
+  "source": {}
+}

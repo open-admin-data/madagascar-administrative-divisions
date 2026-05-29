@@ -1,0 +1,47 @@
+{
+  "id": "MG41401",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mahajanga I",
+    "en": "Mahajanga I",
+    "slug": "mahajanga-i"
+  },
+  "code": {
+    "id": "MG41401",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG41",
+    "level": 1,
+    "name": {
+      "local": "Boeny",
+      "en": "Boeny",
+      "slug": "boeny"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG41",
+      "level": 1,
+      "name": {
+        "local": "Boeny",
+        "en": "Boeny",
+        "slug": "boeny"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.68",
+    "lon": "46.344"
+  },
+  "metadata": {},
+  "source": {}
+}

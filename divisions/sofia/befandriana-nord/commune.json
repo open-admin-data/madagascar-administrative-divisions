@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG42412150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambararata",
+      "en": "Ambararata",
+      "slug": "ambararata"
+    },
+    "code": {
+      "id": "MG42412150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.025",
+      "lon": "48.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimotso Sud",
+      "en": "Ambodimotso Sud",
+      "slug": "ambodimotso-sud"
+    },
+    "code": {
+      "id": "MG42412050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.41",
+      "lon": "48.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolidibe Est",
+      "en": "Ambolidibe Est",
+      "slug": "ambolidibe-est"
+    },
+    "code": {
+      "id": "MG42412170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.026",
+      "lon": "48.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarongana",
+      "en": "Ankarongana",
+      "slug": "ankarongana"
+    },
+    "code": {
+      "id": "MG42412190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.694",
+      "lon": "49.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsakabary",
+      "en": "Antsakabary",
+      "slug": "antsakabary"
+    },
+    "code": {
+      "id": "MG42412210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.136",
+      "lon": "49.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsakanalabe",
+      "en": "Antsakanalabe",
+      "slug": "antsakanalabe"
+    },
+    "code": {
+      "id": "MG42412130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.401",
+      "lon": "48.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befandriana Nord",
+      "en": "Befandriana Nord",
+      "slug": "befandriana-nord"
+    },
+    "code": {
+      "id": "MG42412010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.257",
+      "lon": "48.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroamalona",
+      "en": "Maroamalona",
+      "slug": "maroamalona"
+    },
+    "code": {
+      "id": "MG42412090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.331",
+      "lon": "48.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matsondakana",
+      "en": "Matsondakana",
+      "slug": "matsondakana"
+    },
+    "code": {
+      "id": "MG42412230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.904",
+      "lon": "49.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG42412030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarahonenana",
+      "en": "Tsarahonenana",
+      "slug": "tsarahonenana"
+    },
+    "code": {
+      "id": "MG42412110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.507",
+      "lon": "48.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiamalao",
+      "en": "Tsiamalao",
+      "slug": "tsiamalao"
+    },
+    "code": {
+      "id": "MG42412070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42412",
+      "level": 2,
+      "name": {
+        "local": "Befandriana Nord",
+        "en": "Befandriana Nord",
+        "slug": "befandriana-nord"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42412",
+        "level": 2,
+        "name": {
+          "local": "Befandriana Nord",
+          "en": "Befandriana Nord",
+          "slug": "befandriana-nord"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.02",
+      "lon": "48.438"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

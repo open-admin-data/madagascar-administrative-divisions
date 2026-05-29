@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG23207031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahy",
+      "en": "Ambahy",
+      "slug": "ambahy"
+    },
+    "code": {
+      "id": "MG23207031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.752",
+      "lon": "48.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207113",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambakobe",
+      "en": "Ambakobe",
+      "slug": "ambakobe"
+    },
+    "code": {
+      "id": "MG23207113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.681",
+      "lon": "48.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodiara",
+      "en": "Ambodiara",
+      "slug": "ambodiara"
+    },
+    "code": {
+      "id": "MG23207192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.649",
+      "lon": "47.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodilafa",
+      "en": "Ambodilafa",
+      "slug": "ambodilafa"
+    },
+    "code": {
+      "id": "MG23207151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.479",
+      "lon": "48.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodirian'i Sahafary",
+      "en": "Ambodirian'i Sahafary",
+      "slug": "ambodiriani-sahafary"
+    },
+    "code": {
+      "id": "MG23207052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.496",
+      "lon": "48.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasinambo",
+      "en": "Ampasinambo",
+      "slug": "ampasinambo"
+    },
+    "code": {
+      "id": "MG23207171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.51",
+      "lon": "47.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andara",
+      "en": "Andara",
+      "slug": "andara"
+    },
+    "code": {
+      "id": "MG23207032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.797",
+      "lon": "48.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androrangavola",
+      "en": "Androrangavola",
+      "slug": "androrangavola"
+    },
+    "code": {
+      "id": "MG23207152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.111",
+      "lon": "47.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207173",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Angodongodona",
+      "en": "Angodongodona",
+      "slug": "angodongodona"
+    },
+    "code": {
+      "id": "MG23207173",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.526",
+      "lon": "47.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambao",
+      "en": "Antanambao",
+      "slug": "antanambao"
+    },
+    "code": {
+      "id": "MG23207172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.547",
+      "lon": "47.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befody",
+      "en": "Befody",
+      "slug": "befody"
+    },
+    "code": {
+      "id": "MG23207191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.754",
+      "lon": "47.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiadanana",
+      "en": "Fiadanana",
+      "slug": "fiadanana"
+    },
+    "code": {
+      "id": "MG23207051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nosy Varika",
+      "en": "Nosy Varika",
+      "slug": "nosy-varika"
+    },
+    "code": {
+      "id": "MG23207010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.536",
+      "lon": "48.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahavato",
+      "en": "Sahavato",
+      "slug": "sahavato"
+    },
+    "code": {
+      "id": "MG23207070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.576",
+      "lon": "48.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavina",
+      "en": "Soavina",
+      "slug": "soavina"
+    },
+    "code": {
+      "id": "MG23207130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.364",
+      "lon": "48.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohidroa",
+      "en": "Vohidroa",
+      "slug": "vohidroa"
+    },
+    "code": {
+      "id": "MG23207112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.676",
+      "lon": "48.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilava",
+      "en": "Vohilava",
+      "slug": "vohilava"
+    },
+    "code": {
+      "id": "MG23207090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.78",
+      "lon": "47.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23207111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitrandriana",
+      "en": "Vohitrandriana",
+      "slug": "vohitrandriana"
+    },
+    "code": {
+      "id": "MG23207111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23207",
+      "level": 2,
+      "name": {
+        "local": "Nosy-Varika",
+        "en": "Nosy-Varika",
+        "slug": "nosy-varika"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23207",
+        "level": 2,
+        "name": {
+          "local": "Nosy-Varika",
+          "en": "Nosy-Varika",
+          "slug": "nosy-varika"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.755",
+      "lon": "48.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

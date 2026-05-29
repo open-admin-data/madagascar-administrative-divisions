@@ -1,0 +1,47 @@
+{
+  "id": "MG53515",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taolagnaro",
+    "en": "Taolagnaro",
+    "slug": "taolagnaro"
+  },
+  "code": {
+    "id": "MG53515",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG53",
+    "level": 1,
+    "name": {
+      "local": "Anosy",
+      "en": "Anosy",
+      "slug": "anosy"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG53",
+      "level": 1,
+      "name": {
+        "local": "Anosy",
+        "en": "Anosy",
+        "slug": "anosy"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.588",
+    "lon": "46.948"
+  },
+  "metadata": {},
+  "source": {}
+}

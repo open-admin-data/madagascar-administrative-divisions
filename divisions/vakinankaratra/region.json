@@ -1,0 +1,30 @@
+{
+  "id": "MG12",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Vakinankaratra",
+    "en": "Vakinankaratra",
+    "slug": "vakinankaratra"
+  },
+  "code": {
+    "id": "MG12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 91
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.709",
+    "lon": "46.814"
+  },
+  "metadata": {},
+  "source": {}
+}

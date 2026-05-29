@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG32303112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambanizana",
+      "en": "Ambanizana",
+      "slug": "ambanizana"
+    },
+    "code": {
+      "id": "MG32303112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.592",
+      "lon": "49.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanitelo",
+      "en": "Ambinanitelo",
+      "slug": "ambinanitelo"
+    },
+    "code": {
+      "id": "MG32303090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.117",
+      "lon": "49.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303154",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanga Rantabe",
+      "en": "Ambodimanga Rantabe",
+      "slug": "ambodimanga-rantabe"
+    },
+    "code": {
+      "id": "MG32303154",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.576",
+      "lon": "49.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303155",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anandrivola",
+      "en": "Anandrivola",
+      "slug": "anandrivola"
+    },
+    "code": {
+      "id": "MG32303155",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.816",
+      "lon": "49.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranofotsy",
+      "en": "Andranofotsy",
+      "slug": "andranofotsy"
+    },
+    "code": {
+      "id": "MG32303051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.391",
+      "lon": "49.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303153",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androndrono",
+      "en": "Androndrono",
+      "slug": "androndrono"
+    },
+    "code": {
+      "id": "MG32303153",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.699",
+      "lon": "49.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjahana",
+      "en": "Anjahana",
+      "slug": "anjahana"
+    },
+    "code": {
+      "id": "MG32303111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.349",
+      "lon": "49.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjanazana",
+      "en": "Anjanazana",
+      "slug": "anjanazana"
+    },
+    "code": {
+      "id": "MG32303031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.411",
+      "lon": "49.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankofa",
+      "en": "Ankofa",
+      "slug": "ankofa"
+    },
+    "code": {
+      "id": "MG32303070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.404",
+      "lon": "49.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankofabe",
+      "en": "Ankofabe",
+      "slug": "ankofabe"
+    },
+    "code": {
+      "id": "MG32303132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.485",
+      "lon": "49.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antakotako",
+      "en": "Antakotako",
+      "slug": "antakotako"
+    },
+    "code": {
+      "id": "MG32303052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.22",
+      "lon": "49.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303133",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsirabe Sahatany",
+      "en": "Antsirabe Sahatany",
+      "slug": "antsirabe-sahatany"
+    },
+    "code": {
+      "id": "MG32303133",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.366",
+      "lon": "49.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303113",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahalevona",
+      "en": "Mahalevona",
+      "slug": "mahalevona"
+    },
+    "code": {
+      "id": "MG32303113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.408",
+      "lon": "49.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambolo",
+      "en": "Manambolo",
+      "slug": "manambolo"
+    },
+    "code": {
+      "id": "MG32303032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.128",
+      "lon": "49.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maroantsetra",
+      "en": "Maroantsetra",
+      "slug": "maroantsetra"
+    },
+    "code": {
+      "id": "MG32303010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.431",
+      "lon": "49.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG32303152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rantabe",
+      "en": "Rantabe",
+      "slug": "rantabe"
+    },
+    "code": {
+      "id": "MG32303151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.694",
+      "lon": "49.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Voloina",
+      "en": "Voloina",
+      "slug": "voloina"
+    },
+    "code": {
+      "id": "MG32303131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32303",
+      "level": 2,
+      "name": {
+        "local": "Maroantsetra",
+        "en": "Maroantsetra",
+        "slug": "maroantsetra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32303",
+        "level": 2,
+        "name": {
+          "local": "Maroantsetra",
+          "en": "Maroantsetra",
+          "slug": "maroantsetra"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.568",
+      "lon": "49.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

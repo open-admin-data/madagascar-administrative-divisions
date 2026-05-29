@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG21219070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomainty",
+      "en": "Ambatomainty",
+      "slug": "ambatomainty"
+    },
+    "code": {
+      "id": "MG21219070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.671",
+      "lon": "45.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fitampito",
+      "en": "Fitampito",
+      "slug": "fitampito"
+    },
+    "code": {
+      "id": "MG21219090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.155",
+      "lon": "45.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ikalamavony",
+      "en": "Ikalamavony",
+      "slug": "ikalamavony"
+    },
+    "code": {
+      "id": "MG21219010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.179",
+      "lon": "46.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangidy",
+      "en": "Mangidy",
+      "slug": "mangidy"
+    },
+    "code": {
+      "id": "MG21219030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.162",
+      "lon": "46.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Solila",
+      "en": "Solila",
+      "slug": "solila"
+    },
+    "code": {
+      "id": "MG21219050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.438",
+      "lon": "46.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanamarina Bekisopa",
+      "en": "Tanamarina Bekisopa",
+      "slug": "tanamarina-bekisopa"
+    },
+    "code": {
+      "id": "MG21219150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.579",
+      "lon": "45.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanamarina Sakay",
+      "en": "Tanamarina Sakay",
+      "slug": "tanamarina-sakay"
+    },
+    "code": {
+      "id": "MG21219110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.511",
+      "lon": "46.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21219130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsitondroina",
+      "en": "Tsitondroina",
+      "slug": "tsitondroina"
+    },
+    "code": {
+      "id": "MG21219130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21219",
+      "level": 2,
+      "name": {
+        "local": "Ikalamavony",
+        "en": "Ikalamavony",
+        "slug": "ikalamavony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21219",
+        "level": 2,
+        "name": {
+          "local": "Ikalamavony",
+          "en": "Ikalamavony",
+          "slug": "ikalamavony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.436",
+      "lon": "46.13"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

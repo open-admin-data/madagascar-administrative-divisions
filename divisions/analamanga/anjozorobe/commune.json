@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG11107170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy",
+      "en": "Alakamisy",
+      "slug": "alakamisy"
+    },
+    "code": {
+      "id": "MG11107170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.765",
+      "lon": "46.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomanoina",
+      "en": "Ambatomanoina",
+      "slug": "ambatomanoina"
+    },
+    "code": {
+      "id": "MG11107230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.331",
+      "lon": "47.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboasary Nord",
+      "en": "Amboasary Nord",
+      "slug": "amboasary-nord"
+    },
+    "code": {
+      "id": "MG11107270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.099",
+      "lon": "47.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohibary Vohilena",
+      "en": "Ambohibary Vohilena",
+      "slug": "ambohibary-vohilena"
+    },
+    "code": {
+      "id": "MG11107310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.129",
+      "lon": "47.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanarina Marovazaha",
+      "en": "Ambohimanarina Marovazaha",
+      "slug": "ambohimanarina-marovazaha"
+    },
+    "code": {
+      "id": "MG11107130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.227",
+      "lon": "47.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimirary",
+      "en": "Ambohimirary",
+      "slug": "ambohimirary"
+    },
+    "code": {
+      "id": "MG11107330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.303",
+      "lon": "47.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107099",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambongamarina",
+      "en": "Ambongamarina",
+      "slug": "ambongamarina"
+    },
+    "code": {
+      "id": "MG11107099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.368",
+      "lon": "47.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparatanjona",
+      "en": "Amparatanjona",
+      "slug": "amparatanjona"
+    },
+    "code": {
+      "id": "MG11107250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.015",
+      "lon": "47.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analaroa",
+      "en": "Analaroa",
+      "slug": "analaroa"
+    },
+    "code": {
+      "id": "MG11107190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.421",
+      "lon": "47.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androvakely",
+      "en": "Androvakely",
+      "slug": "androvakely"
+    },
+    "code": {
+      "id": "MG11107290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.416",
+      "lon": "47.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107019",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjozorobe",
+      "en": "Anjozorobe",
+      "slug": "anjozorobe"
+    },
+    "code": {
+      "id": "MG11107019",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.41",
+      "lon": "47.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanetibe",
+      "en": "Antanetibe",
+      "slug": "antanetibe"
+    },
+    "code": {
+      "id": "MG11107211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.144",
+      "lon": "46.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belanitra",
+      "en": "Belanitra",
+      "slug": "belanitra"
+    },
+    "code": {
+      "id": "MG11107212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.784",
+      "lon": "47.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107370",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beronono",
+      "en": "Beronono",
+      "slug": "beronono"
+    },
+    "code": {
+      "id": "MG11107370",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.982",
+      "lon": "45.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betatao",
+      "en": "Betatao",
+      "slug": "betatao"
+    },
+    "code": {
+      "id": "MG11107150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.168",
+      "lon": "47.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangamila",
+      "en": "Mangamila",
+      "slug": "mangamila"
+    },
+    "code": {
+      "id": "MG11107070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.552",
+      "lon": "47.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotsipoy",
+      "en": "Marotsipoy",
+      "slug": "marotsipoy"
+    },
+    "code": {
+      "id": "MG11107350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.903",
+      "lon": "47.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11107110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarasaotra",
+      "en": "Tsarasaotra",
+      "slug": "tsarasaotra"
+    },
+    "code": {
+      "id": "MG11107110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11107",
+      "level": 2,
+      "name": {
+        "local": "Anjozorobe",
+        "en": "Anjozorobe",
+        "slug": "anjozorobe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11107",
+        "level": 2,
+        "name": {
+          "local": "Anjozorobe",
+          "en": "Anjozorobe",
+          "slug": "anjozorobe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.429",
+      "lon": "47.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG72716130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalasatrana",
+      "en": "Ambalasatrana",
+      "slug": "ambalasatrana"
+    },
+    "code": {
+      "id": "MG72716130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.704",
+      "lon": "49.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanin'andravory",
+      "en": "Ambinanin'andravory",
+      "slug": "ambinaninandravory"
+    },
+    "code": {
+      "id": "MG72716250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.851",
+      "lon": "49.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodisambalahy",
+      "en": "Ambodisambalahy",
+      "slug": "ambodisambalahy"
+    },
+    "code": {
+      "id": "MG72716232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.861",
+      "lon": "49.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboriala",
+      "en": "Amboriala",
+      "slug": "amboriala"
+    },
+    "code": {
+      "id": "MG72716270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.855",
+      "lon": "49.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanefena",
+      "en": "Ampanefena",
+      "slug": "ampanefena"
+    },
+    "code": {
+      "id": "MG72716231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.864",
+      "lon": "49.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampisikinana",
+      "en": "Ampisikinana",
+      "slug": "ampisikinana"
+    },
+    "code": {
+      "id": "MG72716330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.921",
+      "lon": "49.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampondra",
+      "en": "Ampondra",
+      "slug": "ampondra"
+    },
+    "code": {
+      "id": "MG72716030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.369",
+      "lon": "49.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrafainkona",
+      "en": "Andrafainkona",
+      "slug": "andrafainkona"
+    },
+    "code": {
+      "id": "MG72716210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.669",
+      "lon": "49.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andravory",
+      "en": "Andravory",
+      "slug": "andravory"
+    },
+    "code": {
+      "id": "MG72716190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.848",
+      "lon": "49.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsirabe Nord",
+      "en": "Antsirabe Nord",
+      "slug": "antsirabe-nord"
+    },
+    "code": {
+      "id": "MG72716310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.03",
+      "lon": "49.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belambo",
+      "en": "Belambo",
+      "slug": "belambo"
+    },
+    "code": {
+      "id": "MG72716350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.978",
+      "lon": "49.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bobakindro",
+      "en": "Bobakindro",
+      "slug": "bobakindro"
+    },
+    "code": {
+      "id": "MG72716090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.512",
+      "lon": "49.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Daraina",
+      "en": "Daraina",
+      "slug": "daraina"
+    },
+    "code": {
+      "id": "MG72716110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.266",
+      "lon": "49.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fanambana",
+      "en": "Fanambana",
+      "slug": "fanambana"
+    },
+    "code": {
+      "id": "MG72716050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.594",
+      "lon": "49.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromokotra Loky",
+      "en": "Maromokotra Loky",
+      "slug": "maromokotra-loky"
+    },
+    "code": {
+      "id": "MG72716290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.063",
+      "lon": "49.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Milanoa",
+      "en": "Milanoa",
+      "slug": "milanoa"
+    },
+    "code": {
+      "id": "MG72716070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.581",
+      "lon": "49.713"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nosibe",
+      "en": "Nosibe",
+      "slug": "nosibe"
+    },
+    "code": {
+      "id": "MG72716170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.168",
+      "lon": "49.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarabaria",
+      "en": "Tsarabaria",
+      "slug": "tsarabaria"
+    },
+    "code": {
+      "id": "MG72716150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.752",
+      "lon": "49.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72716010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohemar",
+      "en": "Vohemar",
+      "slug": "vohemar"
+    },
+    "code": {
+      "id": "MG72716010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72716",
+      "level": 2,
+      "name": {
+        "local": "Vohemar",
+        "en": "Vohemar",
+        "slug": "vohemar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72716",
+        "level": 2,
+        "name": {
+          "local": "Vohemar",
+          "en": "Vohemar",
+          "slug": "vohemar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.374",
+      "lon": "50"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

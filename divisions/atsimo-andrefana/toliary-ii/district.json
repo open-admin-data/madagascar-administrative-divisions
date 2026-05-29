@@ -1,0 +1,47 @@
+{
+  "id": "MG51520",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toliary-II",
+    "en": "Toliary-II",
+    "slug": "toliary-ii"
+  },
+  "code": {
+    "id": "MG51520",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-23.281",
+    "lon": "43.808"
+  },
+  "metadata": {},
+  "source": {}
+}

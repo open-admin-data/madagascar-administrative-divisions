@@ -1,0 +1,866 @@
+[
+  {
+    "id": "MG72710170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalabe",
+      "en": "Ambalabe",
+      "slug": "ambalabe"
+    },
+    "code": {
+      "id": "MG72710170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.19",
+      "lon": "50.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambinanifaho",
+      "en": "Ambinanifaho",
+      "slug": "ambinanifaho"
+    },
+    "code": {
+      "id": "MG72710190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.639",
+      "lon": "50.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitralanana",
+      "en": "Ambohitralanana",
+      "slug": "ambohitralanana"
+    },
+    "code": {
+      "id": "MG72710210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.362",
+      "lon": "50.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampahana",
+      "en": "Ampahana",
+      "slug": "ampahana"
+    },
+    "code": {
+      "id": "MG72710030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.717",
+      "lon": "50.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710272",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanavoana",
+      "en": "Ampanavoana",
+      "slug": "ampanavoana"
+    },
+    "code": {
+      "id": "MG72710272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.578",
+      "lon": "50.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampohibe",
+      "en": "Ampohibe",
+      "slug": "ampohibe"
+    },
+    "code": {
+      "id": "MG72710050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.059",
+      "lon": "50.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andampy",
+      "en": "Andampy",
+      "slug": "andampy"
+    },
+    "code": {
+      "id": "MG72710152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.94",
+      "lon": "49.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antalaha Ambonivohitra",
+      "en": "Antalaha Ambonivohitra",
+      "slug": "antalaha-ambonivohitra"
+    },
+    "code": {
+      "id": "MG72710010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.906",
+      "lon": "50.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antananambo",
+      "en": "Antananambo",
+      "slug": "antananambo"
+    },
+    "code": {
+      "id": "MG72710110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.916",
+      "lon": "50.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antombana",
+      "en": "Antombana",
+      "slug": "antombana"
+    },
+    "code": {
+      "id": "MG72710070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.007",
+      "lon": "50.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahanoro",
+      "en": "Antsahanoro",
+      "slug": "antsahanoro"
+    },
+    "code": {
+      "id": "MG72710090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.815",
+      "lon": "50.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsambalahy",
+      "en": "Antsambalahy",
+      "slug": "antsambalahy"
+    },
+    "code": {
+      "id": "MG72710250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.734",
+      "lon": "49.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lanjarivo",
+      "en": "Lanjarivo",
+      "slug": "lanjarivo"
+    },
+    "code": {
+      "id": "MG72710230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.608",
+      "lon": "50.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marofinaritra",
+      "en": "Marofinaritra",
+      "slug": "marofinaritra"
+    },
+    "code": {
+      "id": "MG72710130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.22",
+      "lon": "50.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarahandrano",
+      "en": "Sarahandrano",
+      "slug": "sarahandrano"
+    },
+    "code": {
+      "id": "MG72710151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.797",
+      "lon": "50.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG72710271",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinanivao",
+      "en": "Vinanivao",
+      "slug": "vinanivao"
+    },
+    "code": {
+      "id": "MG72710271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG72710",
+      "level": 2,
+      "name": {
+        "local": "Antalaha",
+        "en": "Antalaha",
+        "slug": "antalaha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG72",
+        "level": 1,
+        "name": {
+          "local": "Sava",
+          "en": "Sava",
+          "slug": "sava"
+        }
+      },
+      {
+        "id": "MG72710",
+        "level": 2,
+        "name": {
+          "local": "Antalaha",
+          "en": "Antalaha",
+          "slug": "antalaha"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.814",
+      "lon": "50.16"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

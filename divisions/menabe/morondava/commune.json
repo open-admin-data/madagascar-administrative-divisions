@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MG54508079",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analaiva",
+      "en": "Analaiva",
+      "slug": "analaiva"
+    },
+    "code": {
+      "id": "MG54508079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54508",
+      "level": 2,
+      "name": {
+        "local": "Morondava",
+        "en": "Morondava",
+        "slug": "morondava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54508",
+        "level": 2,
+        "name": {
+          "local": "Morondava",
+          "en": "Morondava",
+          "slug": "morondava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.408",
+      "lon": "44.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54508159",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befasy",
+      "en": "Befasy",
+      "slug": "befasy"
+    },
+    "code": {
+      "id": "MG54508159",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54508",
+      "level": 2,
+      "name": {
+        "local": "Morondava",
+        "en": "Morondava",
+        "slug": "morondava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54508",
+        "level": 2,
+        "name": {
+          "local": "Morondava",
+          "en": "Morondava",
+          "slug": "morondava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.771",
+      "lon": "44.47"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54508179",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belo Sur Mer",
+      "en": "Belo Sur Mer",
+      "slug": "belo-sur-mer"
+    },
+    "code": {
+      "id": "MG54508179",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54508",
+      "level": 2,
+      "name": {
+        "local": "Morondava",
+        "en": "Morondava",
+        "slug": "morondava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54508",
+        "level": 2,
+        "name": {
+          "local": "Morondava",
+          "en": "Morondava",
+          "slug": "morondava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.696",
+      "lon": "44.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54508059",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemanonga",
+      "en": "Bemanonga",
+      "slug": "bemanonga"
+    },
+    "code": {
+      "id": "MG54508059",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54508",
+      "level": 2,
+      "name": {
+        "local": "Morondava",
+        "en": "Morondava",
+        "slug": "morondava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54508",
+        "level": 2,
+        "name": {
+          "local": "Morondava",
+          "en": "Morondava",
+          "slug": "morondava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.199",
+      "lon": "44.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54508010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morondava",
+      "en": "Morondava",
+      "slug": "morondava"
+    },
+    "code": {
+      "id": "MG54508010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54508",
+      "level": 2,
+      "name": {
+        "local": "Morondava",
+        "en": "Morondava",
+        "slug": "morondava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54508",
+        "level": 2,
+        "name": {
+          "local": "Morondava",
+          "en": "Morondava",
+          "slug": "morondava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.298",
+      "lon": "44.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

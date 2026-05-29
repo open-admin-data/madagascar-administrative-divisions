@@ -1,0 +1,30 @@
+{
+  "id": "MG42",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Sofia",
+    "en": "Sofia",
+    "slug": "sofia"
+  },
+  "code": {
+    "id": "MG42",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 108
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.282",
+    "lon": "48.244"
+  },
+  "metadata": {},
+  "source": {}
+}

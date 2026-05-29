@@ -1,0 +1,1028 @@
+[
+  {
+    "id": "MG24216131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolahy",
+      "en": "Ambatolahy",
+      "slug": "ambatolahy"
+    },
+    "code": {
+      "id": "MG24216131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.028",
+      "lon": "45.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambia",
+      "en": "Ambia",
+      "slug": "ambia"
+    },
+    "code": {
+      "id": "MG24216032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.736",
+      "lon": "45.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analaliry",
+      "en": "Analaliry",
+      "slug": "analaliry"
+    },
+    "code": {
+      "id": "MG24216090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.74",
+      "lon": "46.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analavoka",
+      "en": "Analavoka",
+      "slug": "analavoka"
+    },
+    "code": {
+      "id": "MG24216210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.583",
+      "lon": "46.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andiolava",
+      "en": "Andiolava",
+      "slug": "andiolava"
+    },
+    "code": {
+      "id": "MG24216192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.508",
+      "lon": "45.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankily",
+      "en": "Ankily",
+      "slug": "ankily"
+    },
+    "code": {
+      "id": "MG24216031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.368",
+      "lon": "46.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsoha",
+      "en": "Antsoha",
+      "slug": "antsoha"
+    },
+    "code": {
+      "id": "MG24216152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.498",
+      "lon": "49.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ihosy",
+      "en": "Ihosy",
+      "slug": "ihosy"
+    },
+    "code": {
+      "id": "MG24216010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.389",
+      "lon": "46.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilakaka",
+      "en": "Ilakaka",
+      "slug": "ilakaka"
+    },
+    "code": {
+      "id": "MG24216232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.893",
+      "lon": "45.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Irina",
+      "en": "Irina",
+      "slug": "irina"
+    },
+    "code": {
+      "id": "MG24216050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.471",
+      "lon": "46.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahasoa",
+      "en": "Mahasoa",
+      "slug": "mahasoa"
+    },
+    "code": {
+      "id": "MG24216110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.003",
+      "lon": "45.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Menamaty Iloto",
+      "en": "Menamaty Iloto",
+      "slug": "menamaty-iloto"
+    },
+    "code": {
+      "id": "MG24216250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.916",
+      "lon": "45.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranohira",
+      "en": "Ranohira",
+      "slug": "ranohira"
+    },
+    "code": {
+      "id": "MG24216231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.465",
+      "lon": "45.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahambano",
+      "en": "Sahambano",
+      "slug": "sahambano"
+    },
+    "code": {
+      "id": "MG24216070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.594",
+      "lon": "46.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakalalina",
+      "en": "Sakalalina",
+      "slug": "sakalalina"
+    },
+    "code": {
+      "id": "MG24216170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.343",
+      "lon": "46.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Satrokala",
+      "en": "Satrokala",
+      "slug": "satrokala"
+    },
+    "code": {
+      "id": "MG24216191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.039",
+      "lon": "45.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soamatasy",
+      "en": "Soamatasy",
+      "slug": "soamatasy"
+    },
+    "code": {
+      "id": "MG24216132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.659",
+      "lon": "46.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tolohomiady",
+      "en": "Tolohomiady",
+      "slug": "tolohomiady"
+    },
+    "code": {
+      "id": "MG24216033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.478",
+      "lon": "46.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG24216151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zazafotsy",
+      "en": "Zazafotsy",
+      "slug": "zazafotsy"
+    },
+    "code": {
+      "id": "MG24216151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG24216",
+      "level": 2,
+      "name": {
+        "local": "Ihosy",
+        "en": "Ihosy",
+        "slug": "ihosy"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG24",
+        "level": 1,
+        "name": {
+          "local": "Ihorombe",
+          "en": "Ihorombe",
+          "slug": "ihorombe"
+        }
+      },
+      {
+        "id": "MG24216",
+        "level": 2,
+        "name": {
+          "local": "Ihosy",
+          "en": "Ihosy",
+          "slug": "ihosy"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.061",
+      "lon": "46.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

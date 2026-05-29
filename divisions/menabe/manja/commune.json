@@ -1,0 +1,326 @@
+[
+  {
+    "id": "MG54502110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranopasy",
+      "en": "Andranopasy",
+      "slug": "andranopasy"
+    },
+    "code": {
+      "id": "MG54502110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.247",
+      "lon": "43.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiliabo",
+      "en": "Ankiliabo",
+      "slug": "ankiliabo"
+    },
+    "code": {
+      "id": "MG54502090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.671",
+      "lon": "43.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anontsibe Centre",
+      "en": "Anontsibe Centre",
+      "slug": "anontsibe-centre"
+    },
+    "code": {
+      "id": "MG54502050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.262",
+      "lon": "44.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beharona",
+      "en": "Beharona",
+      "slug": "beharona"
+    },
+    "code": {
+      "id": "MG54502030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.629",
+      "lon": "44.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manja",
+      "en": "Manja",
+      "slug": "manja"
+    },
+    "code": {
+      "id": "MG54502010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.368",
+      "lon": "44.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG54502070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soaserana",
+      "en": "Soaserana",
+      "slug": "soaserana"
+    },
+    "code": {
+      "id": "MG54502070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG54502",
+      "level": 2,
+      "name": {
+        "local": "Manja",
+        "en": "Manja",
+        "slug": "manja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG54",
+        "level": 1,
+        "name": {
+          "local": "Menabe",
+          "en": "Menabe",
+          "slug": "menabe"
+        }
+      },
+      {
+        "id": "MG54502",
+        "level": 2,
+        "name": {
+          "local": "Manja",
+          "en": "Manja",
+          "slug": "manja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.125",
+      "lon": "44.211"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

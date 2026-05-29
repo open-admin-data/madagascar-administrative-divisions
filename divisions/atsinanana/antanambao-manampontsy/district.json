@@ -1,0 +1,47 @@
+{
+  "id": "MG31311",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antanambao Manampontsy",
+    "en": "Antanambao Manampontsy",
+    "slug": "antanambao-manampontsy"
+  },
+  "code": {
+    "id": "MG31311",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG31",
+    "level": 1,
+    "name": {
+      "local": "Atsinanana",
+      "en": "Atsinanana",
+      "slug": "atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-19.564",
+    "lon": "48.461"
+  },
+  "metadata": {},
+  "source": {}
+}

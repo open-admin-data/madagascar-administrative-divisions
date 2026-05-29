@@ -1,0 +1,488 @@
+[
+  {
+    "id": "MG22202010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatofinandrahana",
+      "en": "Ambatofinandrahana",
+      "slug": "ambatofinandrahana"
+    },
+    "code": {
+      "id": "MG22202010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.465",
+      "lon": "46.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomifanongoa",
+      "en": "Ambatomifanongoa",
+      "slug": "ambatomifanongoa"
+    },
+    "code": {
+      "id": "MG22202110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.247",
+      "lon": "46.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambondromisotra",
+      "en": "Ambondromisotra",
+      "slug": "ambondromisotra"
+    },
+    "code": {
+      "id": "MG22202090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.325",
+      "lon": "46.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amborompotsy",
+      "en": "Amborompotsy",
+      "slug": "amborompotsy"
+    },
+    "code": {
+      "id": "MG22202130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.707",
+      "lon": "44.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoarivo",
+      "en": "Fenoarivo",
+      "slug": "fenoarivo"
+    },
+    "code": {
+      "id": "MG22202050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.1",
+      "lon": "47.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itremo",
+      "en": "Itremo",
+      "slug": "itremo"
+    },
+    "code": {
+      "id": "MG22202030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.509",
+      "lon": "46.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandrosonoro",
+      "en": "Mandrosonoro",
+      "slug": "mandrosonoro"
+    },
+    "code": {
+      "id": "MG22202150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.578",
+      "lon": "45.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangataboahangy",
+      "en": "Mangataboahangy",
+      "slug": "mangataboahangy"
+    },
+    "code": {
+      "id": "MG22202170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.218",
+      "lon": "46.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22202070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavina",
+      "en": "Soavina",
+      "slug": "soavina"
+    },
+    "code": {
+      "id": "MG22202070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22202",
+      "level": 2,
+      "name": {
+        "local": "Ambatofinandrahana",
+        "en": "Ambatofinandrahana",
+        "slug": "ambatofinandrahana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22202",
+        "level": 2,
+        "name": {
+          "local": "Ambatofinandrahana",
+          "en": "Ambatofinandrahana",
+          "slug": "ambatofinandrahana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.364",
+      "lon": "48.253"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

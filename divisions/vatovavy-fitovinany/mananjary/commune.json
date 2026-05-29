@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "MG23209370",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalahosy Nord",
+      "en": "Ambalahosy Nord",
+      "slug": "ambalahosy-nord"
+    },
+    "code": {
+      "id": "MG23209370",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.304",
+      "lon": "47.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209391",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodinonoka",
+      "en": "Ambodinonoka",
+      "slug": "ambodinonoka"
+    },
+    "code": {
+      "id": "MG23209391",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.331",
+      "lon": "47.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimiarina II",
+      "en": "Ambohimiarina II",
+      "slug": "ambohimiarina-ii"
+    },
+    "code": {
+      "id": "MG23209190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.353",
+      "lon": "47.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohinihaonana",
+      "en": "Ambohinihaonana",
+      "slug": "ambohinihaonana"
+    },
+    "code": {
+      "id": "MG23209310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.204",
+      "lon": "47.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitsara Est",
+      "en": "Ambohitsara Est",
+      "slug": "ambohitsara-est"
+    },
+    "code": {
+      "id": "MG23209252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.871",
+      "lon": "48.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andonabe",
+      "en": "Andonabe",
+      "slug": "andonabe"
+    },
+    "code": {
+      "id": "MG23209290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.462",
+      "lon": "47.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranambolava",
+      "en": "Andranambolava",
+      "slug": "andranambolava"
+    },
+    "code": {
+      "id": "MG23209210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.904",
+      "lon": "48.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209332",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranomavo",
+      "en": "Andranomavo",
+      "slug": "andranomavo"
+    },
+    "code": {
+      "id": "MG23209332",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.835",
+      "lon": "45.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankatafana",
+      "en": "Ankatafana",
+      "slug": "ankatafana"
+    },
+    "code": {
+      "id": "MG23209032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.365",
+      "lon": "48.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209450",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosimparihy",
+      "en": "Anosimparihy",
+      "slug": "anosimparihy"
+    },
+    "code": {
+      "id": "MG23209450",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.494",
+      "lon": "48.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209392",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaretra",
+      "en": "Antaretra",
+      "slug": "antaretra"
+    },
+    "code": {
+      "id": "MG23209392",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.06",
+      "lon": "47.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsenavolo",
+      "en": "Antsenavolo",
+      "slug": "antsenavolo"
+    },
+    "code": {
+      "id": "MG23209150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.368",
+      "lon": "48.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kianjavato",
+      "en": "Kianjavato",
+      "slug": "kianjavato"
+    },
+    "code": {
+      "id": "MG23209410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.387",
+      "lon": "47.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsara Iefaka",
+      "en": "Mahatsara Iefaka",
+      "slug": "mahatsara-iefaka"
+    },
+    "code": {
+      "id": "MG23209090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.076",
+      "lon": "48.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatsara Sud",
+      "en": "Mahatsara Sud",
+      "slug": "mahatsara-sud"
+    },
+    "code": {
+      "id": "MG23209050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.123",
+      "lon": "48.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavoky Nord",
+      "en": "Mahavoky Nord",
+      "slug": "mahavoky-nord"
+    },
+    "code": {
+      "id": "MG23209270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.845",
+      "lon": "48.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahela",
+      "en": "Mahela",
+      "slug": "mahela"
+    },
+    "code": {
+      "id": "MG23209251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.44",
+      "lon": "48.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209470",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakana Nord",
+      "en": "Manakana Nord",
+      "slug": "manakana-nord"
+    },
+    "code": {
+      "id": "MG23209470",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.315",
+      "lon": "47.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mananjary",
+      "en": "Mananjary",
+      "slug": "mananjary"
+    },
+    "code": {
+      "id": "MG23209010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.225",
+      "lon": "48.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209331",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marofototra",
+      "en": "Marofototra",
+      "slug": "marofototra"
+    },
+    "code": {
+      "id": "MG23209331",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.819",
+      "lon": "48.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marokarima",
+      "en": "Marokarima",
+      "slug": "marokarima"
+    },
+    "code": {
+      "id": "MG23209110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.214",
+      "lon": "48.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marosangy",
+      "en": "Marosangy",
+      "slug": "marosangy"
+    },
+    "code": {
+      "id": "MG23209170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.989",
+      "lon": "48.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG23209130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209490",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namorona",
+      "en": "Namorona",
+      "slug": "namorona"
+    },
+    "code": {
+      "id": "MG23209490",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.568",
+      "lon": "48.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandrohy",
+      "en": "Sandrohy",
+      "slug": "sandrohy"
+    },
+    "code": {
+      "id": "MG23209430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.608",
+      "lon": "47.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsaravary",
+      "en": "Tsaravary",
+      "slug": "tsaravary"
+    },
+    "code": {
+      "id": "MG23209031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.258",
+      "lon": "48.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiatosika",
+      "en": "Tsiatosika",
+      "slug": "tsiatosika"
+    },
+    "code": {
+      "id": "MG23209070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.166",
+      "lon": "48.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatohandrina",
+      "en": "Vatohandrina",
+      "slug": "vatohandrina"
+    },
+    "code": {
+      "id": "MG23209350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.543",
+      "lon": "47.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23209230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilava",
+      "en": "Vohilava",
+      "slug": "vohilava"
+    },
+    "code": {
+      "id": "MG23209230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23209",
+      "level": 2,
+      "name": {
+        "local": "Mananjary",
+        "en": "Mananjary",
+        "slug": "mananjary"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23209",
+        "level": 2,
+        "name": {
+          "local": "Mananjary",
+          "en": "Mananjary",
+          "slug": "mananjary"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.78",
+      "lon": "47.904"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

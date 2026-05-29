@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "MG23210153",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahatrazo",
+      "en": "Ambahatrazo",
+      "slug": "ambahatrazo"
+    },
+    "code": {
+      "id": "MG23210153",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.858",
+      "lon": "47.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambahive",
+      "en": "Ambahive",
+      "slug": "ambahive"
+    },
+    "code": {
+      "id": "MG23210231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.176",
+      "lon": "47.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210233",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalaroka",
+      "en": "Ambalaroka",
+      "slug": "ambalaroka"
+    },
+    "code": {
+      "id": "MG23210233",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.147",
+      "lon": "47.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalavero",
+      "en": "Ambalavero",
+      "slug": "ambalavero"
+    },
+    "code": {
+      "id": "MG23210410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.822",
+      "lon": "47.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambandrika",
+      "en": "Ambandrika",
+      "slug": "ambandrika"
+    },
+    "code": {
+      "id": "MG23210232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.769",
+      "lon": "48.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambila",
+      "en": "Ambila",
+      "slug": "ambila"
+    },
+    "code": {
+      "id": "MG23210070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.967",
+      "lon": "48.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboanjo",
+      "en": "Amboanjo",
+      "slug": "amboanjo"
+    },
+    "code": {
+      "id": "MG23210171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.005",
+      "lon": "47.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitsara M",
+      "en": "Ambohitsara M",
+      "slug": "ambohitsara-m"
+    },
+    "code": {
+      "id": "MG23210130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.916",
+      "lon": "47.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amborondra",
+      "en": "Amborondra",
+      "slug": "amborondra"
+    },
+    "code": {
+      "id": "MG23210430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.932",
+      "lon": "47.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210312",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambotaka",
+      "en": "Ambotaka",
+      "slug": "ambotaka"
+    },
+    "code": {
+      "id": "MG23210312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.781",
+      "lon": "48.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210311",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimanjeva",
+      "en": "Ampasimanjeva",
+      "slug": "ampasimanjeva"
+    },
+    "code": {
+      "id": "MG23210311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.677",
+      "lon": "48.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210532",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimboraka",
+      "en": "Ampasimboraka",
+      "slug": "ampasimboraka"
+    },
+    "code": {
+      "id": "MG23210532",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.658",
+      "lon": "47.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210490",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimpotsy Sud",
+      "en": "Ampasimpotsy Sud",
+      "slug": "ampasimpotsy-sud"
+    },
+    "code": {
+      "id": "MG23210490",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.934",
+      "lon": "47.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210272",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analavory",
+      "en": "Analavory",
+      "slug": "analavory"
+    },
+    "code": {
+      "id": "MG23210272",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.7",
+      "lon": "47.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anorombato",
+      "en": "Anorombato",
+      "slug": "anorombato"
+    },
+    "code": {
+      "id": "MG23210172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.022",
+      "lon": "47.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anosiala",
+      "en": "Anosiala",
+      "slug": "anosiala"
+    },
+    "code": {
+      "id": "MG23210052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.061",
+      "lon": "48.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210510",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anteza",
+      "en": "Anteza",
+      "slug": "anteza"
+    },
+    "code": {
+      "id": "MG23210510",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.648",
+      "lon": "47.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210291",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekatra",
+      "en": "Bekatra",
+      "slug": "bekatra"
+    },
+    "code": {
+      "id": "MG23210291",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.09",
+      "lon": "47.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210353",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betampona",
+      "en": "Betampona",
+      "slug": "betampona"
+    },
+    "code": {
+      "id": "MG23210353",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.234",
+      "lon": "48.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenomby",
+      "en": "Fenomby",
+      "slug": "fenomby"
+    },
+    "code": {
+      "id": "MG23210390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.755",
+      "lon": "47.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210472",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kianjanomby",
+      "en": "Kianjanomby",
+      "slug": "kianjanomby"
+    },
+    "code": {
+      "id": "MG23210472",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.721",
+      "lon": "47.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lokomby",
+      "en": "Lokomby",
+      "slug": "lokomby"
+    },
+    "code": {
+      "id": "MG23210211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.17",
+      "lon": "47.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210451",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabako",
+      "en": "Mahabako",
+      "slug": "mahabako"
+    },
+    "code": {
+      "id": "MG23210451",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.748",
+      "lon": "47.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210471",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahamaibe",
+      "en": "Mahamaibe",
+      "slug": "mahamaibe"
+    },
+    "code": {
+      "id": "MG23210471",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.735",
+      "lon": "47.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakara",
+      "en": "Manakara",
+      "slug": "manakara"
+    },
+    "code": {
+      "id": "MG23210010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.153",
+      "lon": "48.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangatsiotra",
+      "en": "Mangatsiotra",
+      "slug": "mangatsiotra"
+    },
+    "code": {
+      "id": "MG23210032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.258",
+      "lon": "47.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marofarihy",
+      "en": "Marofarihy",
+      "slug": "marofarihy"
+    },
+    "code": {
+      "id": "MG23210051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.044",
+      "lon": "47.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210330",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mavorano",
+      "en": "Mavorano",
+      "slug": "mavorano"
+    },
+    "code": {
+      "id": "MG23210330",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.797",
+      "lon": "47.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210271",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mitanty",
+      "en": "Mitanty",
+      "slug": "mitanty"
+    },
+    "code": {
+      "id": "MG23210271",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.684",
+      "lon": "47.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mizilo Gara",
+      "en": "Mizilo Gara",
+      "slug": "mizilo-gara"
+    },
+    "code": {
+      "id": "MG23210110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.934",
+      "lon": "47.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210313",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nihaonana",
+      "en": "Nihaonana",
+      "slug": "nihaonana"
+    },
+    "code": {
+      "id": "MG23210313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.748",
+      "lon": "47.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210452",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Onilahy",
+      "en": "Onilahy",
+      "slug": "onilahy"
+    },
+    "code": {
+      "id": "MG23210452",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.722",
+      "lon": "47.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahanambohitra",
+      "en": "Sahanambohitra",
+      "slug": "sahanambohitra"
+    },
+    "code": {
+      "id": "MG23210152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.861",
+      "lon": "47.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210531",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saharefo",
+      "en": "Saharefo",
+      "slug": "saharefo"
+    },
+    "code": {
+      "id": "MG23210531",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.662",
+      "lon": "47.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahasinaka",
+      "en": "Sahasinaka",
+      "slug": "sahasinaka"
+    },
+    "code": {
+      "id": "MG23210151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.796",
+      "lon": "47.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210213",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakoana",
+      "en": "Sakoana",
+      "slug": "sakoana"
+    },
+    "code": {
+      "id": "MG23210213",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.211",
+      "lon": "47.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sorombo",
+      "en": "Sorombo",
+      "slug": "sorombo"
+    },
+    "code": {
+      "id": "MG23210090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.121",
+      "lon": "47.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tataho",
+      "en": "Tataho",
+      "slug": "tataho"
+    },
+    "code": {
+      "id": "MG23210031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.146",
+      "lon": "47.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatana",
+      "en": "Vatana",
+      "slug": "vatana"
+    },
+    "code": {
+      "id": "MG23210212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.235",
+      "lon": "47.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210292",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinanitelo",
+      "en": "Vinanitelo",
+      "slug": "vinanitelo"
+    },
+    "code": {
+      "id": "MG23210292",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.011",
+      "lon": "47.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210370",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilava",
+      "en": "Vohilava",
+      "slug": "vohilava"
+    },
+    "code": {
+      "id": "MG23210370",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.78",
+      "lon": "47.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimanitra",
+      "en": "Vohimanitra",
+      "slug": "vohimanitra"
+    },
+    "code": {
+      "id": "MG23210250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.697",
+      "lon": "47.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210351",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimasina Nord",
+      "en": "Vohimasina Nord",
+      "slug": "vohimasina-nord"
+    },
+    "code": {
+      "id": "MG23210351",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.749",
+      "lon": "48.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210352",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimasina Sud",
+      "en": "Vohimasina Sud",
+      "slug": "vohimasina-sud"
+    },
+    "code": {
+      "id": "MG23210352",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.853",
+      "lon": "48.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG23210190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimasy",
+      "en": "Vohimasy",
+      "slug": "vohimasy"
+    },
+    "code": {
+      "id": "MG23210190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG23210",
+      "level": 2,
+      "name": {
+        "local": "Manakara Atsimo",
+        "en": "Manakara Atsimo",
+        "slug": "manakara-atsimo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG23",
+        "level": 1,
+        "name": {
+          "local": "Vatovavy Fitovinany",
+          "en": "Vatovavy Fitovinany",
+          "slug": "vatovavy-fitovinany"
+        }
+      },
+      {
+        "id": "MG23210",
+        "level": 2,
+        "name": {
+          "local": "Manakara Atsimo",
+          "en": "Manakara Atsimo",
+          "slug": "manakara-atsimo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.778",
+      "lon": "47.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

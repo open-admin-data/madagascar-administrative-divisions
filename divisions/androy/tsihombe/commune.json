@@ -1,0 +1,380 @@
+[
+  {
+    "id": "MG52514032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjampaly",
+      "en": "Anjampaly",
+      "slug": "anjampaly"
+    },
+    "code": {
+      "id": "MG52514032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.489",
+      "lon": "45.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaritarika",
+      "en": "Antaritarika",
+      "slug": "antaritarika"
+    },
+    "code": {
+      "id": "MG52514071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.362",
+      "lon": "45.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betanty (Faux Cap)",
+      "en": "Betanty (Faux Cap)",
+      "slug": "betanty-faux-cap"
+    },
+    "code": {
+      "id": "MG52514031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.506",
+      "lon": "45.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imongy",
+      "en": "Imongy",
+      "slug": "imongy"
+    },
+    "code": {
+      "id": "MG52514072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.269",
+      "lon": "45.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovato",
+      "en": "Marovato",
+      "slug": "marovato"
+    },
+    "code": {
+      "id": "MG52514050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.549",
+      "lon": "49.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nikoly",
+      "en": "Nikoly",
+      "slug": "nikoly"
+    },
+    "code": {
+      "id": "MG52514012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.424",
+      "lon": "45.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG52514011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsihombe",
+      "en": "Tsihombe",
+      "slug": "tsihombe"
+    },
+    "code": {
+      "id": "MG52514011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG52514",
+      "level": 2,
+      "name": {
+        "local": "Tsihombe",
+        "en": "Tsihombe",
+        "slug": "tsihombe"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG52",
+        "level": 1,
+        "name": {
+          "local": "Androy",
+          "en": "Androy",
+          "slug": "androy"
+        }
+      },
+      {
+        "id": "MG52514",
+        "level": 2,
+        "name": {
+          "local": "Tsihombe",
+          "en": "Tsihombe",
+          "slug": "tsihombe"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.244",
+      "lon": "45.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "MG32305090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoharanana",
+      "en": "Ambatoharanana",
+      "slug": "ambatoharanana"
+    },
+    "code": {
+      "id": "MG32305090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.619",
+      "lon": "48.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanga II",
+      "en": "Ambodimanga II",
+      "slug": "ambodimanga-ii"
+    },
+    "code": {
+      "id": "MG32305030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.362",
+      "lon": "49.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimbe Manantsatrana",
+      "en": "Ampasimbe Manantsatrana",
+      "slug": "ampasimbe-manantsatrana"
+    },
+    "code": {
+      "id": "MG32305150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.097",
+      "lon": "49.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasina Maningory",
+      "en": "Ampasina Maningory",
+      "slug": "ampasina-maningory"
+    },
+    "code": {
+      "id": "MG32305070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.217",
+      "lon": "49.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsiatsiaka",
+      "en": "Antsiatsiaka",
+      "slug": "antsiatsiaka"
+    },
+    "code": {
+      "id": "MG32305210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.042",
+      "lon": "49.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenerive Est",
+      "en": "Fenerive Est",
+      "slug": "fenerive-est"
+    },
+    "code": {
+      "id": "MG32305010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.391",
+      "lon": "49.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahambo",
+      "en": "Mahambo",
+      "slug": "mahambo"
+    },
+    "code": {
+      "id": "MG32305050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.531",
+      "lon": "49.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305238",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahanoro",
+      "en": "Mahanoro",
+      "slug": "mahanoro"
+    },
+    "code": {
+      "id": "MG32305238",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.362",
+      "lon": "49.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miorimivalana",
+      "en": "Miorimivalana",
+      "slug": "miorimivalana"
+    },
+    "code": {
+      "id": "MG32305170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.124",
+      "lon": "49.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saranambana",
+      "en": "Saranambana",
+      "slug": "saranambana"
+    },
+    "code": {
+      "id": "MG32305130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.101",
+      "lon": "49.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohilengo",
+      "en": "Vohilengo",
+      "slug": "vohilengo"
+    },
+    "code": {
+      "id": "MG32305110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.294",
+      "lon": "49.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32305190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohipeno",
+      "en": "Vohipeno",
+      "slug": "vohipeno"
+    },
+    "code": {
+      "id": "MG32305190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32305",
+      "level": 2,
+      "name": {
+        "local": "Fenerive Est",
+        "en": "Fenerive Est",
+        "slug": "fenerive-est"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      },
+      {
+        "id": "MG32305",
+        "level": 2,
+        "name": {
+          "local": "Fenerive Est",
+          "en": "Fenerive Est",
+          "slug": "fenerive-est"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.136",
+      "lon": "49.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

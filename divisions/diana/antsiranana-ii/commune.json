@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "MG71713252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambondrona",
+      "en": "Ambondrona",
+      "slug": "ambondrona"
+    },
+    "code": {
+      "id": "MG71713252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.777",
+      "lon": "49.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andrafiabe",
+      "en": "Andrafiabe",
+      "slug": "andrafiabe"
+    },
+    "code": {
+      "id": "MG71713110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.494",
+      "lon": "49.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranofanjava",
+      "en": "Andranofanjava",
+      "slug": "andranofanjava"
+    },
+    "code": {
+      "id": "MG71713191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.457",
+      "lon": "49.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranovondronina",
+      "en": "Andranovondronina",
+      "slug": "andranovondronina"
+    },
+    "code": {
+      "id": "MG71713170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.111",
+      "lon": "49.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anivorano Nord",
+      "en": "Anivorano Nord",
+      "slug": "anivorano-nord"
+    },
+    "code": {
+      "id": "MG71713231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.845",
+      "lon": "49.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarongana",
+      "en": "Ankarongana",
+      "slug": "ankarongana"
+    },
+    "code": {
+      "id": "MG71713210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.694",
+      "lon": "49.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anketrakabe",
+      "en": "Anketrakabe",
+      "slug": "anketrakabe"
+    },
+    "code": {
+      "id": "MG71713130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.567",
+      "lon": "49.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanamitarana",
+      "en": "Antanamitarana",
+      "slug": "antanamitarana"
+    },
+    "code": {
+      "id": "MG71713032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.371",
+      "lon": "49.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsahampano",
+      "en": "Antsahampano",
+      "slug": "antsahampano"
+    },
+    "code": {
+      "id": "MG71713050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.371",
+      "lon": "49.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsalaka",
+      "en": "Antsalaka",
+      "slug": "antsalaka"
+    },
+    "code": {
+      "id": "MG71713152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.623",
+      "lon": "49.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsoha",
+      "en": "Antsoha",
+      "slug": "antsoha"
+    },
+    "code": {
+      "id": "MG71713232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.498",
+      "lon": "49.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713253",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bobakilandy",
+      "en": "Bobakilandy",
+      "slug": "bobakilandy"
+    },
+    "code": {
+      "id": "MG71713253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.649",
+      "lon": "48.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bobasakoa",
+      "en": "Bobasakoa",
+      "slug": "bobasakoa"
+    },
+    "code": {
+      "id": "MG71713251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.824",
+      "lon": "48.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Joffre Ville",
+      "en": "Joffre Ville",
+      "slug": "joffre-ville"
+    },
+    "code": {
+      "id": "MG71713033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.491",
+      "lon": "49.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahalina",
+      "en": "Mahalina",
+      "slug": "mahalina"
+    },
+    "code": {
+      "id": "MG71713192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.495",
+      "lon": "48.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahavanona",
+      "en": "Mahavanona",
+      "slug": "mahavanona"
+    },
+    "code": {
+      "id": "MG71713070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.459",
+      "lon": "49.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mangaoka",
+      "en": "Mangaoka",
+      "slug": "mangaoka"
+    },
+    "code": {
+      "id": "MG71713090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.395",
+      "lon": "49.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713254",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mosorolava",
+      "en": "Mosorolava",
+      "slug": "mosorolava"
+    },
+    "code": {
+      "id": "MG71713254",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.58",
+      "lon": "48.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ramena",
+      "en": "Ramena",
+      "slug": "ramena"
+    },
+    "code": {
+      "id": "MG71713010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.325",
+      "lon": "49.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sadjoavato",
+      "en": "Sadjoavato",
+      "slug": "sadjoavato"
+    },
+    "code": {
+      "id": "MG71713151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.635",
+      "lon": "49.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG71713031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakaramy",
+      "en": "Sakaramy",
+      "slug": "sakaramy"
+    },
+    "code": {
+      "id": "MG71713031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG71713",
+      "level": 2,
+      "name": {
+        "local": "Antsiranana II",
+        "en": "Antsiranana II",
+        "slug": "antsiranana-ii"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG71",
+        "level": 1,
+        "name": {
+          "local": "Diana",
+          "en": "Diana",
+          "slug": "diana"
+        }
+      },
+      {
+        "id": "MG71713",
+        "level": 2,
+        "name": {
+          "local": "Antsiranana II",
+          "en": "Antsiranana II",
+          "slug": "antsiranana-ii"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.448",
+      "lon": "49.287"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

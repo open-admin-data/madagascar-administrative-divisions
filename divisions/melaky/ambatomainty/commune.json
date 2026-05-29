@@ -1,0 +1,218 @@
+[
+  {
+    "id": "MG44417011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatomainty",
+      "en": "Ambatomainty",
+      "slug": "ambatomainty"
+    },
+    "code": {
+      "id": "MG44417011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44417",
+      "level": 2,
+      "name": {
+        "local": "Ambatomainty",
+        "en": "Ambatomainty",
+        "slug": "ambatomainty"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44417",
+        "level": 2,
+        "name": {
+          "local": "Ambatomainty",
+          "en": "Ambatomainty",
+          "slug": "ambatomainty"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.671",
+      "lon": "45.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44417012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bemarivo",
+      "en": "Bemarivo",
+      "slug": "bemarivo"
+    },
+    "code": {
+      "id": "MG44417012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44417",
+      "level": 2,
+      "name": {
+        "local": "Ambatomainty",
+        "en": "Ambatomainty",
+        "slug": "ambatomainty"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44417",
+        "level": 2,
+        "name": {
+          "local": "Ambatomainty",
+          "en": "Ambatomainty",
+          "slug": "ambatomainty"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.513",
+      "lon": "45.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44417032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marotsialeha",
+      "en": "Marotsialeha",
+      "slug": "marotsialeha"
+    },
+    "code": {
+      "id": "MG44417032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44417",
+      "level": 2,
+      "name": {
+        "local": "Ambatomainty",
+        "en": "Ambatomainty",
+        "slug": "ambatomainty"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44417",
+        "level": 2,
+        "name": {
+          "local": "Ambatomainty",
+          "en": "Ambatomainty",
+          "slug": "ambatomainty"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.713",
+      "lon": "45.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG44417031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarodrano",
+      "en": "Sarodrano",
+      "slug": "sarodrano"
+    },
+    "code": {
+      "id": "MG44417031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG44417",
+      "level": 2,
+      "name": {
+        "local": "Ambatomainty",
+        "en": "Ambatomainty",
+        "slug": "ambatomainty"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG44",
+        "level": 1,
+        "name": {
+          "local": "Melaky",
+          "en": "Melaky",
+          "slug": "melaky"
+        }
+      },
+      {
+        "id": "MG44417",
+        "level": 2,
+        "name": {
+          "local": "Ambatomainty",
+          "en": "Ambatomainty",
+          "slug": "ambatomainty"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.965",
+      "lon": "45.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

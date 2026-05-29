@@ -1,0 +1,434 @@
+[
+  {
+    "id": "MG12120070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma Ramartina",
+      "en": "Anjoma Ramartina",
+      "slug": "anjoma-ramartina"
+    },
+    "code": {
+      "id": "MG12120070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.669",
+      "lon": "45.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankazomiriotra",
+      "en": "Ankazomiriotra",
+      "slug": "ankazomiriotra"
+    },
+    "code": {
+      "id": "MG12120090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.68",
+      "lon": "46.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanambao Ambary",
+      "en": "Antanambao Ambary",
+      "slug": "antanambao-ambary"
+    },
+    "code": {
+      "id": "MG12120050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.525",
+      "lon": "46.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsohana",
+      "en": "Betsohana",
+      "slug": "betsohana"
+    },
+    "code": {
+      "id": "MG12120030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.455",
+      "lon": "46.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fidirana",
+      "en": "Fidirana",
+      "slug": "fidirana"
+    },
+    "code": {
+      "id": "MG12120110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.498",
+      "lon": "46.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandoto",
+      "en": "Mandoto",
+      "slug": "mandoto"
+    },
+    "code": {
+      "id": "MG12120010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.578",
+      "lon": "46.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vasiana",
+      "en": "Vasiana",
+      "slug": "vasiana"
+    },
+    "code": {
+      "id": "MG12120130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.847",
+      "lon": "46.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG12120150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vinany",
+      "en": "Vinany",
+      "slug": "vinany"
+    },
+    "code": {
+      "id": "MG12120150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG12120",
+      "level": 2,
+      "name": {
+        "local": "Mandoto",
+        "en": "Mandoto",
+        "slug": "mandoto"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG12",
+        "level": 1,
+        "name": {
+          "local": "Vakinankaratra",
+          "en": "Vakinankaratra",
+          "slug": "vakinankaratra"
+        }
+      },
+      {
+        "id": "MG12120",
+        "level": 2,
+        "name": {
+          "local": "Mandoto",
+          "en": "Mandoto",
+          "slug": "mandoto"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.517",
+      "lon": "46.469"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

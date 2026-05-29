@@ -1,0 +1,47 @@
+{
+  "id": "MG31301",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toamasina I",
+    "en": "Toamasina I",
+    "slug": "toamasina-i"
+  },
+  "code": {
+    "id": "MG31301",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG31",
+    "level": 1,
+    "name": {
+      "local": "Atsinanana",
+      "en": "Atsinanana",
+      "slug": "atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG31",
+      "level": 1,
+      "name": {
+        "local": "Atsinanana",
+        "en": "Atsinanana",
+        "slug": "atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-18.143",
+    "lon": "49.398"
+  },
+  "metadata": {},
+  "source": {}
+}

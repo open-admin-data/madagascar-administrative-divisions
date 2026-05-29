@@ -1,0 +1,47 @@
+{
+  "id": "MG51504",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Morombe",
+    "en": "Morombe",
+    "slug": "morombe"
+  },
+  "code": {
+    "id": "MG51504",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.873",
+    "lon": "43.739"
+  },
+  "metadata": {},
+  "source": {}
+}

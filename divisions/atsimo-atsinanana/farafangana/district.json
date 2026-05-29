@@ -1,0 +1,47 @@
+{
+  "id": "MG25213",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Farafangana",
+    "en": "Farafangana",
+    "slug": "farafangana"
+  },
+  "code": {
+    "id": "MG25213",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG25",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Atsinanana",
+      "en": "Atsimo Atsinanana",
+      "slug": "atsimo-atsinanana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG25",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Atsinanana",
+        "en": "Atsimo Atsinanana",
+        "slug": "atsimo-atsinanana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.832",
+    "lon": "47.652"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MG42411070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambaliha",
+      "en": "Ambaliha",
+      "slug": "ambaliha"
+    },
+    "code": {
+      "id": "MG42411070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.746",
+      "lon": "48.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411012",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambarijeby Sud",
+      "en": "Ambarijeby Sud",
+      "slug": "ambarijeby-sud"
+    },
+    "code": {
+      "id": "MG42411012",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.922",
+      "lon": "47.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambolobozo",
+      "en": "Ambolobozo",
+      "slug": "ambolobozo"
+    },
+    "code": {
+      "id": "MG42411030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.354",
+      "lon": "47.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411011",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analalava",
+      "en": "Analalava",
+      "slug": "analalava"
+    },
+    "code": {
+      "id": "MG42411011",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.703",
+      "lon": "47.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andribavontsona",
+      "en": "Andribavontsona",
+      "slug": "andribavontsona"
+    },
+    "code": {
+      "id": "MG42411131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.362",
+      "lon": "47.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Angoaka Sud",
+      "en": "Angoaka Sud",
+      "slug": "angoaka-sud"
+    },
+    "code": {
+      "id": "MG42411132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.339",
+      "lon": "47.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaramy",
+      "en": "Ankaramy",
+      "slug": "ankaramy"
+    },
+    "code": {
+      "id": "MG42411170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.047",
+      "lon": "48.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antonibe",
+      "en": "Antonibe",
+      "slug": "antonibe"
+    },
+    "code": {
+      "id": "MG42411190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.975",
+      "lon": "47.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befotaka Nord",
+      "en": "Befotaka Nord",
+      "slug": "befotaka-nord"
+    },
+    "code": {
+      "id": "MG42411050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.498",
+      "lon": "47.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahadrodroka",
+      "en": "Mahadrodroka",
+      "slug": "mahadrodroka"
+    },
+    "code": {
+      "id": "MG42411210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.305",
+      "lon": "47.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maromandia",
+      "en": "Maromandia",
+      "slug": "maromandia"
+    },
+    "code": {
+      "id": "MG42411090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.254",
+      "lon": "48.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovantaza",
+      "en": "Marovantaza",
+      "slug": "marovantaza"
+    },
+    "code": {
+      "id": "MG42411150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.364",
+      "lon": "47.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42411110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marovatolena",
+      "en": "Marovatolena",
+      "slug": "marovatolena"
+    },
+    "code": {
+      "id": "MG42411110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42411",
+      "level": 2,
+      "name": {
+        "local": "Analalava",
+        "en": "Analalava",
+        "slug": "analalava"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42411",
+        "level": 2,
+        "name": {
+          "local": "Analalava",
+          "en": "Analalava",
+          "slug": "analalava"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.157",
+      "lon": "47.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

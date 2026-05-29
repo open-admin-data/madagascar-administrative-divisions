@@ -1,0 +1,272 @@
+[
+  {
+    "id": "MG31301001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodimanga",
+      "en": "Ambodimanga",
+      "slug": "ambodimanga"
+    },
+    "code": {
+      "id": "MG31301001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31301",
+      "level": 2,
+      "name": {
+        "local": "Toamasina I",
+        "en": "Toamasina I",
+        "slug": "toamasina-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31301",
+        "level": 2,
+        "name": {
+          "local": "Toamasina I",
+          "en": "Toamasina I",
+          "slug": "toamasina-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.351",
+      "lon": "48.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31301002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjoma",
+      "en": "Anjoma",
+      "slug": "anjoma"
+    },
+    "code": {
+      "id": "MG31301002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31301",
+      "level": 2,
+      "name": {
+        "local": "Toamasina I",
+        "en": "Toamasina I",
+        "slug": "toamasina-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31301",
+        "level": 2,
+        "name": {
+          "local": "Toamasina I",
+          "en": "Toamasina I",
+          "slug": "toamasina-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.176",
+      "lon": "49.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31301005",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankirihiry",
+      "en": "Ankirihiry",
+      "slug": "ankirihiry"
+    },
+    "code": {
+      "id": "MG31301005",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31301",
+      "level": 2,
+      "name": {
+        "local": "Toamasina I",
+        "en": "Toamasina I",
+        "slug": "toamasina-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31301",
+        "level": 2,
+        "name": {
+          "local": "Toamasina I",
+          "en": "Toamasina I",
+          "slug": "toamasina-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.125",
+      "lon": "49.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31301003",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morarano",
+      "en": "Morarano",
+      "slug": "morarano"
+    },
+    "code": {
+      "id": "MG31301003",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31301",
+      "level": 2,
+      "name": {
+        "local": "Toamasina I",
+        "en": "Toamasina I",
+        "slug": "toamasina-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31301",
+        "level": 2,
+        "name": {
+          "local": "Toamasina I",
+          "en": "Toamasina I",
+          "slug": "toamasina-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.158",
+      "lon": "49.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG31301004",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao V",
+      "en": "Tanambao V",
+      "slug": "tanambao-v"
+    },
+    "code": {
+      "id": "MG31301004",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG31301",
+      "level": 2,
+      "name": {
+        "local": "Toamasina I",
+        "en": "Toamasina I",
+        "slug": "toamasina-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG31",
+        "level": 1,
+        "name": {
+          "local": "Atsinanana",
+          "en": "Atsinanana",
+          "slug": "atsinanana"
+        }
+      },
+      {
+        "id": "MG31301",
+        "level": 2,
+        "name": {
+          "local": "Toamasina I",
+          "en": "Toamasina I",
+          "slug": "toamasina-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.148",
+      "lon": "49.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

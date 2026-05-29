@@ -1,0 +1,30 @@
+{
+  "id": "MG21",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Haute Matsiatra",
+    "en": "Haute Matsiatra",
+    "slug": "haute-matsiatra"
+  },
+  "code": {
+    "id": "MG21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "commune": 88
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": null,
+    "lon": null
+  },
+  "metadata": {},
+  "source": {}
+}

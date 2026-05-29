@@ -1,0 +1,758 @@
+[
+  {
+    "id": "MG11102010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alasora",
+      "en": "Alasora",
+      "slug": "alasora"
+    },
+    "code": {
+      "id": "MG11102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.953",
+      "lon": "47.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimalaza Miray",
+      "en": "Ambohimalaza Miray",
+      "slug": "ambohimalaza-miray"
+    },
+    "code": {
+      "id": "MG11102230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.884",
+      "lon": "47.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanambola",
+      "en": "Ambohimanambola",
+      "slug": "ambohimanambola"
+    },
+    "code": {
+      "id": "MG11102050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.849",
+      "lon": "46.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102319",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimanga Rova",
+      "en": "Ambohimanga Rova",
+      "slug": "ambohimanga-rova"
+    },
+    "code": {
+      "id": "MG11102319",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.774",
+      "lon": "47.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102099",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimangakely",
+      "en": "Ambohimangakely",
+      "slug": "ambohimangakely"
+    },
+    "code": {
+      "id": "MG11102099",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.896",
+      "lon": "47.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102390",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anjeva Gara",
+      "en": "Anjeva Gara",
+      "slug": "anjeva-gara"
+    },
+    "code": {
+      "id": "MG11102390",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.949",
+      "lon": "47.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102039",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankadikely Ilafy",
+      "en": "Ankadikely Ilafy",
+      "slug": "ankadikely-ilafy"
+    },
+    "code": {
+      "id": "MG11102039",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.852",
+      "lon": "47.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102430",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankadinandriana",
+      "en": "Ankadinandriana",
+      "slug": "ankadinandriana"
+    },
+    "code": {
+      "id": "MG11102430",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.073",
+      "lon": "47.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102279",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiaferana",
+      "en": "Fiaferana",
+      "slug": "fiaferana"
+    },
+    "code": {
+      "id": "MG11102279",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.84",
+      "lon": "47.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manandriana",
+      "en": "Manandriana",
+      "slug": "manandriana"
+    },
+    "code": {
+      "id": "MG11102210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.813",
+      "lon": "47.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102410",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masindray",
+      "en": "Masindray",
+      "slug": "masindray"
+    },
+    "code": {
+      "id": "MG11102410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-19.277",
+      "lon": "46.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102079",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sabotsy Namehana",
+      "en": "Sabotsy Namehana",
+      "slug": "sabotsy-namehana"
+    },
+    "code": {
+      "id": "MG11102079",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.815",
+      "lon": "47.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102379",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Talata Volonondry",
+      "en": "Talata Volonondry",
+      "slug": "talata-volonondry"
+    },
+    "code": {
+      "id": "MG11102379",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.748",
+      "lon": "47.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG11102350",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Viliahazo",
+      "en": "Viliahazo",
+      "slug": "viliahazo"
+    },
+    "code": {
+      "id": "MG11102350",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG11102",
+      "level": 2,
+      "name": {
+        "local": "Antananarivo Avaradrano",
+        "en": "Antananarivo Avaradrano",
+        "slug": "antananarivo-avaradrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG11",
+        "level": 1,
+        "name": {
+          "local": "Analamanga",
+          "en": "Analamanga",
+          "slug": "analamanga"
+        }
+      },
+      {
+        "id": "MG11102",
+        "level": 2,
+        "name": {
+          "local": "Antananarivo Avaradrano",
+          "en": "Antananarivo Avaradrano",
+          "slug": "antananarivo-avaradrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.81",
+      "lon": "47.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

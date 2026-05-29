@@ -1,0 +1,47 @@
+{
+  "id": "MG71718",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nosy-Be",
+    "en": "Nosy-Be",
+    "slug": "nosy-be"
+  },
+  "code": {
+    "id": "MG71718",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG71",
+    "level": 1,
+    "name": {
+      "local": "Diana",
+      "en": "Diana",
+      "slug": "diana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG71",
+      "level": 1,
+      "name": {
+        "local": "Diana",
+        "en": "Diana",
+        "slug": "diana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.349",
+    "lon": "48.26"
+  },
+  "metadata": {},
+  "source": {}
+}

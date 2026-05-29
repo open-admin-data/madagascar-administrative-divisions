@@ -1,0 +1,233 @@
+# Androy — Madagascar Administrative Divisions
+
+> 4 districts, 51 communes
+> Code: MG52
+> Coordinates: -24.687, 45.392
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambovombe-Androy
+
+Code: MG52516, Coordinates: -24.799, 45.796
+Communes: 19
+
+#### Ambanisarika
+
+Code: MG52516031, Coordinates: -24.976, 45.96
+
+#### Ambazoa
+
+Code: MG52516092, Coordinates: -25.344, 45.859
+
+#### Ambohimalaza
+
+Code: MG52516033, Coordinates: -14.295, 50.034
+
+#### Ambonaivo
+
+Code: MG52516050, Coordinates: -25.229, 45.943
+
+#### Ambondro
+
+Code: MG52516091, Coordinates: -25.256, 45.859
+
+#### Ambovombe
+
+Code: MG52516011, Coordinates: -25.064, 46.08
+
+#### Ampamata
+
+Code: MG52516152, Coordinates: -24.513, 45.663
+
+#### Analamary
+
+Code: MG52516032, Coordinates: -23.262, 45.778
+
+#### Andalatanosy
+
+Code: MG52516151, Coordinates: -24.651, 45.57
+
+#### Anjeky Ankilikira
+
+Code: MG52516014, Coordinates: -25.028, 46.197
+
+#### Antanimora Atsimo
+
+Code: MG52516130, Coordinates: -24.802, 45.796
+
+#### Erada
+
+Code: MG52516013, Coordinates: -25.291, 45.958
+
+#### Imanombo
+
+Code: MG52516190, Coordinates: -24.389, 45.837
+
+#### Jafaro
+
+Code: MG52516170, Coordinates: -24.93, 45.478
+
+#### Maroalomainty
+
+Code: MG52516071, Coordinates: -25.185, 46.18
+
+#### Maroalopoty
+
+Code: MG52516072, Coordinates: -25.168, 46.231
+
+#### Marovato Befeno
+
+Code: MG52516112, Coordinates: -25.147, 45.673
+
+#### Sihanamaro
+
+Code: MG52516111, Coordinates: -25.077, 45.778
+
+#### Tsimananada
+
+Code: MG52516012, Coordinates: -25.226, 46.017
+
+### Bekily
+
+Code: MG52518, Coordinates: -24.27, 45.444
+Communes: 19
+
+#### Ambahita
+
+Code: MG52518151, Coordinates: -24.009, 45.302
+
+#### Ambatosola
+
+Code: MG52518091, Coordinates: -24.017, 45.386
+
+#### Anivorano Mitsinjo
+
+Code: MG52518290, Coordinates: -24.36, 45.643
+
+#### Anja Nord
+
+Code: MG52518050, Coordinates: -24.293, 45.279
+
+#### Ankaranabo Nord
+
+Code: MG52518031, Coordinates: -24.199, 45.232
+
+#### Antsakoamaro
+
+Code: MG52518070, Coordinates: -24.306, 45.123
+
+#### Bekitro
+
+Code: MG52518230, Coordinates: -24.557, 45.258
+
+#### Belindo Mahasoa
+
+Code: MG52518170, Coordinates: -24.486, 45.463
+
+#### Beraketa
+
+Code: MG52518251, Coordinates: -24.14, 45.663
+
+#### Besakoa
+
+Code: MG52518032, Coordinates: -24.156, 45.256
+
+#### Beteza
+
+Code: MG52518190, Coordinates: -24.458, 45.147
+
+#### Bevitiky
+
+Code: MG52518270, Coordinates: -24.653, 45.392
+
+#### Manakompy
+
+Code: MG52518130, Coordinates: -24.324, 45.395
+
+#### Maroviro
+
+Code: MG52518152, Coordinates: -23.846, 45.345
+
+#### Morafeno Bekily
+
+Code: MG52518010, Coordinates: -24.254, 45.292
+
+#### Tanandava
+
+Code: MG52518210, Coordinates: -14.766, 49.67
+
+#### Tsikolaky
+
+Code: MG52518110, Coordinates: -24.337, 45.254
+
+#### Tsirandrany
+
+Code: MG52518092, Coordinates: -24.128, 45.358
+
+#### Vohimanga
+
+Code: MG52518252, Coordinates: -24.023, 45.572
+
+### Beloha
+
+Code: MG52513, Coordinates: -25.05, 44.938
+Communes: 6
+
+#### Behabobo
+
+Code: MG52513092, Coordinates: -24.929, 45.258
+
+#### Beloha
+
+Code: MG52513010, Coordinates: -25.013, 45.053
+
+#### Kopoky
+
+Code: MG52513050, Coordinates: -25.179, 45.231
+
+#### Marolinta
+
+Code: MG52513070, Coordinates: -25.132, 44.692
+
+#### Tranoroa
+
+Code: MG52513091, Coordinates: -24.786, 45.185
+
+#### Tranovaho
+
+Code: MG52513030, Coordinates: -25.335, 44.995
+
+### Tsihombe
+
+Code: MG52514, Coordinates: -25.344, 45.472
+Communes: 7
+
+#### Anjampaly
+
+Code: MG52514032, Coordinates: -25.489, 45.634
+
+#### Antaritarika
+
+Code: MG52514071, Coordinates: -25.362, 45.72
+
+#### Betanty (Faux Cap)
+
+Code: MG52514031, Coordinates: -25.506, 45.471
+
+#### Imongy
+
+Code: MG52514072, Coordinates: -25.269, 45.68
+
+#### Marovato
+
+Code: MG52514050, Coordinates: -14.549, 49.653
+
+#### Nikoly
+
+Code: MG52514012, Coordinates: -25.424, 45.486
+
+#### Tsihombe
+
+Code: MG52514011, Coordinates: -25.244, 45.47
+

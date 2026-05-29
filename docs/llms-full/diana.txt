@@ -1,0 +1,294 @@
+# Diana — Madagascar Administrative Divisions
+
+> 5 districts, 65 communes
+> Code: MG71
+> Coordinates: -13.109, 48.762
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Districts
+
+### Ambanja
+
+Code: MG71719, Coordinates: -13.784, 48.375
+Communes: 23
+
+#### Ambalahonko
+
+Code: MG71719130, Coordinates: -13.568, 48.47
+
+#### Ambaliha
+
+Code: MG71719250, Coordinates: -13.746, 48.156
+
+#### Ambanja
+
+Code: MG71719010, Coordinates: -13.621, 48.431
+
+#### Ambodimanga Ramena
+
+Code: MG71719172, Coordinates: -13.763, 48.642
+
+#### Ambohimarina
+
+Code: MG71719233, Coordinates: -13.951, 48.47
+
+#### Ambohimena
+
+Code: MG71719050, Coordinates: -13.593, 48.381
+
+#### Ambohitrandriana
+
+Code: MG71719232, Coordinates: -13.912, 48.779
+
+#### Ankatafa
+
+Code: MG71719350, Coordinates: -13.657, 48.371
+
+#### Ankingameloka
+
+Code: MG71719150, Coordinates: -13.839, 48.264
+
+#### Anorontsangana
+
+Code: MG71719310, Coordinates: -13.868, 47.926
+
+#### Antafiambotry
+
+Code: MG71719190, Coordinates: -13.395, 48.519
+
+#### Antranokarany
+
+Code: MG71719091, Coordinates: -13.737, 48.38
+
+#### Antsakoamanondro
+
+Code: MG71719110, Coordinates: -13.582, 48.548
+
+#### Antsatsaka
+
+Code: MG71719070, Coordinates: -13.691, 48.399
+
+#### Antsirabe
+
+Code: MG71719330, Coordinates: -13.879, 48.15
+
+#### Bemaneviky Haut Sambirano
+
+Code: MG71719171, Coordinates: -13.848, 48.476
+
+#### Bemaneviky Ouest
+
+Code: MG71719290, Coordinates: -13.631, 47.98
+
+#### Benavony
+
+Code: MG71719030, Coordinates: -13.693, 48.511
+
+#### Djangoa
+
+Code: MG71719092, Coordinates: -13.966, 48.355
+
+#### Maevatanana
+
+Code: MG71719173, Coordinates: -13.873, 48.538
+
+#### Maherivaratra
+
+Code: MG71719210, Coordinates: -13.527, 48.619
+
+#### Marotolana
+
+Code: MG71719270, Coordinates: -14.108, 48.684
+
+#### Marovato
+
+Code: MG71719231, Coordinates: -14.549, 49.653
+
+### Ambilobe
+
+Code: MG71717, Coordinates: -13.513, 49.008
+Communes: 15
+
+#### Ambakirano
+
+Code: MG71717090, Coordinates: -13.407, 49.211
+
+#### Ambarakaraka
+
+Code: MG71717231, Coordinates: -13.588, 48.923
+
+#### Ambatoben&#39;anjavy
+
+Code: MG71717110, Coordinates: -13.429, 49.04
+
+#### Ambilobe
+
+Code: MG71717010, Coordinates: -13.213, 49.031
+
+#### Ambodibonara
+
+Code: MG71717172, Coordinates: -13.182, 48.84
+
+#### Ampondralava
+
+Code: MG71717050, Coordinates: -13.186, 48.897
+
+#### Anaborano Ifasy
+
+Code: MG71717232, Coordinates: -13.699, 48.828
+
+#### Anjiabe Ambony
+
+Code: MG71717171, Coordinates: -13.242, 48.859
+
+#### Antsaravibe
+
+Code: MG71717130, Coordinates: -12.98, 49.007
+
+#### Antsohimbondrona
+
+Code: MG71717150, Coordinates: -12.985, 48.779
+
+#### Beramanja
+
+Code: MG71717190, Coordinates: -13.459, 48.798
+
+#### Betsiaka
+
+Code: MG71717210, Coordinates: -13.194, 49.314
+
+#### Manambato
+
+Code: MG71717233, Coordinates: -13.912, 49.184
+
+#### Mantaly
+
+Code: MG71717030, Coordinates: -13.186, 48.944
+
+#### Tanambao Marivorahona
+
+Code: MG71717070, Coordinates: -13.023, 49.16
+
+### Antsiranana I
+
+Code: MG71715, Coordinates: -12.291, 49.265
+Communes: 1
+
+#### Diego Suarez
+
+Code: MG71715009, Coordinates: -12.291, 49.265
+
+### Antsiranana II
+
+Code: MG71713, Coordinates: -12.498, 49.164
+Communes: 21
+
+#### Ambondrona
+
+Code: MG71713252, Coordinates: -12.777, 49.066
+
+#### Andrafiabe
+
+Code: MG71713110, Coordinates: -12.494, 49.472
+
+#### Andranofanjava
+
+Code: MG71713191, Coordinates: -12.457, 49.055
+
+#### Andranovondronina
+
+Code: MG71713170, Coordinates: -12.111, 49.22
+
+#### Anivorano Nord
+
+Code: MG71713231, Coordinates: -12.845, 49.315
+
+#### Ankarongana
+
+Code: MG71713210, Coordinates: -12.694, 49.512
+
+#### Anketrakabe
+
+Code: MG71713130, Coordinates: -12.567, 49.285
+
+#### Antanamitarana
+
+Code: MG71713032, Coordinates: -12.371, 49.284
+
+#### Antsahampano
+
+Code: MG71713050, Coordinates: -12.371, 49.191
+
+#### Antsalaka
+
+Code: MG71713152, Coordinates: -12.623, 49.223
+
+#### Antsoha
+
+Code: MG71713232, Coordinates: -12.498, 49.215
+
+#### Bobakilandy
+
+Code: MG71713253, Coordinates: -12.649, 48.917
+
+#### Bobasakoa
+
+Code: MG71713251, Coordinates: -12.824, 48.958
+
+#### Joffre Ville
+
+Code: MG71713033, Coordinates: -12.491, 49.222
+
+#### Mahalina
+
+Code: MG71713192, Coordinates: -12.495, 48.823
+
+#### Mahavanona
+
+Code: MG71713070, Coordinates: -12.459, 49.344
+
+#### Mangaoka
+
+Code: MG71713090, Coordinates: -12.395, 49.091
+
+#### Mosorolava
+
+Code: MG71713254, Coordinates: -12.58, 48.882
+
+#### Ramena
+
+Code: MG71713010, Coordinates: -12.325, 49.43
+
+#### Sadjoavato
+
+Code: MG71713151, Coordinates: -12.635, 49.464
+
+#### Sakaramy
+
+Code: MG71713031, Coordinates: -12.448, 49.287
+
+### Nosy-Be
+
+Code: MG71718, Coordinates: -13.349, 48.26
+Communes: 5
+
+#### Ambatozavavy
+
+Code: MG71718003, Coordinates: -13.36, 48.294
+
+#### Ampangorina
+
+Code: MG71718002, Coordinates: -13.464, 48.349
+
+#### Bemanondrobe
+
+Code: MG71718004, Coordinates: -13.274, 48.283
+
+#### Dzamandzar
+
+Code: MG71718005, Coordinates: -13.323, 48.199
+
+#### Hell-Ville
+
+Code: MG71718001, Coordinates: -13.396, 48.279
+

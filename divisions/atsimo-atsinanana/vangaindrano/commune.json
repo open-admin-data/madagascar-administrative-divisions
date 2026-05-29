@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "MG25214212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatolava",
+      "en": "Ambatolava",
+      "slug": "ambatolava"
+    },
+    "code": {
+      "id": "MG25214212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.586",
+      "lon": "47.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambongo",
+      "en": "Ambongo",
+      "slug": "ambongo"
+    },
+    "code": {
+      "id": "MG25214211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.47",
+      "lon": "47.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214331",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparihy Est",
+      "en": "Amparihy Est",
+      "slug": "amparihy-est"
+    },
+    "code": {
+      "id": "MG25214331",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.935",
+      "lon": "47.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimalemy",
+      "en": "Ampasimalemy",
+      "slug": "ampasimalemy"
+    },
+    "code": {
+      "id": "MG25214031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.368",
+      "lon": "47.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampataka",
+      "en": "Ampataka",
+      "slug": "ampataka"
+    },
+    "code": {
+      "id": "MG25214132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.351",
+      "lon": "47.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Anilobe",
+      "en": "Anilobe",
+      "slug": "anilobe"
+    },
+    "code": {
+      "id": "MG25214112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.198",
+      "lon": "47.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekaraoky",
+      "en": "Bekaraoky",
+      "slug": "bekaraoky"
+    },
+    "code": {
+      "id": "MG25214033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.456",
+      "lon": "47.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214092",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bema",
+      "en": "Bema",
+      "slug": "bema"
+    },
+    "code": {
+      "id": "MG25214092",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.159",
+      "lon": "47.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bevata",
+      "en": "Bevata",
+      "slug": "bevata"
+    },
+    "code": {
+      "id": "MG25214251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.307",
+      "lon": "47.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoambany",
+      "en": "Fenoambany",
+      "slug": "fenoambany"
+    },
+    "code": {
+      "id": "MG25214290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.89",
+      "lon": "47.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iara",
+      "en": "Iara",
+      "slug": "iara"
+    },
+    "code": {
+      "id": "MG25214230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.115",
+      "lon": "47.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214311",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isahara",
+      "en": "Isahara",
+      "slug": "isahara"
+    },
+    "code": {
+      "id": "MG25214311",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.749",
+      "lon": "47.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Karimbary",
+      "en": "Karimbary",
+      "slug": "karimbary"
+    },
+    "code": {
+      "id": "MG25214252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.189",
+      "lon": "47.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lohafary",
+      "en": "Lohafary",
+      "slug": "lohafary"
+    },
+    "code": {
+      "id": "MG25214131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.234",
+      "lon": "47.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214091",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lopary",
+      "en": "Lopary",
+      "slug": "lopary"
+    },
+    "code": {
+      "id": "MG25214091",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.207",
+      "lon": "47.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambondro",
+      "en": "Manambondro",
+      "slug": "manambondro"
+    },
+    "code": {
+      "id": "MG25214270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.763",
+      "lon": "47.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214172",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marokibo",
+      "en": "Marokibo",
+      "slug": "marokibo"
+    },
+    "code": {
+      "id": "MG25214172",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.67",
+      "lon": "47.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Masianaka",
+      "en": "Masianaka",
+      "slug": "masianaka"
+    },
+    "code": {
+      "id": "MG25214152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.581",
+      "lon": "47.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matanga",
+      "en": "Matanga",
+      "slug": "matanga"
+    },
+    "code": {
+      "id": "MG25214151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.5",
+      "lon": "47.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranomena",
+      "en": "Ranomena",
+      "slug": "ranomena"
+    },
+    "code": {
+      "id": "MG25214190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.461",
+      "lon": "47.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214332",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandravinany",
+      "en": "Sandravinany",
+      "slug": "sandravinany"
+    },
+    "code": {
+      "id": "MG25214332",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.989",
+      "lon": "47.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soamanova",
+      "en": "Soamanova",
+      "slug": "soamanova"
+    },
+    "code": {
+      "id": "MG25214070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.259",
+      "lon": "47.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsianofana",
+      "en": "Tsianofana",
+      "slug": "tsianofana"
+    },
+    "code": {
+      "id": "MG25214032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.419",
+      "lon": "47.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsiately",
+      "en": "Tsiately",
+      "slug": "tsiately"
+    },
+    "code": {
+      "id": "MG25214050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.306",
+      "lon": "47.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vangaindrano",
+      "en": "Vangaindrano",
+      "slug": "vangaindrano"
+    },
+    "code": {
+      "id": "MG25214010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.363",
+      "lon": "47.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214313",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vatanato",
+      "en": "Vatanato",
+      "slug": "vatanato"
+    },
+    "code": {
+      "id": "MG25214313",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.682",
+      "lon": "47.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214312",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohimalaza",
+      "en": "Vohimalaza",
+      "slug": "vohimalaza"
+    },
+    "code": {
+      "id": "MG25214312",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.731",
+      "lon": "47.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214171",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohipaho",
+      "en": "Vohipaho",
+      "slug": "vohipaho"
+    },
+    "code": {
+      "id": "MG25214171",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.533",
+      "lon": "47.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG25214111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitrambo",
+      "en": "Vohitrambo",
+      "slug": "vohitrambo"
+    },
+    "code": {
+      "id": "MG25214111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG25214",
+      "level": 2,
+      "name": {
+        "local": "Vangaindrano",
+        "en": "Vangaindrano",
+        "slug": "vangaindrano"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG25",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Atsinanana",
+          "en": "Atsimo Atsinanana",
+          "slug": "atsimo-atsinanana"
+        }
+      },
+      {
+        "id": "MG25214",
+        "level": 2,
+        "name": {
+          "local": "Vangaindrano",
+          "en": "Vangaindrano",
+          "slug": "vangaindrano"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.265",
+      "lon": "47.535"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

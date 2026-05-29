@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "MG53515112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatoabo",
+      "en": "Ambatoabo",
+      "slug": "ambatoabo"
+    },
+    "code": {
+      "id": "MG53515112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.783",
+      "lon": "46.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimena",
+      "en": "Ampasimena",
+      "slug": "ampasimena"
+    },
+    "code": {
+      "id": "MG53515230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.396",
+      "lon": "47.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasy Nahampoana",
+      "en": "Ampasy Nahampoana",
+      "slug": "ampasy-nahampoana"
+    },
+    "code": {
+      "id": "MG53515031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.938",
+      "lon": "46.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analamary",
+      "en": "Analamary",
+      "slug": "analamary"
+    },
+    "code": {
+      "id": "MG53515252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-23.262",
+      "lon": "45.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515114",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Analapatsy",
+      "en": "Analapatsy",
+      "slug": "analapatsy"
+    },
+    "code": {
+      "id": "MG53515114",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.156",
+      "lon": "46.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515115",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andranobory",
+      "en": "Andranobory",
+      "slug": "andranobory"
+    },
+    "code": {
+      "id": "MG53515115",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.127",
+      "lon": "46.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankaramena",
+      "en": "Ankaramena",
+      "slug": "ankaramena"
+    },
+    "code": {
+      "id": "MG53515090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.015",
+      "lon": "46.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515113",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankariera",
+      "en": "Ankariera",
+      "slug": "ankariera"
+    },
+    "code": {
+      "id": "MG53515113",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.013",
+      "lon": "46.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bevoay",
+      "en": "Bevoay",
+      "slug": "bevoay"
+    },
+    "code": {
+      "id": "MG53515210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.503",
+      "lon": "47.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Emagnobo",
+      "en": "Emagnobo",
+      "slug": "emagnobo"
+    },
+    "code": {
+      "id": "MG53515192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.637",
+      "lon": "47.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Enakara-Haut",
+      "en": "Enakara-Haut",
+      "slug": "enakara-haut"
+    },
+    "code": {
+      "id": "MG53515170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.609",
+      "lon": "46.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Enaniliha",
+      "en": "Enaniliha",
+      "slug": "enaniliha"
+    },
+    "code": {
+      "id": "MG53515151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.686",
+      "lon": "46.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fenoevo-Efita",
+      "en": "Fenoevo-Efita",
+      "slug": "fenoevo-efita"
+    },
+    "code": {
+      "id": "MG53515152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.719",
+      "lon": "46.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fort-Dauphin",
+      "en": "Fort-Dauphin",
+      "slug": "fort-dauphin"
+    },
+    "code": {
+      "id": "MG53515010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.02",
+      "lon": "46.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515132",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iaboakoho",
+      "en": "Iaboakoho",
+      "slug": "iaboakoho"
+    },
+    "code": {
+      "id": "MG53515132",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.618",
+      "lon": "47.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ifarantsa",
+      "en": "Ifarantsa",
+      "slug": "ifarantsa"
+    },
+    "code": {
+      "id": "MG53515051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.891",
+      "lon": "46.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isaka-Ivondro",
+      "en": "Isaka-Ivondro",
+      "slug": "isaka-ivondro"
+    },
+    "code": {
+      "id": "MG53515052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.802",
+      "lon": "46.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515131",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahatalaky",
+      "en": "Mahatalaky",
+      "slug": "mahatalaky"
+    },
+    "code": {
+      "id": "MG53515131",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.744",
+      "lon": "47.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manambaro",
+      "en": "Manambaro",
+      "slug": "manambaro"
+    },
+    "code": {
+      "id": "MG53515071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.971",
+      "lon": "46.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manantenina",
+      "en": "Manantenina",
+      "slug": "manantenina"
+    },
+    "code": {
+      "id": "MG53515251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.379",
+      "lon": "47.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515053",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandiso",
+      "en": "Mandiso",
+      "slug": "mandiso"
+    },
+    "code": {
+      "id": "MG53515053",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.861",
+      "lon": "46.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mandromondromotra",
+      "en": "Mandromondromotra",
+      "slug": "mandromondromotra"
+    },
+    "code": {
+      "id": "MG53515032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.939",
+      "lon": "47.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranomafana",
+      "en": "Ranomafana",
+      "slug": "ranomafana"
+    },
+    "code": {
+      "id": "MG53515191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.5",
+      "lon": "46.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ranopiso",
+      "en": "Ranopiso",
+      "slug": "ranopiso"
+    },
+    "code": {
+      "id": "MG53515111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.043",
+      "lon": "46.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sarisambo",
+      "en": "Sarisambo",
+      "slug": "sarisambo"
+    },
+    "code": {
+      "id": "MG53515072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.108",
+      "lon": "46.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soanierana",
+      "en": "Soanierana",
+      "slug": "soanierana"
+    },
+    "code": {
+      "id": "MG53515033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.003",
+      "lon": "46.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG53515253",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soavary",
+      "en": "Soavary",
+      "slug": "soavary"
+    },
+    "code": {
+      "id": "MG53515253",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG53515",
+      "level": 2,
+      "name": {
+        "local": "Taolagnaro",
+        "en": "Taolagnaro",
+        "slug": "taolagnaro"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG53",
+        "level": 1,
+        "name": {
+          "local": "Anosy",
+          "en": "Anosy",
+          "slug": "anosy"
+        }
+      },
+      {
+        "id": "MG53515",
+        "level": 2,
+        "name": {
+          "local": "Taolagnaro",
+          "en": "Taolagnaro",
+          "slug": "taolagnaro"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.114",
+      "lon": "47.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

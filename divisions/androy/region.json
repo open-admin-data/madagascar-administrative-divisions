@@ -1,0 +1,30 @@
+{
+  "id": "MG52",
+  "level": 1,
+  "level_name": {
+    "local": "Faritra",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Androy",
+    "en": "Androy",
+    "slug": "androy"
+  },
+  "code": {
+    "id": "MG52",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 4,
+    "commune": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-24.687",
+    "lon": "45.392"
+  },
+  "metadata": {},
+  "source": {}
+}

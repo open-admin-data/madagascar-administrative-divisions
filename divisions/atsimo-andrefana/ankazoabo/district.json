@@ -1,0 +1,47 @@
+{
+  "id": "MG51505",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ankazoabo",
+    "en": "Ankazoabo",
+    "slug": "ankazoabo"
+  },
+  "code": {
+    "id": "MG51505",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG51",
+    "level": 1,
+    "name": {
+      "local": "Atsimo Andrefana",
+      "en": "Atsimo Andrefana",
+      "slug": "atsimo-andrefana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG51",
+      "level": 1,
+      "name": {
+        "local": "Atsimo Andrefana",
+        "en": "Atsimo Andrefana",
+        "slug": "atsimo-andrefana"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-22.132",
+    "lon": "44.7"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "MG23207",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nosy-Varika",
+    "en": "Nosy-Varika",
+    "slug": "nosy-varika"
+  },
+  "code": {
+    "id": "MG23207",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG23",
+    "level": 1,
+    "name": {
+      "local": "Vatovavy Fitovinany",
+      "en": "Vatovavy Fitovinany",
+      "slug": "vatovavy-fitovinany"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG23",
+      "level": 1,
+      "name": {
+        "local": "Vatovavy Fitovinany",
+        "en": "Vatovavy Fitovinany",
+        "slug": "vatovavy-fitovinany"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.536",
+    "lon": "48.122"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "MG32305",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fenerive Est",
+      "en": "Fenerive Est",
+      "slug": "fenerive-est"
+    },
+    "code": {
+      "id": "MG32305",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.25",
+      "lon": "49.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32304",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mananara-Avaratra",
+      "en": "Mananara-Avaratra",
+      "slug": "mananara-avaratra"
+    },
+    "code": {
+      "id": "MG32304",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.235",
+      "lon": "49.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32303",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maroantsetra",
+      "en": "Maroantsetra",
+      "slug": "maroantsetra"
+    },
+    "code": {
+      "id": "MG32303",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.369",
+      "lon": "49.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32302",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sainte Marie",
+      "en": "Sainte Marie",
+      "slug": "sainte-marie"
+    },
+    "code": {
+      "id": "MG32302",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.911",
+      "lon": "49.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32318",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soanierana Ivongo",
+      "en": "Soanierana Ivongo",
+      "slug": "soanierana-ivongo"
+    },
+    "code": {
+      "id": "MG32318",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.67",
+      "lon": "49.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG32315",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Vavatenina",
+      "en": "Vavatenina",
+      "slug": "vavatenina"
+    },
+    "code": {
+      "id": "MG32315",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG32",
+      "level": 1,
+      "name": {
+        "local": "Analanjirofo",
+        "en": "Analanjirofo",
+        "slug": "analanjirofo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG32",
+        "level": 1,
+        "name": {
+          "local": "Analanjirofo",
+          "en": "Analanjirofo",
+          "slug": "analanjirofo"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.472",
+      "lon": "49.006"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

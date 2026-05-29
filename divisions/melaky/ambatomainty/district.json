@@ -1,0 +1,47 @@
+{
+  "id": "MG44417",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambatomainty",
+    "en": "Ambatomainty",
+    "slug": "ambatomainty"
+  },
+  "code": {
+    "id": "MG44417",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG44",
+    "level": 1,
+    "name": {
+      "local": "Melaky",
+      "en": "Melaky",
+      "slug": "melaky"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG44",
+      "level": 1,
+      "name": {
+        "local": "Melaky",
+        "en": "Melaky",
+        "slug": "melaky"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-17.814",
+    "lon": "45.505"
+  },
+  "metadata": {},
+  "source": {}
+}

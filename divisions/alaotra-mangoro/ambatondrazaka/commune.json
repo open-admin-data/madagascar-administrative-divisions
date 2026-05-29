@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "MG33313033",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambandrika",
+      "en": "Ambandrika",
+      "slug": "ambandrika"
+    },
+    "code": {
+      "id": "MG33313033",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.769",
+      "lon": "48.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatondrazaka",
+      "en": "Ambatondrazaka",
+      "slug": "ambatondrazaka"
+    },
+    "code": {
+      "id": "MG33313010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.811",
+      "lon": "48.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313032",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatondrazaka Suburbaine",
+      "en": "Ambatondrazaka Suburbaine",
+      "slug": "ambatondrazaka-suburbaine"
+    },
+    "code": {
+      "id": "MG33313032",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.876",
+      "lon": "48.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatosoratra",
+      "en": "Ambatosoratra",
+      "slug": "ambatosoratra"
+    },
+    "code": {
+      "id": "MG33313130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.598",
+      "lon": "48.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitsilaozana",
+      "en": "Ambohitsilaozana",
+      "slug": "ambohitsilaozana"
+    },
+    "code": {
+      "id": "MG33313070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.729",
+      "lon": "48.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amparihintsokatra",
+      "en": "Amparihintsokatra",
+      "slug": "amparihintsokatra"
+    },
+    "code": {
+      "id": "MG33313192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.536",
+      "lon": "48.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampitatsimo",
+      "en": "Ampitatsimo",
+      "slug": "ampitatsimo"
+    },
+    "code": {
+      "id": "MG33313050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.777",
+      "lon": "48.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313151",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andilanatoby",
+      "en": "Andilanatoby",
+      "slug": "andilanatoby"
+    },
+    "code": {
+      "id": "MG33313151",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.028",
+      "lon": "48.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313194",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andromba",
+      "en": "Andromba",
+      "slug": "andromba"
+    },
+    "code": {
+      "id": "MG33313194",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.413",
+      "lon": "48.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313193",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antanandava",
+      "en": "Antanandava",
+      "slug": "antanandava"
+    },
+    "code": {
+      "id": "MG33313193",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.901",
+      "lon": "48.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antsangasanga",
+      "en": "Antsangasanga",
+      "slug": "antsangasanga"
+    },
+    "code": {
+      "id": "MG33313112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.814",
+      "lon": "48.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313152",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bejofo",
+      "en": "Bejofo",
+      "slug": "bejofo"
+    },
+    "code": {
+      "id": "MG33313152",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.874",
+      "lon": "48.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Didy",
+      "en": "Didy",
+      "slug": "didy"
+    },
+    "code": {
+      "id": "MG33313170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.134",
+      "lon": "48.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313031",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Feramanga Nord",
+      "en": "Feramanga Nord",
+      "slug": "feramanga-nord"
+    },
+    "code": {
+      "id": "MG33313031",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.848",
+      "lon": "48.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilafy",
+      "en": "Ilafy",
+      "slug": "ilafy"
+    },
+    "code": {
+      "id": "MG33313090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.907",
+      "lon": "48.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imerimandroso",
+      "en": "Imerimandroso",
+      "slug": "imerimandroso"
+    },
+    "code": {
+      "id": "MG33313191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.445",
+      "lon": "48.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakambahiny Andrefana",
+      "en": "Manakambahiny Andrefana",
+      "slug": "manakambahiny-andrefana"
+    },
+    "code": {
+      "id": "MG33313111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.85",
+      "lon": "48.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manakambahiny Antsinanana",
+      "en": "Manakambahiny Antsinanana",
+      "slug": "manakambahiny-antsinanana"
+    },
+    "code": {
+      "id": "MG33313210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.774",
+      "lon": "48.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313231",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soalazaina",
+      "en": "Soalazaina",
+      "slug": "soalazaina"
+    },
+    "code": {
+      "id": "MG33313231",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.96",
+      "lon": "48.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG33313232",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tanambao Besakay",
+      "en": "Tanambao Besakay",
+      "slug": "tanambao-besakay"
+    },
+    "code": {
+      "id": "MG33313232",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG33313",
+      "level": 2,
+      "name": {
+        "local": "Ambatondrazaka",
+        "en": "Ambatondrazaka",
+        "slug": "ambatondrazaka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG33",
+        "level": 1,
+        "name": {
+          "local": "Alaotra Mangoro",
+          "en": "Alaotra Mangoro",
+          "slug": "alaotra-mangoro"
+        }
+      },
+      {
+        "id": "MG33313",
+        "level": 2,
+        "name": {
+          "local": "Ambatondrazaka",
+          "en": "Ambatondrazaka",
+          "slug": "ambatondrazaka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-18.173",
+      "lon": "48.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "MG42411",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Analalava",
+      "en": "Analalava",
+      "slug": "analalava"
+    },
+    "code": {
+      "id": "MG42411",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.668",
+      "lon": "47.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42413",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Antsohihy",
+      "en": "Antsohihy",
+      "slug": "antsohihy"
+    },
+    "code": {
+      "id": "MG42413",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.972",
+      "lon": "48.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42414",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bealanana",
+      "en": "Bealanana",
+      "slug": "bealanana"
+    },
+    "code": {
+      "id": "MG42414",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.561",
+      "lon": "48.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42412",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Befandriana Nord",
+      "en": "Befandriana Nord",
+      "slug": "befandriana-nord"
+    },
+    "code": {
+      "id": "MG42412",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.151",
+      "lon": "48.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mampikony",
+      "en": "Mampikony",
+      "slug": "mampikony"
+    },
+    "code": {
+      "id": "MG42423",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.182",
+      "lon": "47.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42410",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mandritsara",
+      "en": "Mandritsara",
+      "slug": "mandritsara"
+    },
+    "code": {
+      "id": "MG42410",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.049",
+      "lon": "48.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42409",
+    "level": 2,
+    "level_name": {
+      "local": "Distrika",
+      "en": "District"
+    },
+    "name": {
+      "local": "Port-Berge (Boriziny-Vaovao)",
+      "en": "Port-Berge (Boriziny-Vaovao)",
+      "slug": "port-berge-boriziny-vaovao"
+    },
+    "code": {
+      "id": "MG42409",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42",
+      "level": 1,
+      "name": {
+        "local": "Sofia",
+        "en": "Sofia",
+        "slug": "sofia"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.801",
+      "lon": "47.723"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

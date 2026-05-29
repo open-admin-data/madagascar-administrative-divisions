@@ -1,0 +1,110 @@
+[
+  {
+    "id": "MG41401002",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahabibo",
+      "en": "Mahabibo",
+      "slug": "mahabibo"
+    },
+    "code": {
+      "id": "MG41401002",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41401",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga I",
+        "en": "Mahajanga I",
+        "slug": "mahajanga-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41401",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga I",
+          "en": "Mahajanga I",
+          "slug": "mahajanga-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.68",
+      "lon": "46.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG41401001",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahajanga",
+      "en": "Mahajanga",
+      "slug": "mahajanga"
+    },
+    "code": {
+      "id": "MG41401001",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG41401",
+      "level": 2,
+      "name": {
+        "local": "Mahajanga I",
+        "en": "Mahajanga I",
+        "slug": "mahajanga-i"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG41",
+        "level": 1,
+        "name": {
+          "local": "Boeny",
+          "en": "Boeny",
+          "slug": "boeny"
+        }
+      },
+      {
+        "id": "MG41401",
+        "level": 2,
+        "name": {
+          "local": "Mahajanga I",
+          "en": "Mahajanga I",
+          "slug": "mahajanga-i"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.711",
+      "lon": "46.316"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

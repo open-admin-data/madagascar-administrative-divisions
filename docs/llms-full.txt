@@ -1,0 +1,55 @@
+# Madagascar Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Analamanga](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/analamanga.txt) — 13 districts, 139 communes
+- [Vakinankaratra](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/vakinankaratra.txt) — 7 districts, 91 communes
+- [Itasy](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/itasy.txt) — 3 districts, 51 communes
+- [Bongolava](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/bongolava.txt) — 2 districts, 26 communes
+- [Haute Matsiatra](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/haute-matsiatra.txt) — 7 districts, 88 communes
+- [Amoron I Mania](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/amoron-i-mania.txt) — 4 districts, 55 communes
+- [Vatovavy Fitovinany](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/vatovavy-fitovinany.txt) — 6 districts, 139 communes
+- [Ihorombe](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/ihorombe.txt) — 3 districts, 26 communes
+- [Atsimo Atsinanana](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/atsimo-atsinanana.txt) — 5 districts, 90 communes
+- [Atsinanana](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/atsinanana.txt) — 7 districts, 88 communes
+- [Analanjirofo](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/analanjirofo.txt) — 6 districts, 63 communes
+- [Alaotra Mangoro](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/alaotra-mangoro.txt) — 5 districts, 79 communes
+- [Boeny](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/boeny.txt) — 6 districts, 44 communes
+- [Sofia](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/sofia.txt) — 7 districts, 108 communes
+- [Betsiboka](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/betsiboka.txt) — 3 districts, 35 communes
+- [Melaky](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/melaky.txt) — 5 districts, 37 communes
+- [Atsimo Andrefana](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/atsimo-andrefana.txt) — 9 districts, 110 communes
+- [Androy](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/androy.txt) — 4 districts, 51 communes
+- [Anosy](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/anosy.txt) — 3 districts, 64 communes
+- [Menabe](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/menabe.txt) — 5 districts, 51 communes
+- [Diana](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/diana.txt) — 5 districts, 65 communes
+- [Sava](https://github.com/open-admin-data/madagascar-administrative-divisions/blob/main/docs/llms-full/sava.txt) — 4 districts, 79 communes
+
+## Summary
+
+| Region | Districts | Communes | 
+|---|---|---|
+| Analamanga | 13 | 139 | 
+| Vakinankaratra | 7 | 91 | 
+| Itasy | 3 | 51 | 
+| Bongolava | 2 | 26 | 
+| Haute Matsiatra | 7 | 88 | 
+| Amoron I Mania | 4 | 55 | 
+| Vatovavy Fitovinany | 6 | 139 | 
+| Ihorombe | 3 | 26 | 
+| Atsimo Atsinanana | 5 | 90 | 
+| Atsinanana | 7 | 88 | 
+| Analanjirofo | 6 | 63 | 
+| Alaotra Mangoro | 5 | 79 | 
+| Boeny | 6 | 44 | 
+| Sofia | 7 | 108 | 
+| Betsiboka | 3 | 35 | 
+| Melaky | 5 | 37 | 
+| Atsimo Andrefana | 9 | 110 | 
+| Androy | 4 | 51 | 
+| Anosy | 3 | 64 | 
+| Menabe | 5 | 51 | 
+| Diana | 5 | 65 | 
+| Sava | 4 | 79 | 

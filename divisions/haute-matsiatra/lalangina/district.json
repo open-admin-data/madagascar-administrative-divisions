@@ -1,0 +1,47 @@
+{
+  "id": "MG21220",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lalangina",
+    "en": "Lalangina",
+    "slug": "lalangina"
+  },
+  "code": {
+    "id": "MG21220",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG21",
+    "level": 1,
+    "name": {
+      "local": "Haute Matsiatra",
+      "en": "Haute Matsiatra",
+      "slug": "haute-matsiatra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG21",
+      "level": 1,
+      "name": {
+        "local": "Haute Matsiatra",
+        "en": "Haute Matsiatra",
+        "slug": "haute-matsiatra"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-21.414",
+    "lon": "47.248"
+  },
+  "metadata": {},
+  "source": {}
+}

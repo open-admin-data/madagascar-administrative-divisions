@@ -1,0 +1,542 @@
+[
+  {
+    "id": "MG42423112",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambodihazoambo",
+      "en": "Ambodihazoambo",
+      "slug": "ambodihazoambo"
+    },
+    "code": {
+      "id": "MG42423112",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.133",
+      "lon": "48.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423051",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohitoaka",
+      "en": "Ambohitoaka",
+      "slug": "ambohitoaka"
+    },
+    "code": {
+      "id": "MG42423051",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.942",
+      "lon": "47.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423111",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampasimatera",
+      "en": "Ampasimatera",
+      "slug": "ampasimatera"
+    },
+    "code": {
+      "id": "MG42423111",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.97",
+      "lon": "47.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423052",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiririky",
+      "en": "Ankiririky",
+      "slug": "ankiririky"
+    },
+    "code": {
+      "id": "MG42423052",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.828",
+      "lon": "47.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bekoratsaka",
+      "en": "Bekoratsaka",
+      "slug": "bekoratsaka"
+    },
+    "code": {
+      "id": "MG42423071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.118",
+      "lon": "47.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423073",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betaramahamay",
+      "en": "Betaramahamay",
+      "slug": "betaramahamay"
+    },
+    "code": {
+      "id": "MG42423073",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.958",
+      "lon": "47.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Komajia",
+      "en": "Komajia",
+      "slug": "komajia"
+    },
+    "code": {
+      "id": "MG42423090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.232",
+      "lon": "47.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malakialina",
+      "en": "Malakialina",
+      "slug": "malakialina"
+    },
+    "code": {
+      "id": "MG42423072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.319",
+      "lon": "47.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mampikony I",
+      "en": "Mampikony I",
+      "slug": "mampikony-i"
+    },
+    "code": {
+      "id": "MG42423010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.086",
+      "lon": "47.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG42423030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mampikony II",
+      "en": "Mampikony II",
+      "slug": "mampikony-ii"
+    },
+    "code": {
+      "id": "MG42423030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG42423",
+      "level": 2,
+      "name": {
+        "local": "Mampikony",
+        "en": "Mampikony",
+        "slug": "mampikony"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG42",
+        "level": 1,
+        "name": {
+          "local": "Sofia",
+          "en": "Sofia",
+          "slug": "sofia"
+        }
+      },
+      {
+        "id": "MG42423",
+        "level": 2,
+        "name": {
+          "local": "Mampikony",
+          "en": "Mampikony",
+          "slug": "mampikony"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.303",
+      "lon": "47.702"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

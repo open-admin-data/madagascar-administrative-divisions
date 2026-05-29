@@ -1,0 +1,704 @@
+[
+  {
+    "id": "MG22204210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alakamisy Ambohimahazo",
+      "en": "Alakamisy Ambohimahazo",
+      "slug": "alakamisy-ambohimahazo"
+    },
+    "code": {
+      "id": "MG22204210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.487",
+      "lon": "47.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankarinoro",
+      "en": "Ankarinoro",
+      "slug": "ankarinoro"
+    },
+    "code": {
+      "id": "MG22204130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.373",
+      "lon": "47.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204192",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Betsimisotra",
+      "en": "Betsimisotra",
+      "slug": "betsimisotra"
+    },
+    "code": {
+      "id": "MG22204192",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.304",
+      "lon": "47.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fandriana",
+      "en": "Fandriana",
+      "slug": "fandriana"
+    },
+    "code": {
+      "id": "MG22204010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.177",
+      "lon": "47.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiadanana",
+      "en": "Fiadanana",
+      "slug": "fiadanana"
+    },
+    "code": {
+      "id": "MG22204070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Imito",
+      "en": "Imito",
+      "slug": "imito"
+    },
+    "code": {
+      "id": "MG22204230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.417",
+      "lon": "47.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mahazoarivo",
+      "en": "Mahazoarivo",
+      "slug": "mahazoarivo"
+    },
+    "code": {
+      "id": "MG22204170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-22.649",
+      "lon": "47.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204191",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Miarinavaratra",
+      "en": "Miarinavaratra",
+      "slug": "miarinavaratra"
+    },
+    "code": {
+      "id": "MG22204191",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.164",
+      "lon": "47.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Milamaina",
+      "en": "Milamaina",
+      "slug": "milamaina"
+    },
+    "code": {
+      "id": "MG22204030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.267",
+      "lon": "47.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahamadio Fisakana",
+      "en": "Sahamadio Fisakana",
+      "slug": "sahamadio-fisakana"
+    },
+    "code": {
+      "id": "MG22204050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.289",
+      "lon": "47.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sandrandahy",
+      "en": "Sandrandahy",
+      "slug": "sandrandahy"
+    },
+    "code": {
+      "id": "MG22204150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.353",
+      "lon": "47.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tatamalaza",
+      "en": "Tatamalaza",
+      "slug": "tatamalaza"
+    },
+    "code": {
+      "id": "MG22204110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.179",
+      "lon": "47.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG22204090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tsarazaza",
+      "en": "Tsarazaza",
+      "slug": "tsarazaza"
+    },
+    "code": {
+      "id": "MG22204090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG22204",
+      "level": 2,
+      "name": {
+        "local": "Fandriana",
+        "en": "Fandriana",
+        "slug": "fandriana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG22",
+        "level": 1,
+        "name": {
+          "local": "Amoron I Mania",
+          "en": "Amoron I Mania",
+          "slug": "amoron-i-mania"
+        }
+      },
+      {
+        "id": "MG22204",
+        "level": 2,
+        "name": {
+          "local": "Fandriana",
+          "en": "Fandriana",
+          "slug": "fandriana"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.16",
+      "lon": "47.282"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

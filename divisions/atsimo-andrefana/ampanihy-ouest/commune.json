@@ -1,0 +1,866 @@
+[
+  {
+    "id": "MG51507050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amborompotsy",
+      "en": "Amborompotsy",
+      "slug": "amborompotsy"
+    },
+    "code": {
+      "id": "MG51507050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.707",
+      "lon": "44.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampanihy Ouest",
+      "en": "Ampanihy Ouest",
+      "slug": "ampanihy-ouest"
+    },
+    "code": {
+      "id": "MG51507010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.853",
+      "lon": "44.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Androka",
+      "en": "Androka",
+      "slug": "androka"
+    },
+    "code": {
+      "id": "MG51507230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-25.054",
+      "lon": "44.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankiliabo",
+      "en": "Ankiliabo",
+      "slug": "ankiliabo"
+    },
+    "code": {
+      "id": "MG51507030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.671",
+      "lon": "43.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankilimivory",
+      "en": "Ankilimivory",
+      "slug": "ankilimivory"
+    },
+    "code": {
+      "id": "MG51507130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.407",
+      "lon": "44.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507070",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankilizato",
+      "en": "Ankilizato",
+      "slug": "ankilizato"
+    },
+    "code": {
+      "id": "MG51507070",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.424",
+      "lon": "45.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Antaly",
+      "en": "Antaly",
+      "slug": "antaly"
+    },
+    "code": {
+      "id": "MG51507110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.337",
+      "lon": "44.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beahitse",
+      "en": "Beahitse",
+      "slug": "beahitse"
+    },
+    "code": {
+      "id": "MG51507190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.173",
+      "lon": "44.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belafike Haut",
+      "en": "Belafike Haut",
+      "slug": "belafike-haut"
+    },
+    "code": {
+      "id": "MG51507170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.303",
+      "lon": "44.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beroy Atsimo",
+      "en": "Beroy Atsimo",
+      "slug": "beroy-atsimo"
+    },
+    "code": {
+      "id": "MG51507270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.009",
+      "lon": "44.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ejeda",
+      "en": "Ejeda",
+      "slug": "ejeda"
+    },
+    "code": {
+      "id": "MG51507150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.291",
+      "lon": "44.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fotadrevo",
+      "en": "Fotadrevo",
+      "slug": "fotadrevo"
+    },
+    "code": {
+      "id": "MG51507290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.083",
+      "lon": "45.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507210",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gogogogo",
+      "en": "Gogogogo",
+      "slug": "gogogogo"
+    },
+    "code": {
+      "id": "MG51507210",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.311",
+      "lon": "44.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507310",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Itampolo",
+      "en": "Itampolo",
+      "slug": "itampolo"
+    },
+    "code": {
+      "id": "MG51507310",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.583",
+      "lon": "44.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maniry",
+      "en": "Maniry",
+      "slug": "maniry"
+    },
+    "code": {
+      "id": "MG51507090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.473",
+      "lon": "44.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG51507250",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitany",
+      "en": "Vohitany",
+      "slug": "vohitany"
+    },
+    "code": {
+      "id": "MG51507250",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG51507",
+      "level": 2,
+      "name": {
+        "local": "Ampanihy Ouest",
+        "en": "Ampanihy Ouest",
+        "slug": "ampanihy-ouest"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG51",
+        "level": 1,
+        "name": {
+          "local": "Atsimo Andrefana",
+          "en": "Atsimo Andrefana",
+          "slug": "atsimo-andrefana"
+        }
+      },
+      {
+        "id": "MG51507",
+        "level": 2,
+        "name": {
+          "local": "Ampanihy Ouest",
+          "en": "Ampanihy Ouest",
+          "slug": "ampanihy-ouest"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-24.134",
+      "lon": "44.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

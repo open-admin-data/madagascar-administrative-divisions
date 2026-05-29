@@ -1,0 +1,47 @@
+{
+  "id": "MG22223",
+  "level": 2,
+  "level_name": {
+    "local": "Distrika",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manandriana",
+    "en": "Manandriana",
+    "slug": "manandriana"
+  },
+  "code": {
+    "id": "MG22223",
+    "iso": null
+  },
+  "parent": {
+    "id": "MG22",
+    "level": 1,
+    "name": {
+      "local": "Amoron I Mania",
+      "en": "Amoron I Mania",
+      "slug": "amoron-i-mania"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "MG22",
+      "level": 1,
+      "name": {
+        "local": "Amoron I Mania",
+        "en": "Amoron I Mania",
+        "slug": "amoron-i-mania"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-20.748",
+    "lon": "47.013"
+  },
+  "metadata": {},
+  "source": {}
+}

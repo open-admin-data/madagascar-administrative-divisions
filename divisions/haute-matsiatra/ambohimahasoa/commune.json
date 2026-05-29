@@ -1,0 +1,974 @@
+[
+  {
+    "id": "MG21208072",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambalakindresy",
+      "en": "Ambalakindresy",
+      "slug": "ambalakindresy"
+    },
+    "code": {
+      "id": "MG21208072",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.122",
+      "lon": "47.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208190",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambatosoa",
+      "en": "Ambatosoa",
+      "slug": "ambatosoa"
+    },
+    "code": {
+      "id": "MG21208190",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.994",
+      "lon": "47.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208010",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohimahasoa",
+      "en": "Ambohimahasoa",
+      "slug": "ambohimahasoa"
+    },
+    "code": {
+      "id": "MG21208010",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.092",
+      "lon": "47.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208230",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambohinamboarina",
+      "en": "Ambohinamboarina",
+      "slug": "ambohinamboarina"
+    },
+    "code": {
+      "id": "MG21208230",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.014",
+      "lon": "47.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208030",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ampitana",
+      "en": "Ampitana",
+      "slug": "ampitana"
+    },
+    "code": {
+      "id": "MG21208030",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.128",
+      "lon": "47.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208090",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankafina Tsarafidy",
+      "en": "Ankafina Tsarafidy",
+      "slug": "ankafina-tsarafidy"
+    },
+    "code": {
+      "id": "MG21208090",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.223",
+      "lon": "47.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208050",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ankerana",
+      "en": "Ankerana",
+      "slug": "ankerana"
+    },
+    "code": {
+      "id": "MG21208050",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.117",
+      "lon": "47.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208270",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Befeta",
+      "en": "Befeta",
+      "slug": "befeta"
+    },
+    "code": {
+      "id": "MG21208270",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.237",
+      "lon": "47.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208252",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camp Robin",
+      "en": "Camp Robin",
+      "slug": "camp-robin"
+    },
+    "code": {
+      "id": "MG21208252",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.911",
+      "lon": "47.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208290",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fiadanana",
+      "en": "Fiadanana",
+      "slug": "fiadanana"
+    },
+    "code": {
+      "id": "MG21208290",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.425",
+      "lon": "48.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208150",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ikalalao",
+      "en": "Ikalalao",
+      "slug": "ikalalao"
+    },
+    "code": {
+      "id": "MG21208150",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.187",
+      "lon": "47.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208211",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Isaka",
+      "en": "Isaka",
+      "slug": "isaka"
+    },
+    "code": {
+      "id": "MG21208211",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.134",
+      "lon": "47.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208071",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Manandroy",
+      "en": "Manandroy",
+      "slug": "manandroy"
+    },
+    "code": {
+      "id": "MG21208071",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.121",
+      "lon": "47.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208130",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Morafeno",
+      "en": "Morafeno",
+      "slug": "morafeno"
+    },
+    "code": {
+      "id": "MG21208130",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.371",
+      "lon": "50.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208251",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahatona",
+      "en": "Sahatona",
+      "slug": "sahatona"
+    },
+    "code": {
+      "id": "MG21208251",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-20.948",
+      "lon": "47.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208110",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sahave",
+      "en": "Sahave",
+      "slug": "sahave"
+    },
+    "code": {
+      "id": "MG21208110",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.086",
+      "lon": "47.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208170",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohiposa",
+      "en": "Vohiposa",
+      "slug": "vohiposa"
+    },
+    "code": {
+      "id": "MG21208170",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.004",
+      "lon": "47.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "MG21208212",
+    "level": 3,
+    "level_name": {
+      "local": "Kaominina",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vohitrarivo",
+      "en": "Vohitrarivo",
+      "slug": "vohitrarivo"
+    },
+    "code": {
+      "id": "MG21208212",
+      "iso": null
+    },
+    "parent": {
+      "id": "MG21208",
+      "level": 2,
+      "name": {
+        "local": "Ambohimahasoa",
+        "en": "Ambohimahasoa",
+        "slug": "ambohimahasoa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "MG21",
+        "level": 1,
+        "name": {
+          "local": "Haute Matsiatra",
+          "en": "Haute Matsiatra",
+          "slug": "haute-matsiatra"
+        }
+      },
+      {
+        "id": "MG21208",
+        "level": 2,
+        "name": {
+          "local": "Ambohimahasoa",
+          "en": "Ambohimahasoa",
+          "slug": "ambohimahasoa"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-21.053",
+      "lon": "46.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
