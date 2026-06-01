@@ -26,5 +26,9 @@
     "lon": "46.085"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/ihorombe/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

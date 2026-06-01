@@ -26,5 +26,9 @@
     "lon": "45.392"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/androy/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

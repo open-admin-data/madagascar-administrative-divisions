@@ -3,7 +3,7 @@
 > 6 districts, 63 communes
 > Code: MG32
 > Coordinates: -16.316, 49.368
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

@@ -26,5 +26,9 @@
     "lon": null
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/haute-matsiatra/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

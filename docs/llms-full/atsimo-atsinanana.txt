@@ -3,7 +3,7 @@
 > 5 districts, 90 communes
 > Code: MG25
 > Coordinates: -18.977, 48.584
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

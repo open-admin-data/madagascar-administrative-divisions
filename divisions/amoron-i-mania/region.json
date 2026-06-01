@@ -26,5 +26,9 @@
     "lon": "46.756"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/amoron-i-mania/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

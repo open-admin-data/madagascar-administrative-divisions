@@ -1,142 +1,143 @@
-id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.commune,zip_codes,geo.lat,geo.lon
-MG11,1,Faritra,Region,Analamanga,Analamanga,analamanga,MG11,,,,,,13,139,,-18.604,47.292
-MG11101001A,2,Distrika,District,1er Arrondissement,1er Arrondissement,1er-arrondissement,MG11101001A,,MG11,Analamanga,Analamanga,,,1,,-18.904,47.512
-MG11101002A,2,Distrika,District,2e Arrondissement,2e Arrondissement,2e-arrondissement,MG11101002A,,MG11,Analamanga,Analamanga,,,1,,-18.933,47.551
-MG11101003A,2,Distrika,District,3e Arrondissement,3e Arrondissement,3e-arrondissement,MG11101003A,,MG11,Analamanga,Analamanga,,,1,,-18.895,47.529
-MG11101004A,2,Distrika,District,4e Arrondissement,4e Arrondissement,4e-arrondissement,MG11101004A,,MG11,Analamanga,Analamanga,,,1,,-18.933,47.515
-MG11101005A,2,Distrika,District,5e Arrondissement,5e Arrondissement,5e-arrondissement,MG11101005A,,MG11,Analamanga,Analamanga,,,1,,-18.882,47.54
-MG11101006A,2,Distrika,District,6e Arrondissement,6e Arrondissement,6e-arrondissement,MG11101006A,,MG11,Analamanga,Analamanga,,,1,,-18.868,47.493
-MG11102,2,Distrika,District,Antananarivo Avaradrano,Antananarivo Avaradrano,antananarivo-avaradrano,MG11102,,MG11,Analamanga,Analamanga,,,14,,-18.918,47.625
-MG11103,2,Distrika,District,Ambohidratrimo,Ambohidratrimo,ambohidratrimo,MG11103,,MG11,Analamanga,Analamanga,,,25,,-18.676,47.417
-MG11104,2,Distrika,District,Ankazobe,Ankazobe,ankazobe,MG11104,,MG11,Analamanga,Analamanga,,,13,,-18.235,47.004
-MG11106,2,Distrika,District,Manjakandriana,Manjakandriana,manjakandriana,MG11106,,MG11,Analamanga,Analamanga,,,25,,-18.821,47.772
-MG11107,2,Distrika,District,Anjozorobe,Anjozorobe,anjozorobe,MG11107,,MG11,Analamanga,Analamanga,,,18,,-18.198,47.724
-MG11115,2,Distrika,District,Andramasina,Andramasina,andramasina,MG11115,,MG11,Analamanga,Analamanga,,,12,,-19.337,47.731
-MG11117,2,Distrika,District,Antananarivo Atsimondrano,Antananarivo Atsimondrano,antananarivo-atsimondrano,MG11117,,MG11,Analamanga,Analamanga,,,26,,-19.01,47.52
-MG12,1,Faritra,Region,Vakinankaratra,Vakinankaratra,vakinankaratra,MG12,,,,,,7,91,,-19.709,46.814
-MG12108,2,Distrika,District,Antsirabe I,Antsirabe I,antsirabe-i,MG12108,,MG12,Vakinankaratra,Vakinankaratra,,,6,,-19.882,47.031
-MG12109,2,Distrika,District,Betafo,Betafo,betafo,MG12109,,MG12,Vakinankaratra,Vakinankaratra,,,18,,-19.892,46.626
-MG12110,2,Distrika,District,Ambatolampy,Ambatolampy,ambatolampy,MG12110,,MG12,Vakinankaratra,Vakinankaratra,,,18,,-19.422,47.54
-MG12114,2,Distrika,District,Antanifotsy,Antanifotsy,antanifotsy,MG12114,,MG12,Vakinankaratra,Vakinankaratra,,,12,,-19.75,47.533
-MG12116,2,Distrika,District,Faratsiho,Faratsiho,faratsiho,MG12116,,MG12,Vakinankaratra,Vakinankaratra,,,9,,-19.419,46.893
-MG12118,2,Distrika,District,Antsirabe II,Antsirabe II,antsirabe-ii,MG12118,,MG12,Vakinankaratra,Vakinankaratra,,,20,,-19.841,47.204
-MG12120,2,Distrika,District,Mandoto,Mandoto,mandoto,MG12120,,MG12,Vakinankaratra,Vakinankaratra,,,8,,-19.727,46.227
-MG13,1,Faritra,Region,Itasy,Itasy,itasy,MG13,,,,,,3,51,,-19.056,46.833
-MG13105,2,Distrika,District,Arivonimamo,Arivonimamo,arivonimamo,MG13105,,MG13,Itasy,Itasy,,,22,,-19.045,47.248
-MG13112,2,Distrika,District,Miarinarivo,Miarinarivo,miarinarivo,MG13112,,MG13,Itasy,Itasy,,,14,,-18.928,46.805
-MG13113,2,Distrika,District,Soavinandriana,Soavinandriana,soavinandriana,MG13113,,MG13,Itasy,Itasy,,,15,,-19.219,46.544
-MG14,1,Faritra,Region,Bongolava,Bongolava,bongolava,MG14,,,,,,2,26,,-18.592,46.303
-MG14111,2,Distrika,District,Tsiroanomandidy,Tsiroanomandidy,tsiroanomandidy,MG14111,,MG14,Bongolava,Bongolava,,,18,,-18.728,46.021
-MG14119,2,Distrika,District,Fenoarivobe,Fenoarivobe,fenoarivobe,MG14119,,MG14,Bongolava,Bongolava,,,8,,-18.242,46.41
-MG21,1,Faritra,Region,Haute Matsiatra,Haute Matsiatra,haute-matsiatra,MG21,,,,,,7,88,,,
-MG21201,2,Distrika,District,Fianarantsoa I,Fianarantsoa I,fianarantsoa-i,MG21201,,MG21,Haute Matsiatra,Haute Matsiatra,,,7,,-21.454,47.087
-MG21205,2,Distrika,District,Ambalavao,Ambalavao,ambalavao,MG21205,,MG21,Haute Matsiatra,Haute Matsiatra,,,17,,-21.841,46.737
-MG21208,2,Distrika,District,Ambohimahasoa,Ambohimahasoa,ambohimahasoa,MG21208,,MG21,Haute Matsiatra,Haute Matsiatra,,,18,,-21.056,47.146
-MG21219,2,Distrika,District,Ikalamavony,Ikalamavony,ikalamavony,MG21219,,MG21,Haute Matsiatra,Haute Matsiatra,,,8,,-21.226,46.204
-MG21220,2,Distrika,District,Lalangina,Lalangina,lalangina,MG21220,,MG21,Haute Matsiatra,Haute Matsiatra,,,13,,-21.414,47.248
-MG21224,2,Distrika,District,Vohibato,Vohibato,vohibato,MG21224,,MG21,Haute Matsiatra,Haute Matsiatra,,,14,,-21.673,47.053
-MG21225,2,Distrika,District,Isandra,Isandra,isandra,MG21225,,MG21,Haute Matsiatra,Haute Matsiatra,,,11,,-21.25,46.909
-MG22,1,Faritra,Region,Amoron I Mania,Amoron I Mania,amoron-i-mania,MG22,,,,,,4,55,,-20.459,46.756
-MG22202,2,Distrika,District,Ambatofinandrahana,Ambatofinandrahana,ambatofinandrahana,MG22202,,MG22,Amoron I Mania,Amoron I Mania,,,9,,-20.456,46.392
-MG22203,2,Distrika,District,Ambositra,Ambositra,ambositra,MG22203,,MG22,Amoron I Mania,Amoron I Mania,,,23,,-20.561,47.323
-MG22204,2,Distrika,District,Fandriana,Fandriana,fandriana,MG22204,,MG22,Amoron I Mania,Amoron I Mania,,,13,,-20.289,47.446
-MG22223,2,Distrika,District,Manandriana,Manandriana,manandriana,MG22223,,MG22,Amoron I Mania,Amoron I Mania,,,10,,-20.748,47.013
-MG23,1,Faritra,Region,Vatovavy Fitovinany,Vatovavy Fitovinany,vatovavy-fitovinany,MG23,,,,,,6,139,,-21.287,47.832
-MG23206,2,Distrika,District,Ifanadiana,Ifanadiana,ifanadiana,MG23206,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,13,,-21.071,47.611
-MG23207,2,Distrika,District,Nosy-Varika,Nosy-Varika,nosy-varika,MG23207,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,18,,-20.536,48.122
-MG23209,2,Distrika,District,Mananjary,Mananjary,mananjary,MG23209,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,29,,-21.236,48.106
-MG23210,2,Distrika,District,Manakara Atsimo,Manakara Atsimo,manakara-atsimo,MG23210,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,45,,-21.964,47.899
-MG23211,2,Distrika,District,Ikongo,Ikongo,ikongo,MG23211,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,15,,-21.855,47.392
-MG23212,2,Distrika,District,Vohipeno,Vohipeno,vohipeno,MG23212,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,19,,-22.341,47.683
-MG24,1,Faritra,Region,Ihorombe,Ihorombe,ihorombe,MG24,,,,,,3,26,,-22.634,46.085
-MG24216,2,Distrika,District,Ihosy,Ihosy,ihosy,MG24216,,MG24,Ihorombe,Ihorombe,,,19,,-22.367,45.85
-MG24218,2,Distrika,District,Ivohibe,Ivohibe,ivohibe,MG24218,,MG24,Ihorombe,Ihorombe,,,4,,-22.545,46.871
-MG24221,2,Distrika,District,Iakora,Iakora,iakora,MG24221,,MG24,Ihorombe,Ihorombe,,,3,,-23.157,46.601
-MG25,1,Faritra,Region,Atsimo Atsinanana,Atsimo Atsinanana,atsimo-atsinanana,MG25,,,,,,5,90,,-18.977,48.584
-MG25213,2,Distrika,District,Farafangana,Farafangana,farafangana,MG25213,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,32,,-22.832,47.652
-MG25214,2,Distrika,District,Vangaindrano,Vangaindrano,vangaindrano,MG25214,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,29,,-23.586,47.43
-MG25215,2,Distrika,District,Midongy-Atsimo,Midongy-Atsimo,midongy-atsimo,MG25215,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,6,,-23.354,46.978
-MG25217,2,Distrika,District,Vondrozo,Vondrozo,vondrozo,MG25217,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,16,,-22.691,47.308
-MG25222,2,Distrika,District,Befotaka,Befotaka,befotaka,MG25222,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,7,,-23.944,46.81
-MG31,1,Faritra,Region,Atsinanana,Atsinanana,atsinanana,MG31,,,,,,7,88,,-18.977,48.584
-MG31301,2,Distrika,District,Toamasina I,Toamasina I,toamasina-i,MG31301,,MG31,Atsinanana,Atsinanana,,,5,,-18.143,49.398
-MG31306,2,Distrika,District,Brickaville,Brickaville,brickaville,MG31306,,MG31,Atsinanana,Atsinanana,,,17,,-18.667,48.883
-MG31307,2,Distrika,District,Vatomandry,Vatomandry,vatomandry,MG31307,,MG31,Atsinanana,Atsinanana,,,19,,-19.365,48.771
-MG31308,2,Distrika,District,Mahanoro,Mahanoro,mahanoro,MG31308,,MG31,Atsinanana,Atsinanana,,,11,,-20.043,48.505
-MG31309,2,Distrika,District,Marolambo,Marolambo,marolambo,MG31309,,MG31,Atsinanana,Atsinanana,,,14,,-20.084,48.019
-MG31310,2,Distrika,District,Toamasina II,Toamasina II,toamasina-ii,MG31310,,MG31,Atsinanana,Atsinanana,,,17,,-18.014,49.089
-MG31311,2,Distrika,District,Antanambao Manampontsy,Antanambao Manampontsy,antanambao-manampontsy,MG31311,,MG31,Atsinanana,Atsinanana,,,5,,-19.564,48.461
-MG32,1,Faritra,Region,Analanjirofo,Analanjirofo,analanjirofo,MG32,,,,,,6,63,,-16.316,49.368
-MG32302,2,Distrika,District,Sainte Marie,Sainte Marie,sainte-marie,MG32302,,MG32,Analanjirofo,Analanjirofo,,,1,,-16.911,49.911
-MG32303,2,Distrika,District,Maroantsetra,Maroantsetra,maroantsetra,MG32303,,MG32,Analanjirofo,Analanjirofo,,,18,,-15.369,49.534
-MG32304,2,Distrika,District,Mananara-Avaratra,Mananara-Avaratra,mananara-avaratra,MG32304,,MG32,Analanjirofo,Analanjirofo,,,14,,-16.235,49.499
-MG32305,2,Distrika,District,Fenerive Est,Fenerive Est,fenerive-est,MG32305,,MG32,Analanjirofo,Analanjirofo,,,12,,-17.25,49.153
-MG32315,2,Distrika,District,Vavatenina,Vavatenina,vavatenina,MG32315,,MG32,Analanjirofo,Analanjirofo,,,10,,-17.472,49.006
-MG32318,2,Distrika,District,Soanierana Ivongo,Soanierana Ivongo,soanierana-ivongo,MG32318,,MG32,Analanjirofo,Analanjirofo,,,8,,-16.67,49.328
-MG33,1,Faritra,Region,Alaotra Mangoro,Alaotra Mangoro,alaotra-mangoro,MG33,,,,,,5,79,,-18.009,48.362
-MG33312,2,Distrika,District,Amparafaravola,Amparafaravola,amparafaravola,MG33312,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,20,,-17.461,48.415
-MG33313,2,Distrika,District,Ambatondrazaka,Ambatondrazaka,ambatondrazaka,MG33313,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,20,,-17.866,48.374
-MG33314,2,Distrika,District,Moramanga,Moramanga,moramanga,MG33314,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,21,,-18.729,48.305
-MG33316,2,Distrika,District,Andilamena,Andilamena,andilamena,MG33316,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,8,,-16.737,48.316
-MG33317,2,Distrika,District,Anosibe-An'ala,Anosibe-An'ala,anosibe-anala,MG33317,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,10,,-19.502,48.122
-MG41,1,Faritra,Region,Boeny,Boeny,boeny,MG41,,,,,,6,44,,-16.238,46.124
-MG41401,2,Distrika,District,Mahajanga I,Mahajanga I,mahajanga-i,MG41401,,MG41,Boeny,Boeny,,,2,,-15.68,46.344
-MG41403,2,Distrika,District,Soalala,Soalala,soalala,MG41403,,MG41,Boeny,Boeny,,,3,,-16.649,45.399
-MG41405,2,Distrika,District,Ambato Boeni,Ambato Boeni,ambato-boeni,MG41405,,MG41,Boeny,Boeny,,,11,,-16.718,46.558
-MG41406,2,Distrika,District,Marovoay,Marovoay,marovoay,MG41406,,MG41,Boeny,Boeny,,,12,,-16.229,46.657
-MG41407,2,Distrika,District,Mitsinjo,Mitsinjo,mitsinjo,MG41407,,MG41,Boeny,Boeny,,,7,,-16.15,45.933
-MG41415,2,Distrika,District,Mahajanga II,Mahajanga II,mahajanga-ii,MG41415,,MG41,Boeny,Boeny,,,9,,-15.594,46.739
-MG42,1,Faritra,Region,Sofia,Sofia,sofia,MG42,,,,,,7,108,,-15.282,48.244
-MG42409,2,Distrika,District,Port-Berge (Boriziny-Vaovao),Port-Berge (Boriziny-Vaovao),port-berge-boriziny-vaovao,MG42409,,MG42,Sofia,Sofia,,,15,,-15.801,47.723
-MG42410,2,Distrika,District,Mandritsara,Mandritsara,mandritsara,MG42410,,MG42,Sofia,Sofia,,,28,,-16.049,48.704
-MG42411,2,Distrika,District,Analalava,Analalava,analalava,MG42411,,MG42,Sofia,Sofia,,,13,,-14.668,47.764
-MG42412,2,Distrika,District,Befandriana Nord,Befandriana Nord,befandriana-nord,MG42412,,MG42,Sofia,Sofia,,,12,,-15.151,48.76
-MG42413,2,Distrika,District,Antsohihy,Antsohihy,antsohihy,MG42413,,MG42,Sofia,Sofia,,,12,,-14.972,48.077
-MG42414,2,Distrika,District,Bealanana,Bealanana,bealanana,MG42414,,MG42,Sofia,Sofia,,,18,,-14.561,48.883
-MG42423,2,Distrika,District,Mampikony,Mampikony,mampikony,MG42423,,MG42,Sofia,Sofia,,,10,,-16.182,47.697
-MG43,1,Faritra,Region,Betsiboka,Betsiboka,betsiboka,MG43,,,,,,3,35,,-17.095,46.846
-MG43404,2,Distrika,District,Maevatanana,Maevatanana,maevatanana,MG43404,,MG43,Betsiboka,Betsiboka,,,17,,-17.22,46.843
-MG43408,2,Distrika,District,Tsaratanana,Tsaratanana,tsaratanana,MG43408,,MG43,Betsiboka,Betsiboka,,,12,,-17.139,47.646
-MG43416,2,Distrika,District,Kandreho,Kandreho,kandreho,MG43416,,MG43,Betsiboka,Betsiboka,,,6,,-17.43,46.027
-MG44,1,Faritra,Region,Melaky,Melaky,melaky,MG44,,,,,,5,37,,-17.755,44.943
-MG44402,2,Distrika,District,Besalampy,Besalampy,besalampy,MG44402,,MG44,Melaky,Melaky,,,8,,-16.857,44.947
-MG44417,2,Distrika,District,Ambatomainty,Ambatomainty,ambatomainty,MG44417,,MG44,Melaky,Melaky,,,4,,-17.814,45.505
-MG44420,2,Distrika,District,Antsalova,Antsalova,antsalova,MG44420,,MG44,Melaky,Melaky,,,5,,-18.816,44.628
-MG44421,2,Distrika,District,Maintirano,Maintirano,maintirano,MG44421,,MG44,Melaky,Melaky,,,17,,-17.733,44.405
-MG44422,2,Distrika,District,Morafenobe,Morafenobe,morafenobe,MG44422,,MG44,Melaky,Melaky,,,3,,-17.912,45.014
-MG51,1,Faritra,Region,Atsimo Andrefana,Atsimo Andrefana,atsimo-andrefana,MG51,,,,,,9,110,,-18.977,48.584
-MG51501,2,Distrika,District,Toliary-I,Toliary-I,toliary-i,MG51501,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,6,,-23.343,43.659
-MG51503,2,Distrika,District,Beroroha,Beroroha,beroroha,MG51503,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,8,,-21.505,45.236
-MG51504,2,Distrika,District,Morombe,Morombe,morombe,MG51504,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,8,,-21.873,43.739
-MG51505,2,Distrika,District,Ankazoabo,Ankazoabo,ankazoabo,MG51505,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,6,,-22.132,44.7
-MG51506,2,Distrika,District,Betioky Atsimo,Betioky Atsimo,betioky-atsimo,MG51506,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,27,,-23.693,44.534
-MG51507,2,Distrika,District,Ampanihy Ouest,Ampanihy Ouest,ampanihy-ouest,MG51507,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,16,,-24.59,44.422
-MG51512,2,Distrika,District,Sakaraha,Sakaraha,sakaraha,MG51512,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,12,,-22.83,44.369
-MG51520,2,Distrika,District,Toliary-II,Toliary-II,toliary-ii,MG51520,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,23,,-23.281,43.808
-MG51521,2,Distrika,District,Benenitra,Benenitra,benenitra,MG51521,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,4,,-23.452,45.065
-MG52,1,Faritra,Region,Androy,Androy,androy,MG52,,,,,,4,51,,-24.687,45.392
-MG52513,2,Distrika,District,Beloha,Beloha,beloha,MG52513,,MG52,Androy,Androy,,,6,,-25.05,44.938
-MG52514,2,Distrika,District,Tsihombe,Tsihombe,tsihombe,MG52514,,MG52,Androy,Androy,,,7,,-25.344,45.472
-MG52516,2,Distrika,District,Ambovombe-Androy,Ambovombe-Androy,ambovombe-androy,MG52516,,MG52,Androy,Androy,,,19,,-24.799,45.796
-MG52518,2,Distrika,District,Bekily,Bekily,bekily,MG52518,,MG52,Androy,Androy,,,19,,-24.27,45.444
-MG53,1,Faritra,Region,Anosy,Anosy,anosy,MG53,,,,,,3,64,,-23.937,46.309
-MG53515,2,Distrika,District,Taolagnaro,Taolagnaro,taolagnaro,MG53515,,MG53,Anosy,Anosy,,,27,,-24.588,46.948
-MG53517,2,Distrika,District,Betroka,Betroka,betroka,MG53517,,MG53,Anosy,Anosy,,,21,,-23.412,45.85
-MG53519,2,Distrika,District,Amboasary-Atsimo,Amboasary-Atsimo,amboasary-atsimo,MG53519,,MG53,Anosy,Anosy,,,16,,-24.509,46.357
-MG54,1,Faritra,Region,Menabe,Menabe,menabe,MG54,,,,,,5,51,,-20.036,44.701
-MG54502,2,Distrika,District,Manja,Manja,manja,MG54502,,MG54,Menabe,Menabe,,,6,,-21.407,44.152
-MG54508,2,Distrika,District,Morondava,Morondava,morondava,MG54508,,MG54,Menabe,Menabe,,,5,,-20.514,44.347
-MG54509,2,Distrika,District,Mahabo,Mahabo,mahabo,MG54509,,MG54,Menabe,Menabe,,,11,,-20.687,45.186
-MG54510,2,Distrika,District,Belo Sur Tsiribihina,Belo Sur Tsiribihina,belo-sur-tsiribihina,MG54510,,MG54,Menabe,Menabe,,,14,,-19.66,44.791
-MG54511,2,Distrika,District,Miandrivazo,Miandrivazo,miandrivazo,MG54511,,MG54,Menabe,Menabe,,,15,,-19.207,45.321
-MG71,1,Faritra,Region,Diana,Diana,diana,MG71,,,,,,5,65,,-13.109,48.762
-MG71713,2,Distrika,District,Antsiranana II,Antsiranana II,antsiranana-ii,MG71713,,MG71,Diana,Diana,,,21,,-12.498,49.164
-MG71715,2,Distrika,District,Antsiranana I,Antsiranana I,antsiranana-i,MG71715,,MG71,Diana,Diana,,,1,,-12.291,49.265
-MG71717,2,Distrika,District,Ambilobe,Ambilobe,ambilobe,MG71717,,MG71,Diana,Diana,,,15,,-13.513,49.008
-MG71718,2,Distrika,District,Nosy-Be,Nosy-Be,nosy-be,MG71718,,MG71,Diana,Diana,,,5,,-13.349,48.26
-MG71719,2,Distrika,District,Ambanja,Ambanja,ambanja,MG71719,,MG71,Diana,Diana,,,23,,-13.784,48.375
-MG72,1,Faritra,Region,Sava,Sava,sava,MG72,,,,,,4,79,,-14.368,49.775
-MG72710,2,Distrika,District,Antalaha,Antalaha,antalaha,MG72710,,MG72,Sava,Sava,,,16,,-15.259,50.137
-MG72711,2,Distrika,District,Sambava,Sambava,sambava,MG72711,,MG72,Sava,Sava,,,26,,-14.245,49.675
-MG72712,2,Distrika,District,Andapa,Andapa,andapa,MG72712,,MG72,Sava,Sava,,,18,,-14.613,49.497
-MG72716,2,Distrika,District,Vohemar,Vohemar,vohemar,MG72716,,MG72,Sava,Sava,,,19,,-13.453,49.733
+# Data from Open Admin Data (https://openadmindata.org/mg/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/madagascar-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.region,children_count.district,children_count.commune,zip_codes,geo.lat,geo.lon,source_url
+MG11,1,Faritra,Region,Analamanga,Analamanga,analamanga,MG11,,,,,,13,139,,-18.604,47.292,https://openadmindata.org/mg/regions/analamanga/
+MG11101001A,2,Distrika,District,1er Arrondissement,1er Arrondissement,1er-arrondissement,MG11101001A,,MG11,Analamanga,Analamanga,,,1,,-18.904,47.512,
+MG11101002A,2,Distrika,District,2e Arrondissement,2e Arrondissement,2e-arrondissement,MG11101002A,,MG11,Analamanga,Analamanga,,,1,,-18.933,47.551,
+MG11101003A,2,Distrika,District,3e Arrondissement,3e Arrondissement,3e-arrondissement,MG11101003A,,MG11,Analamanga,Analamanga,,,1,,-18.895,47.529,
+MG11101004A,2,Distrika,District,4e Arrondissement,4e Arrondissement,4e-arrondissement,MG11101004A,,MG11,Analamanga,Analamanga,,,1,,-18.933,47.515,
+MG11101005A,2,Distrika,District,5e Arrondissement,5e Arrondissement,5e-arrondissement,MG11101005A,,MG11,Analamanga,Analamanga,,,1,,-18.882,47.54,
+MG11101006A,2,Distrika,District,6e Arrondissement,6e Arrondissement,6e-arrondissement,MG11101006A,,MG11,Analamanga,Analamanga,,,1,,-18.868,47.493,
+MG11102,2,Distrika,District,Antananarivo Avaradrano,Antananarivo Avaradrano,antananarivo-avaradrano,MG11102,,MG11,Analamanga,Analamanga,,,14,,-18.918,47.625,
+MG11103,2,Distrika,District,Ambohidratrimo,Ambohidratrimo,ambohidratrimo,MG11103,,MG11,Analamanga,Analamanga,,,25,,-18.676,47.417,
+MG11104,2,Distrika,District,Ankazobe,Ankazobe,ankazobe,MG11104,,MG11,Analamanga,Analamanga,,,13,,-18.235,47.004,
+MG11106,2,Distrika,District,Manjakandriana,Manjakandriana,manjakandriana,MG11106,,MG11,Analamanga,Analamanga,,,25,,-18.821,47.772,
+MG11107,2,Distrika,District,Anjozorobe,Anjozorobe,anjozorobe,MG11107,,MG11,Analamanga,Analamanga,,,18,,-18.198,47.724,
+MG11115,2,Distrika,District,Andramasina,Andramasina,andramasina,MG11115,,MG11,Analamanga,Analamanga,,,12,,-19.337,47.731,
+MG11117,2,Distrika,District,Antananarivo Atsimondrano,Antananarivo Atsimondrano,antananarivo-atsimondrano,MG11117,,MG11,Analamanga,Analamanga,,,26,,-19.01,47.52,
+MG12,1,Faritra,Region,Vakinankaratra,Vakinankaratra,vakinankaratra,MG12,,,,,,7,91,,-19.709,46.814,https://openadmindata.org/mg/regions/vakinankaratra/
+MG12108,2,Distrika,District,Antsirabe I,Antsirabe I,antsirabe-i,MG12108,,MG12,Vakinankaratra,Vakinankaratra,,,6,,-19.882,47.031,
+MG12109,2,Distrika,District,Betafo,Betafo,betafo,MG12109,,MG12,Vakinankaratra,Vakinankaratra,,,18,,-19.892,46.626,
+MG12110,2,Distrika,District,Ambatolampy,Ambatolampy,ambatolampy,MG12110,,MG12,Vakinankaratra,Vakinankaratra,,,18,,-19.422,47.54,
+MG12114,2,Distrika,District,Antanifotsy,Antanifotsy,antanifotsy,MG12114,,MG12,Vakinankaratra,Vakinankaratra,,,12,,-19.75,47.533,
+MG12116,2,Distrika,District,Faratsiho,Faratsiho,faratsiho,MG12116,,MG12,Vakinankaratra,Vakinankaratra,,,9,,-19.419,46.893,
+MG12118,2,Distrika,District,Antsirabe II,Antsirabe II,antsirabe-ii,MG12118,,MG12,Vakinankaratra,Vakinankaratra,,,20,,-19.841,47.204,
+MG12120,2,Distrika,District,Mandoto,Mandoto,mandoto,MG12120,,MG12,Vakinankaratra,Vakinankaratra,,,8,,-19.727,46.227,
+MG13,1,Faritra,Region,Itasy,Itasy,itasy,MG13,,,,,,3,51,,-19.056,46.833,https://openadmindata.org/mg/regions/itasy/
+MG13105,2,Distrika,District,Arivonimamo,Arivonimamo,arivonimamo,MG13105,,MG13,Itasy,Itasy,,,22,,-19.045,47.248,
+MG13112,2,Distrika,District,Miarinarivo,Miarinarivo,miarinarivo,MG13112,,MG13,Itasy,Itasy,,,14,,-18.928,46.805,
+MG13113,2,Distrika,District,Soavinandriana,Soavinandriana,soavinandriana,MG13113,,MG13,Itasy,Itasy,,,15,,-19.219,46.544,
+MG14,1,Faritra,Region,Bongolava,Bongolava,bongolava,MG14,,,,,,2,26,,-18.592,46.303,https://openadmindata.org/mg/regions/bongolava/
+MG14111,2,Distrika,District,Tsiroanomandidy,Tsiroanomandidy,tsiroanomandidy,MG14111,,MG14,Bongolava,Bongolava,,,18,,-18.728,46.021,
+MG14119,2,Distrika,District,Fenoarivobe,Fenoarivobe,fenoarivobe,MG14119,,MG14,Bongolava,Bongolava,,,8,,-18.242,46.41,
+MG21,1,Faritra,Region,Haute Matsiatra,Haute Matsiatra,haute-matsiatra,MG21,,,,,,7,88,,,,https://openadmindata.org/mg/regions/haute-matsiatra/
+MG21201,2,Distrika,District,Fianarantsoa I,Fianarantsoa I,fianarantsoa-i,MG21201,,MG21,Haute Matsiatra,Haute Matsiatra,,,7,,-21.454,47.087,
+MG21205,2,Distrika,District,Ambalavao,Ambalavao,ambalavao,MG21205,,MG21,Haute Matsiatra,Haute Matsiatra,,,17,,-21.841,46.737,
+MG21208,2,Distrika,District,Ambohimahasoa,Ambohimahasoa,ambohimahasoa,MG21208,,MG21,Haute Matsiatra,Haute Matsiatra,,,18,,-21.056,47.146,
+MG21219,2,Distrika,District,Ikalamavony,Ikalamavony,ikalamavony,MG21219,,MG21,Haute Matsiatra,Haute Matsiatra,,,8,,-21.226,46.204,
+MG21220,2,Distrika,District,Lalangina,Lalangina,lalangina,MG21220,,MG21,Haute Matsiatra,Haute Matsiatra,,,13,,-21.414,47.248,
+MG21224,2,Distrika,District,Vohibato,Vohibato,vohibato,MG21224,,MG21,Haute Matsiatra,Haute Matsiatra,,,14,,-21.673,47.053,
+MG21225,2,Distrika,District,Isandra,Isandra,isandra,MG21225,,MG21,Haute Matsiatra,Haute Matsiatra,,,11,,-21.25,46.909,
+MG22,1,Faritra,Region,Amoron I Mania,Amoron I Mania,amoron-i-mania,MG22,,,,,,4,55,,-20.459,46.756,https://openadmindata.org/mg/regions/amoron-i-mania/
+MG22202,2,Distrika,District,Ambatofinandrahana,Ambatofinandrahana,ambatofinandrahana,MG22202,,MG22,Amoron I Mania,Amoron I Mania,,,9,,-20.456,46.392,
+MG22203,2,Distrika,District,Ambositra,Ambositra,ambositra,MG22203,,MG22,Amoron I Mania,Amoron I Mania,,,23,,-20.561,47.323,
+MG22204,2,Distrika,District,Fandriana,Fandriana,fandriana,MG22204,,MG22,Amoron I Mania,Amoron I Mania,,,13,,-20.289,47.446,
+MG22223,2,Distrika,District,Manandriana,Manandriana,manandriana,MG22223,,MG22,Amoron I Mania,Amoron I Mania,,,10,,-20.748,47.013,
+MG23,1,Faritra,Region,Vatovavy Fitovinany,Vatovavy Fitovinany,vatovavy-fitovinany,MG23,,,,,,6,139,,-21.287,47.832,https://openadmindata.org/mg/regions/vatovavy-fitovinany/
+MG23206,2,Distrika,District,Ifanadiana,Ifanadiana,ifanadiana,MG23206,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,13,,-21.071,47.611,
+MG23207,2,Distrika,District,Nosy-Varika,Nosy-Varika,nosy-varika,MG23207,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,18,,-20.536,48.122,
+MG23209,2,Distrika,District,Mananjary,Mananjary,mananjary,MG23209,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,29,,-21.236,48.106,
+MG23210,2,Distrika,District,Manakara Atsimo,Manakara Atsimo,manakara-atsimo,MG23210,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,45,,-21.964,47.899,
+MG23211,2,Distrika,District,Ikongo,Ikongo,ikongo,MG23211,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,15,,-21.855,47.392,
+MG23212,2,Distrika,District,Vohipeno,Vohipeno,vohipeno,MG23212,,MG23,Vatovavy Fitovinany,Vatovavy Fitovinany,,,19,,-22.341,47.683,
+MG24,1,Faritra,Region,Ihorombe,Ihorombe,ihorombe,MG24,,,,,,3,26,,-22.634,46.085,https://openadmindata.org/mg/regions/ihorombe/
+MG24216,2,Distrika,District,Ihosy,Ihosy,ihosy,MG24216,,MG24,Ihorombe,Ihorombe,,,19,,-22.367,45.85,
+MG24218,2,Distrika,District,Ivohibe,Ivohibe,ivohibe,MG24218,,MG24,Ihorombe,Ihorombe,,,4,,-22.545,46.871,
+MG24221,2,Distrika,District,Iakora,Iakora,iakora,MG24221,,MG24,Ihorombe,Ihorombe,,,3,,-23.157,46.601,
+MG25,1,Faritra,Region,Atsimo Atsinanana,Atsimo Atsinanana,atsimo-atsinanana,MG25,,,,,,5,90,,-18.977,48.584,https://openadmindata.org/mg/regions/atsimo-atsinanana/
+MG25213,2,Distrika,District,Farafangana,Farafangana,farafangana,MG25213,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,32,,-22.832,47.652,
+MG25214,2,Distrika,District,Vangaindrano,Vangaindrano,vangaindrano,MG25214,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,29,,-23.586,47.43,
+MG25215,2,Distrika,District,Midongy-Atsimo,Midongy-Atsimo,midongy-atsimo,MG25215,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,6,,-23.354,46.978,
+MG25217,2,Distrika,District,Vondrozo,Vondrozo,vondrozo,MG25217,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,16,,-22.691,47.308,
+MG25222,2,Distrika,District,Befotaka,Befotaka,befotaka,MG25222,,MG25,Atsimo Atsinanana,Atsimo Atsinanana,,,7,,-23.944,46.81,
+MG31,1,Faritra,Region,Atsinanana,Atsinanana,atsinanana,MG31,,,,,,7,88,,-18.977,48.584,https://openadmindata.org/mg/regions/atsinanana/
+MG31301,2,Distrika,District,Toamasina I,Toamasina I,toamasina-i,MG31301,,MG31,Atsinanana,Atsinanana,,,5,,-18.143,49.398,
+MG31306,2,Distrika,District,Brickaville,Brickaville,brickaville,MG31306,,MG31,Atsinanana,Atsinanana,,,17,,-18.667,48.883,
+MG31307,2,Distrika,District,Vatomandry,Vatomandry,vatomandry,MG31307,,MG31,Atsinanana,Atsinanana,,,19,,-19.365,48.771,
+MG31308,2,Distrika,District,Mahanoro,Mahanoro,mahanoro,MG31308,,MG31,Atsinanana,Atsinanana,,,11,,-20.043,48.505,
+MG31309,2,Distrika,District,Marolambo,Marolambo,marolambo,MG31309,,MG31,Atsinanana,Atsinanana,,,14,,-20.084,48.019,
+MG31310,2,Distrika,District,Toamasina II,Toamasina II,toamasina-ii,MG31310,,MG31,Atsinanana,Atsinanana,,,17,,-18.014,49.089,
+MG31311,2,Distrika,District,Antanambao Manampontsy,Antanambao Manampontsy,antanambao-manampontsy,MG31311,,MG31,Atsinanana,Atsinanana,,,5,,-19.564,48.461,
+MG32,1,Faritra,Region,Analanjirofo,Analanjirofo,analanjirofo,MG32,,,,,,6,63,,-16.316,49.368,https://openadmindata.org/mg/regions/analanjirofo/
+MG32302,2,Distrika,District,Sainte Marie,Sainte Marie,sainte-marie,MG32302,,MG32,Analanjirofo,Analanjirofo,,,1,,-16.911,49.911,
+MG32303,2,Distrika,District,Maroantsetra,Maroantsetra,maroantsetra,MG32303,,MG32,Analanjirofo,Analanjirofo,,,18,,-15.369,49.534,
+MG32304,2,Distrika,District,Mananara-Avaratra,Mananara-Avaratra,mananara-avaratra,MG32304,,MG32,Analanjirofo,Analanjirofo,,,14,,-16.235,49.499,
+MG32305,2,Distrika,District,Fenerive Est,Fenerive Est,fenerive-est,MG32305,,MG32,Analanjirofo,Analanjirofo,,,12,,-17.25,49.153,
+MG32315,2,Distrika,District,Vavatenina,Vavatenina,vavatenina,MG32315,,MG32,Analanjirofo,Analanjirofo,,,10,,-17.472,49.006,
+MG32318,2,Distrika,District,Soanierana Ivongo,Soanierana Ivongo,soanierana-ivongo,MG32318,,MG32,Analanjirofo,Analanjirofo,,,8,,-16.67,49.328,
+MG33,1,Faritra,Region,Alaotra Mangoro,Alaotra Mangoro,alaotra-mangoro,MG33,,,,,,5,79,,-18.009,48.362,https://openadmindata.org/mg/regions/alaotra-mangoro/
+MG33312,2,Distrika,District,Amparafaravola,Amparafaravola,amparafaravola,MG33312,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,20,,-17.461,48.415,
+MG33313,2,Distrika,District,Ambatondrazaka,Ambatondrazaka,ambatondrazaka,MG33313,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,20,,-17.866,48.374,
+MG33314,2,Distrika,District,Moramanga,Moramanga,moramanga,MG33314,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,21,,-18.729,48.305,
+MG33316,2,Distrika,District,Andilamena,Andilamena,andilamena,MG33316,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,8,,-16.737,48.316,
+MG33317,2,Distrika,District,Anosibe-An'ala,Anosibe-An'ala,anosibe-anala,MG33317,,MG33,Alaotra Mangoro,Alaotra Mangoro,,,10,,-19.502,48.122,
+MG41,1,Faritra,Region,Boeny,Boeny,boeny,MG41,,,,,,6,44,,-16.238,46.124,https://openadmindata.org/mg/regions/boeny/
+MG41401,2,Distrika,District,Mahajanga I,Mahajanga I,mahajanga-i,MG41401,,MG41,Boeny,Boeny,,,2,,-15.68,46.344,
+MG41403,2,Distrika,District,Soalala,Soalala,soalala,MG41403,,MG41,Boeny,Boeny,,,3,,-16.649,45.399,
+MG41405,2,Distrika,District,Ambato Boeni,Ambato Boeni,ambato-boeni,MG41405,,MG41,Boeny,Boeny,,,11,,-16.718,46.558,
+MG41406,2,Distrika,District,Marovoay,Marovoay,marovoay,MG41406,,MG41,Boeny,Boeny,,,12,,-16.229,46.657,
+MG41407,2,Distrika,District,Mitsinjo,Mitsinjo,mitsinjo,MG41407,,MG41,Boeny,Boeny,,,7,,-16.15,45.933,
+MG41415,2,Distrika,District,Mahajanga II,Mahajanga II,mahajanga-ii,MG41415,,MG41,Boeny,Boeny,,,9,,-15.594,46.739,
+MG42,1,Faritra,Region,Sofia,Sofia,sofia,MG42,,,,,,7,108,,-15.282,48.244,https://openadmindata.org/mg/regions/sofia/
+MG42409,2,Distrika,District,Port-Berge (Boriziny-Vaovao),Port-Berge (Boriziny-Vaovao),port-berge-boriziny-vaovao,MG42409,,MG42,Sofia,Sofia,,,15,,-15.801,47.723,
+MG42410,2,Distrika,District,Mandritsara,Mandritsara,mandritsara,MG42410,,MG42,Sofia,Sofia,,,28,,-16.049,48.704,
+MG42411,2,Distrika,District,Analalava,Analalava,analalava,MG42411,,MG42,Sofia,Sofia,,,13,,-14.668,47.764,
+MG42412,2,Distrika,District,Befandriana Nord,Befandriana Nord,befandriana-nord,MG42412,,MG42,Sofia,Sofia,,,12,,-15.151,48.76,
+MG42413,2,Distrika,District,Antsohihy,Antsohihy,antsohihy,MG42413,,MG42,Sofia,Sofia,,,12,,-14.972,48.077,
+MG42414,2,Distrika,District,Bealanana,Bealanana,bealanana,MG42414,,MG42,Sofia,Sofia,,,18,,-14.561,48.883,
+MG42423,2,Distrika,District,Mampikony,Mampikony,mampikony,MG42423,,MG42,Sofia,Sofia,,,10,,-16.182,47.697,
+MG43,1,Faritra,Region,Betsiboka,Betsiboka,betsiboka,MG43,,,,,,3,35,,-17.095,46.846,https://openadmindata.org/mg/regions/betsiboka/
+MG43404,2,Distrika,District,Maevatanana,Maevatanana,maevatanana,MG43404,,MG43,Betsiboka,Betsiboka,,,17,,-17.22,46.843,
+MG43408,2,Distrika,District,Tsaratanana,Tsaratanana,tsaratanana,MG43408,,MG43,Betsiboka,Betsiboka,,,12,,-17.139,47.646,
+MG43416,2,Distrika,District,Kandreho,Kandreho,kandreho,MG43416,,MG43,Betsiboka,Betsiboka,,,6,,-17.43,46.027,
+MG44,1,Faritra,Region,Melaky,Melaky,melaky,MG44,,,,,,5,37,,-17.755,44.943,https://openadmindata.org/mg/regions/melaky/
+MG44402,2,Distrika,District,Besalampy,Besalampy,besalampy,MG44402,,MG44,Melaky,Melaky,,,8,,-16.857,44.947,
+MG44417,2,Distrika,District,Ambatomainty,Ambatomainty,ambatomainty,MG44417,,MG44,Melaky,Melaky,,,4,,-17.814,45.505,
+MG44420,2,Distrika,District,Antsalova,Antsalova,antsalova,MG44420,,MG44,Melaky,Melaky,,,5,,-18.816,44.628,
+MG44421,2,Distrika,District,Maintirano,Maintirano,maintirano,MG44421,,MG44,Melaky,Melaky,,,17,,-17.733,44.405,
+MG44422,2,Distrika,District,Morafenobe,Morafenobe,morafenobe,MG44422,,MG44,Melaky,Melaky,,,3,,-17.912,45.014,
+MG51,1,Faritra,Region,Atsimo Andrefana,Atsimo Andrefana,atsimo-andrefana,MG51,,,,,,9,110,,-18.977,48.584,https://openadmindata.org/mg/regions/atsimo-andrefana/
+MG51501,2,Distrika,District,Toliary-I,Toliary-I,toliary-i,MG51501,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,6,,-23.343,43.659,
+MG51503,2,Distrika,District,Beroroha,Beroroha,beroroha,MG51503,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,8,,-21.505,45.236,
+MG51504,2,Distrika,District,Morombe,Morombe,morombe,MG51504,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,8,,-21.873,43.739,
+MG51505,2,Distrika,District,Ankazoabo,Ankazoabo,ankazoabo,MG51505,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,6,,-22.132,44.7,
+MG51506,2,Distrika,District,Betioky Atsimo,Betioky Atsimo,betioky-atsimo,MG51506,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,27,,-23.693,44.534,
+MG51507,2,Distrika,District,Ampanihy Ouest,Ampanihy Ouest,ampanihy-ouest,MG51507,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,16,,-24.59,44.422,
+MG51512,2,Distrika,District,Sakaraha,Sakaraha,sakaraha,MG51512,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,12,,-22.83,44.369,
+MG51520,2,Distrika,District,Toliary-II,Toliary-II,toliary-ii,MG51520,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,23,,-23.281,43.808,
+MG51521,2,Distrika,District,Benenitra,Benenitra,benenitra,MG51521,,MG51,Atsimo Andrefana,Atsimo Andrefana,,,4,,-23.452,45.065,
+MG52,1,Faritra,Region,Androy,Androy,androy,MG52,,,,,,4,51,,-24.687,45.392,https://openadmindata.org/mg/regions/androy/
+MG52513,2,Distrika,District,Beloha,Beloha,beloha,MG52513,,MG52,Androy,Androy,,,6,,-25.05,44.938,
+MG52514,2,Distrika,District,Tsihombe,Tsihombe,tsihombe,MG52514,,MG52,Androy,Androy,,,7,,-25.344,45.472,
+MG52516,2,Distrika,District,Ambovombe-Androy,Ambovombe-Androy,ambovombe-androy,MG52516,,MG52,Androy,Androy,,,19,,-24.799,45.796,
+MG52518,2,Distrika,District,Bekily,Bekily,bekily,MG52518,,MG52,Androy,Androy,,,19,,-24.27,45.444,
+MG53,1,Faritra,Region,Anosy,Anosy,anosy,MG53,,,,,,3,64,,-23.937,46.309,https://openadmindata.org/mg/regions/anosy/
+MG53515,2,Distrika,District,Taolagnaro,Taolagnaro,taolagnaro,MG53515,,MG53,Anosy,Anosy,,,27,,-24.588,46.948,
+MG53517,2,Distrika,District,Betroka,Betroka,betroka,MG53517,,MG53,Anosy,Anosy,,,21,,-23.412,45.85,
+MG53519,2,Distrika,District,Amboasary-Atsimo,Amboasary-Atsimo,amboasary-atsimo,MG53519,,MG53,Anosy,Anosy,,,16,,-24.509,46.357,
+MG54,1,Faritra,Region,Menabe,Menabe,menabe,MG54,,,,,,5,51,,-20.036,44.701,https://openadmindata.org/mg/regions/menabe/
+MG54502,2,Distrika,District,Manja,Manja,manja,MG54502,,MG54,Menabe,Menabe,,,6,,-21.407,44.152,
+MG54508,2,Distrika,District,Morondava,Morondava,morondava,MG54508,,MG54,Menabe,Menabe,,,5,,-20.514,44.347,
+MG54509,2,Distrika,District,Mahabo,Mahabo,mahabo,MG54509,,MG54,Menabe,Menabe,,,11,,-20.687,45.186,
+MG54510,2,Distrika,District,Belo Sur Tsiribihina,Belo Sur Tsiribihina,belo-sur-tsiribihina,MG54510,,MG54,Menabe,Menabe,,,14,,-19.66,44.791,
+MG54511,2,Distrika,District,Miandrivazo,Miandrivazo,miandrivazo,MG54511,,MG54,Menabe,Menabe,,,15,,-19.207,45.321,
+MG71,1,Faritra,Region,Diana,Diana,diana,MG71,,,,,,5,65,,-13.109,48.762,https://openadmindata.org/mg/regions/diana/
+MG71713,2,Distrika,District,Antsiranana II,Antsiranana II,antsiranana-ii,MG71713,,MG71,Diana,Diana,,,21,,-12.498,49.164,
+MG71715,2,Distrika,District,Antsiranana I,Antsiranana I,antsiranana-i,MG71715,,MG71,Diana,Diana,,,1,,-12.291,49.265,
+MG71717,2,Distrika,District,Ambilobe,Ambilobe,ambilobe,MG71717,,MG71,Diana,Diana,,,15,,-13.513,49.008,
+MG71718,2,Distrika,District,Nosy-Be,Nosy-Be,nosy-be,MG71718,,MG71,Diana,Diana,,,5,,-13.349,48.26,
+MG71719,2,Distrika,District,Ambanja,Ambanja,ambanja,MG71719,,MG71,Diana,Diana,,,23,,-13.784,48.375,
+MG72,1,Faritra,Region,Sava,Sava,sava,MG72,,,,,,4,79,,-14.368,49.775,https://openadmindata.org/mg/regions/sava/
+MG72710,2,Distrika,District,Antalaha,Antalaha,antalaha,MG72710,,MG72,Sava,Sava,,,16,,-15.259,50.137,
+MG72711,2,Distrika,District,Sambava,Sambava,sambava,MG72711,,MG72,Sava,Sava,,,26,,-14.245,49.675,
+MG72712,2,Distrika,District,Andapa,Andapa,andapa,MG72712,,MG72,Sava,Sava,,,18,,-14.613,49.497,
+MG72716,2,Distrika,District,Vohemar,Vohemar,vohemar,MG72716,,MG72,Sava,Sava,,,19,,-13.453,49.733,

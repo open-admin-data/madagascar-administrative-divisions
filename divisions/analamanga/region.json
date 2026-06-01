@@ -26,5 +26,9 @@
     "lon": "47.292"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/analamanga/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

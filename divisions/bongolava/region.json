@@ -26,5 +26,9 @@
     "lon": "46.303"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/bongolava/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }

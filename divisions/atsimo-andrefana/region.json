@@ -26,5 +26,9 @@
     "lon": "48.584"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/mg/regions/atsimo-andrefana/",
+    "api": "https://openadmindata.org/api/mg/"
+  }
 }
