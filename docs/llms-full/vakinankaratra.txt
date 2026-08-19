@@ -3,7 +3,7 @@
 > 7 districts, 91 communes
 > Code: MG12
 > Coordinates: -19.709, 46.814
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

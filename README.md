@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-06-01 |
+| Last Updated | 2026-08-19 |
 | Website | [openadmindata.org/mg](https://openadmindata.org/mg/) |
 | API | [openadmindata.org/api/mg](https://openadmindata.org/api/mg/) |
+| National Anthem | [🎵 Listen & Download Madagascar National Anthem MP3](https://onlygames.me/national-anthems/mg/) |
 
 ## Browse by Region
 

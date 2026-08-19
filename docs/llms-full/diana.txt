@@ -3,7 +3,7 @@
 > 5 districts, 65 communes
 > Code: MG71
 > Coordinates: -13.109, 48.762
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 
