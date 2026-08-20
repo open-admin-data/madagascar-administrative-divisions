@@ -3,7 +3,7 @@
 > 5 districts, 51 communes
 > Code: MG54
 > Coordinates: -20.036, 44.701
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

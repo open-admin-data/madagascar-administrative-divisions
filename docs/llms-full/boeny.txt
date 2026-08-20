@@ -3,7 +3,7 @@
 > 6 districts, 44 communes
 > Code: MG41
 > Coordinates: -16.238, 46.124
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 

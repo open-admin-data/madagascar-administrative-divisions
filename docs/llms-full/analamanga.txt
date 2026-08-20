@@ -3,7 +3,7 @@
 > 13 districts, 139 communes
 > Code: MG11
 > Coordinates: -18.604, 47.292
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Districts
 
