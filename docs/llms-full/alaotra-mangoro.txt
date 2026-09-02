@@ -3,7 +3,7 @@
 > 5 districts, 79 communes
 > Code: MG33
 > Coordinates: -18.009, 48.362
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 

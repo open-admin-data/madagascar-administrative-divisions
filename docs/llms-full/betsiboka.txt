@@ -3,7 +3,7 @@
 > 3 districts, 35 communes
 > Code: MG43
 > Coordinates: -17.095, 46.846
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
